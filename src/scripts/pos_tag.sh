@@ -1,0 +1,1 @@
+./src/scripts/invoke.pl -Xmx10000M  GroundingPOSTagger --taggerModel data/cobot/pos_models/english-bidirectional-distsim.tagger

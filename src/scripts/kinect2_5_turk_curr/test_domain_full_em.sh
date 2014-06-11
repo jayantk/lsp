@@ -1,0 +1,1 @@
+./src/scripts/invoke.pl -Djava.library.path=/usr/local/ilog/cplex100/bin/x86-64_rhel4.0_3.4/ GroundingModelEvaluator --domainDir data/cobot/set/kinect2_5_turk_curr/testing/ --modelFilename image_grounding_model_full_em.ser -testOnTraining --generative

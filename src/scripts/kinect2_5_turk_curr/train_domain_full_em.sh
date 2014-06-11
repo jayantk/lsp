@@ -1,0 +1,1 @@
+./src/scripts/invoke.pl -Xmx30000M -Djava.library.path=/usr/local/ilog/cplex100/bin/x86-64_rhel4.0_3.4/ GroundingModelEmTrainer --domainDir data/cobot/set/kinect2_5_turk_curr/training/ --lexicon data/cobot/set/kinect2_5_turk_curr/training/lexicon.txt --iterations 10 --modelFilename image_grounding_model_full_em.ser --skipUnparseable $@

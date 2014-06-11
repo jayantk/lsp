@@ -1,0 +1,1 @@
+./src/scripts/invoke.pl -Djava.library.path=/usr/local/ilog/cplex100/bin/x86-64_rhel4.0_3.4/ GroundingModelEvaluator --domainDir data/cobot/set/language_geography/small_domains/ -useIlp -modelFilename $1 $2

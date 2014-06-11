@@ -1,0 +1,149 @@
+package edu.cmu.ml.rtw.users.jayantk.grounding;
+
+import java.io.Serializable;
+import java.util.List;
+
+import com.google.common.collect.Lists;
+import com.jayantkrish.jklol.cfg.ParametricCfgFactor;
+import com.jayantkrish.jklol.cfg.ParseTree;
+import com.jayantkrish.jklol.evaluation.Example;
+import com.jayantkrish.jklol.inference.JunctionTree;
+import com.jayantkrish.jklol.models.ObjectVariable;
+import com.jayantkrish.jklol.models.VariableNumMap;
+import com.jayantkrish.jklol.models.dynamic.DynamicFactorGraph;
+import com.jayantkrish.jklol.models.dynamic.WrapperVariablePattern;
+import com.jayantkrish.jklol.models.loglinear.DiscreteLogLinearFactor;
+import com.jayantkrish.jklol.models.parametric.ParametricFactorGraph;
+import com.jayantkrish.jklol.models.parametric.ParametricFactorGraphBuilder;
+import com.jayantkrish.jklol.models.parametric.SufficientStatistics;
+import com.jayantkrish.jklol.tensor.Tensor;
+import com.jayantkrish.jklol.training.DefaultLogFunction;
+import com.jayantkrish.jklol.training.EmOracle;
+import com.jayantkrish.jklol.training.GradientOracle;
+import com.jayantkrish.jklol.training.LogFunction;
+import com.jayantkrish.jklol.training.LoglikelihoodOracle;
+import com.jayantkrish.jklol.training.OracleAdapter;
+import com.jayantkrish.jklol.training.StochasticGradientTrainer;
+import com.jayantkrish.jklol.util.Assignment;
+import com.jayantkrish.jklol.util.IndexedList;
+
+import edu.cmu.ml.rtw.users.jayantk.grounding.GroundingModelEmOracle.GroundingExpectation;
+import edu.cmu.ml.rtw.users.jayantk.grounding.GroundingModelInference.GroundingInference;
+
+public class GroundingModelEmOracle implements EmOracle<GroundingModel, GroundingExample, GroundingExpectation>, Serializable {
+  
+  private final GroundingModelFamily family;
+  private final GroundingModelInference inferenceAlgorithm;
+  private final List<Domain> domains;
+  private final IndexedList<String> domainNames;
+
+  @Override
+  public GroundingModel instantiateModel(SufficientStatistics parameters) {
+    return family.instantiateModel(parameters);
+  }
+
+  @Override
+  public GroundingExpectation computeExpectations(GroundingModel model, GroundingExample example, LogFunction log) {
+    Domain domain = domains.get(domainNames.getIndex(example.getDomainName()));
+    
+    if (!example.hasObservedRelation()) {
+      List<String> parserInput = example.getWords();
+      // These weights enforce that the output must agree with the given grounding
+      // by assigning -infty weight to all other assignments.
+      Tensor expectedGroundingWeights = example.getGrounding().elementwiseLog();
+      GroundingInference inferenceResult = inferenceAlgorithm.getConditionalPrediction(
+          model, domain, parserInput, expectedGroundingWeights);
+      
+      return new GroundingExpectation(inferenceResult.getBestParse(), inferenceResult.getBestQuery(),
+          inferenceResult.getBestAssignment());
+    } else {
+      throw new UnsupportedOperationException("Not yet implemented");
+    }
+  }
+
+  @Override
+  public SufficientStatistics maximizeParameters(List<GroundingExpectation> expectations, 
+      SufficientStatistics currentParameters, LogFunction log) {
+    // M-step factors into loglikelihood maximization of parser 
+    // and grounding functions independently.
+    
+    
+  }
+  
+  private SufficientStatistics maximizeParserParameters(ParametricCfgFactor parserFamily, 
+      List<GroundingExpectation> examples) {
+    // Build a factor graph to train the parser.
+    ObjectVariable parseTreeVariable = new ObjectVariable(ParseTree.class);
+    ObjectVariable inputVariable = new ObjectVariable(List.class);
+
+    ParametricFactorGraphBuilder builder = new ParametricFactorGraphBuilder();
+    builder.addVariable("x", inputVariable);
+    builder.addVariable("y", parseTreeVariable);
+    VariableNumMap x = builder.getVariables().getVariablesByName("x");
+    VariableNumMap y = builder.getVariables().getVariablesByName("y");
+
+    builder.addFactor("cfg", parserFamily, new WrapperVariablePattern(x.union(y)));
+    ParametricFactorGraph cfgModel = builder.build();
+    
+    // Reformat the training data into assignments.
+    List<Example<Assignment, Assignment>> trainingData = Lists.newArrayList();
+    for (int i = 0; i < examples.size(); i++) {
+      ParseTree outputTree = examples.get(i).getParse();
+      List<Object> terminals = outputTree.getTerminalProductions();
+
+      Assignment input = x.outcomeArrayToAssignment(terminals);
+      Assignment output = y.outcomeArrayToAssignment(outputTree);
+      trainingData.add(Example.create(input, output));
+    }
+    
+    // Optimize the loglikelihood of the observed parses.
+    LoglikelihoodOracle oracle = new LoglikelihoodOracle(cfgModel, new JunctionTree());
+    GradientOracle<DynamicFactorGraph, Example<Assignment, Assignment>> adaptedOracle = 
+        OracleAdapter.createAssignmentAdapter(oracle);
+
+    StochasticGradientTrainer trainer = StochasticGradientTrainer.createWithL2Regularization(
+        5 * trainingData.size(), 1, 1.0, true, 0.001, new DefaultLogFunction());
+
+    SufficientStatistics trainedParameters = trainer.train(adaptedOracle,
+        adaptedOracle.initializeGradient(), trainingData);
+
+    return trainedParameters.coerceToList().getStatisticByName("cfg");
+  }
+  
+  private SufficientStatistics maximizeGroundingParameters(DiscreteLogLinearFactor groundingFamily,
+      List<GroundingExpectation> examples) {
+    
+    // Build a factor graph to train the classifier
+  }
+  
+  public static class GroundingExpectation {
+    private final List<String> words;
+    private final ParseTree parse;
+    private final QueryTree query;
+    private final MultiTree<Tensor> assignment;
+    
+    public GroundingExpectation(List<String> words, ParseTree parse, QueryTree query, MultiTree<Tensor> assignment) {
+      this.words = words;
+      this.parse = parse;
+      this.query = query;
+      this.assignment = assignment;
+    }
+
+    public List<String> getWords() {
+      return words;
+    }
+
+    public ParseTree getParse() {
+      return parse;
+    }
+
+    public QueryTree getQuery() {
+      return query;
+    }
+
+    public MultiTree<Tensor> getAssignment() {
+      return assignment;
+    }
+  }
+
+}

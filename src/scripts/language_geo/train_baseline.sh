@@ -1,0 +1,1 @@
+./src/scripts/cobot/language_geography/train_domain.sh data/cobot/set/language_geography/small_domains/baseline_lexicon.txt language_grounding_baseline.ser $1

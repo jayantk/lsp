@@ -1,0 +1,1 @@
+./src/scripts/invoke.pl GroundingModelTrainer --trainingData data/cobot/set/osm/experiment1/training.txt --catFeatures data/cobot/set/osm/experiment1/osm_kb.txt.entities -relFeatures data/cobot/set/osm/experiment1/osm_kb.txt.relations -lexicon data/cobot/set/osm/experiment1/lexicon.txt -iterations 500 -modelFilename model.ser
