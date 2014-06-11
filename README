@@ -1,5 +1,8 @@
-Code for the paper 
+Code for the paper:
 
+Jointly Learning to Parse and Perceive
+Jayant Krishnamurthy and Thomas Kollar
+Transactions of the ACL, 2013.
 
 
 Building the project:
@@ -7,7 +10,7 @@ Building the project:
 ant jar
 
 
-
 Training the geography domain with cross validation:
 
 ./src/scripts/language_geo/train_cv.sh
+
