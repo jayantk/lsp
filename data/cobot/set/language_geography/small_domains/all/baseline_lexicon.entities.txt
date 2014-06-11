@@ -1,0 +1,224 @@
+Alabama,N,kb-Alabama 0 0
+Alabama,N/N,kb-Alabama 0 0
+Alabama,N,kb-ignore 0 0
+Alabama,N/N,kb-ignore 0 0
+Arkansas,N,kb-Arkansas 0 0
+Arkansas,N/N,kb-Arkansas 0 0
+Arkansas,N,kb-ignore 0 0
+Arkansas,N/N,kb-ignore 0 0
+Atlanta,N,kb-Atlanta 0 0
+Atlanta,N/N,kb-Atlanta 0 0
+Atlanta,N,kb-ignore 0 0
+Atlanta,N/N,kb-ignore 0 0
+Atlantic Ocean,N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N/N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N,kb-ignore 0 0
+Atlantic Ocean,N/N,kb-ignore 0 0
+Birmingham,N,kb-Birmingham 0 0
+Birmingham,N/N,kb-Birmingham 0 0
+Birmingham,N,kb-ignore 0 0
+Birmingham,N/N,kb-ignore 0 0
+Charleston,N,kb-Charleston 0 0
+Charleston,N/N,kb-Charleston 0 0
+Charleston,N,kb-ignore 0 0
+Charleston,N/N,kb-ignore 0 0
+Charlotte,N,kb-Charlotte 0 0
+Charlotte,N/N,kb-Charlotte 0 0
+Charlotte,N,kb-ignore 0 0
+Charlotte,N/N,kb-ignore 0 0
+Daytona Beach,N,kb-Daytona_Beach 0 0
+Daytona Beach,N/N,kb-Daytona_Beach 0 0
+Daytona Beach,N,kb-ignore 0 0
+Daytona Beach,N/N,kb-ignore 0 0
+Detroit,N,kb-Detroit 0 0
+Detroit,N/N,kb-Detroit 0 0
+Detroit,N,kb-ignore 0 0
+Detroit,N/N,kb-ignore 0 0
+Everglades National Park,N,kb-Everglades_National_Park 0 0
+Everglades National Park,N/N,kb-Everglades_National_Park 0 0
+Everglades National Park,N,kb-ignore 0 0
+Everglades National Park,N/N,kb-ignore 0 0
+Florida,N,kb-Florida 0 0
+Florida,N/N,kb-Florida 0 0
+Florida,N,kb-ignore 0 0
+Florida,N/N,kb-ignore 0 0
+Francis Marion National Forest,N,kb-Francis_Marion_National_Forest 0 0
+Francis Marion National Forest,N/N,kb-Francis_Marion_National_Forest 0 0
+Francis Marion National Forest,N,kb-ignore 0 0
+Francis Marion National Forest,N/N,kb-ignore 0 0
+Georgia,N,kb-Georgia 0 0
+Georgia,N/N,kb-Georgia 0 0
+Georgia,N,kb-ignore 0 0
+Georgia,N/N,kb-ignore 0 0
+George Washington National Forest,N,kb-George_Washington_National_Forest 0 0
+George Washington National Forest,N/N,kb-George_Washington_National_Forest 0 0
+George Washington National Forest,N,kb-ignore 0 0
+George Washington National Forest,N/N,kb-ignore 0 0
+Grand Rapids,N,kb-Grand_Rapids 0 0
+Grand Rapids,N/N,kb-Grand_Rapids 0 0
+Grand Rapids,N,kb-ignore 0 0
+Grand Rapids,N/N,kb-ignore 0 0
+Great Smoky Mountains National Park,N,kb-Great_Smoky_Mountains_National_Park 0 0
+Great Smoky Mountains National Park,N/N,kb-Great_Smoky_Mountains_National_Park 0 0
+Great Smoky Mountains National Park,N,kb-ignore 0 0
+Great Smoky Mountains National Park,N/N,kb-ignore 0 0
+Greensboro,N,kb-Greensboro 0 0
+Greensboro,N/N,kb-Greensboro 0 0
+Greensboro,N,kb-ignore 0 0
+Greensboro,N/N,kb-ignore 0 0
+Greenville,N,kb-Greenville 0 0
+Greenville,N/N,kb-Greenville 0 0
+Greenville,N,kb-ignore 0 0
+Greenville,N/N,kb-ignore 0 0
+Hilton Head Island,N,kb-Hilton_Head_Island 0 0
+Hilton Head Island,N/N,kb-Hilton_Head_Island 0 0
+Hilton Head Island,N,kb-ignore 0 0
+Hilton Head Island,N/N,kb-ignore 0 0
+Indiana,N,kb-Indiana 0 0
+Indiana,N/N,kb-Indiana 0 0
+Indiana,N,kb-ignore 0 0
+Indiana,N/N,kb-ignore 0 0
+Indianapolis,N,kb-Indianapolis 0 0
+Indianapolis,N/N,kb-Indianapolis 0 0
+Indianapolis,N,kb-ignore 0 0
+Indianapolis,N/N,kb-ignore 0 0
+Kentucky,N,kb-Kentucky 0 0
+Kentucky,N/N,kb-Kentucky 0 0
+Kentucky,N,kb-ignore 0 0
+Kentucky,N/N,kb-ignore 0 0
+Key Largo,N,kb-Key_Largo 0 0
+Key Largo,N/N,kb-Key_Largo 0 0
+Key Largo,N,kb-ignore 0 0
+Key Largo,N/N,kb-ignore 0 0
+Knoxville,N,kb-Knoxville 0 0
+Knoxville,N/N,kb-Knoxville 0 0
+Knoxville,N,kb-ignore 0 0
+Knoxville,N/N,kb-ignore 0 0
+Lake Huron,N,kb-Lake_Huron 0 0
+Lake Huron,N/N,kb-Lake_Huron 0 0
+Lake Huron,N,kb-ignore 0 0
+Lake Huron,N/N,kb-ignore 0 0
+Lake Michigan,N,kb-Lake_Michigan 0 0
+Lake Michigan,N/N,kb-Lake_Michigan 0 0
+Lake Michigan,N,kb-ignore 0 0
+Lake Michigan,N/N,kb-ignore 0 0
+Lake Moultrie,N,kb-Lake_Moultrie 0 0
+Lake Moultrie,N/N,kb-Lake_Moultrie 0 0
+Lake Moultrie,N,kb-ignore 0 0
+Lake Moultrie,N/N,kb-ignore 0 0
+Louisiana,N,kb-Louisiana 0 0
+Louisiana,N/N,kb-Louisiana 0 0
+Louisiana,N,kb-ignore 0 0
+Louisiana,N/N,kb-ignore 0 0
+Louisville,N,kb-Louisville 0 0
+Louisville,N/N,kb-Louisville 0 0
+Louisville,N,kb-ignore 0 0
+Louisville,N/N,kb-ignore 0 0
+Macon,N,kb-Macon 0 0
+Macon,N/N,kb-Macon 0 0
+Macon,N,kb-ignore 0 0
+Macon,N/N,kb-ignore 0 0
+Memphis,N,kb-Memphis 0 0
+Memphis,N/N,kb-Memphis 0 0
+Memphis,N,kb-ignore 0 0
+Memphis,N/N,kb-ignore 0 0
+Miami,N,kb-Miami 0 0
+Miami,N/N,kb-Miami 0 0
+Miami,N,kb-ignore 0 0
+Miami,N/N,kb-ignore 0 0
+Michigan,N,kb-Michigan 0 0
+Michigan,N/N,kb-Michigan 0 0
+Michigan,N,kb-ignore 0 0
+Michigan,N/N,kb-ignore 0 0
+Milwaukee,N,kb-Milwaukee 0 0
+Milwaukee,N/N,kb-Milwaukee 0 0
+Milwaukee,N,kb-ignore 0 0
+Milwaukee,N/N,kb-ignore 0 0
+Mississippi,N,kb-Mississippi 0 0
+Mississippi,N/N,kb-Mississippi 0 0
+Mississippi,N,kb-ignore 0 0
+Mississippi,N/N,kb-ignore 0 0
+Monongahela National Forest,N,kb-Monongahela_National_Forest 0 0
+Monongahela National Forest,N/N,kb-Monongahela_National_Forest 0 0
+Monongahela National Forest,N,kb-ignore 0 0
+Monongahela National Forest,N/N,kb-ignore 0 0
+Montgomery,N,kb-Montgomery 0 0
+Montgomery,N/N,kb-Montgomery 0 0
+Montgomery,N,kb-ignore 0 0
+Montgomery,N/N,kb-ignore 0 0
+Morgantown,N,kb-Morgantown 0 0
+Morgantown,N/N,kb-Morgantown 0 0
+Morgantown,N,kb-ignore 0 0
+Morgantown,N/N,kb-ignore 0 0
+Myrtle Beach,N,kb-Myrtle_Beach 0 0
+Myrtle Beach,N/N,kb-Myrtle_Beach 0 0
+Myrtle Beach,N,kb-ignore 0 0
+Myrtle Beach,N/N,kb-ignore 0 0
+Nashville,N,kb-Nashville 0 0
+Nashville,N/N,kb-Nashville 0 0
+Nashville,N,kb-ignore 0 0
+Nashville,N/N,kb-ignore 0 0
+North Carolina,N,kb-North_Carolina 0 0
+North Carolina,N/N,kb-North_Carolina 0 0
+North Carolina,N,kb-ignore 0 0
+North Carolina,N/N,kb-ignore 0 0
+Oklahoma,N,kb-Oklahoma 0 0
+Oklahoma,N/N,kb-Oklahoma 0 0
+Oklahoma,N,kb-ignore 0 0
+Oklahoma,N/N,kb-ignore 0 0
+Raleigh,N,kb-Raleigh 0 0
+Raleigh,N/N,kb-Raleigh 0 0
+Raleigh,N,kb-ignore 0 0
+Raleigh,N/N,kb-ignore 0 0
+Richmond,N,kb-Richmond 0 0
+Richmond,N/N,kb-Richmond 0 0
+Richmond,N,kb-ignore 0 0
+Richmond,N/N,kb-ignore 0 0
+Shenandoah National Park,N,kb-Shenandoah_National_Park 0 0
+Shenandoah National Park,N/N,kb-Shenandoah_National_Park 0 0
+Shenandoah National Park,N,kb-ignore 0 0
+Shenandoah National Park,N/N,kb-ignore 0 0
+South Bend,N,kb-South_Bend 0 0
+South Bend,N/N,kb-South_Bend 0 0
+South Bend,N,kb-ignore 0 0
+South Bend,N/N,kb-ignore 0 0
+South Carolina,N,kb-South_Carolina 0 0
+South Carolina,N/N,kb-South_Carolina 0 0
+South Carolina,N,kb-ignore 0 0
+South Carolina,N/N,kb-ignore 0 0
+Tallahassee,N,kb-Tallahassee 0 0
+Tallahassee,N/N,kb-Tallahassee 0 0
+Tallahassee,N,kb-ignore 0 0
+Tallahassee,N/N,kb-ignore 0 0
+Tennessee,N,kb-Tennessee 0 0
+Tennessee,N/N,kb-Tennessee 0 0
+Tennessee,N,kb-ignore 0 0
+Tennessee,N/N,kb-ignore 0 0
+Texas,N,kb-Texas 0 0
+Texas,N/N,kb-Texas 0 0
+Texas,N,kb-ignore 0 0
+Texas,N/N,kb-ignore 0 0
+Tygart Lake,N,kb-Tygart_Lake 0 0
+Tygart Lake,N/N,kb-Tygart_Lake 0 0
+Tygart Lake,N,kb-ignore 0 0
+Tygart Lake,N/N,kb-ignore 0 0
+Uwharrie National Forest,N,kb-Uwharrie_National_Forest 0 0
+Uwharrie National Forest,N/N,kb-Uwharrie_National_Forest 0 0
+Uwharrie National Forest,N,kb-ignore 0 0
+Uwharrie National Forest,N/N,kb-ignore 0 0
+Virginia Beach,N,kb-Virginia_Beach 0 0
+Virginia Beach,N/N,kb-Virginia_Beach 0 0
+Virginia Beach,N,kb-ignore 0 0
+Virginia Beach,N/N,kb-ignore 0 0
+Virginia,N,kb-Virginia 0 0
+Virginia,N/N,kb-Virginia 0 0
+Virginia,N,kb-ignore 0 0
+Virginia,N/N,kb-ignore 0 0
+West Virginia,N,kb-West_Virginia 0 0
+West Virginia,N/N,kb-West_Virginia 0 0
+West Virginia,N,kb-ignore 0 0
+West Virginia,N/N,kb-ignore 0 0
+Wisconsin,N,kb-Wisconsin 0 0
+Wisconsin,N/N,kb-Wisconsin 0 0
+Wisconsin,N,kb-ignore 0 0
+Wisconsin,N/N,kb-ignore 0 0

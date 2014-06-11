@@ -1,0 +1,74 @@
+'s,N/N,kb-ignore 0 0
+'s,N,kb-ignore 0 0
+national park,N,nationalpark 0 0
+national park,N/N,nationalpark 0 0
+cities,N,city 0 0
+cities,N/N,city 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+capital,N,capital 0 0
+capital,N/N,capital 0 0
+west,N,west 0 0
+west,N/N,west 0 0
+is,N/N,kb-ignore 0 0
+is,N,kb-ignore 0 0
+in,N,in 0 0
+in,N,kb-ignore 0 0
+in,N/N,in 0 0
+in,N/N,kb-ignore 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+there,N,kb-ignore 0 0
+there,N/N,kb-ignore 0 0
+state,N,state 0 0
+state,N/N,state 0 0
+of,N,of 0 0
+of,N,kb-ignore 0 0
+of,N/N,of 0 0
+of,N/N,kb-ignore 0 0
+are,N/N,kb-ignore 0 0
+are,N,kb-ignore 0 0
+parks,N,park 0 0
+parks,N/N,park 0 0
+national,N,national 0 0
+national,N/N,national 0 0
+the,N,kb-ignore 0 0
+the,N/N,kb-ignore 0 0
+national parks,N,nationalpark 0 0
+national parks,N/N,nationalpark 0 0
+park,N,park 0 0
+park,N/N,park 0 0
+a,N,kb-ignore 0 0
+a,N/N,kb-ignore 0 0
+lakes,N,lake 0 0
+lakes,N/N,lake 0 0
+east,N,east 0 0
+east,N/N,east 0 0
+states,N,state 0 0
+states,N/N,state 0 0
+West Virginia,N,kb-West_Virginia 0 0
+West Virginia,N/N,kb-West_Virginia 0 0
+West Virginia,N,kb-ignore 0 0
+West Virginia,N/N,kb-ignore 0 0
+Charleston,N,kb-Charleston 0 0
+Charleston,N/N,kb-Charleston 0 0
+Charleston,N,kb-ignore 0 0
+Charleston,N/N,kb-ignore 0 0
+Monongahela National Forest,N,kb-Monongahela_National_Forest 0 0
+Monongahela National Forest,N/N,kb-Monongahela_National_Forest 0 0
+Monongahela National Forest,N,kb-ignore 0 0
+Monongahela National Forest,N/N,kb-ignore 0 0
+Tygart Lake,N,kb-Tygart_Lake 0 0
+Tygart Lake,N/N,kb-Tygart_Lake 0 0
+Tygart Lake,N,kb-ignore 0 0
+Tygart Lake,N/N,kb-ignore 0 0
+Richmond,N,kb-Richmond 0 0
+Richmond,N/N,kb-Richmond 0 0
+Richmond,N,kb-ignore 0 0
+Richmond,N/N,kb-ignore 0 0
+Virginia,N,kb-Virginia 0 0
+Virginia,N/N,kb-Virginia 0 0
+Virginia,N,kb-ignore 0 0
+Virginia,N/N,kb-ignore 0 0

@@ -1,0 +1,21 @@
+Michigan,T,f_f__F_landmarkPerimeter,2.89376665218
+Michigan,T,bias,1.0
+Michigan,T,f_f__F_landmarkArea,2.85298377062
+Detroit,T,f_f__F_landmarkPerimeter,0.121522204859
+Detroit,T,bias,1.0
+Detroit,T,f_f__F_landmarkArea,0.00418817703853
+Grand Rapids,T,f_f__F_landmarkPerimeter,0.0963610280302
+Grand Rapids,T,bias,1.0
+Grand Rapids,T,f_f__F_landmarkArea,0.00129339048187
+Lake Michigan,T,f_f__F_landmarkPerimeter,2.69659858708
+Lake Michigan,T,bias,1.0
+Lake Michigan,T,f_f__F_landmarkArea,0.653123874523
+Lake Huron,T,f_f__F_landmarkPerimeter,0.00628312135213
+Lake Huron,T,bias,1.0
+Lake Huron,T,f_f__F_landmarkArea,3.14146473329e-05
+Wisconsin,T,f_f__F_landmarkPerimeter,2.34084570031
+Wisconsin,T,bias,1.0
+Wisconsin,T,f_f__F_landmarkArea,1.92519705897
+Milwaukee,T,f_f__F_landmarkPerimeter,0.190031268768
+Milwaukee,T,bias,1.0
+Milwaukee,T,f_f__F_landmarkArea,0.0027706544998

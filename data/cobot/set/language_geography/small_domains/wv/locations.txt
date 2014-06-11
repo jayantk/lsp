@@ -1,0 +1,6 @@
+West Virginia;West Virginia;162068
+Charleston;Charleston;36967884
+Monongahela National Forest;Monongahela National Forest;356538404
+Tygart Lake;Tygart Lake;356522234
+Richmond;Richmond;40821929
+Virginia;Virginia;224042

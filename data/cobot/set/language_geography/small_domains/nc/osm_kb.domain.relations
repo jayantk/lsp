@@ -1,0 +1,2909 @@
+Atlantic Ocean,Atlantic Ocean,T,arg1 which empties into arg2,1
+Atlantic Ocean,Atlantic Ocean,T,arg2 which empties into arg1,1
+Atlantic Ocean,Atlantic Ocean,T,bias,1.0
+Atlantic Ocean,Atlantic Ocean,T,entity1=entity2,1
+Atlantic Ocean,Atlantic Ocean,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_-1_0_f_l,0.0272095442825
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.0300835420756
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.0272095442825
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_1_0_l_f,0.0300835420756
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_0_-1_f_l,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_0_1_f_l,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_0_-1_l_f,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_0_1_l_f,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_-1_0_f_l,0.0272095442825
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_1_0_f_l,0.0300835420756
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_-1_0_l_f,0.0272095442825
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_1_0_l_f,0.0300835420756
+Atlantic Ocean,Atlantic Ocean,T,F_math2dFigureIntersectionArea_f_l,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_math2dFigureIntersectionArea_l_f,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_math2dIntersectionArea_f_l,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_math2dIntersectionArea_l_f,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Atlantic Ocean,Charlotte,T,bias,1.0
+Atlantic Ocean,Charlotte,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,Charlotte,T,F_avsResult_0_-1_f_l,0.623799525159
+Atlantic Ocean,Charlotte,T,F_avsResult_0_1_f_l,0.623799525159
+Atlantic Ocean,Charlotte,T,F_avsResult_0_-1_l_f,0.00645283418541
+Atlantic Ocean,Charlotte,T,F_avsResult_0_1_l_f,0.00645283418541
+Atlantic Ocean,Charlotte,T,F_avsResult_-1_0_f_l,0.864655145553
+Atlantic Ocean,Charlotte,T,F_avsResult_1_0_f_l,4.48301692162e-05
+Atlantic Ocean,Charlotte,T,F_avsResult_1_0_l_f,0.864650840089
+Atlantic Ocean,Charlotte,T,F_avsResult_-1_0_l_f,4.4831612206e-05
+Atlantic Ocean,Charlotte,T,F_avsResult_1_-1_f_l,0.00692379145442
+Atlantic Ocean,Charlotte,T,F_avsResult_1_1_f_l,0.00692379145442
+Atlantic Ocean,Charlotte,T,F_avsResult_1_-1_l_f,0.728969206622
+Atlantic Ocean,Charlotte,T,F_avsResult_1_1_l_f,0.728969206622
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_0_-1_f_l,0.623799525159
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_0_1_f_l,0.623799525159
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_0_-1_l_f,0.00645283418541
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_0_1_l_f,0.00645283418541
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_-1_0_f_l,0.864655145553
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_1_0_f_l,4.48301692162e-05
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_1_0_l_f,0.864650840089
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_-1_0_l_f,4.4831612206e-05
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_1_-1_f_l,0.00692379145442
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_1_1_f_l,0.00692379145442
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_1_-1_l_f,0.728969206622
+Atlantic Ocean,Charlotte,T,F_avsResult_outside_1_1_l_f,0.728969206622
+Atlantic Ocean,Charlotte,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,Charlotte,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,Charlotte,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,Charlotte,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,Charlotte,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,Charlotte,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,Charlotte,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,Charlotte,T,F_distBtwnCentroids_f_l,0.0434470652182
+Atlantic Ocean,Charlotte,T,F_distBtwnCentroids_l_f,0.0434470652182
+Atlantic Ocean,Charlotte,T,F_distHorizontalCentroid_f_l,-0.0395943535946
+Atlantic Ocean,Charlotte,T,F_distHorizontalCentroid_l_f,0.0395943535946
+Atlantic Ocean,Charlotte,T,F_distVerticalCentroid_f_l,0.0178867168452
+Atlantic Ocean,Charlotte,T,F_distVerticalCentroid_l_f,-0.0178867168452
+Atlantic Ocean,Charlotte,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,Charlotte,T,F_rightOfFigureCentroid_l_f,1.0
+Atlantic Ocean,Greensboro,T,bias,1.0
+Atlantic Ocean,Greensboro,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,Greensboro,T,F_avsResult_0_-1_f_l,0.631227151075
+Atlantic Ocean,Greensboro,T,F_avsResult_0_1_f_l,0.631227151075
+Atlantic Ocean,Greensboro,T,F_avsResult_0_-1_l_f,0.0056030526608
+Atlantic Ocean,Greensboro,T,F_avsResult_0_1_l_f,0.0056030526608
+Atlantic Ocean,Greensboro,T,F_avsResult_-1_0_f_l,0.858266613526
+Atlantic Ocean,Greensboro,T,F_avsResult_1_0_f_l,5.35712081157e-05
+Atlantic Ocean,Greensboro,T,F_avsResult_1_0_l_f,0.858339655502
+Atlantic Ocean,Greensboro,T,F_avsResult_-1_0_l_f,5.24064608306e-05
+Atlantic Ocean,Greensboro,T,F_avsResult_1_-1_f_l,0.00869294892612
+Atlantic Ocean,Greensboro,T,F_avsResult_1_1_f_l,0.00869294892612
+Atlantic Ocean,Greensboro,T,F_avsResult_1_-1_l_f,0.708997075237
+Atlantic Ocean,Greensboro,T,F_avsResult_1_1_l_f,0.708997075237
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_0_-1_f_l,0.631227151075
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_0_1_f_l,0.631227151075
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_0_-1_l_f,0.0056030526608
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_0_1_l_f,0.0056030526608
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_-1_0_f_l,0.858266613526
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_1_0_f_l,5.35712081157e-05
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_1_0_l_f,0.858339655502
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_-1_0_l_f,5.24064608306e-05
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_1_-1_f_l,0.00869294892612
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_1_1_f_l,0.00869294892612
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_1_-1_l_f,0.708997075237
+Atlantic Ocean,Greensboro,T,F_avsResult_outside_1_1_l_f,0.708997075237
+Atlantic Ocean,Greensboro,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,Greensboro,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,Greensboro,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,Greensboro,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,Greensboro,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,Greensboro,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,Greensboro,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,Greensboro,T,F_distBtwnCentroids_f_l,0.0420895199992
+Atlantic Ocean,Greensboro,T,F_distBtwnCentroids_l_f,0.0420895199992
+Atlantic Ocean,Greensboro,T,F_distHorizontalCentroid_f_l,-0.0380038909583
+Atlantic Ocean,Greensboro,T,F_distHorizontalCentroid_l_f,0.0380038909583
+Atlantic Ocean,Greensboro,T,F_distVerticalCentroid_f_l,0.0180895540516
+Atlantic Ocean,Greensboro,T,F_distVerticalCentroid_l_f,-0.0180895540516
+Atlantic Ocean,Greensboro,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,Greensboro,T,F_rightOfFigureCentroid_l_f,1.0
+Atlantic Ocean,Myrtle Beach,T,arg1 and in the heart of arg2,1
+Atlantic Ocean,Myrtle Beach,T,arg1 beaches of arg2,1
+Atlantic Ocean,Myrtle Beach,T,arg1 give arg2,1
+Atlantic Ocean,Myrtle Beach,T,arg1 south of arg2,1
+Atlantic Ocean,Myrtle Beach,T,arg2 along arg1,1
+Atlantic Ocean,Myrtle Beach,T,arg2 is bordered by arg1,1
+Atlantic Ocean,Myrtle Beach,T,bias,1.0
+Atlantic Ocean,Myrtle Beach,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_0_-1_f_l,0.618441541493
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_0_1_f_l,0.618441541493
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_0_-1_l_f,0.00780648223078
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_0_1_l_f,0.00780648223078
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_-1_0_f_l,0.867640850891
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_1_0_f_l,5.66070076248e-05
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_1_0_l_f,0.867632269747
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_-1_0_l_f,5.60007204812e-05
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_1_-1_f_l,0.00696518553788
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_1_1_f_l,0.00696518553788
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_1_-1_l_f,0.735821162548
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_1_1_l_f,0.735821162548
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_0_-1_f_l,0.618441541493
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_0_1_f_l,0.618441541493
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_0_-1_l_f,0.00780648223078
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_0_1_l_f,0.00780648223078
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_-1_0_f_l,0.867640850891
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_1_0_f_l,5.66070076248e-05
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_1_0_l_f,0.867632269747
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_-1_0_l_f,5.60007204812e-05
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_1_-1_f_l,0.00696518553788
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_1_1_f_l,0.00696518553788
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_1_-1_l_f,0.735821162548
+Atlantic Ocean,Myrtle Beach,T,F_avsResult_outside_1_1_l_f,0.735821162548
+Atlantic Ocean,Myrtle Beach,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,Myrtle Beach,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,Myrtle Beach,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,Myrtle Beach,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,Myrtle Beach,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,Myrtle Beach,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,Myrtle Beach,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,Myrtle Beach,T,F_distBtwnCentroids_f_l,0.0458177120761
+Atlantic Ocean,Myrtle Beach,T,F_distBtwnCentroids_l_f,0.0458177120761
+Atlantic Ocean,Myrtle Beach,T,F_distHorizontalCentroid_f_l,-0.041934813605
+Atlantic Ocean,Myrtle Beach,T,F_distHorizontalCentroid_l_f,0.041934813605
+Atlantic Ocean,Myrtle Beach,T,F_distVerticalCentroid_f_l,0.0184589855574
+Atlantic Ocean,Myrtle Beach,T,F_distVerticalCentroid_l_f,-0.0184589855574
+Atlantic Ocean,Myrtle Beach,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,Myrtle Beach,T,F_rightOfFigureCentroid_l_f,1.0
+Atlantic Ocean,North Carolina,T,arg1 after hitting arg2,1
+Atlantic Ocean,North Carolina,T,arg1 and south to arg2,1
+Atlantic Ocean,North Carolina,T,arg1 as far north as arg2,1
+Atlantic Ocean,North Carolina,T,arg1 in southeastern arg2,1
+Atlantic Ocean,North Carolina,T,arg1 off arg2,1
+Atlantic Ocean,North Carolina,T,arg1 off the coast of arg2,1
+Atlantic Ocean,North Carolina,T,arg1 on the east and arg2,1
+Atlantic Ocean,North Carolina,T,arg2 coast in arg1,1
+Atlantic Ocean,North Carolina,T,arg2 is bordered by arg1,1
+Atlantic Ocean,North Carolina,T,arg2 is located on arg1,1
+Atlantic Ocean,North Carolina,T,arg2 meets arg1,1
+Atlantic Ocean,North Carolina,T,arg2 overlooking arg1,1
+Atlantic Ocean,North Carolina,T,arg2 rivers into arg1,1
+Atlantic Ocean,North Carolina,T,arg2 that sticks out into arg1,1
+Atlantic Ocean,North Carolina,T,bias,1.0
+Atlantic Ocean,North Carolina,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,North Carolina,T,F_avsResult_0_-1_f_l,0.629329381949
+Atlantic Ocean,North Carolina,T,F_avsResult_0_1_f_l,0.629329381949
+Atlantic Ocean,North Carolina,T,F_avsResult_0_-1_l_f,0.00539260821592
+Atlantic Ocean,North Carolina,T,F_avsResult_0_1_l_f,0.00539260821592
+Atlantic Ocean,North Carolina,T,F_avsResult_-1_0_f_l,0.859383901717
+Atlantic Ocean,North Carolina,T,F_avsResult_1_0_f_l,5.82623231687e-05
+Atlantic Ocean,North Carolina,T,F_avsResult_1_0_l_f,0.861369787608
+Atlantic Ocean,North Carolina,T,F_avsResult_-1_0_l_f,2.90538421611e-05
+Atlantic Ocean,North Carolina,T,F_avsResult_1_-1_f_l,0.00869445802219
+Atlantic Ocean,North Carolina,T,F_avsResult_1_1_f_l,0.00869445802219
+Atlantic Ocean,North Carolina,T,F_avsResult_1_-1_l_f,0.70645464416
+Atlantic Ocean,North Carolina,T,F_avsResult_1_1_l_f,0.70645464416
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.629329381949
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_0_1_f_l,0.629329381949
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_0_-1_l_f,0.00539260821592
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_0_1_l_f,0.00539260821592
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.859383901717
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_0_f_l,5.82623231687e-05
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_0_l_f,0.861369787608
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_-1_0_l_f,2.90538421611e-05
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_-1_f_l,0.00869445802219
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_1_f_l,0.00869445802219
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_-1_l_f,0.70645464416
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_1_l_f,0.70645464416
+Atlantic Ocean,North Carolina,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,North Carolina,T,F_distBtwnCentroids_f_l,0.0379227716917
+Atlantic Ocean,North Carolina,T,F_distBtwnCentroids_l_f,0.0379227716917
+Atlantic Ocean,North Carolina,T,F_distHorizontalCentroid_f_l,-0.0343002271555
+Atlantic Ocean,North Carolina,T,F_distHorizontalCentroid_l_f,0.0343002271555
+Atlantic Ocean,North Carolina,T,F_distVerticalCentroid_f_l,0.0161750125152
+Atlantic Ocean,North Carolina,T,F_distVerticalCentroid_l_f,-0.0161750125152
+Atlantic Ocean,North Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,North Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Atlantic Ocean,Raleigh,T,arg2 is a short drive from arg1,1
+Atlantic Ocean,Raleigh,T,bias,1.0
+Atlantic Ocean,Raleigh,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,Raleigh,T,F_avsResult_0_-1_f_l,0.632335356536
+Atlantic Ocean,Raleigh,T,F_avsResult_0_1_f_l,0.632335356536
+Atlantic Ocean,Raleigh,T,F_avsResult_0_-1_l_f,0.00575528180754
+Atlantic Ocean,Raleigh,T,F_avsResult_0_1_l_f,0.00575528180754
+Atlantic Ocean,Raleigh,T,F_avsResult_-1_0_f_l,0.856738503169
+Atlantic Ocean,Raleigh,T,F_avsResult_1_0_f_l,6.3239182499e-05
+Atlantic Ocean,Raleigh,T,F_avsResult_1_0_l_f,0.856819730264
+Atlantic Ocean,Raleigh,T,F_avsResult_-1_0_l_f,6.18567167156e-05
+Atlantic Ocean,Raleigh,T,F_avsResult_1_-1_f_l,0.00954963838078
+Atlantic Ocean,Raleigh,T,F_avsResult_1_1_f_l,0.00954963838078
+Atlantic Ocean,Raleigh,T,F_avsResult_1_-1_l_f,0.703348480807
+Atlantic Ocean,Raleigh,T,F_avsResult_1_1_l_f,0.703348480807
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_0_-1_f_l,0.632335356536
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_0_1_f_l,0.632335356536
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_0_-1_l_f,0.00575528180754
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_0_1_l_f,0.00575528180754
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_-1_0_f_l,0.856738503169
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_1_0_f_l,6.3239182499e-05
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_1_0_l_f,0.856819730264
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_-1_0_l_f,6.18567167156e-05
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_1_-1_f_l,0.00954963838078
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_1_1_f_l,0.00954963838078
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_1_-1_l_f,0.703348480807
+Atlantic Ocean,Raleigh,T,F_avsResult_outside_1_1_l_f,0.703348480807
+Atlantic Ocean,Raleigh,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,Raleigh,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,Raleigh,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,Raleigh,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,Raleigh,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,Raleigh,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,Raleigh,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,Raleigh,T,F_distBtwnCentroids_f_l,0.0425749169226
+Atlantic Ocean,Raleigh,T,F_distBtwnCentroids_l_f,0.0425749169226
+Atlantic Ocean,Raleigh,T,F_distHorizontalCentroid_f_l,-0.0383570276093
+Atlantic Ocean,Raleigh,T,F_distHorizontalCentroid_l_f,0.0383570276093
+Atlantic Ocean,Raleigh,T,F_distVerticalCentroid_f_l,0.0184759839777
+Atlantic Ocean,Raleigh,T,F_distVerticalCentroid_l_f,-0.0184759839777
+Atlantic Ocean,Raleigh,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,Raleigh,T,F_rightOfFigureCentroid_l_f,1.0
+Atlantic Ocean,South Carolina,T,arg1 off arg2,1
+Atlantic Ocean,South Carolina,T,arg2 and across arg1,1
+Atlantic Ocean,South Carolina,T,arg2 coast of arg1,1
+Atlantic Ocean,South Carolina,T,arg2 facing arg1,1
+Atlantic Ocean,South Carolina,T,arg2 meets arg1,1
+Atlantic Ocean,South Carolina,T,arg2 shares with arg1,1
+Atlantic Ocean,South Carolina,T,arg2 sits on arg1,1
+Atlantic Ocean,South Carolina,T,arg2 stretches from arg1,1
+Atlantic Ocean,South Carolina,T,arg2 to the south and arg1,1
+Atlantic Ocean,South Carolina,T,bias,1.0
+Atlantic Ocean,South Carolina,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,South Carolina,T,F_avsResult_0_-1_f_l,0.615448141973
+Atlantic Ocean,South Carolina,T,F_avsResult_0_1_f_l,0.615448141973
+Atlantic Ocean,South Carolina,T,F_avsResult_0_-1_l_f,0.0065991848275
+Atlantic Ocean,South Carolina,T,F_avsResult_0_1_l_f,0.0065991848275
+Atlantic Ocean,South Carolina,T,F_avsResult_-1_0_f_l,0.871093981011
+Atlantic Ocean,South Carolina,T,F_avsResult_1_0_f_l,4.24140784435e-05
+Atlantic Ocean,South Carolina,T,F_avsResult_1_0_l_f,0.871202556906
+Atlantic Ocean,South Carolina,T,F_avsResult_-1_0_l_f,3.06982399757e-05
+Atlantic Ocean,South Carolina,T,F_avsResult_1_-1_f_l,0.00570770486254
+Atlantic Ocean,South Carolina,T,F_avsResult_1_1_f_l,0.00570770486254
+Atlantic Ocean,South Carolina,T,F_avsResult_1_-1_l_f,0.744761894471
+Atlantic Ocean,South Carolina,T,F_avsResult_1_1_l_f,0.744761894471
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_0_-1_f_l,0.615448141973
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_0_1_f_l,0.615448141973
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_0_-1_l_f,0.0065991848275
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_0_1_l_f,0.0065991848275
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_-1_0_f_l,0.871093981011
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_1_0_f_l,4.24140784435e-05
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_1_0_l_f,0.871202556906
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_-1_0_l_f,3.06982399757e-05
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_1_-1_f_l,0.00570770486254
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_1_1_f_l,0.00570770486254
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_1_-1_l_f,0.744761894471
+Atlantic Ocean,South Carolina,T,F_avsResult_outside_1_1_l_f,0.744761894471
+Atlantic Ocean,South Carolina,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,South Carolina,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,South Carolina,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,South Carolina,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,South Carolina,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,South Carolina,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,South Carolina,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,South Carolina,T,F_distBtwnCentroids_f_l,0.0413112672004
+Atlantic Ocean,South Carolina,T,F_distBtwnCentroids_l_f,0.0413112672004
+Atlantic Ocean,South Carolina,T,F_distHorizontalCentroid_f_l,-0.0379842626648
+Atlantic Ocean,South Carolina,T,F_distHorizontalCentroid_l_f,0.0379842626648
+Atlantic Ocean,South Carolina,T,F_distVerticalCentroid_f_l,0.0162424316995
+Atlantic Ocean,South Carolina,T,F_distVerticalCentroid_l_f,-0.0162424316995
+Atlantic Ocean,South Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,South Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Atlantic Ocean,Uwharrie National Forest,T,bias,1.0
+Atlantic Ocean,Uwharrie National Forest,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_0_-1_f_l,0.626566819822
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_0_1_f_l,0.626566819822
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_0_-1_l_f,0.00628448172262
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_0_1_l_f,0.00628448172262
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_-1_0_f_l,0.86201885604
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_1_0_f_l,5.1222069831e-05
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_1_0_l_f,0.862027418525
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_-1_0_l_f,5.12407037359e-05
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_1_-1_f_l,0.00777562999399
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_1_1_f_l,0.00777562999399
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_1_-1_l_f,0.720445956878
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_1_1_l_f,0.720445956878
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_0_-1_f_l,0.626566819822
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_0_1_f_l,0.626566819822
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_0_-1_l_f,0.00628448172262
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_0_1_l_f,0.00628448172262
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_-1_0_f_l,0.86201885604
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_1_0_f_l,5.1222069831e-05
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_1_0_l_f,0.862027418525
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_-1_0_l_f,5.12407037359e-05
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_1_-1_f_l,0.00777562999399
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_1_1_f_l,0.00777562999399
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_1_-1_l_f,0.720445956878
+Atlantic Ocean,Uwharrie National Forest,T,F_avsResult_outside_1_1_l_f,0.720445956878
+Atlantic Ocean,Uwharrie National Forest,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,Uwharrie National Forest,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,Uwharrie National Forest,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,Uwharrie National Forest,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,Uwharrie National Forest,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,Uwharrie National Forest,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,Uwharrie National Forest,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,Uwharrie National Forest,T,F_distBtwnCentroids_f_l,0.0433491466205
+Atlantic Ocean,Uwharrie National Forest,T,F_distBtwnCentroids_l_f,0.0433491466205
+Atlantic Ocean,Uwharrie National Forest,T,F_distHorizontalCentroid_f_l,-0.0393578887897
+Atlantic Ocean,Uwharrie National Forest,T,F_distHorizontalCentroid_l_f,0.0393578887897
+Atlantic Ocean,Uwharrie National Forest,T,F_distVerticalCentroid_f_l,0.0181687947521
+Atlantic Ocean,Uwharrie National Forest,T,F_distVerticalCentroid_l_f,-0.0181687947521
+Atlantic Ocean,Uwharrie National Forest,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,Uwharrie National Forest,T,F_rightOfFigureCentroid_l_f,1.0
+Charlotte,Atlantic Ocean,T,bias,1.0
+Charlotte,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+Charlotte,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.00645283418541
+Charlotte,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.00645283418541
+Charlotte,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.623799525159
+Charlotte,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.623799525159
+Charlotte,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.864650840089
+Charlotte,Atlantic Ocean,T,F_avsResult_-1_0_f_l,4.4831612206e-05
+Charlotte,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.864655145553
+Charlotte,Atlantic Ocean,T,F_avsResult_1_0_l_f,4.48301692162e-05
+Charlotte,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.728969206622
+Charlotte,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.728969206622
+Charlotte,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.00692379145442
+Charlotte,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.00692379145442
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.00645283418541
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.00645283418541
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.623799525159
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.623799525159
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.864650840089
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,4.4831612206e-05
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.864655145553
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,4.48301692162e-05
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.728969206622
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.728969206622
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.00692379145442
+Charlotte,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.00692379145442
+Charlotte,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+Charlotte,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+Charlotte,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+Charlotte,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+Charlotte,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+Charlotte,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+Charlotte,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+Charlotte,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.0434470652182
+Charlotte,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.0434470652182
+Charlotte,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.0395943535946
+Charlotte,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.0395943535946
+Charlotte,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0178867168452
+Charlotte,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0178867168452
+Charlotte,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+Charlotte,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+Charlotte,Charlotte,T,arg1 dates and arg2,1
+Charlotte,Charlotte,T,arg1 homes and arg2,1
+Charlotte,Charlotte,T,arg1 located in arg2,1
+Charlotte,Charlotte,T,arg1 matchmaking and arg2,1
+Charlotte,Charlotte,T,arg1 new car dealer and arg2,1
+Charlotte,Charlotte,T,arg1 personals and arg2,1
+Charlotte,Charlotte,T,arg1 serving arg2,1
+Charlotte,Charlotte,T,arg1 to help you move within arg2,1
+Charlotte,Charlotte,T,arg1 totally explained arg2,1
+Charlotte,Charlotte,T,arg1 updated arg2,1
+Charlotte,Charlotte,T,arg1 used car inventory search arg2,1
+Charlotte,Charlotte,T,arg1 wedding buses and arg2,1
+Charlotte,Charlotte,T,arg2 dates and arg1,1
+Charlotte,Charlotte,T,arg2 homes and arg1,1
+Charlotte,Charlotte,T,arg2 located in arg1,1
+Charlotte,Charlotte,T,arg2 matchmaking and arg1,1
+Charlotte,Charlotte,T,arg2 new car dealer and arg1,1
+Charlotte,Charlotte,T,arg2 personals and arg1,1
+Charlotte,Charlotte,T,arg2 serving arg1,1
+Charlotte,Charlotte,T,arg2 to help you move within arg1,1
+Charlotte,Charlotte,T,arg2 totally explained arg1,1
+Charlotte,Charlotte,T,arg2 updated arg1,1
+Charlotte,Charlotte,T,arg2 used car inventory search arg1,1
+Charlotte,Charlotte,T,arg2 wedding buses and arg1,1
+Charlotte,Charlotte,T,bias,1.0
+Charlotte,Charlotte,T,entity1=entity2,1
+Charlotte,Charlotte,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Charlotte,Charlotte,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Charlotte,Charlotte,T,F_avsResult_0_-1_f_l,0.00123172794806
+Charlotte,Charlotte,T,F_avsResult_0_1_f_l,0.00123172794806
+Charlotte,Charlotte,T,F_avsResult_0_-1_l_f,0.00123172794806
+Charlotte,Charlotte,T,F_avsResult_0_1_l_f,0.00123172794806
+Charlotte,Charlotte,T,F_avsResult_1_0_f_l,0.00266171912931
+Charlotte,Charlotte,T,F_avsResult_-1_0_f_l,4.40824548729e-06
+Charlotte,Charlotte,T,F_avsResult_1_0_l_f,0.00266171912931
+Charlotte,Charlotte,T,F_avsResult_-1_0_l_f,4.40824548729e-06
+Charlotte,Charlotte,T,F_avsResult_inside_0_-1_f_l,0.00123172794806
+Charlotte,Charlotte,T,F_avsResult_inside_0_1_f_l,0.00123172794806
+Charlotte,Charlotte,T,F_avsResult_inside_0_-1_l_f,0.00123172794806
+Charlotte,Charlotte,T,F_avsResult_inside_0_1_l_f,0.00123172794806
+Charlotte,Charlotte,T,F_avsResult_inside_1_0_f_l,0.00266171912931
+Charlotte,Charlotte,T,F_avsResult_inside_-1_0_f_l,4.40824548729e-06
+Charlotte,Charlotte,T,F_avsResult_inside_1_0_l_f,0.00266171912931
+Charlotte,Charlotte,T,F_avsResult_inside_-1_0_l_f,4.40824548729e-06
+Charlotte,Charlotte,T,F_math2dFigureIntersectionArea_f_l,1.0
+Charlotte,Charlotte,T,F_math2dFigureIntersectionArea_l_f,1.0
+Charlotte,Charlotte,T,F_math2dIntersectionArea_f_l,1.0
+Charlotte,Charlotte,T,F_math2dIntersectionArea_l_f,1.0
+Charlotte,Charlotte,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Charlotte,Charlotte,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Charlotte,Greensboro,T,arg1 and greater arg2,1
+Charlotte,Greensboro,T,arg1 and south of arg2,1
+Charlotte,Greensboro,T,arg1 instead of arg2,1
+Charlotte,Greensboro,T,arg1 through arg2,1
+Charlotte,Greensboro,T,arg1 would do well to emulate arg2,1
+Charlotte,Greensboro,T,arg2 and ended up in arg1,1
+Charlotte,Greensboro,T,arg2 and grew up in arg1,1
+Charlotte,Greensboro,T,arg2 and lives in arg1,1
+Charlotte,Greensboro,T,arg2 is close enough to arg1,1
+Charlotte,Greensboro,T,bias,1.0
+Charlotte,Greensboro,T,F_aboveFigureCentroid_f_l,1.0
+Charlotte,Greensboro,T,F_avsResult_0_-1_f_l,0.447642769214
+Charlotte,Greensboro,T,F_avsResult_0_1_f_l,0.447642769214
+Charlotte,Greensboro,T,F_avsResult_0_-1_l_f,0.0994800049069
+Charlotte,Greensboro,T,F_avsResult_0_1_l_f,0.0994800049069
+Charlotte,Greensboro,T,F_avsResult_-1_0_f_l,0.08303109272
+Charlotte,Greensboro,T,F_avsResult_1_0_f_l,0.488452346045
+Charlotte,Greensboro,T,F_avsResult_1_0_l_f,0.0786436088263
+Charlotte,Greensboro,T,F_avsResult_-1_0_l_f,0.472031620077
+Charlotte,Greensboro,T,F_avsResult_-1_-1_f_l,0.220057118415
+Charlotte,Greensboro,T,F_avsResult_-1_1_f_l,0.220057118415
+Charlotte,Greensboro,T,F_avsResult_-1_-1_l_f,0.262469260448
+Charlotte,Greensboro,T,F_avsResult_-1_1_l_f,0.262469260448
+Charlotte,Greensboro,T,F_avsResult_outside_0_-1_f_l,0.447642769214
+Charlotte,Greensboro,T,F_avsResult_outside_0_1_f_l,0.447642769214
+Charlotte,Greensboro,T,F_avsResult_outside_0_-1_l_f,0.0994800049069
+Charlotte,Greensboro,T,F_avsResult_outside_0_1_l_f,0.0994800049069
+Charlotte,Greensboro,T,F_avsResult_outside_-1_0_f_l,0.08303109272
+Charlotte,Greensboro,T,F_avsResult_outside_1_0_f_l,0.488452346045
+Charlotte,Greensboro,T,F_avsResult_outside_1_0_l_f,0.0786436088263
+Charlotte,Greensboro,T,F_avsResult_outside_-1_0_l_f,0.472031620077
+Charlotte,Greensboro,T,F_avsResult_outside_-1_-1_f_l,0.220057118415
+Charlotte,Greensboro,T,F_avsResult_outside_-1_1_f_l,0.220057118415
+Charlotte,Greensboro,T,F_avsResult_outside_-1_-1_l_f,0.262469260448
+Charlotte,Greensboro,T,F_avsResult_outside_-1_1_l_f,0.262469260448
+Charlotte,Greensboro,T,F_belowFigureCentroid_l_f,1.0
+Charlotte,Greensboro,T,F_closeDistNormFigure_f_l,1.0
+Charlotte,Greensboro,T,F_closeDistNormFigure_l_f,1.0
+Charlotte,Greensboro,T,F_closeDistNormLandmark_f_l,1.0
+Charlotte,Greensboro,T,F_closeDistNormLandmark_l_f,1.0
+Charlotte,Greensboro,T,F_closeDistNormUnion_f_l,1.0
+Charlotte,Greensboro,T,F_closeDistNormUnion_l_f,1.0
+Charlotte,Greensboro,T,F_distBtwnCentroids_f_l,1.12069115594
+Charlotte,Greensboro,T,F_distBtwnCentroids_l_f,1.12069115594
+Charlotte,Greensboro,T,F_distHorizontalCentroid_f_l,0.847701523192
+Charlotte,Greensboro,T,F_distHorizontalCentroid_l_f,-0.847701523192
+Charlotte,Greensboro,T,F_distVerticalCentroid_f_l,0.733042150613
+Charlotte,Greensboro,T,F_distVerticalCentroid_l_f,-0.733042150613
+Charlotte,Greensboro,T,F_leftOfFigureCentroid_l_f,1.0
+Charlotte,Greensboro,T,F_rightOfFigureCentroid_f_l,1.0
+Charlotte,Myrtle Beach,T,bias,1.0
+Charlotte,Myrtle Beach,T,F_aboveFigureCentroid_l_f,1.0
+Charlotte,Myrtle Beach,T,F_avsResult_0_-1_f_l,0.0917380950925
+Charlotte,Myrtle Beach,T,F_avsResult_0_1_f_l,0.0917380950925
+Charlotte,Myrtle Beach,T,F_avsResult_0_-1_l_f,0.480221540619
+Charlotte,Myrtle Beach,T,F_avsResult_0_1_l_f,0.480221540619
+Charlotte,Myrtle Beach,T,F_avsResult_-1_0_f_l,0.058339239745
+Charlotte,Myrtle Beach,T,F_avsResult_1_0_f_l,0.569053659781
+Charlotte,Myrtle Beach,T,F_avsResult_1_0_l_f,0.0571128273654
+Charlotte,Myrtle Beach,T,F_avsResult_-1_0_l_f,0.564266274945
+Charlotte,Myrtle Beach,T,F_avsResult_1_-1_f_l,0.316682144206
+Charlotte,Myrtle Beach,T,F_avsResult_1_1_f_l,0.316682144206
+Charlotte,Myrtle Beach,T,F_avsResult_1_-1_l_f,0.183350904488
+Charlotte,Myrtle Beach,T,F_avsResult_1_1_l_f,0.183350904488
+Charlotte,Myrtle Beach,T,F_avsResult_outside_0_-1_f_l,0.0917380950925
+Charlotte,Myrtle Beach,T,F_avsResult_outside_0_1_f_l,0.0917380950925
+Charlotte,Myrtle Beach,T,F_avsResult_outside_0_-1_l_f,0.480221540619
+Charlotte,Myrtle Beach,T,F_avsResult_outside_0_1_l_f,0.480221540619
+Charlotte,Myrtle Beach,T,F_avsResult_outside_-1_0_f_l,0.058339239745
+Charlotte,Myrtle Beach,T,F_avsResult_outside_1_0_f_l,0.569053659781
+Charlotte,Myrtle Beach,T,F_avsResult_outside_1_0_l_f,0.0571128273654
+Charlotte,Myrtle Beach,T,F_avsResult_outside_-1_0_l_f,0.564266274945
+Charlotte,Myrtle Beach,T,F_avsResult_outside_1_-1_f_l,0.316682144206
+Charlotte,Myrtle Beach,T,F_avsResult_outside_1_1_f_l,0.316682144206
+Charlotte,Myrtle Beach,T,F_avsResult_outside_1_-1_l_f,0.183350904488
+Charlotte,Myrtle Beach,T,F_avsResult_outside_1_1_l_f,0.183350904488
+Charlotte,Myrtle Beach,T,F_belowFigureCentroid_f_l,1.0
+Charlotte,Myrtle Beach,T,F_closeDistNormFigure_f_l,1.0
+Charlotte,Myrtle Beach,T,F_closeDistNormFigure_l_f,1.0
+Charlotte,Myrtle Beach,T,F_closeDistNormLandmark_f_l,1.0
+Charlotte,Myrtle Beach,T,F_closeDistNormLandmark_l_f,1.0
+Charlotte,Myrtle Beach,T,F_closeDistNormUnion_f_l,1.0
+Charlotte,Myrtle Beach,T,F_closeDistNormUnion_l_f,1.0
+Charlotte,Myrtle Beach,T,F_distBtwnCentroids_f_l,0.754613786243
+Charlotte,Myrtle Beach,T,F_distBtwnCentroids_l_f,0.754613786243
+Charlotte,Myrtle Beach,T,F_distHorizontalCentroid_f_l,0.597866337936
+Charlotte,Myrtle Beach,T,F_distHorizontalCentroid_l_f,-0.597866337936
+Charlotte,Myrtle Beach,T,F_distVerticalCentroid_f_l,-0.460432197343
+Charlotte,Myrtle Beach,T,F_distVerticalCentroid_l_f,0.460432197343
+Charlotte,Myrtle Beach,T,F_leftOfFigureCentroid_l_f,1.0
+Charlotte,Myrtle Beach,T,F_rightOfFigureCentroid_f_l,1.0
+Charlotte,North Carolina,T,arg1 and other arg2,1
+Charlotte,North Carolina,T,arg1 and the state of arg2,1
+Charlotte,North Carolina,T,arg1 and the surrounding parts of arg2,1
+Charlotte,North Carolina,T,arg1 and throughout arg2,1
+Charlotte,North Carolina,T,arg1 area in arg2,1
+Charlotte,North Carolina,T,arg1 area of arg2,1
+Charlotte,North Carolina,T,arg1 areas of arg2,1
+Charlotte,North Carolina,T,arg1 is the largest city in arg2,1
+Charlotte,North Carolina,T,arg1 putting greens and arg2,1
+Charlotte,North Carolina,T,arg1 region of arg2,1
+Charlotte,North Carolina,T,arg2 cities of arg1,1
+Charlotte,North Carolina,T,arg2 cities such as arg1,1
+Charlotte,North Carolina,T,arg2 include arg1,1
+Charlotte,North Carolina,T,arg2 including arg1,1
+Charlotte,North Carolina,T,arg2 including the cities of arg1,1
+Charlotte,North Carolina,T,arg2 locations in arg1,1
+Charlotte,North Carolina,T,arg2 which includes arg1,1
+Charlotte,North Carolina,T,bias,1.0
+Charlotte,North Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Charlotte,North Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Charlotte,North Carolina,T,F_aboveFigureCentroid_f_l,1.0
+Charlotte,North Carolina,T,F_avsResult_0_-1_f_l,0.300025971175
+Charlotte,North Carolina,T,F_avsResult_0_1_f_l,0.300025971175
+Charlotte,North Carolina,T,F_avsResult_0_-1_l_f,0.236236617451
+Charlotte,North Carolina,T,F_avsResult_0_1_l_f,0.236236617451
+Charlotte,North Carolina,T,F_avsResult_-1_0_f_l,0.0163634454048
+Charlotte,North Carolina,T,F_avsResult_1_0_f_l,0.662234174933
+Charlotte,North Carolina,T,F_avsResult_1_0_l_f,0.0944955952978
+Charlotte,North Carolina,T,F_avsResult_-1_0_l_f,0.162946177056
+Charlotte,North Carolina,T,F_avsResult_-1_-1_l_f,0.0552001839172
+Charlotte,North Carolina,T,F_avsResult_-1_1_l_f,0.0552001839172
+Charlotte,North Carolina,T,F_avsResult_inside_0_-1_l_f,0.236236617451
+Charlotte,North Carolina,T,F_avsResult_inside_0_1_l_f,0.236236617451
+Charlotte,North Carolina,T,F_avsResult_inside_1_0_l_f,0.0944955952978
+Charlotte,North Carolina,T,F_avsResult_inside_-1_0_l_f,0.162946177056
+Charlotte,North Carolina,T,F_avsResult_inside_-1_-1_l_f,0.0552001839172
+Charlotte,North Carolina,T,F_avsResult_inside_-1_1_l_f,0.0552001839172
+Charlotte,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.300025971175
+Charlotte,North Carolina,T,F_avsResult_outside_0_1_f_l,0.300025971175
+Charlotte,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.0163634454048
+Charlotte,North Carolina,T,F_avsResult_outside_1_0_f_l,0.662234174933
+Charlotte,North Carolina,T,F_belowFigureCentroid_l_f,1.0
+Charlotte,North Carolina,T,F_distBtwnCentroids_f_l,0.0693921887962
+Charlotte,North Carolina,T,F_distBtwnCentroids_l_f,0.0693921887962
+Charlotte,North Carolina,T,F_distHorizontalCentroid_f_l,0.068359413198
+Charlotte,North Carolina,T,F_distHorizontalCentroid_l_f,-0.068359413198
+Charlotte,North Carolina,T,F_distVerticalCentroid_f_l,0.0119275518509
+Charlotte,North Carolina,T,F_distVerticalCentroid_l_f,-0.0119275518509
+Charlotte,North Carolina,T,F_leftOfFigureCentroid_l_f,1.0
+Charlotte,North Carolina,T,F_math2dFigureIntersectionArea_f_l,1.0
+Charlotte,North Carolina,T,F_math2dFigureIntersectionArea_l_f,2.26672138738e-05
+Charlotte,North Carolina,T,F_math2dIntersectionArea_f_l,2.26672138738e-05
+Charlotte,North Carolina,T,F_math2dIntersectionArea_l_f,2.26672138738e-05
+Charlotte,North Carolina,T,F_math2dLandmarkIntersectionArea_f_l,2.26672138738e-05
+Charlotte,North Carolina,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Charlotte,North Carolina,T,F_rightOfFigureCentroid_f_l,1.0
+Charlotte,Raleigh,T,arg1 and the capital city of arg2,1
+Charlotte,Raleigh,T,arg1 is better than arg2,1
+Charlotte,Raleigh,T,arg2 and another in arg1,1
+Charlotte,Raleigh,T,arg2 and its largest city is arg1,1
+Charlotte,Raleigh,T,arg2 and the largest city is arg1,1
+Charlotte,Raleigh,T,arg2 and the other is in arg1,1
+Charlotte,Raleigh,T,arg2 and two hours from arg1,1
+Charlotte,Raleigh,T,arg2 area from arg1,1
+Charlotte,Raleigh,T,arg2 as part of arg1,1
+Charlotte,Raleigh,T,arg2 but here in arg1,1
+Charlotte,Raleigh,T,arg2 from their home in arg1,1
+Charlotte,Raleigh,T,arg2 is the capital and arg1,1
+Charlotte,Raleigh,T,bias,1.0
+Charlotte,Raleigh,T,F_aboveFigureCentroid_f_l,1.0
+Charlotte,Raleigh,T,F_avsResult_0_-1_f_l,0.341978697607
+Charlotte,Raleigh,T,F_avsResult_0_1_f_l,0.341978697607
+Charlotte,Raleigh,T,F_avsResult_0_-1_l_f,0.165035045147
+Charlotte,Raleigh,T,F_avsResult_0_1_l_f,0.165035045147
+Charlotte,Raleigh,T,F_avsResult_-1_0_f_l,0.0228163975362
+Charlotte,Raleigh,T,F_avsResult_1_0_f_l,0.671538689744
+Charlotte,Raleigh,T,F_avsResult_1_0_l_f,0.0215953312678
+Charlotte,Raleigh,T,F_avsResult_-1_0_l_f,0.662921077533
+Charlotte,Raleigh,T,F_avsResult_-1_-1_f_l,0.0211333698472
+Charlotte,Raleigh,T,F_avsResult_-1_1_f_l,0.0211333698472
+Charlotte,Raleigh,T,F_avsResult_-1_-1_l_f,0.593125675561
+Charlotte,Raleigh,T,F_avsResult_-1_1_l_f,0.593125675561
+Charlotte,Raleigh,T,F_avsResult_outside_0_-1_f_l,0.341978697607
+Charlotte,Raleigh,T,F_avsResult_outside_0_1_f_l,0.341978697607
+Charlotte,Raleigh,T,F_avsResult_outside_0_-1_l_f,0.165035045147
+Charlotte,Raleigh,T,F_avsResult_outside_0_1_l_f,0.165035045147
+Charlotte,Raleigh,T,F_avsResult_outside_-1_0_f_l,0.0228163975362
+Charlotte,Raleigh,T,F_avsResult_outside_1_0_f_l,0.671538689744
+Charlotte,Raleigh,T,F_avsResult_outside_1_0_l_f,0.0215953312678
+Charlotte,Raleigh,T,F_avsResult_outside_-1_0_l_f,0.662921077533
+Charlotte,Raleigh,T,F_avsResult_outside_-1_-1_f_l,0.0211333698472
+Charlotte,Raleigh,T,F_avsResult_outside_-1_1_f_l,0.0211333698472
+Charlotte,Raleigh,T,F_avsResult_outside_-1_-1_l_f,0.593125675561
+Charlotte,Raleigh,T,F_avsResult_outside_-1_1_l_f,0.593125675561
+Charlotte,Raleigh,T,F_belowFigureCentroid_l_f,1.0
+Charlotte,Raleigh,T,F_closeDistNormFigure_f_l,1.0
+Charlotte,Raleigh,T,F_closeDistNormFigure_l_f,1.0
+Charlotte,Raleigh,T,F_closeDistNormLandmark_f_l,1.0
+Charlotte,Raleigh,T,F_closeDistNormLandmark_l_f,1.0
+Charlotte,Raleigh,T,F_closeDistNormUnion_f_l,1.0
+Charlotte,Raleigh,T,F_closeDistNormUnion_l_f,1.0
+Charlotte,Raleigh,T,F_distBtwnCentroids_f_l,1.26942600511
+Charlotte,Raleigh,T,F_distBtwnCentroids_l_f,1.26942600511
+Charlotte,Raleigh,T,F_distHorizontalCentroid_f_l,1.22278082994
+Charlotte,Raleigh,T,F_distHorizontalCentroid_l_f,-1.22278082994
+Charlotte,Raleigh,T,F_distVerticalCentroid_f_l,0.340953698287
+Charlotte,Raleigh,T,F_distVerticalCentroid_l_f,-0.340953698287
+Charlotte,Raleigh,T,F_leftOfFigureCentroid_l_f,1.0
+Charlotte,Raleigh,T,F_rightOfFigureCentroid_f_l,1.0
+Charlotte,South Carolina,T,arg2 border from arg1,1
+Charlotte,South Carolina,T,arg2 had come to arg1,1
+Charlotte,South Carolina,T,arg2 including arg1,1
+Charlotte,South Carolina,T,arg2 is a suburb of arg1,1
+Charlotte,South Carolina,T,arg2 is located just south of arg1,1
+Charlotte,South Carolina,T,arg2 just one hour from arg1,1
+Charlotte,South Carolina,T,arg2 just south of arg1,1
+Charlotte,South Carolina,T,arg2 just southwest of arg1,1
+Charlotte,South Carolina,T,arg2 line to downtown arg1,1
+Charlotte,South Carolina,T,arg2 portions of arg1,1
+Charlotte,South Carolina,T,arg2 suburbs of arg1,1
+Charlotte,South Carolina,T,arg2 that relocated to arg1,1
+Charlotte,South Carolina,T,arg2 with a regional office in arg1,1
+Charlotte,South Carolina,T,bias,1.0
+Charlotte,South Carolina,T,F_aboveFigureCentroid_l_f,1.0
+Charlotte,South Carolina,T,F_avsResult_0_-1_f_l,0.00398372748242
+Charlotte,South Carolina,T,F_avsResult_0_1_f_l,0.00398372748242
+Charlotte,South Carolina,T,F_avsResult_0_-1_l_f,0.348201441783
+Charlotte,South Carolina,T,F_avsResult_0_1_l_f,0.348201441783
+Charlotte,South Carolina,T,F_avsResult_1_0_f_l,0.23985829136
+Charlotte,South Carolina,T,F_avsResult_-1_0_f_l,0.258896300607
+Charlotte,South Carolina,T,F_avsResult_-1_0_l_f,0.0585255624458
+Charlotte,South Carolina,T,F_avsResult_1_0_l_f,0.212169653118
+Charlotte,South Carolina,T,F_avsResult_-1_-1_l_f,0.122608419073
+Charlotte,South Carolina,T,F_avsResult_-1_1_l_f,0.122608419073
+Charlotte,South Carolina,T,F_avsResult_outside_0_-1_f_l,0.00398372748242
+Charlotte,South Carolina,T,F_avsResult_outside_0_1_f_l,0.00398372748242
+Charlotte,South Carolina,T,F_avsResult_outside_0_-1_l_f,0.348201441783
+Charlotte,South Carolina,T,F_avsResult_outside_0_1_l_f,0.348201441783
+Charlotte,South Carolina,T,F_avsResult_outside_1_0_f_l,0.23985829136
+Charlotte,South Carolina,T,F_avsResult_outside_-1_0_f_l,0.258896300607
+Charlotte,South Carolina,T,F_avsResult_outside_-1_0_l_f,0.0585255624458
+Charlotte,South Carolina,T,F_avsResult_outside_1_0_l_f,0.212169653118
+Charlotte,South Carolina,T,F_avsResult_outside_-1_-1_l_f,0.122608419073
+Charlotte,South Carolina,T,F_avsResult_outside_-1_1_l_f,0.122608419073
+Charlotte,South Carolina,T,F_belowFigureCentroid_f_l,1.0
+Charlotte,South Carolina,T,F_closeDistNormFigure_f_l,1.0
+Charlotte,South Carolina,T,F_closeDistNormFigure_l_f,0.00298853735073
+Charlotte,South Carolina,T,F_closeDistNormLandmark_f_l,0.00298853735073
+Charlotte,South Carolina,T,F_closeDistNormLandmark_l_f,1.0
+Charlotte,South Carolina,T,F_closeDistNormUnion_f_l,0.00298841805921
+Charlotte,South Carolina,T,F_closeDistNormUnion_l_f,0.00298841805921
+Charlotte,South Carolina,T,F_distBtwnCentroids_f_l,0.0875883898698
+Charlotte,South Carolina,T,F_distBtwnCentroids_l_f,0.0875883898698
+Charlotte,South Carolina,T,F_distHorizontalCentroid_f_l,-0.00330106689001
+Charlotte,South Carolina,T,F_distHorizontalCentroid_l_f,0.00330106689001
+Charlotte,South Carolina,T,F_distVerticalCentroid_f_l,-0.0875261617882
+Charlotte,South Carolina,T,F_distVerticalCentroid_l_f,0.0875261617882
+Charlotte,South Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Charlotte,South Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Charlotte,Uwharrie National Forest,T,arg2 northeast of arg1,1
+Charlotte,Uwharrie National Forest,T,bias,1.0
+Charlotte,Uwharrie National Forest,T,F_aboveFigureCentroid_f_l,1.0
+Charlotte,Uwharrie National Forest,T,F_avsResult_0_-1_f_l,0.287808032036
+Charlotte,Uwharrie National Forest,T,F_avsResult_0_1_f_l,0.287808032036
+Charlotte,Uwharrie National Forest,T,F_avsResult_0_-1_l_f,0.213127308498
+Charlotte,Uwharrie National Forest,T,F_avsResult_0_1_l_f,0.213127308498
+Charlotte,Uwharrie National Forest,T,F_avsResult_-1_0_f_l,0.020567212241
+Charlotte,Uwharrie National Forest,T,F_avsResult_1_0_f_l,0.582519633924
+Charlotte,Uwharrie National Forest,T,F_avsResult_1_0_l_f,0.0203084832403
+Charlotte,Uwharrie National Forest,T,F_avsResult_-1_0_l_f,0.583321947814
+Charlotte,Uwharrie National Forest,T,F_avsResult_outside_0_-1_f_l,0.287808032036
+Charlotte,Uwharrie National Forest,T,F_avsResult_outside_0_1_f_l,0.287808032036
+Charlotte,Uwharrie National Forest,T,F_avsResult_outside_0_-1_l_f,0.213127308498
+Charlotte,Uwharrie National Forest,T,F_avsResult_outside_0_1_l_f,0.213127308498
+Charlotte,Uwharrie National Forest,T,F_avsResult_outside_-1_0_f_l,0.020567212241
+Charlotte,Uwharrie National Forest,T,F_avsResult_outside_1_0_f_l,0.582519633924
+Charlotte,Uwharrie National Forest,T,F_avsResult_outside_1_0_l_f,0.0203084832403
+Charlotte,Uwharrie National Forest,T,F_avsResult_outside_-1_0_l_f,0.583321947814
+Charlotte,Uwharrie National Forest,T,F_belowFigureCentroid_l_f,1.0
+Charlotte,Uwharrie National Forest,T,F_closeDistNormFigure_f_l,1.0
+Charlotte,Uwharrie National Forest,T,F_closeDistNormFigure_l_f,1.0
+Charlotte,Uwharrie National Forest,T,F_closeDistNormLandmark_f_l,1.0
+Charlotte,Uwharrie National Forest,T,F_closeDistNormLandmark_l_f,1.0
+Charlotte,Uwharrie National Forest,T,F_closeDistNormUnion_f_l,1.0
+Charlotte,Uwharrie National Forest,T,F_closeDistNormUnion_l_f,1.0
+Charlotte,Uwharrie National Forest,T,F_distBtwnCentroids_f_l,5.73969992474
+Charlotte,Uwharrie National Forest,T,F_distBtwnCentroids_l_f,5.73969992474
+Charlotte,Uwharrie National Forest,T,F_distHorizontalCentroid_f_l,5.65769728856
+Charlotte,Uwharrie National Forest,T,F_distHorizontalCentroid_l_f,-5.65769728856
+Charlotte,Uwharrie National Forest,T,F_distVerticalCentroid_f_l,0.966755717411
+Charlotte,Uwharrie National Forest,T,F_distVerticalCentroid_l_f,-0.966755717411
+Charlotte,Uwharrie National Forest,T,F_leftOfFigureCentroid_l_f,1.0
+Charlotte,Uwharrie National Forest,T,F_rightOfFigureCentroid_f_l,1.0
+Greensboro,Atlantic Ocean,T,bias,1.0
+Greensboro,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+Greensboro,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.0056030526608
+Greensboro,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.0056030526608
+Greensboro,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.631227151075
+Greensboro,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.631227151075
+Greensboro,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.858339655502
+Greensboro,Atlantic Ocean,T,F_avsResult_-1_0_f_l,5.24064608306e-05
+Greensboro,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.858266613526
+Greensboro,Atlantic Ocean,T,F_avsResult_1_0_l_f,5.35712081157e-05
+Greensboro,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.708997075237
+Greensboro,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.708997075237
+Greensboro,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.00869294892612
+Greensboro,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.00869294892612
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.0056030526608
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.0056030526608
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.631227151075
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.631227151075
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.858339655502
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,5.24064608306e-05
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.858266613526
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,5.35712081157e-05
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.708997075237
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.708997075237
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.00869294892612
+Greensboro,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.00869294892612
+Greensboro,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+Greensboro,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+Greensboro,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+Greensboro,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+Greensboro,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+Greensboro,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+Greensboro,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+Greensboro,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.0420895199992
+Greensboro,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.0420895199992
+Greensboro,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.0380038909583
+Greensboro,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.0380038909583
+Greensboro,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0180895540516
+Greensboro,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0180895540516
+Greensboro,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+Greensboro,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+Greensboro,Charlotte,T,arg1 and ended up in arg2,1
+Greensboro,Charlotte,T,arg1 and grew up in arg2,1
+Greensboro,Charlotte,T,arg1 and lives in arg2,1
+Greensboro,Charlotte,T,arg1 is close enough to arg2,1
+Greensboro,Charlotte,T,arg2 and greater arg1,1
+Greensboro,Charlotte,T,arg2 and south of arg1,1
+Greensboro,Charlotte,T,arg2 instead of arg1,1
+Greensboro,Charlotte,T,arg2 through arg1,1
+Greensboro,Charlotte,T,arg2 would do well to emulate arg1,1
+Greensboro,Charlotte,T,bias,1.0
+Greensboro,Charlotte,T,F_aboveFigureCentroid_l_f,1.0
+Greensboro,Charlotte,T,F_avsResult_0_-1_f_l,0.0994800049069
+Greensboro,Charlotte,T,F_avsResult_0_1_f_l,0.0994800049069
+Greensboro,Charlotte,T,F_avsResult_0_-1_l_f,0.447642769214
+Greensboro,Charlotte,T,F_avsResult_0_1_l_f,0.447642769214
+Greensboro,Charlotte,T,F_avsResult_1_0_f_l,0.0786436088263
+Greensboro,Charlotte,T,F_avsResult_-1_0_f_l,0.472031620077
+Greensboro,Charlotte,T,F_avsResult_-1_0_l_f,0.08303109272
+Greensboro,Charlotte,T,F_avsResult_1_0_l_f,0.488452346045
+Greensboro,Charlotte,T,F_avsResult_-1_-1_f_l,0.262469260448
+Greensboro,Charlotte,T,F_avsResult_-1_1_f_l,0.262469260448
+Greensboro,Charlotte,T,F_avsResult_-1_-1_l_f,0.220057118415
+Greensboro,Charlotte,T,F_avsResult_-1_1_l_f,0.220057118415
+Greensboro,Charlotte,T,F_avsResult_outside_0_-1_f_l,0.0994800049069
+Greensboro,Charlotte,T,F_avsResult_outside_0_1_f_l,0.0994800049069
+Greensboro,Charlotte,T,F_avsResult_outside_0_-1_l_f,0.447642769214
+Greensboro,Charlotte,T,F_avsResult_outside_0_1_l_f,0.447642769214
+Greensboro,Charlotte,T,F_avsResult_outside_1_0_f_l,0.0786436088263
+Greensboro,Charlotte,T,F_avsResult_outside_-1_0_f_l,0.472031620077
+Greensboro,Charlotte,T,F_avsResult_outside_-1_0_l_f,0.08303109272
+Greensboro,Charlotte,T,F_avsResult_outside_1_0_l_f,0.488452346045
+Greensboro,Charlotte,T,F_avsResult_outside_-1_-1_f_l,0.262469260448
+Greensboro,Charlotte,T,F_avsResult_outside_-1_1_f_l,0.262469260448
+Greensboro,Charlotte,T,F_avsResult_outside_-1_-1_l_f,0.220057118415
+Greensboro,Charlotte,T,F_avsResult_outside_-1_1_l_f,0.220057118415
+Greensboro,Charlotte,T,F_belowFigureCentroid_f_l,1.0
+Greensboro,Charlotte,T,F_closeDistNormFigure_f_l,1.0
+Greensboro,Charlotte,T,F_closeDistNormFigure_l_f,1.0
+Greensboro,Charlotte,T,F_closeDistNormLandmark_f_l,1.0
+Greensboro,Charlotte,T,F_closeDistNormLandmark_l_f,1.0
+Greensboro,Charlotte,T,F_closeDistNormUnion_f_l,1.0
+Greensboro,Charlotte,T,F_closeDistNormUnion_l_f,1.0
+Greensboro,Charlotte,T,F_distBtwnCentroids_f_l,1.12069115594
+Greensboro,Charlotte,T,F_distBtwnCentroids_l_f,1.12069115594
+Greensboro,Charlotte,T,F_distHorizontalCentroid_f_l,-0.847701523192
+Greensboro,Charlotte,T,F_distHorizontalCentroid_l_f,0.847701523192
+Greensboro,Charlotte,T,F_distVerticalCentroid_f_l,-0.733042150613
+Greensboro,Charlotte,T,F_distVerticalCentroid_l_f,0.733042150613
+Greensboro,Charlotte,T,F_leftOfFigureCentroid_f_l,1.0
+Greensboro,Charlotte,T,F_rightOfFigureCentroid_l_f,1.0
+Greensboro,Greensboro,T,arg1 located in arg2,1
+Greensboro,Greensboro,T,arg1 matchmaking and arg2,1
+Greensboro,Greensboro,T,arg1 or sending flowers to arg2,1
+Greensboro,Greensboro,T,arg1 or shipped to arg2,1
+Greensboro,Greensboro,T,arg1 personal injury lawyer visit our arg2,1
+Greensboro,Greensboro,T,arg1 personals and arg2,1
+Greensboro,Greensboro,T,arg1 pool builders in arg2,1
+Greensboro,Greensboro,T,arg1 properties or browse arg2,1
+Greensboro,Greensboro,T,arg1 schools pages to research arg2,1
+Greensboro,Greensboro,T,arg1 single men and arg2,1
+Greensboro,Greensboro,T,arg1 staffing location serves arg2,1
+Greensboro,Greensboro,T,arg1 to help you move within arg2,1
+Greensboro,Greensboro,T,arg2 located in arg1,1
+Greensboro,Greensboro,T,arg2 matchmaking and arg1,1
+Greensboro,Greensboro,T,arg2 or sending flowers to arg1,1
+Greensboro,Greensboro,T,arg2 or shipped to arg1,1
+Greensboro,Greensboro,T,arg2 personal injury lawyer visit our arg1,1
+Greensboro,Greensboro,T,arg2 personals and arg1,1
+Greensboro,Greensboro,T,arg2 pool builders in arg1,1
+Greensboro,Greensboro,T,arg2 properties or browse arg1,1
+Greensboro,Greensboro,T,arg2 schools pages to research arg1,1
+Greensboro,Greensboro,T,arg2 single men and arg1,1
+Greensboro,Greensboro,T,arg2 staffing location serves arg1,1
+Greensboro,Greensboro,T,arg2 to help you move within arg1,1
+Greensboro,Greensboro,T,bias,1.0
+Greensboro,Greensboro,T,entity1=entity2,1
+Greensboro,Greensboro,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Greensboro,Greensboro,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Greensboro,Greensboro,T,F_avsResult_0_-1_f_l,0.0109716172732
+Greensboro,Greensboro,T,F_avsResult_0_1_f_l,0.0109716172732
+Greensboro,Greensboro,T,F_avsResult_0_-1_l_f,0.0109716172732
+Greensboro,Greensboro,T,F_avsResult_0_1_l_f,0.0109716172732
+Greensboro,Greensboro,T,F_avsResult_1_0_f_l,0.00657231141441
+Greensboro,Greensboro,T,F_avsResult_-1_0_f_l,0.0203957889288
+Greensboro,Greensboro,T,F_avsResult_1_0_l_f,0.00657231141441
+Greensboro,Greensboro,T,F_avsResult_-1_0_l_f,0.0203957889288
+Greensboro,Greensboro,T,F_avsResult_inside_0_-1_f_l,0.0109716172732
+Greensboro,Greensboro,T,F_avsResult_inside_0_1_f_l,0.0109716172732
+Greensboro,Greensboro,T,F_avsResult_inside_0_-1_l_f,0.0109716172732
+Greensboro,Greensboro,T,F_avsResult_inside_0_1_l_f,0.0109716172732
+Greensboro,Greensboro,T,F_avsResult_inside_1_0_f_l,0.00657231141441
+Greensboro,Greensboro,T,F_avsResult_inside_-1_0_f_l,0.0203957889288
+Greensboro,Greensboro,T,F_avsResult_inside_1_0_l_f,0.00657231141441
+Greensboro,Greensboro,T,F_avsResult_inside_-1_0_l_f,0.0203957889288
+Greensboro,Greensboro,T,F_math2dFigureIntersectionArea_f_l,1.0
+Greensboro,Greensboro,T,F_math2dFigureIntersectionArea_l_f,1.0
+Greensboro,Greensboro,T,F_math2dIntersectionArea_f_l,1.0
+Greensboro,Greensboro,T,F_math2dIntersectionArea_l_f,1.0
+Greensboro,Greensboro,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Greensboro,Greensboro,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Greensboro,Myrtle Beach,T,bias,1.0
+Greensboro,Myrtle Beach,T,F_aboveFigureCentroid_l_f,1.0
+Greensboro,Myrtle Beach,T,F_avsResult_0_-1_f_l,0.0301974674765
+Greensboro,Myrtle Beach,T,F_avsResult_0_1_f_l,0.0301974674765
+Greensboro,Myrtle Beach,T,F_avsResult_0_-1_l_f,0.65292846181
+Greensboro,Myrtle Beach,T,F_avsResult_0_1_l_f,0.65292846181
+Greensboro,Myrtle Beach,T,F_avsResult_-1_0_f_l,0.133405401664
+Greensboro,Myrtle Beach,T,F_avsResult_1_0_f_l,0.376351200031
+Greensboro,Myrtle Beach,T,F_avsResult_1_0_l_f,0.137843499214
+Greensboro,Myrtle Beach,T,F_avsResult_-1_0_l_f,0.381467926165
+Greensboro,Myrtle Beach,T,F_avsResult_1_-1_f_l,0.0737957822952
+Greensboro,Myrtle Beach,T,F_avsResult_1_1_f_l,0.0737957822952
+Greensboro,Myrtle Beach,T,F_avsResult_1_-1_l_f,0.490196195253
+Greensboro,Myrtle Beach,T,F_avsResult_1_1_l_f,0.490196195253
+Greensboro,Myrtle Beach,T,F_avsResult_outside_0_-1_f_l,0.0301974674765
+Greensboro,Myrtle Beach,T,F_avsResult_outside_0_1_f_l,0.0301974674765
+Greensboro,Myrtle Beach,T,F_avsResult_outside_0_-1_l_f,0.65292846181
+Greensboro,Myrtle Beach,T,F_avsResult_outside_0_1_l_f,0.65292846181
+Greensboro,Myrtle Beach,T,F_avsResult_outside_-1_0_f_l,0.133405401664
+Greensboro,Myrtle Beach,T,F_avsResult_outside_1_0_f_l,0.376351200031
+Greensboro,Myrtle Beach,T,F_avsResult_outside_1_0_l_f,0.137843499214
+Greensboro,Myrtle Beach,T,F_avsResult_outside_-1_0_l_f,0.381467926165
+Greensboro,Myrtle Beach,T,F_avsResult_outside_1_-1_f_l,0.0737957822952
+Greensboro,Myrtle Beach,T,F_avsResult_outside_1_1_f_l,0.0737957822952
+Greensboro,Myrtle Beach,T,F_avsResult_outside_1_-1_l_f,0.490196195253
+Greensboro,Myrtle Beach,T,F_avsResult_outside_1_1_l_f,0.490196195253
+Greensboro,Myrtle Beach,T,F_belowFigureCentroid_f_l,1.0
+Greensboro,Myrtle Beach,T,F_closeDistNormFigure_f_l,1.0
+Greensboro,Myrtle Beach,T,F_closeDistNormFigure_l_f,1.0
+Greensboro,Myrtle Beach,T,F_closeDistNormLandmark_f_l,1.0
+Greensboro,Myrtle Beach,T,F_closeDistNormLandmark_l_f,1.0
+Greensboro,Myrtle Beach,T,F_closeDistNormUnion_f_l,1.0
+Greensboro,Myrtle Beach,T,F_closeDistNormUnion_l_f,1.0
+Greensboro,Myrtle Beach,T,F_distBtwnCentroids_f_l,0.822158386112
+Greensboro,Myrtle Beach,T,F_distBtwnCentroids_l_f,0.822158386112
+Greensboro,Myrtle Beach,T,F_distHorizontalCentroid_f_l,0.304111541005
+Greensboro,Myrtle Beach,T,F_distHorizontalCentroid_l_f,-0.304111541005
+Greensboro,Myrtle Beach,T,F_distVerticalCentroid_f_l,-0.763845915406
+Greensboro,Myrtle Beach,T,F_distVerticalCentroid_l_f,0.763845915406
+Greensboro,Myrtle Beach,T,F_leftOfFigureCentroid_l_f,1.0
+Greensboro,Myrtle Beach,T,F_rightOfFigureCentroid_f_l,1.0
+Greensboro,North Carolina,T,arg1 and the state of arg2,1
+Greensboro,North Carolina,T,arg1 and throughout arg2,1
+Greensboro,North Carolina,T,arg1 area of arg2,1
+Greensboro,North Carolina,T,arg1 areas of arg2,1
+Greensboro,North Carolina,T,arg1 hotel in arg2,1
+Greensboro,North Carolina,T,arg2 located in arg1,1
+Greensboro,North Carolina,T,arg2 meeting in arg1,1
+Greensboro,North Carolina,T,arg2 such as arg1,1
+Greensboro,North Carolina,T,arg2 to come to arg1,1
+Greensboro,North Carolina,T,arg2 which includes arg1,1
+Greensboro,North Carolina,T,arg2 which is north of arg1,1
+Greensboro,North Carolina,T,arg2 with a satellite office in arg1,1
+Greensboro,North Carolina,T,bias,1.0
+Greensboro,North Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Greensboro,North Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Greensboro,North Carolina,T,F_aboveFigureCentroid_l_f,1.0
+Greensboro,North Carolina,T,F_avsResult_0_-1_f_l,0.113655567059
+Greensboro,North Carolina,T,F_avsResult_0_1_f_l,0.113655567059
+Greensboro,North Carolina,T,F_avsResult_0_-1_l_f,0.121821737267
+Greensboro,North Carolina,T,F_avsResult_0_1_l_f,0.121821737267
+Greensboro,North Carolina,T,F_avsResult_-1_0_f_l,0.0794098666019
+Greensboro,North Carolina,T,F_avsResult_1_0_f_l,0.449398199724
+Greensboro,North Carolina,T,F_avsResult_1_0_l_f,0.0408968679391
+Greensboro,North Carolina,T,F_avsResult_-1_0_l_f,0.0543278524747
+Greensboro,North Carolina,T,F_avsResult_1_-1_f_l,0.274864810182
+Greensboro,North Carolina,T,F_avsResult_1_1_f_l,0.274864810182
+Greensboro,North Carolina,T,F_avsResult_inside_0_-1_l_f,0.121821737267
+Greensboro,North Carolina,T,F_avsResult_inside_0_1_l_f,0.121821737267
+Greensboro,North Carolina,T,F_avsResult_inside_1_0_l_f,0.0408968679391
+Greensboro,North Carolina,T,F_avsResult_inside_-1_0_l_f,0.0543278524747
+Greensboro,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.113655567059
+Greensboro,North Carolina,T,F_avsResult_outside_0_1_f_l,0.113655567059
+Greensboro,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.0794098666019
+Greensboro,North Carolina,T,F_avsResult_outside_1_0_f_l,0.449398199724
+Greensboro,North Carolina,T,F_avsResult_outside_1_-1_f_l,0.274864810182
+Greensboro,North Carolina,T,F_avsResult_outside_1_1_f_l,0.274864810182
+Greensboro,North Carolina,T,F_belowFigureCentroid_f_l,1.0
+Greensboro,North Carolina,T,F_distBtwnCentroids_f_l,0.0362347358431
+Greensboro,North Carolina,T,F_distBtwnCentroids_l_f,0.0362347358431
+Greensboro,North Carolina,T,F_distHorizontalCentroid_f_l,0.0280733528294
+Greensboro,North Carolina,T,F_distHorizontalCentroid_l_f,-0.0280733528294
+Greensboro,North Carolina,T,F_distVerticalCentroid_f_l,-0.0229094509436
+Greensboro,North Carolina,T,F_distVerticalCentroid_l_f,0.0229094509436
+Greensboro,North Carolina,T,F_leftOfFigureCentroid_l_f,1.0
+Greensboro,North Carolina,T,F_math2dFigureIntersectionArea_f_l,1.0
+Greensboro,North Carolina,T,F_math2dFigureIntersectionArea_l_f,0.00576339008457
+Greensboro,North Carolina,T,F_math2dIntersectionArea_f_l,0.00576339008457
+Greensboro,North Carolina,T,F_math2dIntersectionArea_l_f,0.00576339008457
+Greensboro,North Carolina,T,F_math2dLandmarkIntersectionArea_f_l,0.00576339008457
+Greensboro,North Carolina,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Greensboro,North Carolina,T,F_rightOfFigureCentroid_f_l,1.0
+Greensboro,Raleigh,T,arg1 and one is in arg2,1
+Greensboro,Raleigh,T,arg1 beat out arg2,1
+Greensboro,Raleigh,T,arg1 before moving to arg2,1
+Greensboro,Raleigh,T,arg1 in addition to arg2,1
+Greensboro,Raleigh,T,arg1 native who lives in arg2,1
+Greensboro,Raleigh,T,arg1 serving arg2,1
+Greensboro,Raleigh,T,arg1 with an office in arg2,1
+Greensboro,Raleigh,T,arg2 and one at arg1,1
+Greensboro,Raleigh,T,arg2 heading to arg1,1
+Greensboro,Raleigh,T,arg2 in the area of arg1,1
+Greensboro,Raleigh,T,bias,1.0
+Greensboro,Raleigh,T,F_aboveFigureCentroid_l_f,1.0
+Greensboro,Raleigh,T,F_avsResult_0_-1_f_l,0.193106975665
+Greensboro,Raleigh,T,F_avsResult_0_1_f_l,0.193106975665
+Greensboro,Raleigh,T,F_avsResult_0_-1_l_f,0.29647877989
+Greensboro,Raleigh,T,F_avsResult_0_1_l_f,0.29647877989
+Greensboro,Raleigh,T,F_avsResult_-1_0_f_l,0.021008063793
+Greensboro,Raleigh,T,F_avsResult_1_0_f_l,0.59220004864
+Greensboro,Raleigh,T,F_avsResult_1_0_l_f,0.0233805447299
+Greensboro,Raleigh,T,F_avsResult_-1_0_l_f,0.587785468673
+Greensboro,Raleigh,T,F_avsResult_outside_0_-1_f_l,0.193106975665
+Greensboro,Raleigh,T,F_avsResult_outside_0_1_f_l,0.193106975665
+Greensboro,Raleigh,T,F_avsResult_outside_0_-1_l_f,0.29647877989
+Greensboro,Raleigh,T,F_avsResult_outside_0_1_l_f,0.29647877989
+Greensboro,Raleigh,T,F_avsResult_outside_-1_0_f_l,0.021008063793
+Greensboro,Raleigh,T,F_avsResult_outside_1_0_f_l,0.59220004864
+Greensboro,Raleigh,T,F_avsResult_outside_1_0_l_f,0.0233805447299
+Greensboro,Raleigh,T,F_avsResult_outside_-1_0_l_f,0.587785468673
+Greensboro,Raleigh,T,F_belowFigureCentroid_f_l,1.0
+Greensboro,Raleigh,T,F_closeDistNormFigure_f_l,1.0
+Greensboro,Raleigh,T,F_closeDistNormFigure_l_f,1.0
+Greensboro,Raleigh,T,F_closeDistNormLandmark_f_l,1.0
+Greensboro,Raleigh,T,F_closeDistNormLandmark_l_f,1.0
+Greensboro,Raleigh,T,F_closeDistNormUnion_f_l,1.0
+Greensboro,Raleigh,T,F_closeDistNormUnion_l_f,1.0
+Greensboro,Raleigh,T,F_distBtwnCentroids_f_l,1.56202746535
+Greensboro,Raleigh,T,F_distBtwnCentroids_l_f,1.56202746535
+Greensboro,Raleigh,T,F_distHorizontalCentroid_f_l,1.52585765728
+Greensboro,Raleigh,T,F_distHorizontalCentroid_l_f,-1.52585765728
+Greensboro,Raleigh,T,F_distVerticalCentroid_f_l,-0.334197863914
+Greensboro,Raleigh,T,F_distVerticalCentroid_l_f,0.334197863914
+Greensboro,Raleigh,T,F_leftOfFigureCentroid_l_f,1.0
+Greensboro,Raleigh,T,F_rightOfFigureCentroid_f_l,1.0
+Greensboro,South Carolina,T,arg2 and was raised in arg1,1
+Greensboro,South Carolina,T,bias,1.0
+Greensboro,South Carolina,T,F_aboveFigureCentroid_l_f,1.0
+Greensboro,South Carolina,T,F_avsResult_0_-1_f_l,0.0361851667882
+Greensboro,South Carolina,T,F_avsResult_0_1_f_l,0.0361851667882
+Greensboro,South Carolina,T,F_avsResult_0_-1_l_f,0.574634204164
+Greensboro,South Carolina,T,F_avsResult_0_1_l_f,0.574634204164
+Greensboro,South Carolina,T,F_avsResult_1_0_f_l,0.122593894196
+Greensboro,South Carolina,T,F_avsResult_-1_0_f_l,0.396304211442
+Greensboro,South Carolina,T,F_avsResult_-1_0_l_f,0.0588395656328
+Greensboro,South Carolina,T,F_avsResult_1_0_l_f,0.197306466992
+Greensboro,South Carolina,T,F_avsResult_-1_-1_f_l,0.0971852399892
+Greensboro,South Carolina,T,F_avsResult_-1_1_f_l,0.0971852399892
+Greensboro,South Carolina,T,F_avsResult_outside_0_-1_f_l,0.0361851667882
+Greensboro,South Carolina,T,F_avsResult_outside_0_1_f_l,0.0361851667882
+Greensboro,South Carolina,T,F_avsResult_outside_0_-1_l_f,0.574634204164
+Greensboro,South Carolina,T,F_avsResult_outside_0_1_l_f,0.574634204164
+Greensboro,South Carolina,T,F_avsResult_outside_1_0_f_l,0.122593894196
+Greensboro,South Carolina,T,F_avsResult_outside_-1_0_f_l,0.396304211442
+Greensboro,South Carolina,T,F_avsResult_outside_-1_0_l_f,0.0588395656328
+Greensboro,South Carolina,T,F_avsResult_outside_1_0_l_f,0.197306466992
+Greensboro,South Carolina,T,F_avsResult_outside_-1_-1_f_l,0.0971852399892
+Greensboro,South Carolina,T,F_avsResult_outside_-1_1_f_l,0.0971852399892
+Greensboro,South Carolina,T,F_belowFigureCentroid_f_l,1.0
+Greensboro,South Carolina,T,F_closeDistNormFigure_f_l,1.0
+Greensboro,South Carolina,T,F_closeDistNormFigure_l_f,0.175947336496
+Greensboro,South Carolina,T,F_closeDistNormLandmark_f_l,0.175947336496
+Greensboro,South Carolina,T,F_closeDistNormLandmark_l_f,1.0
+Greensboro,South Carolina,T,F_closeDistNormUnion_f_l,0.174179487798
+Greensboro,South Carolina,T,F_closeDistNormUnion_l_f,0.174179487798
+Greensboro,South Carolina,T,F_distBtwnCentroids_f_l,0.123376773281
+Greensboro,South Carolina,T,F_distBtwnCentroids_l_f,0.123376773281
+Greensboro,South Carolina,T,F_distHorizontalCentroid_f_l,-0.0535479983557
+Greensboro,South Carolina,T,F_distHorizontalCentroid_l_f,0.0535479983557
+Greensboro,South Carolina,T,F_distVerticalCentroid_f_l,-0.111150528822
+Greensboro,South Carolina,T,F_distVerticalCentroid_l_f,0.111150528822
+Greensboro,South Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Greensboro,South Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Greensboro,Uwharrie National Forest,T,bias,1.0
+Greensboro,Uwharrie National Forest,T,F_aboveFigureCentroid_l_f,1.0
+Greensboro,Uwharrie National Forest,T,F_avsResult_0_-1_f_l,0.0177123667072
+Greensboro,Uwharrie National Forest,T,F_avsResult_0_1_f_l,0.0177123667072
+Greensboro,Uwharrie National Forest,T,F_avsResult_0_-1_l_f,0.561011862165
+Greensboro,Uwharrie National Forest,T,F_avsResult_0_1_l_f,0.561011862165
+Greensboro,Uwharrie National Forest,T,F_avsResult_1_0_f_l,0.199839008778
+Greensboro,Uwharrie National Forest,T,F_avsResult_-1_0_f_l,0.267240642963
+Greensboro,Uwharrie National Forest,T,F_avsResult_-1_0_l_f,0.211014517222
+Greensboro,Uwharrie National Forest,T,F_avsResult_1_0_l_f,0.290111960651
+Greensboro,Uwharrie National Forest,T,F_avsResult_outside_0_-1_f_l,0.0177123667072
+Greensboro,Uwharrie National Forest,T,F_avsResult_outside_0_1_f_l,0.0177123667072
+Greensboro,Uwharrie National Forest,T,F_avsResult_outside_0_-1_l_f,0.561011862165
+Greensboro,Uwharrie National Forest,T,F_avsResult_outside_0_1_l_f,0.561011862165
+Greensboro,Uwharrie National Forest,T,F_avsResult_outside_1_0_f_l,0.199839008778
+Greensboro,Uwharrie National Forest,T,F_avsResult_outside_-1_0_f_l,0.267240642963
+Greensboro,Uwharrie National Forest,T,F_avsResult_outside_-1_0_l_f,0.211014517222
+Greensboro,Uwharrie National Forest,T,F_avsResult_outside_1_0_l_f,0.290111960651
+Greensboro,Uwharrie National Forest,T,F_belowFigureCentroid_f_l,1.0
+Greensboro,Uwharrie National Forest,T,F_closeDistNormFigure_f_l,1.0
+Greensboro,Uwharrie National Forest,T,F_closeDistNormFigure_l_f,1.0
+Greensboro,Uwharrie National Forest,T,F_closeDistNormLandmark_f_l,1.0
+Greensboro,Uwharrie National Forest,T,F_closeDistNormLandmark_l_f,1.0
+Greensboro,Uwharrie National Forest,T,F_closeDistNormUnion_f_l,1.0
+Greensboro,Uwharrie National Forest,T,F_closeDistNormUnion_l_f,1.0
+Greensboro,Uwharrie National Forest,T,F_distBtwnCentroids_f_l,2.47903161449
+Greensboro,Uwharrie National Forest,T,F_distBtwnCentroids_l_f,2.47903161449
+Greensboro,Uwharrie National Forest,T,F_distHorizontalCentroid_f_l,-0.46200777149
+Greensboro,Uwharrie National Forest,T,F_distHorizontalCentroid_l_f,0.46200777149
+Greensboro,Uwharrie National Forest,T,F_distVerticalCentroid_f_l,-2.43559983674
+Greensboro,Uwharrie National Forest,T,F_distVerticalCentroid_l_f,2.43559983674
+Greensboro,Uwharrie National Forest,T,F_leftOfFigureCentroid_f_l,1.0
+Greensboro,Uwharrie National Forest,T,F_rightOfFigureCentroid_l_f,1.0
+Myrtle Beach,Atlantic Ocean,T,arg1 along arg2,1
+Myrtle Beach,Atlantic Ocean,T,arg1 is bordered by arg2,1
+Myrtle Beach,Atlantic Ocean,T,arg2 and in the heart of arg1,1
+Myrtle Beach,Atlantic Ocean,T,arg2 beaches of arg1,1
+Myrtle Beach,Atlantic Ocean,T,arg2 give arg1,1
+Myrtle Beach,Atlantic Ocean,T,arg2 south of arg1,1
+Myrtle Beach,Atlantic Ocean,T,bias,1.0
+Myrtle Beach,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.00780648223078
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.00780648223078
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.618441541493
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.618441541493
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.867632269747
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_-1_0_f_l,5.60007204812e-05
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.867640850891
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_1_0_l_f,5.66070076248e-05
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.735821162548
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.735821162548
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.00696518553788
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.00696518553788
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.00780648223078
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.00780648223078
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.618441541493
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.618441541493
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.867632269747
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,5.60007204812e-05
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.867640850891
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,5.66070076248e-05
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.735821162548
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.735821162548
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.00696518553788
+Myrtle Beach,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.00696518553788
+Myrtle Beach,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+Myrtle Beach,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+Myrtle Beach,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+Myrtle Beach,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+Myrtle Beach,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+Myrtle Beach,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+Myrtle Beach,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+Myrtle Beach,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.0458177120761
+Myrtle Beach,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.0458177120761
+Myrtle Beach,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.041934813605
+Myrtle Beach,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.041934813605
+Myrtle Beach,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0184589855574
+Myrtle Beach,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0184589855574
+Myrtle Beach,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+Myrtle Beach,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+Myrtle Beach,Charlotte,T,bias,1.0
+Myrtle Beach,Charlotte,T,F_aboveFigureCentroid_f_l,1.0
+Myrtle Beach,Charlotte,T,F_avsResult_0_-1_f_l,0.480221540619
+Myrtle Beach,Charlotte,T,F_avsResult_0_1_f_l,0.480221540619
+Myrtle Beach,Charlotte,T,F_avsResult_0_-1_l_f,0.0917380950925
+Myrtle Beach,Charlotte,T,F_avsResult_0_1_l_f,0.0917380950925
+Myrtle Beach,Charlotte,T,F_avsResult_1_0_f_l,0.0571128273654
+Myrtle Beach,Charlotte,T,F_avsResult_-1_0_f_l,0.564266274945
+Myrtle Beach,Charlotte,T,F_avsResult_-1_0_l_f,0.058339239745
+Myrtle Beach,Charlotte,T,F_avsResult_1_0_l_f,0.569053659781
+Myrtle Beach,Charlotte,T,F_avsResult_1_-1_f_l,0.183350904488
+Myrtle Beach,Charlotte,T,F_avsResult_1_1_f_l,0.183350904488
+Myrtle Beach,Charlotte,T,F_avsResult_1_-1_l_f,0.316682144206
+Myrtle Beach,Charlotte,T,F_avsResult_1_1_l_f,0.316682144206
+Myrtle Beach,Charlotte,T,F_avsResult_outside_0_-1_f_l,0.480221540619
+Myrtle Beach,Charlotte,T,F_avsResult_outside_0_1_f_l,0.480221540619
+Myrtle Beach,Charlotte,T,F_avsResult_outside_0_-1_l_f,0.0917380950925
+Myrtle Beach,Charlotte,T,F_avsResult_outside_0_1_l_f,0.0917380950925
+Myrtle Beach,Charlotte,T,F_avsResult_outside_1_0_f_l,0.0571128273654
+Myrtle Beach,Charlotte,T,F_avsResult_outside_-1_0_f_l,0.564266274945
+Myrtle Beach,Charlotte,T,F_avsResult_outside_-1_0_l_f,0.058339239745
+Myrtle Beach,Charlotte,T,F_avsResult_outside_1_0_l_f,0.569053659781
+Myrtle Beach,Charlotte,T,F_avsResult_outside_1_-1_f_l,0.183350904488
+Myrtle Beach,Charlotte,T,F_avsResult_outside_1_1_f_l,0.183350904488
+Myrtle Beach,Charlotte,T,F_avsResult_outside_1_-1_l_f,0.316682144206
+Myrtle Beach,Charlotte,T,F_avsResult_outside_1_1_l_f,0.316682144206
+Myrtle Beach,Charlotte,T,F_belowFigureCentroid_l_f,1.0
+Myrtle Beach,Charlotte,T,F_closeDistNormFigure_f_l,1.0
+Myrtle Beach,Charlotte,T,F_closeDistNormFigure_l_f,1.0
+Myrtle Beach,Charlotte,T,F_closeDistNormLandmark_f_l,1.0
+Myrtle Beach,Charlotte,T,F_closeDistNormLandmark_l_f,1.0
+Myrtle Beach,Charlotte,T,F_closeDistNormUnion_f_l,1.0
+Myrtle Beach,Charlotte,T,F_closeDistNormUnion_l_f,1.0
+Myrtle Beach,Charlotte,T,F_distBtwnCentroids_f_l,0.754613786243
+Myrtle Beach,Charlotte,T,F_distBtwnCentroids_l_f,0.754613786243
+Myrtle Beach,Charlotte,T,F_distHorizontalCentroid_f_l,-0.597866337936
+Myrtle Beach,Charlotte,T,F_distHorizontalCentroid_l_f,0.597866337936
+Myrtle Beach,Charlotte,T,F_distVerticalCentroid_f_l,0.460432197343
+Myrtle Beach,Charlotte,T,F_distVerticalCentroid_l_f,-0.460432197343
+Myrtle Beach,Charlotte,T,F_leftOfFigureCentroid_f_l,1.0
+Myrtle Beach,Charlotte,T,F_rightOfFigureCentroid_l_f,1.0
+Myrtle Beach,Greensboro,T,bias,1.0
+Myrtle Beach,Greensboro,T,F_aboveFigureCentroid_f_l,1.0
+Myrtle Beach,Greensboro,T,F_avsResult_0_-1_f_l,0.65292846181
+Myrtle Beach,Greensboro,T,F_avsResult_0_1_f_l,0.65292846181
+Myrtle Beach,Greensboro,T,F_avsResult_0_-1_l_f,0.0301974674765
+Myrtle Beach,Greensboro,T,F_avsResult_0_1_l_f,0.0301974674765
+Myrtle Beach,Greensboro,T,F_avsResult_1_0_f_l,0.137843499214
+Myrtle Beach,Greensboro,T,F_avsResult_-1_0_f_l,0.381467926165
+Myrtle Beach,Greensboro,T,F_avsResult_-1_0_l_f,0.133405401664
+Myrtle Beach,Greensboro,T,F_avsResult_1_0_l_f,0.376351200031
+Myrtle Beach,Greensboro,T,F_avsResult_1_-1_f_l,0.490196195253
+Myrtle Beach,Greensboro,T,F_avsResult_1_1_f_l,0.490196195253
+Myrtle Beach,Greensboro,T,F_avsResult_1_-1_l_f,0.0737957822952
+Myrtle Beach,Greensboro,T,F_avsResult_1_1_l_f,0.0737957822952
+Myrtle Beach,Greensboro,T,F_avsResult_outside_0_-1_f_l,0.65292846181
+Myrtle Beach,Greensboro,T,F_avsResult_outside_0_1_f_l,0.65292846181
+Myrtle Beach,Greensboro,T,F_avsResult_outside_0_-1_l_f,0.0301974674765
+Myrtle Beach,Greensboro,T,F_avsResult_outside_0_1_l_f,0.0301974674765
+Myrtle Beach,Greensboro,T,F_avsResult_outside_1_0_f_l,0.137843499214
+Myrtle Beach,Greensboro,T,F_avsResult_outside_-1_0_f_l,0.381467926165
+Myrtle Beach,Greensboro,T,F_avsResult_outside_-1_0_l_f,0.133405401664
+Myrtle Beach,Greensboro,T,F_avsResult_outside_1_0_l_f,0.376351200031
+Myrtle Beach,Greensboro,T,F_avsResult_outside_1_-1_f_l,0.490196195253
+Myrtle Beach,Greensboro,T,F_avsResult_outside_1_1_f_l,0.490196195253
+Myrtle Beach,Greensboro,T,F_avsResult_outside_1_-1_l_f,0.0737957822952
+Myrtle Beach,Greensboro,T,F_avsResult_outside_1_1_l_f,0.0737957822952
+Myrtle Beach,Greensboro,T,F_belowFigureCentroid_l_f,1.0
+Myrtle Beach,Greensboro,T,F_closeDistNormFigure_f_l,1.0
+Myrtle Beach,Greensboro,T,F_closeDistNormFigure_l_f,1.0
+Myrtle Beach,Greensboro,T,F_closeDistNormLandmark_f_l,1.0
+Myrtle Beach,Greensboro,T,F_closeDistNormLandmark_l_f,1.0
+Myrtle Beach,Greensboro,T,F_closeDistNormUnion_f_l,1.0
+Myrtle Beach,Greensboro,T,F_closeDistNormUnion_l_f,1.0
+Myrtle Beach,Greensboro,T,F_distBtwnCentroids_f_l,0.822158386112
+Myrtle Beach,Greensboro,T,F_distBtwnCentroids_l_f,0.822158386112
+Myrtle Beach,Greensboro,T,F_distHorizontalCentroid_f_l,-0.304111541005
+Myrtle Beach,Greensboro,T,F_distHorizontalCentroid_l_f,0.304111541005
+Myrtle Beach,Greensboro,T,F_distVerticalCentroid_f_l,0.763845915406
+Myrtle Beach,Greensboro,T,F_distVerticalCentroid_l_f,-0.763845915406
+Myrtle Beach,Greensboro,T,F_leftOfFigureCentroid_f_l,1.0
+Myrtle Beach,Greensboro,T,F_rightOfFigureCentroid_l_f,1.0
+Myrtle Beach,Myrtle Beach,T,arg1 and enjoy adventurous activities in arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 hotels arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 house for rent and arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 include arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 is part of arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 new car dealer and arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 ocean front condo rentals in arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 or relocating outside arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 or sending flowers to arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 or shipped to arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 provides detailed information on arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 stays in arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 they think of arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 to help you move within arg2,1
+Myrtle Beach,Myrtle Beach,T,arg1 vacation homes or houses in arg2,1
+Myrtle Beach,Myrtle Beach,T,arg2 and enjoy adventurous activities in arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 hotels arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 house for rent and arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 include arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 is part of arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 new car dealer and arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 ocean front condo rentals in arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 or relocating outside arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 or sending flowers to arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 or shipped to arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 provides detailed information on arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 stays in arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 they think of arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 to help you move within arg1,1
+Myrtle Beach,Myrtle Beach,T,arg2 vacation homes or houses in arg1,1
+Myrtle Beach,Myrtle Beach,T,bias,1.0
+Myrtle Beach,Myrtle Beach,T,entity1=entity2,1
+Myrtle Beach,Myrtle Beach,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Myrtle Beach,Myrtle Beach,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Myrtle Beach,Myrtle Beach,T,F_avsResult_0_-1_f_l,0.000432760585192
+Myrtle Beach,Myrtle Beach,T,F_avsResult_0_1_f_l,0.000432760585192
+Myrtle Beach,Myrtle Beach,T,F_avsResult_0_-1_l_f,0.000432760585192
+Myrtle Beach,Myrtle Beach,T,F_avsResult_0_1_l_f,0.000432760585192
+Myrtle Beach,Myrtle Beach,T,F_avsResult_1_0_f_l,0.000432012508344
+Myrtle Beach,Myrtle Beach,T,F_avsResult_-1_0_f_l,0.000432012510265
+Myrtle Beach,Myrtle Beach,T,F_avsResult_1_0_l_f,0.000432012508344
+Myrtle Beach,Myrtle Beach,T,F_avsResult_-1_0_l_f,0.000432012510265
+Myrtle Beach,Myrtle Beach,T,F_avsResult_inside_0_-1_f_l,0.000432760585192
+Myrtle Beach,Myrtle Beach,T,F_avsResult_inside_0_1_f_l,0.000432760585192
+Myrtle Beach,Myrtle Beach,T,F_avsResult_inside_0_-1_l_f,0.000432760585192
+Myrtle Beach,Myrtle Beach,T,F_avsResult_inside_0_1_l_f,0.000432760585192
+Myrtle Beach,Myrtle Beach,T,F_avsResult_inside_1_0_f_l,0.000432012508344
+Myrtle Beach,Myrtle Beach,T,F_avsResult_inside_-1_0_f_l,0.000432012510265
+Myrtle Beach,Myrtle Beach,T,F_avsResult_inside_1_0_l_f,0.000432012508344
+Myrtle Beach,Myrtle Beach,T,F_avsResult_inside_-1_0_l_f,0.000432012510265
+Myrtle Beach,Myrtle Beach,T,F_math2dFigureIntersectionArea_f_l,1.0
+Myrtle Beach,Myrtle Beach,T,F_math2dFigureIntersectionArea_l_f,1.0
+Myrtle Beach,Myrtle Beach,T,F_math2dIntersectionArea_f_l,1.0
+Myrtle Beach,Myrtle Beach,T,F_math2dIntersectionArea_l_f,1.0
+Myrtle Beach,Myrtle Beach,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Myrtle Beach,Myrtle Beach,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Myrtle Beach,North Carolina,T,arg1 and eastern arg2,1
+Myrtle Beach,North Carolina,T,arg1 as well as arg2,1
+Myrtle Beach,North Carolina,T,arg1 to the mountains of arg2,1
+Myrtle Beach,North Carolina,T,arg2 and as far as arg1,1
+Myrtle Beach,North Carolina,T,arg2 and north of arg1,1
+Myrtle Beach,North Carolina,T,arg2 area to arg1,1
+Myrtle Beach,North Carolina,T,arg2 as well as in arg1,1
+Myrtle Beach,North Carolina,T,arg2 on their way to arg1,1
+Myrtle Beach,North Carolina,T,arg2 plus arg1,1
+Myrtle Beach,North Carolina,T,arg2 such as arg1,1
+Myrtle Beach,North Carolina,T,bias,1.0
+Myrtle Beach,North Carolina,T,F_aboveFigureCentroid_f_l,1.0
+Myrtle Beach,North Carolina,T,F_avsResult_0_-1_f_l,0.67347812871
+Myrtle Beach,North Carolina,T,F_avsResult_0_1_f_l,0.67347812871
+Myrtle Beach,North Carolina,T,F_avsResult_0_-1_l_f,0.00255411291507
+Myrtle Beach,North Carolina,T,F_avsResult_0_1_l_f,0.00255411291507
+Myrtle Beach,North Carolina,T,F_avsResult_1_0_f_l,0.206829714473
+Myrtle Beach,North Carolina,T,F_avsResult_-1_0_f_l,0.28281308668
+Myrtle Beach,North Carolina,T,F_avsResult_1_0_l_f,0.0389024101463
+Myrtle Beach,North Carolina,T,F_avsResult_-1_0_l_f,0.146454724726
+Myrtle Beach,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.67347812871
+Myrtle Beach,North Carolina,T,F_avsResult_outside_0_1_f_l,0.67347812871
+Myrtle Beach,North Carolina,T,F_avsResult_outside_0_-1_l_f,0.00255411291507
+Myrtle Beach,North Carolina,T,F_avsResult_outside_0_1_l_f,0.00255411291507
+Myrtle Beach,North Carolina,T,F_avsResult_outside_1_0_f_l,0.206829714473
+Myrtle Beach,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.28281308668
+Myrtle Beach,North Carolina,T,F_avsResult_outside_1_0_l_f,0.0389024101463
+Myrtle Beach,North Carolina,T,F_avsResult_outside_-1_0_l_f,0.146454724726
+Myrtle Beach,North Carolina,T,F_belowFigureCentroid_l_f,1.0
+Myrtle Beach,North Carolina,T,F_closeDistNormFigure_f_l,1.0
+Myrtle Beach,North Carolina,T,F_closeDistNormFigure_l_f,0.00398724368906
+Myrtle Beach,North Carolina,T,F_closeDistNormLandmark_f_l,0.00398724368906
+Myrtle Beach,North Carolina,T,F_closeDistNormLandmark_l_f,1.0
+Myrtle Beach,North Carolina,T,F_closeDistNormUnion_f_l,0.00397961556456
+Myrtle Beach,North Carolina,T,F_closeDistNormUnion_l_f,0.00397961556456
+Myrtle Beach,North Carolina,T,F_distBtwnCentroids_f_l,0.069496530402
+Myrtle Beach,North Carolina,T,F_distBtwnCentroids_l_f,0.069496530402
+Myrtle Beach,North Carolina,T,F_distHorizontalCentroid_f_l,-0.00931020807374
+Myrtle Beach,North Carolina,T,F_distHorizontalCentroid_l_f,0.00931020807374
+Myrtle Beach,North Carolina,T,F_distVerticalCentroid_f_l,0.0688700788699
+Myrtle Beach,North Carolina,T,F_distVerticalCentroid_l_f,-0.0688700788699
+Myrtle Beach,North Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Myrtle Beach,North Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Myrtle Beach,Raleigh,T,bias,1.0
+Myrtle Beach,Raleigh,T,F_aboveFigureCentroid_f_l,1.0
+Myrtle Beach,Raleigh,T,F_avsResult_0_-1_f_l,0.70037772988
+Myrtle Beach,Raleigh,T,F_avsResult_0_1_f_l,0.70037772988
+Myrtle Beach,Raleigh,T,F_avsResult_0_-1_l_f,0.00853108696042
+Myrtle Beach,Raleigh,T,F_avsResult_0_1_l_f,0.00853108696042
+Myrtle Beach,Raleigh,T,F_avsResult_-1_0_f_l,0.210235354069
+Myrtle Beach,Raleigh,T,F_avsResult_1_0_f_l,0.279002779261
+Myrtle Beach,Raleigh,T,F_avsResult_1_0_l_f,0.205740051892
+Myrtle Beach,Raleigh,T,F_avsResult_-1_0_l_f,0.271172551505
+Myrtle Beach,Raleigh,T,F_avsResult_outside_0_-1_f_l,0.70037772988
+Myrtle Beach,Raleigh,T,F_avsResult_outside_0_1_f_l,0.70037772988
+Myrtle Beach,Raleigh,T,F_avsResult_outside_0_-1_l_f,0.00853108696042
+Myrtle Beach,Raleigh,T,F_avsResult_outside_0_1_l_f,0.00853108696042
+Myrtle Beach,Raleigh,T,F_avsResult_outside_-1_0_f_l,0.210235354069
+Myrtle Beach,Raleigh,T,F_avsResult_outside_1_0_f_l,0.279002779261
+Myrtle Beach,Raleigh,T,F_avsResult_outside_1_0_l_f,0.205740051892
+Myrtle Beach,Raleigh,T,F_avsResult_outside_-1_0_l_f,0.271172551505
+Myrtle Beach,Raleigh,T,F_belowFigureCentroid_l_f,1.0
+Myrtle Beach,Raleigh,T,F_closeDistNormFigure_f_l,1.0
+Myrtle Beach,Raleigh,T,F_closeDistNormFigure_l_f,1.0
+Myrtle Beach,Raleigh,T,F_closeDistNormLandmark_f_l,1.0
+Myrtle Beach,Raleigh,T,F_closeDistNormLandmark_l_f,1.0
+Myrtle Beach,Raleigh,T,F_closeDistNormUnion_f_l,1.0
+Myrtle Beach,Raleigh,T,F_closeDistNormUnion_l_f,1.0
+Myrtle Beach,Raleigh,T,F_distBtwnCentroids_f_l,1.81126617003
+Myrtle Beach,Raleigh,T,F_distBtwnCentroids_l_f,1.81126617003
+Myrtle Beach,Raleigh,T,F_distHorizontalCentroid_f_l,0.204087536966
+Myrtle Beach,Raleigh,T,F_distHorizontalCentroid_l_f,-0.204087536966
+Myrtle Beach,Raleigh,T,F_distVerticalCentroid_f_l,1.7997314844
+Myrtle Beach,Raleigh,T,F_distVerticalCentroid_l_f,-1.7997314844
+Myrtle Beach,Raleigh,T,F_leftOfFigureCentroid_l_f,1.0
+Myrtle Beach,Raleigh,T,F_rightOfFigureCentroid_f_l,1.0
+Myrtle Beach,South Carolina,T,arg1 and throughout arg2,1
+Myrtle Beach,South Carolina,T,arg1 area in arg2,1
+Myrtle Beach,South Carolina,T,arg1 area of arg2,1
+Myrtle Beach,South Carolina,T,arg1 areas of arg2,1
+Myrtle Beach,South Carolina,T,arg1 hotels in arg2,1
+Myrtle Beach,South Carolina,T,arg1 is located in arg2,1
+Myrtle Beach,South Carolina,T,arg2 beaches in arg1,1
+Myrtle Beach,South Carolina,T,arg2 destinations like arg1,1
+Myrtle Beach,South Carolina,T,arg2 such as arg1,1
+Myrtle Beach,South Carolina,T,arg2 surrounding arg1,1
+Myrtle Beach,South Carolina,T,arg2 to north arg1,1
+Myrtle Beach,South Carolina,T,arg2 with offices in arg1,1
+Myrtle Beach,South Carolina,T,arg2 you will find arg1,1
+Myrtle Beach,South Carolina,T,bias,1.0
+Myrtle Beach,South Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Myrtle Beach,South Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Myrtle Beach,South Carolina,T,F_aboveFigureCentroid_f_l,1.0
+Myrtle Beach,South Carolina,T,F_avsResult_0_-1_f_l,0.272392780293
+Myrtle Beach,South Carolina,T,F_avsResult_0_1_f_l,0.272392780293
+Myrtle Beach,South Carolina,T,F_avsResult_0_-1_l_f,0.00216787089996
+Myrtle Beach,South Carolina,T,F_avsResult_0_1_l_f,0.00216787089996
+Myrtle Beach,South Carolina,T,F_avsResult_1_0_f_l,0.00768588969346
+Myrtle Beach,South Carolina,T,F_avsResult_-1_0_f_l,0.696571651738
+Myrtle Beach,South Carolina,T,F_avsResult_-1_0_l_f,0.00643194226977
+Myrtle Beach,South Carolina,T,F_avsResult_1_0_l_f,0.228235742074
+Myrtle Beach,South Carolina,T,F_avsResult_1_-1_l_f,0.12188097132
+Myrtle Beach,South Carolina,T,F_avsResult_1_1_l_f,0.12188097132
+Myrtle Beach,South Carolina,T,F_avsResult_inside_0_-1_l_f,0.00216787089996
+Myrtle Beach,South Carolina,T,F_avsResult_inside_0_1_l_f,0.00216787089996
+Myrtle Beach,South Carolina,T,F_avsResult_inside_-1_0_l_f,0.00643194226977
+Myrtle Beach,South Carolina,T,F_avsResult_inside_1_0_l_f,0.228235742074
+Myrtle Beach,South Carolina,T,F_avsResult_inside_1_-1_l_f,0.12188097132
+Myrtle Beach,South Carolina,T,F_avsResult_inside_1_1_l_f,0.12188097132
+Myrtle Beach,South Carolina,T,F_avsResult_outside_0_-1_f_l,0.272392780293
+Myrtle Beach,South Carolina,T,F_avsResult_outside_0_1_f_l,0.272392780293
+Myrtle Beach,South Carolina,T,F_avsResult_outside_1_0_f_l,0.00768588969346
+Myrtle Beach,South Carolina,T,F_avsResult_outside_-1_0_f_l,0.696571651738
+Myrtle Beach,South Carolina,T,F_belowFigureCentroid_l_f,1.0
+Myrtle Beach,South Carolina,T,F_distBtwnCentroids_f_l,0.134447342377
+Myrtle Beach,South Carolina,T,F_distBtwnCentroids_l_f,0.134447342377
+Myrtle Beach,South Carolina,T,F_distHorizontalCentroid_f_l,-0.13390444769
+Myrtle Beach,South Carolina,T,F_distHorizontalCentroid_l_f,0.13390444769
+Myrtle Beach,South Carolina,T,F_distVerticalCentroid_f_l,0.0120700771015
+Myrtle Beach,South Carolina,T,F_distVerticalCentroid_l_f,-0.0120700771015
+Myrtle Beach,South Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Myrtle Beach,South Carolina,T,F_math2dFigureIntersectionArea_f_l,0.723209940452
+Myrtle Beach,South Carolina,T,F_math2dFigureIntersectionArea_l_f,0.00244124354359
+Myrtle Beach,South Carolina,T,F_math2dIntersectionArea_f_l,0.00243896476183
+Myrtle Beach,South Carolina,T,F_math2dIntersectionArea_l_f,0.00243896476183
+Myrtle Beach,South Carolina,T,F_math2dLandmarkIntersectionArea_f_l,0.00244124354359
+Myrtle Beach,South Carolina,T,F_math2dLandmarkIntersectionArea_l_f,0.723209940452
+Myrtle Beach,South Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Myrtle Beach,Uwharrie National Forest,T,bias,1.0
+Myrtle Beach,Uwharrie National Forest,T,F_aboveFigureCentroid_f_l,1.0
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_0_-1_f_l,0.563454464662
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_0_1_f_l,0.563454464662
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_0_-1_l_f,0.055845581847
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_0_1_l_f,0.055845581847
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_1_0_f_l,0.10979641118
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_-1_0_f_l,0.431857990604
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_-1_0_l_f,0.112711989278
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_1_0_l_f,0.438636560472
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_1_-1_f_l,0.342817417739
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_1_1_f_l,0.342817417739
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_1_-1_l_f,0.162199462103
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_1_1_l_f,0.162199462103
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_0_-1_f_l,0.563454464662
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_0_1_f_l,0.563454464662
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_0_-1_l_f,0.055845581847
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_0_1_l_f,0.055845581847
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_1_0_f_l,0.10979641118
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_-1_0_f_l,0.431857990604
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_-1_0_l_f,0.112711989278
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_1_0_l_f,0.438636560472
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_1_-1_f_l,0.342817417739
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_1_1_f_l,0.342817417739
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_1_-1_l_f,0.162199462103
+Myrtle Beach,Uwharrie National Forest,T,F_avsResult_outside_1_1_l_f,0.162199462103
+Myrtle Beach,Uwharrie National Forest,T,F_belowFigureCentroid_l_f,1.0
+Myrtle Beach,Uwharrie National Forest,T,F_closeDistNormFigure_f_l,1.0
+Myrtle Beach,Uwharrie National Forest,T,F_closeDistNormFigure_l_f,1.0
+Myrtle Beach,Uwharrie National Forest,T,F_closeDistNormLandmark_f_l,1.0
+Myrtle Beach,Uwharrie National Forest,T,F_closeDistNormLandmark_l_f,1.0
+Myrtle Beach,Uwharrie National Forest,T,F_closeDistNormUnion_f_l,1.0
+Myrtle Beach,Uwharrie National Forest,T,F_closeDistNormUnion_l_f,1.0
+Myrtle Beach,Uwharrie National Forest,T,F_distBtwnCentroids_f_l,0.959306304728
+Myrtle Beach,Uwharrie National Forest,T,F_distBtwnCentroids_l_f,0.959306304728
+Myrtle Beach,Uwharrie National Forest,T,F_distHorizontalCentroid_f_l,-0.525660361015
+Myrtle Beach,Uwharrie National Forest,T,F_distHorizontalCentroid_l_f,0.525660361015
+Myrtle Beach,Uwharrie National Forest,T,F_distVerticalCentroid_f_l,0.802464809913
+Myrtle Beach,Uwharrie National Forest,T,F_distVerticalCentroid_l_f,-0.802464809913
+Myrtle Beach,Uwharrie National Forest,T,F_leftOfFigureCentroid_f_l,1.0
+Myrtle Beach,Uwharrie National Forest,T,F_rightOfFigureCentroid_l_f,1.0
+North Carolina,Atlantic Ocean,T,arg1 coast in arg2,1
+North Carolina,Atlantic Ocean,T,arg1 meets arg2,1
+North Carolina,Atlantic Ocean,T,arg2 after hitting arg1,1
+North Carolina,Atlantic Ocean,T,arg2 and south to arg1,1
+North Carolina,Atlantic Ocean,T,arg2 as far north as arg1,1
+North Carolina,Atlantic Ocean,T,arg2 in eastern arg1,1
+North Carolina,Atlantic Ocean,T,arg2 in southeastern arg1,1
+North Carolina,Atlantic Ocean,T,arg2 just off the coast of arg1,1
+North Carolina,Atlantic Ocean,T,arg2 off arg1,1
+North Carolina,Atlantic Ocean,T,arg2 off of the coast of arg1,1
+North Carolina,Atlantic Ocean,T,arg2 off the coast of arg1,1
+North Carolina,Atlantic Ocean,T,arg2 on the east and arg1,1
+North Carolina,Atlantic Ocean,T,bias,1.0
+North Carolina,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+North Carolina,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.00539260821592
+North Carolina,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.00539260821592
+North Carolina,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.629329381949
+North Carolina,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.629329381949
+North Carolina,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.861369787608
+North Carolina,Atlantic Ocean,T,F_avsResult_-1_0_f_l,2.90538421611e-05
+North Carolina,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.859383901717
+North Carolina,Atlantic Ocean,T,F_avsResult_1_0_l_f,5.82623231687e-05
+North Carolina,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.70645464416
+North Carolina,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.70645464416
+North Carolina,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.00869445802219
+North Carolina,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.00869445802219
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.00539260821592
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.00539260821592
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.629329381949
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.629329381949
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.861369787608
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,2.90538421611e-05
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.859383901717
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,5.82623231687e-05
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.70645464416
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.70645464416
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.00869445802219
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.00869445802219
+North Carolina,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+North Carolina,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.0379227716917
+North Carolina,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.0379227716917
+North Carolina,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.0343002271555
+North Carolina,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.0343002271555
+North Carolina,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0161750125152
+North Carolina,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0161750125152
+North Carolina,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+North Carolina,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+North Carolina,Charlotte,T,arg1 cities of arg2,1
+North Carolina,Charlotte,T,arg1 cities such as arg2,1
+North Carolina,Charlotte,T,arg1 include arg2,1
+North Carolina,Charlotte,T,arg1 including arg2,1
+North Carolina,Charlotte,T,arg1 including the cities of arg2,1
+North Carolina,Charlotte,T,arg1 which includes arg2,1
+North Carolina,Charlotte,T,arg2 and other arg1,1
+North Carolina,Charlotte,T,arg2 and the state of arg1,1
+North Carolina,Charlotte,T,arg2 and the surrounding parts of arg1,1
+North Carolina,Charlotte,T,arg2 and throughout arg1,1
+North Carolina,Charlotte,T,arg2 area in arg1,1
+North Carolina,Charlotte,T,arg2 area of arg1,1
+North Carolina,Charlotte,T,arg2 areas of arg1,1
+North Carolina,Charlotte,T,arg2 is the largest city in arg1,1
+North Carolina,Charlotte,T,arg2 or elsewhere in arg1,1
+North Carolina,Charlotte,T,arg2 putting greens and arg1,1
+North Carolina,Charlotte,T,arg2 region of arg1,1
+North Carolina,Charlotte,T,bias,1.0
+North Carolina,Charlotte,T,F_3dIntersectsFigureLandmark_f_l,1.0
+North Carolina,Charlotte,T,F_3dIntersectsFigureLandmark_l_f,1.0
+North Carolina,Charlotte,T,F_aboveFigureCentroid_l_f,1.0
+North Carolina,Charlotte,T,F_avsResult_0_-1_f_l,0.236236617451
+North Carolina,Charlotte,T,F_avsResult_0_1_f_l,0.236236617451
+North Carolina,Charlotte,T,F_avsResult_0_-1_l_f,0.300025971175
+North Carolina,Charlotte,T,F_avsResult_0_1_l_f,0.300025971175
+North Carolina,Charlotte,T,F_avsResult_1_0_f_l,0.0944955952978
+North Carolina,Charlotte,T,F_avsResult_-1_0_f_l,0.162946177056
+North Carolina,Charlotte,T,F_avsResult_-1_0_l_f,0.0163634454048
+North Carolina,Charlotte,T,F_avsResult_1_0_l_f,0.662234174933
+North Carolina,Charlotte,T,F_avsResult_-1_-1_f_l,0.0552001839172
+North Carolina,Charlotte,T,F_avsResult_-1_1_f_l,0.0552001839172
+North Carolina,Charlotte,T,F_avsResult_inside_0_-1_f_l,0.236236617451
+North Carolina,Charlotte,T,F_avsResult_inside_0_1_f_l,0.236236617451
+North Carolina,Charlotte,T,F_avsResult_inside_1_0_f_l,0.0944955952978
+North Carolina,Charlotte,T,F_avsResult_inside_-1_0_f_l,0.162946177056
+North Carolina,Charlotte,T,F_avsResult_inside_-1_-1_f_l,0.0552001839172
+North Carolina,Charlotte,T,F_avsResult_inside_-1_1_f_l,0.0552001839172
+North Carolina,Charlotte,T,F_avsResult_outside_0_-1_l_f,0.300025971175
+North Carolina,Charlotte,T,F_avsResult_outside_0_1_l_f,0.300025971175
+North Carolina,Charlotte,T,F_avsResult_outside_-1_0_l_f,0.0163634454048
+North Carolina,Charlotte,T,F_avsResult_outside_1_0_l_f,0.662234174933
+North Carolina,Charlotte,T,F_belowFigureCentroid_f_l,1.0
+North Carolina,Charlotte,T,F_distBtwnCentroids_f_l,0.0693921887962
+North Carolina,Charlotte,T,F_distBtwnCentroids_l_f,0.0693921887962
+North Carolina,Charlotte,T,F_distHorizontalCentroid_f_l,-0.068359413198
+North Carolina,Charlotte,T,F_distHorizontalCentroid_l_f,0.068359413198
+North Carolina,Charlotte,T,F_distVerticalCentroid_f_l,-0.0119275518509
+North Carolina,Charlotte,T,F_distVerticalCentroid_l_f,0.0119275518509
+North Carolina,Charlotte,T,F_leftOfFigureCentroid_f_l,1.0
+North Carolina,Charlotte,T,F_math2dFigureIntersectionArea_f_l,2.26672138738e-05
+North Carolina,Charlotte,T,F_math2dFigureIntersectionArea_l_f,1.0
+North Carolina,Charlotte,T,F_math2dIntersectionArea_f_l,2.26672138738e-05
+North Carolina,Charlotte,T,F_math2dIntersectionArea_l_f,2.26672138738e-05
+North Carolina,Charlotte,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+North Carolina,Charlotte,T,F_math2dLandmarkIntersectionArea_l_f,2.26672138738e-05
+North Carolina,Charlotte,T,F_rightOfFigureCentroid_l_f,1.0
+North Carolina,Greensboro,T,arg1 located in arg2,1
+North Carolina,Greensboro,T,arg1 meeting in arg2,1
+North Carolina,Greensboro,T,arg2 and the state of arg1,1
+North Carolina,Greensboro,T,arg2 and throughout arg1,1
+North Carolina,Greensboro,T,arg2 area of arg1,1
+North Carolina,Greensboro,T,arg2 areas of arg1,1
+North Carolina,Greensboro,T,arg2 hotel in arg1,1
+North Carolina,Greensboro,T,arg2 in the middle of arg1,1
+North Carolina,Greensboro,T,arg2 is located in arg1,1
+North Carolina,Greensboro,T,arg2 is located in central arg1,1
+North Carolina,Greensboro,T,arg2 is located in northern arg1,1
+North Carolina,Greensboro,T,arg2 is the largest city of arg1,1
+North Carolina,Greensboro,T,arg2 is the only city in arg1,1
+North Carolina,Greensboro,T,arg2 or the state of arg1,1
+North Carolina,Greensboro,T,bias,1.0
+North Carolina,Greensboro,T,F_3dIntersectsFigureLandmark_f_l,1.0
+North Carolina,Greensboro,T,F_3dIntersectsFigureLandmark_l_f,1.0
+North Carolina,Greensboro,T,F_aboveFigureCentroid_f_l,1.0
+North Carolina,Greensboro,T,F_avsResult_0_-1_f_l,0.121821737267
+North Carolina,Greensboro,T,F_avsResult_0_1_f_l,0.121821737267
+North Carolina,Greensboro,T,F_avsResult_0_-1_l_f,0.113655567059
+North Carolina,Greensboro,T,F_avsResult_0_1_l_f,0.113655567059
+North Carolina,Greensboro,T,F_avsResult_1_0_f_l,0.0408968679391
+North Carolina,Greensboro,T,F_avsResult_-1_0_f_l,0.0543278524747
+North Carolina,Greensboro,T,F_avsResult_-1_0_l_f,0.0794098666019
+North Carolina,Greensboro,T,F_avsResult_1_0_l_f,0.449398199724
+North Carolina,Greensboro,T,F_avsResult_1_-1_l_f,0.274864810182
+North Carolina,Greensboro,T,F_avsResult_1_1_l_f,0.274864810182
+North Carolina,Greensboro,T,F_avsResult_inside_0_-1_f_l,0.121821737267
+North Carolina,Greensboro,T,F_avsResult_inside_0_1_f_l,0.121821737267
+North Carolina,Greensboro,T,F_avsResult_inside_1_0_f_l,0.0408968679391
+North Carolina,Greensboro,T,F_avsResult_inside_-1_0_f_l,0.0543278524747
+North Carolina,Greensboro,T,F_avsResult_outside_0_-1_l_f,0.113655567059
+North Carolina,Greensboro,T,F_avsResult_outside_0_1_l_f,0.113655567059
+North Carolina,Greensboro,T,F_avsResult_outside_-1_0_l_f,0.0794098666019
+North Carolina,Greensboro,T,F_avsResult_outside_1_0_l_f,0.449398199724
+North Carolina,Greensboro,T,F_avsResult_outside_1_-1_l_f,0.274864810182
+North Carolina,Greensboro,T,F_avsResult_outside_1_1_l_f,0.274864810182
+North Carolina,Greensboro,T,F_belowFigureCentroid_l_f,1.0
+North Carolina,Greensboro,T,F_distBtwnCentroids_f_l,0.0362347358431
+North Carolina,Greensboro,T,F_distBtwnCentroids_l_f,0.0362347358431
+North Carolina,Greensboro,T,F_distHorizontalCentroid_f_l,-0.0280733528294
+North Carolina,Greensboro,T,F_distHorizontalCentroid_l_f,0.0280733528294
+North Carolina,Greensboro,T,F_distVerticalCentroid_f_l,0.0229094509436
+North Carolina,Greensboro,T,F_distVerticalCentroid_l_f,-0.0229094509436
+North Carolina,Greensboro,T,F_leftOfFigureCentroid_f_l,1.0
+North Carolina,Greensboro,T,F_math2dFigureIntersectionArea_f_l,0.00576339008457
+North Carolina,Greensboro,T,F_math2dFigureIntersectionArea_l_f,1.0
+North Carolina,Greensboro,T,F_math2dIntersectionArea_f_l,0.00576339008457
+North Carolina,Greensboro,T,F_math2dIntersectionArea_l_f,0.00576339008457
+North Carolina,Greensboro,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+North Carolina,Greensboro,T,F_math2dLandmarkIntersectionArea_l_f,0.00576339008457
+North Carolina,Greensboro,T,F_rightOfFigureCentroid_l_f,1.0
+North Carolina,Myrtle Beach,T,arg1 and as far as arg2,1
+North Carolina,Myrtle Beach,T,arg1 and north of arg2,1
+North Carolina,Myrtle Beach,T,arg1 area to arg2,1
+North Carolina,Myrtle Beach,T,arg1 as well as in arg2,1
+North Carolina,Myrtle Beach,T,arg1 on their way to arg2,1
+North Carolina,Myrtle Beach,T,arg1 plus arg2,1
+North Carolina,Myrtle Beach,T,arg1 such as arg2,1
+North Carolina,Myrtle Beach,T,arg2 and eastern arg1,1
+North Carolina,Myrtle Beach,T,arg2 as well as arg1,1
+North Carolina,Myrtle Beach,T,arg2 to the mountains of arg1,1
+North Carolina,Myrtle Beach,T,bias,1.0
+North Carolina,Myrtle Beach,T,F_aboveFigureCentroid_l_f,1.0
+North Carolina,Myrtle Beach,T,F_avsResult_0_-1_f_l,0.00255411291507
+North Carolina,Myrtle Beach,T,F_avsResult_0_1_f_l,0.00255411291507
+North Carolina,Myrtle Beach,T,F_avsResult_0_-1_l_f,0.67347812871
+North Carolina,Myrtle Beach,T,F_avsResult_0_1_l_f,0.67347812871
+North Carolina,Myrtle Beach,T,F_avsResult_1_0_f_l,0.0389024101463
+North Carolina,Myrtle Beach,T,F_avsResult_-1_0_f_l,0.146454724726
+North Carolina,Myrtle Beach,T,F_avsResult_1_0_l_f,0.206829714473
+North Carolina,Myrtle Beach,T,F_avsResult_-1_0_l_f,0.28281308668
+North Carolina,Myrtle Beach,T,F_avsResult_outside_0_-1_f_l,0.00255411291507
+North Carolina,Myrtle Beach,T,F_avsResult_outside_0_1_f_l,0.00255411291507
+North Carolina,Myrtle Beach,T,F_avsResult_outside_0_-1_l_f,0.67347812871
+North Carolina,Myrtle Beach,T,F_avsResult_outside_0_1_l_f,0.67347812871
+North Carolina,Myrtle Beach,T,F_avsResult_outside_1_0_f_l,0.0389024101463
+North Carolina,Myrtle Beach,T,F_avsResult_outside_-1_0_f_l,0.146454724726
+North Carolina,Myrtle Beach,T,F_avsResult_outside_1_0_l_f,0.206829714473
+North Carolina,Myrtle Beach,T,F_avsResult_outside_-1_0_l_f,0.28281308668
+North Carolina,Myrtle Beach,T,F_belowFigureCentroid_f_l,1.0
+North Carolina,Myrtle Beach,T,F_closeDistNormFigure_f_l,0.00398724368906
+North Carolina,Myrtle Beach,T,F_closeDistNormFigure_l_f,1.0
+North Carolina,Myrtle Beach,T,F_closeDistNormLandmark_f_l,1.0
+North Carolina,Myrtle Beach,T,F_closeDistNormLandmark_l_f,0.00398724368906
+North Carolina,Myrtle Beach,T,F_closeDistNormUnion_f_l,0.00397961556456
+North Carolina,Myrtle Beach,T,F_closeDistNormUnion_l_f,0.00397961556456
+North Carolina,Myrtle Beach,T,F_distBtwnCentroids_f_l,0.069496530402
+North Carolina,Myrtle Beach,T,F_distBtwnCentroids_l_f,0.069496530402
+North Carolina,Myrtle Beach,T,F_distHorizontalCentroid_f_l,0.00931020807374
+North Carolina,Myrtle Beach,T,F_distHorizontalCentroid_l_f,-0.00931020807374
+North Carolina,Myrtle Beach,T,F_distVerticalCentroid_f_l,-0.0688700788699
+North Carolina,Myrtle Beach,T,F_distVerticalCentroid_l_f,0.0688700788699
+North Carolina,Myrtle Beach,T,F_leftOfFigureCentroid_l_f,1.0
+North Carolina,Myrtle Beach,T,F_rightOfFigureCentroid_f_l,1.0
+North Carolina,North Carolina,T,arg1 and admitted to bar in arg2,1
+North Carolina,North Carolina,T,arg1 and live in arg2,1
+North Carolina,North Carolina,T,arg1 and rural arg2,1
+North Carolina,North Carolina,T,arg1 and the state of arg2,1
+North Carolina,North Carolina,T,arg1 and throughout arg2,1
+North Carolina,North Carolina,T,arg1 commercial real estate and arg2,1
+North Carolina,North Carolina,T,arg1 if you reside in arg2,1
+North Carolina,North Carolina,T,arg1 resident and arg2,1
+North Carolina,North Carolina,T,arg1 road map and arg2,1
+North Carolina,North Carolina,T,arg1 walking events and arg2,1
+North Carolina,North Carolina,T,arg1 we love arg2,1
+North Carolina,North Carolina,T,arg2 and admitted to bar in arg1,1
+North Carolina,North Carolina,T,arg2 and live in arg1,1
+North Carolina,North Carolina,T,arg2 and rural arg1,1
+North Carolina,North Carolina,T,arg2 and the state of arg1,1
+North Carolina,North Carolina,T,arg2 and throughout arg1,1
+North Carolina,North Carolina,T,arg2 commercial real estate and arg1,1
+North Carolina,North Carolina,T,arg2 if you reside in arg1,1
+North Carolina,North Carolina,T,arg2 resident and arg1,1
+North Carolina,North Carolina,T,arg2 road map and arg1,1
+North Carolina,North Carolina,T,arg2 walking events and arg1,1
+North Carolina,North Carolina,T,arg2 we love arg1,1
+North Carolina,North Carolina,T,bias,1.0
+North Carolina,North Carolina,T,entity1=entity2,1
+North Carolina,North Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+North Carolina,North Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+North Carolina,North Carolina,T,F_avsResult_0_-1_f_l,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_0_1_f_l,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_0_-1_l_f,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_0_1_l_f,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_-1_0_f_l,0.0305945252121
+North Carolina,North Carolina,T,F_avsResult_1_0_f_l,0.104070652399
+North Carolina,North Carolina,T,F_avsResult_-1_0_l_f,0.0305945252121
+North Carolina,North Carolina,T,F_avsResult_1_0_l_f,0.104070652399
+North Carolina,North Carolina,T,F_avsResult_inside_0_-1_f_l,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_inside_0_1_f_l,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_inside_0_-1_l_f,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_inside_0_1_l_f,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_inside_-1_0_f_l,0.0305945252121
+North Carolina,North Carolina,T,F_avsResult_inside_1_0_f_l,0.104070652399
+North Carolina,North Carolina,T,F_avsResult_inside_-1_0_l_f,0.0305945252121
+North Carolina,North Carolina,T,F_avsResult_inside_1_0_l_f,0.104070652399
+North Carolina,North Carolina,T,F_math2dFigureIntersectionArea_f_l,1.0
+North Carolina,North Carolina,T,F_math2dFigureIntersectionArea_l_f,1.0
+North Carolina,North Carolina,T,F_math2dIntersectionArea_f_l,1.0
+North Carolina,North Carolina,T,F_math2dIntersectionArea_l_f,1.0
+North Carolina,North Carolina,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+North Carolina,North Carolina,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+North Carolina,Raleigh,T,arg1 cities of arg2,1
+North Carolina,Raleigh,T,arg1 including arg2,1
+North Carolina,Raleigh,T,arg1 state capital of arg2,1
+North Carolina,Raleigh,T,arg1 west of arg2,1
+North Carolina,Raleigh,T,arg1 with offices in arg2,1
+North Carolina,Raleigh,T,arg2 and the state of arg1,1
+North Carolina,Raleigh,T,arg2 and throughout arg1,1
+North Carolina,Raleigh,T,arg2 area of arg1,1
+North Carolina,Raleigh,T,arg2 florist shop in arg1,1
+North Carolina,Raleigh,T,arg2 in central arg1,1
+North Carolina,Raleigh,T,arg2 in the state of arg1,1
+North Carolina,Raleigh,T,arg2 is also home to arg1,1
+North Carolina,Raleigh,T,arg2 is part of arg1,1
+North Carolina,Raleigh,T,arg2 is the capital city of arg1,1
+North Carolina,Raleigh,T,arg2 is the capital of arg1,1
+North Carolina,Raleigh,T,arg2 is the capitol city of arg1,1
+North Carolina,Raleigh,T,arg2 is the capitol of arg1,1
+North Carolina,Raleigh,T,arg2 is the state capital of arg1,1
+North Carolina,Raleigh,T,bias,1.0
+North Carolina,Raleigh,T,F_3dIntersectsFigureLandmark_f_l,1.0
+North Carolina,Raleigh,T,F_3dIntersectsFigureLandmark_l_f,1.0
+North Carolina,Raleigh,T,F_aboveFigureCentroid_f_l,1.0
+North Carolina,Raleigh,T,F_avsResult_0_-1_f_l,0.208933062893
+North Carolina,Raleigh,T,F_avsResult_0_1_f_l,0.208933062893
+North Carolina,Raleigh,T,F_avsResult_0_-1_l_f,0.132433604604
+North Carolina,Raleigh,T,F_avsResult_0_1_l_f,0.132433604604
+North Carolina,Raleigh,T,F_avsResult_-1_0_f_l,0.0309778611612
+North Carolina,Raleigh,T,F_avsResult_1_0_f_l,0.140881515622
+North Carolina,Raleigh,T,F_avsResult_1_0_l_f,0.0711559304388
+North Carolina,Raleigh,T,F_avsResult_-1_0_l_f,0.444228309873
+North Carolina,Raleigh,T,F_avsResult_1_-1_f_l,0.0716214334022
+North Carolina,Raleigh,T,F_avsResult_1_1_f_l,0.0716214334022
+North Carolina,Raleigh,T,F_avsResult_-1_-1_l_f,0.310204940341
+North Carolina,Raleigh,T,F_avsResult_-1_1_l_f,0.310204940341
+North Carolina,Raleigh,T,F_avsResult_inside_0_-1_f_l,0.208933062893
+North Carolina,Raleigh,T,F_avsResult_inside_0_1_f_l,0.208933062893
+North Carolina,Raleigh,T,F_avsResult_inside_-1_0_f_l,0.0309778611612
+North Carolina,Raleigh,T,F_avsResult_inside_1_0_f_l,0.140881515622
+North Carolina,Raleigh,T,F_avsResult_inside_1_-1_f_l,0.0716214334022
+North Carolina,Raleigh,T,F_avsResult_inside_1_1_f_l,0.0716214334022
+North Carolina,Raleigh,T,F_avsResult_outside_0_-1_l_f,0.132433604604
+North Carolina,Raleigh,T,F_avsResult_outside_0_1_l_f,0.132433604604
+North Carolina,Raleigh,T,F_avsResult_outside_1_0_l_f,0.0711559304388
+North Carolina,Raleigh,T,F_avsResult_outside_-1_0_l_f,0.444228309873
+North Carolina,Raleigh,T,F_avsResult_outside_-1_-1_l_f,0.310204940341
+North Carolina,Raleigh,T,F_avsResult_outside_-1_1_l_f,0.310204940341
+North Carolina,Raleigh,T,F_belowFigureCentroid_l_f,1.0
+North Carolina,Raleigh,T,F_distBtwnCentroids_f_l,0.023039617613
+North Carolina,Raleigh,T,F_distBtwnCentroids_l_f,0.023039617613
+North Carolina,Raleigh,T,F_distHorizontalCentroid_f_l,0.0193374937058
+North Carolina,Raleigh,T,F_distHorizontalCentroid_l_f,-0.0193374937058
+North Carolina,Raleigh,T,F_distVerticalCentroid_f_l,0.0125253868974
+North Carolina,Raleigh,T,F_distVerticalCentroid_l_f,-0.0125253868974
+North Carolina,Raleigh,T,F_leftOfFigureCentroid_l_f,1.0
+North Carolina,Raleigh,T,F_math2dFigureIntersectionArea_f_l,0.0066168778713
+North Carolina,Raleigh,T,F_math2dFigureIntersectionArea_l_f,1.0
+North Carolina,Raleigh,T,F_math2dIntersectionArea_f_l,0.0066168778713
+North Carolina,Raleigh,T,F_math2dIntersectionArea_l_f,0.0066168778713
+North Carolina,Raleigh,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+North Carolina,Raleigh,T,F_math2dLandmarkIntersectionArea_l_f,0.0066168778713
+North Carolina,Raleigh,T,F_rightOfFigureCentroid_f_l,1.0
+North Carolina,South Carolina,T,arg1 and adjacent areas of arg2,1
+North Carolina,South Carolina,T,arg1 and coastal arg2,1
+North Carolina,South Carolina,T,arg1 and four in arg2,1
+North Carolina,South Carolina,T,arg1 and northeast arg2,1
+North Carolina,South Carolina,T,arg1 and northeastern arg2,1
+North Carolina,South Carolina,T,arg1 and northern arg2,1
+North Carolina,South Carolina,T,arg1 and northwestern arg2,1
+North Carolina,South Carolina,T,arg1 and one in arg2,1
+North Carolina,South Carolina,T,arg1 and parts of arg2,1
+North Carolina,South Carolina,T,arg1 and upper arg2,1
+North Carolina,South Carolina,T,arg1 and upstate arg2,1
+North Carolina,South Carolina,T,arg1 near the border of arg2,1
+North Carolina,South Carolina,T,arg2 and parts of arg1,1
+North Carolina,South Carolina,T,arg2 and southeastern arg1,1
+North Carolina,South Carolina,T,arg2 and southern arg1,1
+North Carolina,South Carolina,T,arg2 and western arg1,1
+North Carolina,South Carolina,T,arg2 as well as arg1,1
+North Carolina,South Carolina,T,arg2 is bordered by arg1,1
+North Carolina,South Carolina,T,arg2 sued arg1,1
+North Carolina,South Carolina,T,bias,1.0
+North Carolina,South Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+North Carolina,South Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+North Carolina,South Carolina,T,F_aboveFigureCentroid_l_f,1.0
+North Carolina,South Carolina,T,F_avsResult_0_-1_f_l,0.000640342698654
+North Carolina,South Carolina,T,F_avsResult_0_1_f_l,0.000640342698654
+North Carolina,South Carolina,T,F_avsResult_0_-1_l_f,0.445190213326
+North Carolina,South Carolina,T,F_avsResult_0_1_l_f,0.445190213326
+North Carolina,South Carolina,T,F_avsResult_1_0_f_l,0.0815155142036
+North Carolina,South Carolina,T,F_avsResult_-1_0_f_l,0.123307920818
+North Carolina,South Carolina,T,F_avsResult_-1_0_l_f,0.0405741190624
+North Carolina,South Carolina,T,F_avsResult_1_0_l_f,0.293141630799
+North Carolina,South Carolina,T,F_avsResult_1_-1_f_l,0.0295869348578
+North Carolina,South Carolina,T,F_avsResult_1_1_f_l,0.0295869348578
+North Carolina,South Carolina,T,F_avsResult_-1_-1_l_f,0.159016506549
+North Carolina,South Carolina,T,F_avsResult_-1_1_l_f,0.159016506549
+North Carolina,South Carolina,T,F_avsResult_outside_0_-1_f_l,0.000640342698654
+North Carolina,South Carolina,T,F_avsResult_outside_0_1_f_l,0.000640342698654
+North Carolina,South Carolina,T,F_avsResult_outside_0_-1_l_f,0.445190213326
+North Carolina,South Carolina,T,F_avsResult_outside_0_1_l_f,0.445190213326
+North Carolina,South Carolina,T,F_avsResult_outside_1_0_f_l,0.0815155142036
+North Carolina,South Carolina,T,F_avsResult_outside_-1_0_f_l,0.123307920818
+North Carolina,South Carolina,T,F_avsResult_outside_-1_0_l_f,0.0405741190624
+North Carolina,South Carolina,T,F_avsResult_outside_1_0_l_f,0.293141630799
+North Carolina,South Carolina,T,F_avsResult_outside_1_-1_f_l,0.0295869348578
+North Carolina,South Carolina,T,F_avsResult_outside_1_1_f_l,0.0295869348578
+North Carolina,South Carolina,T,F_avsResult_outside_-1_-1_l_f,0.159016506549
+North Carolina,South Carolina,T,F_avsResult_outside_-1_1_l_f,0.159016506549
+North Carolina,South Carolina,T,F_belowFigureCentroid_f_l,1.0
+North Carolina,South Carolina,T,F_distBtwnCentroids_f_l,0.0590800642278
+North Carolina,South Carolina,T,F_distBtwnCentroids_l_f,0.0590800642278
+North Carolina,South Carolina,T,F_distHorizontalCentroid_f_l,-0.0434390032781
+North Carolina,South Carolina,T,F_distHorizontalCentroid_l_f,0.0434390032781
+North Carolina,South Carolina,T,F_distVerticalCentroid_f_l,-0.040043813297
+North Carolina,South Carolina,T,F_distVerticalCentroid_l_f,0.040043813297
+North Carolina,South Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+North Carolina,South Carolina,T,F_math2dFigureIntersectionArea_f_l,0.000753899263929
+North Carolina,South Carolina,T,F_math2dFigureIntersectionArea_l_f,0.00132764935279
+North Carolina,South Carolina,T,F_math2dIntersectionArea_f_l,0.000481081913409
+North Carolina,South Carolina,T,F_math2dIntersectionArea_l_f,0.000481081913409
+North Carolina,South Carolina,T,F_math2dLandmarkIntersectionArea_f_l,0.00132764935279
+North Carolina,South Carolina,T,F_math2dLandmarkIntersectionArea_l_f,0.000753899263929
+North Carolina,South Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+North Carolina,Uwharrie National Forest,T,arg1 across from arg2,1
+North Carolina,Uwharrie National Forest,T,arg1 and in the heart of arg2,1
+North Carolina,Uwharrie National Forest,T,arg1 campgrounds in arg2,1
+North Carolina,Uwharrie National Forest,T,arg2 and home to arg1,1
+North Carolina,Uwharrie National Forest,T,arg2 in the heart of arg1,1
+North Carolina,Uwharrie National Forest,T,arg2 is located in central arg1,1
+North Carolina,Uwharrie National Forest,T,bias,1.0
+North Carolina,Uwharrie National Forest,T,F_3dIntersectsFigureLandmark_f_l,1.0
+North Carolina,Uwharrie National Forest,T,F_3dIntersectsFigureLandmark_l_f,1.0
+North Carolina,Uwharrie National Forest,T,F_aboveFigureCentroid_l_f,1.0
+North Carolina,Uwharrie National Forest,T,F_avsResult_0_-1_f_l,0.282152542926
+North Carolina,Uwharrie National Forest,T,F_avsResult_0_1_f_l,0.282152542926
+North Carolina,Uwharrie National Forest,T,F_avsResult_0_-1_l_f,0.289104885063
+North Carolina,Uwharrie National Forest,T,F_avsResult_0_1_l_f,0.289104885063
+North Carolina,Uwharrie National Forest,T,F_avsResult_-1_0_f_l,0.0594856849853
+North Carolina,Uwharrie National Forest,T,F_avsResult_1_0_f_l,0.109295187982
+North Carolina,Uwharrie National Forest,T,F_avsResult_-1_0_l_f,0.0219230528921
+North Carolina,Uwharrie National Forest,T,F_avsResult_1_0_l_f,0.57713014039
+North Carolina,Uwharrie National Forest,T,F_avsResult_1_-1_f_l,0.0257045502599
+North Carolina,Uwharrie National Forest,T,F_avsResult_1_1_f_l,0.0257045502599
+North Carolina,Uwharrie National Forest,T,F_avsResult_-1_-1_f_l,0.0358506400958
+North Carolina,Uwharrie National Forest,T,F_avsResult_-1_1_f_l,0.0358506400958
+North Carolina,Uwharrie National Forest,T,F_avsResult_inside_0_-1_f_l,0.282152542926
+North Carolina,Uwharrie National Forest,T,F_avsResult_inside_0_1_f_l,0.282152542926
+North Carolina,Uwharrie National Forest,T,F_avsResult_inside_-1_0_f_l,0.0594856849853
+North Carolina,Uwharrie National Forest,T,F_avsResult_inside_1_0_f_l,0.109295187982
+North Carolina,Uwharrie National Forest,T,F_avsResult_inside_1_-1_f_l,0.0257045502599
+North Carolina,Uwharrie National Forest,T,F_avsResult_inside_1_1_f_l,0.0257045502599
+North Carolina,Uwharrie National Forest,T,F_avsResult_inside_-1_-1_f_l,0.0358506400958
+North Carolina,Uwharrie National Forest,T,F_avsResult_inside_-1_1_f_l,0.0358506400958
+North Carolina,Uwharrie National Forest,T,F_avsResult_outside_0_-1_l_f,0.289104885063
+North Carolina,Uwharrie National Forest,T,F_avsResult_outside_0_1_l_f,0.289104885063
+North Carolina,Uwharrie National Forest,T,F_avsResult_outside_-1_0_l_f,0.0219230528921
+North Carolina,Uwharrie National Forest,T,F_avsResult_outside_1_0_l_f,0.57713014039
+North Carolina,Uwharrie National Forest,T,F_belowFigureCentroid_f_l,1.0
+North Carolina,Uwharrie National Forest,T,F_distBtwnCentroids_f_l,0.0340821355992
+North Carolina,Uwharrie National Forest,T,F_distBtwnCentroids_l_f,0.0340821355992
+North Carolina,Uwharrie National Forest,T,F_distHorizontalCentroid_f_l,-0.0335533968612
+North Carolina,Uwharrie National Forest,T,F_distHorizontalCentroid_l_f,0.0335533968612
+North Carolina,Uwharrie National Forest,T,F_distVerticalCentroid_f_l,-0.00598009415255
+North Carolina,Uwharrie National Forest,T,F_distVerticalCentroid_l_f,0.00598009415255
+North Carolina,Uwharrie National Forest,T,F_leftOfFigureCentroid_f_l,1.0
+North Carolina,Uwharrie National Forest,T,F_math2dFigureIntersectionArea_f_l,2.00404962218e-05
+North Carolina,Uwharrie National Forest,T,F_math2dFigureIntersectionArea_l_f,0.999999999998
+North Carolina,Uwharrie National Forest,T,F_math2dIntersectionArea_f_l,2.00404962218e-05
+North Carolina,Uwharrie National Forest,T,F_math2dIntersectionArea_l_f,2.00404962218e-05
+North Carolina,Uwharrie National Forest,T,F_math2dLandmarkIntersectionArea_f_l,0.999999999998
+North Carolina,Uwharrie National Forest,T,F_math2dLandmarkIntersectionArea_l_f,2.00404962218e-05
+North Carolina,Uwharrie National Forest,T,F_rightOfFigureCentroid_l_f,1.0
+Raleigh,Atlantic Ocean,T,arg1 is a short drive from arg2,1
+Raleigh,Atlantic Ocean,T,bias,1.0
+Raleigh,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+Raleigh,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.00575528180754
+Raleigh,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.00575528180754
+Raleigh,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.632335356536
+Raleigh,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.632335356536
+Raleigh,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.856819730264
+Raleigh,Atlantic Ocean,T,F_avsResult_-1_0_f_l,6.18567167156e-05
+Raleigh,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.856738503169
+Raleigh,Atlantic Ocean,T,F_avsResult_1_0_l_f,6.3239182499e-05
+Raleigh,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.703348480807
+Raleigh,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.703348480807
+Raleigh,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.00954963838078
+Raleigh,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.00954963838078
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.00575528180754
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.00575528180754
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.632335356536
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.632335356536
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.856819730264
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,6.18567167156e-05
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.856738503169
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,6.3239182499e-05
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.703348480807
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.703348480807
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.00954963838078
+Raleigh,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.00954963838078
+Raleigh,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+Raleigh,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+Raleigh,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+Raleigh,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+Raleigh,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+Raleigh,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+Raleigh,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+Raleigh,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.0425749169226
+Raleigh,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.0425749169226
+Raleigh,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.0383570276093
+Raleigh,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.0383570276093
+Raleigh,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0184759839777
+Raleigh,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0184759839777
+Raleigh,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+Raleigh,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+Raleigh,Charlotte,T,arg1 and another in arg2,1
+Raleigh,Charlotte,T,arg1 and its largest city is arg2,1
+Raleigh,Charlotte,T,arg1 and the largest city is arg2,1
+Raleigh,Charlotte,T,arg1 is the capital and arg2,1
+Raleigh,Charlotte,T,arg2 and the capital city of arg1,1
+Raleigh,Charlotte,T,arg2 and two in arg1,1
+Raleigh,Charlotte,T,arg2 area from arg1,1
+Raleigh,Charlotte,T,arg2 as opposed to arg1,1
+Raleigh,Charlotte,T,arg2 as well as arg1,1
+Raleigh,Charlotte,T,arg2 is better than arg1,1
+Raleigh,Charlotte,T,arg2 is situated between arg1,1
+Raleigh,Charlotte,T,arg2 legislators in arg1,1
+Raleigh,Charlotte,T,arg2 now living in arg1,1
+Raleigh,Charlotte,T,arg2 to nearby arg1,1
+Raleigh,Charlotte,T,bias,1.0
+Raleigh,Charlotte,T,F_aboveFigureCentroid_l_f,1.0
+Raleigh,Charlotte,T,F_avsResult_0_-1_f_l,0.165035045147
+Raleigh,Charlotte,T,F_avsResult_0_1_f_l,0.165035045147
+Raleigh,Charlotte,T,F_avsResult_0_-1_l_f,0.341978697607
+Raleigh,Charlotte,T,F_avsResult_0_1_l_f,0.341978697607
+Raleigh,Charlotte,T,F_avsResult_1_0_f_l,0.0215953312678
+Raleigh,Charlotte,T,F_avsResult_-1_0_f_l,0.662921077533
+Raleigh,Charlotte,T,F_avsResult_-1_0_l_f,0.0228163975362
+Raleigh,Charlotte,T,F_avsResult_1_0_l_f,0.671538689744
+Raleigh,Charlotte,T,F_avsResult_-1_-1_f_l,0.593125675561
+Raleigh,Charlotte,T,F_avsResult_-1_1_f_l,0.593125675561
+Raleigh,Charlotte,T,F_avsResult_-1_-1_l_f,0.0211333698472
+Raleigh,Charlotte,T,F_avsResult_-1_1_l_f,0.0211333698472
+Raleigh,Charlotte,T,F_avsResult_outside_0_-1_f_l,0.165035045147
+Raleigh,Charlotte,T,F_avsResult_outside_0_1_f_l,0.165035045147
+Raleigh,Charlotte,T,F_avsResult_outside_0_-1_l_f,0.341978697607
+Raleigh,Charlotte,T,F_avsResult_outside_0_1_l_f,0.341978697607
+Raleigh,Charlotte,T,F_avsResult_outside_1_0_f_l,0.0215953312678
+Raleigh,Charlotte,T,F_avsResult_outside_-1_0_f_l,0.662921077533
+Raleigh,Charlotte,T,F_avsResult_outside_-1_0_l_f,0.0228163975362
+Raleigh,Charlotte,T,F_avsResult_outside_1_0_l_f,0.671538689744
+Raleigh,Charlotte,T,F_avsResult_outside_-1_-1_f_l,0.593125675561
+Raleigh,Charlotte,T,F_avsResult_outside_-1_1_f_l,0.593125675561
+Raleigh,Charlotte,T,F_avsResult_outside_-1_-1_l_f,0.0211333698472
+Raleigh,Charlotte,T,F_avsResult_outside_-1_1_l_f,0.0211333698472
+Raleigh,Charlotte,T,F_belowFigureCentroid_f_l,1.0
+Raleigh,Charlotte,T,F_closeDistNormFigure_f_l,1.0
+Raleigh,Charlotte,T,F_closeDistNormFigure_l_f,1.0
+Raleigh,Charlotte,T,F_closeDistNormLandmark_f_l,1.0
+Raleigh,Charlotte,T,F_closeDistNormLandmark_l_f,1.0
+Raleigh,Charlotte,T,F_closeDistNormUnion_f_l,1.0
+Raleigh,Charlotte,T,F_closeDistNormUnion_l_f,1.0
+Raleigh,Charlotte,T,F_distBtwnCentroids_f_l,1.26942600511
+Raleigh,Charlotte,T,F_distBtwnCentroids_l_f,1.26942600511
+Raleigh,Charlotte,T,F_distHorizontalCentroid_f_l,-1.22278082994
+Raleigh,Charlotte,T,F_distHorizontalCentroid_l_f,1.22278082994
+Raleigh,Charlotte,T,F_distVerticalCentroid_f_l,-0.340953698287
+Raleigh,Charlotte,T,F_distVerticalCentroid_l_f,0.340953698287
+Raleigh,Charlotte,T,F_leftOfFigureCentroid_f_l,1.0
+Raleigh,Charlotte,T,F_rightOfFigureCentroid_l_f,1.0
+Raleigh,Greensboro,T,arg1 and one at arg2,1
+Raleigh,Greensboro,T,arg1 heading to arg2,1
+Raleigh,Greensboro,T,arg1 in the area of arg2,1
+Raleigh,Greensboro,T,arg2 and one is in arg1,1
+Raleigh,Greensboro,T,arg2 beat out arg1,1
+Raleigh,Greensboro,T,arg2 before moving to arg1,1
+Raleigh,Greensboro,T,arg2 in addition to arg1,1
+Raleigh,Greensboro,T,arg2 native who lives in arg1,1
+Raleigh,Greensboro,T,arg2 serving arg1,1
+Raleigh,Greensboro,T,arg2 with an office in arg1,1
+Raleigh,Greensboro,T,bias,1.0
+Raleigh,Greensboro,T,F_aboveFigureCentroid_f_l,1.0
+Raleigh,Greensboro,T,F_avsResult_0_-1_f_l,0.29647877989
+Raleigh,Greensboro,T,F_avsResult_0_1_f_l,0.29647877989
+Raleigh,Greensboro,T,F_avsResult_0_-1_l_f,0.193106975665
+Raleigh,Greensboro,T,F_avsResult_0_1_l_f,0.193106975665
+Raleigh,Greensboro,T,F_avsResult_1_0_f_l,0.0233805447299
+Raleigh,Greensboro,T,F_avsResult_-1_0_f_l,0.587785468673
+Raleigh,Greensboro,T,F_avsResult_-1_0_l_f,0.021008063793
+Raleigh,Greensboro,T,F_avsResult_1_0_l_f,0.59220004864
+Raleigh,Greensboro,T,F_avsResult_outside_0_-1_f_l,0.29647877989
+Raleigh,Greensboro,T,F_avsResult_outside_0_1_f_l,0.29647877989
+Raleigh,Greensboro,T,F_avsResult_outside_0_-1_l_f,0.193106975665
+Raleigh,Greensboro,T,F_avsResult_outside_0_1_l_f,0.193106975665
+Raleigh,Greensboro,T,F_avsResult_outside_1_0_f_l,0.0233805447299
+Raleigh,Greensboro,T,F_avsResult_outside_-1_0_f_l,0.587785468673
+Raleigh,Greensboro,T,F_avsResult_outside_-1_0_l_f,0.021008063793
+Raleigh,Greensboro,T,F_avsResult_outside_1_0_l_f,0.59220004864
+Raleigh,Greensboro,T,F_belowFigureCentroid_l_f,1.0
+Raleigh,Greensboro,T,F_closeDistNormFigure_f_l,1.0
+Raleigh,Greensboro,T,F_closeDistNormFigure_l_f,1.0
+Raleigh,Greensboro,T,F_closeDistNormLandmark_f_l,1.0
+Raleigh,Greensboro,T,F_closeDistNormLandmark_l_f,1.0
+Raleigh,Greensboro,T,F_closeDistNormUnion_f_l,1.0
+Raleigh,Greensboro,T,F_closeDistNormUnion_l_f,1.0
+Raleigh,Greensboro,T,F_distBtwnCentroids_f_l,1.56202746535
+Raleigh,Greensboro,T,F_distBtwnCentroids_l_f,1.56202746535
+Raleigh,Greensboro,T,F_distHorizontalCentroid_f_l,-1.52585765728
+Raleigh,Greensboro,T,F_distHorizontalCentroid_l_f,1.52585765728
+Raleigh,Greensboro,T,F_distVerticalCentroid_f_l,0.334197863914
+Raleigh,Greensboro,T,F_distVerticalCentroid_l_f,-0.334197863914
+Raleigh,Greensboro,T,F_leftOfFigureCentroid_f_l,1.0
+Raleigh,Greensboro,T,F_rightOfFigureCentroid_l_f,1.0
+Raleigh,Myrtle Beach,T,bias,1.0
+Raleigh,Myrtle Beach,T,F_aboveFigureCentroid_l_f,1.0
+Raleigh,Myrtle Beach,T,F_avsResult_0_-1_f_l,0.00853108696042
+Raleigh,Myrtle Beach,T,F_avsResult_0_1_f_l,0.00853108696042
+Raleigh,Myrtle Beach,T,F_avsResult_0_-1_l_f,0.70037772988
+Raleigh,Myrtle Beach,T,F_avsResult_0_1_l_f,0.70037772988
+Raleigh,Myrtle Beach,T,F_avsResult_1_0_f_l,0.205740051892
+Raleigh,Myrtle Beach,T,F_avsResult_-1_0_f_l,0.271172551505
+Raleigh,Myrtle Beach,T,F_avsResult_-1_0_l_f,0.210235354069
+Raleigh,Myrtle Beach,T,F_avsResult_1_0_l_f,0.279002779261
+Raleigh,Myrtle Beach,T,F_avsResult_outside_0_-1_f_l,0.00853108696042
+Raleigh,Myrtle Beach,T,F_avsResult_outside_0_1_f_l,0.00853108696042
+Raleigh,Myrtle Beach,T,F_avsResult_outside_0_-1_l_f,0.70037772988
+Raleigh,Myrtle Beach,T,F_avsResult_outside_0_1_l_f,0.70037772988
+Raleigh,Myrtle Beach,T,F_avsResult_outside_1_0_f_l,0.205740051892
+Raleigh,Myrtle Beach,T,F_avsResult_outside_-1_0_f_l,0.271172551505
+Raleigh,Myrtle Beach,T,F_avsResult_outside_-1_0_l_f,0.210235354069
+Raleigh,Myrtle Beach,T,F_avsResult_outside_1_0_l_f,0.279002779261
+Raleigh,Myrtle Beach,T,F_belowFigureCentroid_f_l,1.0
+Raleigh,Myrtle Beach,T,F_closeDistNormFigure_f_l,1.0
+Raleigh,Myrtle Beach,T,F_closeDistNormFigure_l_f,1.0
+Raleigh,Myrtle Beach,T,F_closeDistNormLandmark_f_l,1.0
+Raleigh,Myrtle Beach,T,F_closeDistNormLandmark_l_f,1.0
+Raleigh,Myrtle Beach,T,F_closeDistNormUnion_f_l,1.0
+Raleigh,Myrtle Beach,T,F_closeDistNormUnion_l_f,1.0
+Raleigh,Myrtle Beach,T,F_distBtwnCentroids_f_l,1.81126617003
+Raleigh,Myrtle Beach,T,F_distBtwnCentroids_l_f,1.81126617003
+Raleigh,Myrtle Beach,T,F_distHorizontalCentroid_f_l,-0.204087536966
+Raleigh,Myrtle Beach,T,F_distHorizontalCentroid_l_f,0.204087536966
+Raleigh,Myrtle Beach,T,F_distVerticalCentroid_f_l,-1.7997314844
+Raleigh,Myrtle Beach,T,F_distVerticalCentroid_l_f,1.7997314844
+Raleigh,Myrtle Beach,T,F_leftOfFigureCentroid_f_l,1.0
+Raleigh,Myrtle Beach,T,F_rightOfFigureCentroid_l_f,1.0
+Raleigh,North Carolina,T,arg1 and the state of arg2,1
+Raleigh,North Carolina,T,arg1 and throughout arg2,1
+Raleigh,North Carolina,T,arg1 area of arg2,1
+Raleigh,North Carolina,T,arg1 is part of arg2,1
+Raleigh,North Carolina,T,arg1 is the capital city of arg2,1
+Raleigh,North Carolina,T,arg1 is the capital of arg2,1
+Raleigh,North Carolina,T,arg1 is the capitol of arg2,1
+Raleigh,North Carolina,T,arg2 and lives in arg1,1
+Raleigh,North Carolina,T,arg2 and moved to arg1,1
+Raleigh,North Carolina,T,arg2 cities including arg1,1
+Raleigh,North Carolina,T,arg2 cities of arg1,1
+Raleigh,North Carolina,T,arg2 includes arg1,1
+Raleigh,North Carolina,T,arg2 including arg1,1
+Raleigh,North Carolina,T,arg2 including the cities of arg1,1
+Raleigh,North Carolina,T,arg2 or fitness certification in arg1,1
+Raleigh,North Carolina,T,arg2 serving arg1,1
+Raleigh,North Carolina,T,arg2 state capital of arg1,1
+Raleigh,North Carolina,T,arg2 west of arg1,1
+Raleigh,North Carolina,T,arg2 with offices in arg1,1
+Raleigh,North Carolina,T,bias,1.0
+Raleigh,North Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Raleigh,North Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Raleigh,North Carolina,T,F_aboveFigureCentroid_l_f,1.0
+Raleigh,North Carolina,T,F_avsResult_0_-1_f_l,0.132433604604
+Raleigh,North Carolina,T,F_avsResult_0_1_f_l,0.132433604604
+Raleigh,North Carolina,T,F_avsResult_0_-1_l_f,0.208933062893
+Raleigh,North Carolina,T,F_avsResult_0_1_l_f,0.208933062893
+Raleigh,North Carolina,T,F_avsResult_1_0_f_l,0.0711559304388
+Raleigh,North Carolina,T,F_avsResult_-1_0_f_l,0.444228309873
+Raleigh,North Carolina,T,F_avsResult_-1_0_l_f,0.0309778611612
+Raleigh,North Carolina,T,F_avsResult_1_0_l_f,0.140881515622
+Raleigh,North Carolina,T,F_avsResult_-1_-1_f_l,0.310204940341
+Raleigh,North Carolina,T,F_avsResult_-1_1_f_l,0.310204940341
+Raleigh,North Carolina,T,F_avsResult_1_-1_l_f,0.0716214334022
+Raleigh,North Carolina,T,F_avsResult_1_1_l_f,0.0716214334022
+Raleigh,North Carolina,T,F_avsResult_inside_0_-1_l_f,0.208933062893
+Raleigh,North Carolina,T,F_avsResult_inside_0_1_l_f,0.208933062893
+Raleigh,North Carolina,T,F_avsResult_inside_-1_0_l_f,0.0309778611612
+Raleigh,North Carolina,T,F_avsResult_inside_1_0_l_f,0.140881515622
+Raleigh,North Carolina,T,F_avsResult_inside_1_-1_l_f,0.0716214334022
+Raleigh,North Carolina,T,F_avsResult_inside_1_1_l_f,0.0716214334022
+Raleigh,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.132433604604
+Raleigh,North Carolina,T,F_avsResult_outside_0_1_f_l,0.132433604604
+Raleigh,North Carolina,T,F_avsResult_outside_1_0_f_l,0.0711559304388
+Raleigh,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.444228309873
+Raleigh,North Carolina,T,F_avsResult_outside_-1_-1_f_l,0.310204940341
+Raleigh,North Carolina,T,F_avsResult_outside_-1_1_f_l,0.310204940341
+Raleigh,North Carolina,T,F_belowFigureCentroid_f_l,1.0
+Raleigh,North Carolina,T,F_distBtwnCentroids_f_l,0.023039617613
+Raleigh,North Carolina,T,F_distBtwnCentroids_l_f,0.023039617613
+Raleigh,North Carolina,T,F_distHorizontalCentroid_f_l,-0.0193374937058
+Raleigh,North Carolina,T,F_distHorizontalCentroid_l_f,0.0193374937058
+Raleigh,North Carolina,T,F_distVerticalCentroid_f_l,-0.0125253868974
+Raleigh,North Carolina,T,F_distVerticalCentroid_l_f,0.0125253868974
+Raleigh,North Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Raleigh,North Carolina,T,F_math2dFigureIntersectionArea_f_l,1.0
+Raleigh,North Carolina,T,F_math2dFigureIntersectionArea_l_f,0.0066168778713
+Raleigh,North Carolina,T,F_math2dIntersectionArea_f_l,0.0066168778713
+Raleigh,North Carolina,T,F_math2dIntersectionArea_l_f,0.0066168778713
+Raleigh,North Carolina,T,F_math2dLandmarkIntersectionArea_f_l,0.0066168778713
+Raleigh,North Carolina,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Raleigh,North Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Raleigh,Raleigh,T,arg1 area of arg2,1
+Raleigh,Raleigh,T,arg1 or sending flowers to arg2,1
+Raleigh,Raleigh,T,arg1 or shipped to arg2,1
+Raleigh,Raleigh,T,arg1 or west of arg2,1
+Raleigh,Raleigh,T,arg1 people in arg2,1
+Raleigh,Raleigh,T,arg1 performing arts center arg2,1
+Raleigh,Raleigh,T,arg1 personal injury lawyer visit our arg2,1
+Raleigh,Raleigh,T,arg1 properties or browse arg2,1
+Raleigh,Raleigh,T,arg1 schools pages to research arg2,1
+Raleigh,Raleigh,T,arg1 single men and arg2,1
+Raleigh,Raleigh,T,arg1 singles arg2,1
+Raleigh,Raleigh,T,arg1 singles groups and arg2,1
+Raleigh,Raleigh,T,arg1 to help you move within arg2,1
+Raleigh,Raleigh,T,arg1 used car inventory search arg2,1
+Raleigh,Raleigh,T,arg1 views arg2,1
+Raleigh,Raleigh,T,arg1 wedding buses and arg2,1
+Raleigh,Raleigh,T,arg2 area of arg1,1
+Raleigh,Raleigh,T,arg2 or sending flowers to arg1,1
+Raleigh,Raleigh,T,arg2 or shipped to arg1,1
+Raleigh,Raleigh,T,arg2 or west of arg1,1
+Raleigh,Raleigh,T,arg2 people in arg1,1
+Raleigh,Raleigh,T,arg2 performing arts center arg1,1
+Raleigh,Raleigh,T,arg2 personal injury lawyer visit our arg1,1
+Raleigh,Raleigh,T,arg2 properties or browse arg1,1
+Raleigh,Raleigh,T,arg2 schools pages to research arg1,1
+Raleigh,Raleigh,T,arg2 single men and arg1,1
+Raleigh,Raleigh,T,arg2 singles arg1,1
+Raleigh,Raleigh,T,arg2 singles groups and arg1,1
+Raleigh,Raleigh,T,arg2 to help you move within arg1,1
+Raleigh,Raleigh,T,arg2 used car inventory search arg1,1
+Raleigh,Raleigh,T,arg2 views arg1,1
+Raleigh,Raleigh,T,arg2 wedding buses and arg1,1
+Raleigh,Raleigh,T,bias,1.0
+Raleigh,Raleigh,T,entity1=entity2,1
+Raleigh,Raleigh,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Raleigh,Raleigh,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Raleigh,Raleigh,T,F_avsResult_0_-1_f_l,0.0101441031252
+Raleigh,Raleigh,T,F_avsResult_0_1_f_l,0.0101441031252
+Raleigh,Raleigh,T,F_avsResult_0_-1_l_f,0.0101441031252
+Raleigh,Raleigh,T,F_avsResult_0_1_l_f,0.0101441031252
+Raleigh,Raleigh,T,F_avsResult_1_0_f_l,0.00693399485697
+Raleigh,Raleigh,T,F_avsResult_-1_0_f_l,0.0222941496505
+Raleigh,Raleigh,T,F_avsResult_1_0_l_f,0.00693399485697
+Raleigh,Raleigh,T,F_avsResult_-1_0_l_f,0.0222941496505
+Raleigh,Raleigh,T,F_avsResult_inside_0_-1_f_l,0.0101441031252
+Raleigh,Raleigh,T,F_avsResult_inside_0_1_f_l,0.0101441031252
+Raleigh,Raleigh,T,F_avsResult_inside_0_-1_l_f,0.0101441031252
+Raleigh,Raleigh,T,F_avsResult_inside_0_1_l_f,0.0101441031252
+Raleigh,Raleigh,T,F_avsResult_inside_1_0_f_l,0.00693399485697
+Raleigh,Raleigh,T,F_avsResult_inside_-1_0_f_l,0.0222941496505
+Raleigh,Raleigh,T,F_avsResult_inside_1_0_l_f,0.00693399485697
+Raleigh,Raleigh,T,F_avsResult_inside_-1_0_l_f,0.0222941496505
+Raleigh,Raleigh,T,F_math2dFigureIntersectionArea_f_l,1.0
+Raleigh,Raleigh,T,F_math2dFigureIntersectionArea_l_f,1.0
+Raleigh,Raleigh,T,F_math2dIntersectionArea_f_l,1.0
+Raleigh,Raleigh,T,F_math2dIntersectionArea_l_f,1.0
+Raleigh,Raleigh,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Raleigh,Raleigh,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Raleigh,South Carolina,T,arg2 including arg1,1
+Raleigh,South Carolina,T,arg2 native who resides in arg1,1
+Raleigh,South Carolina,T,bias,1.0
+Raleigh,South Carolina,T,F_aboveFigureCentroid_l_f,1.0
+Raleigh,South Carolina,T,F_avsResult_0_-1_f_l,0.0742325567234
+Raleigh,South Carolina,T,F_avsResult_0_1_f_l,0.0742325567234
+Raleigh,South Carolina,T,F_avsResult_0_-1_l_f,0.455407950984
+Raleigh,South Carolina,T,F_avsResult_0_1_l_f,0.455407950984
+Raleigh,South Carolina,T,F_avsResult_1_0_f_l,0.056909745888
+Raleigh,South Carolina,T,F_avsResult_-1_0_f_l,0.562719001647
+Raleigh,South Carolina,T,F_avsResult_-1_0_l_f,0.0378020034912
+Raleigh,South Carolina,T,F_avsResult_1_0_l_f,0.359453135422
+Raleigh,South Carolina,T,F_avsResult_-1_-1_f_l,0.27324832638
+Raleigh,South Carolina,T,F_avsResult_-1_1_f_l,0.27324832638
+Raleigh,South Carolina,T,F_avsResult_-1_-1_l_f,0.134313136209
+Raleigh,South Carolina,T,F_avsResult_-1_1_l_f,0.134313136209
+Raleigh,South Carolina,T,F_avsResult_outside_0_-1_f_l,0.0742325567234
+Raleigh,South Carolina,T,F_avsResult_outside_0_1_f_l,0.0742325567234
+Raleigh,South Carolina,T,F_avsResult_outside_0_-1_l_f,0.455407950984
+Raleigh,South Carolina,T,F_avsResult_outside_0_1_l_f,0.455407950984
+Raleigh,South Carolina,T,F_avsResult_outside_1_0_f_l,0.056909745888
+Raleigh,South Carolina,T,F_avsResult_outside_-1_0_f_l,0.562719001647
+Raleigh,South Carolina,T,F_avsResult_outside_-1_0_l_f,0.0378020034912
+Raleigh,South Carolina,T,F_avsResult_outside_1_0_l_f,0.359453135422
+Raleigh,South Carolina,T,F_avsResult_outside_-1_-1_f_l,0.27324832638
+Raleigh,South Carolina,T,F_avsResult_outside_-1_1_f_l,0.27324832638
+Raleigh,South Carolina,T,F_avsResult_outside_-1_-1_l_f,0.134313136209
+Raleigh,South Carolina,T,F_avsResult_outside_-1_1_l_f,0.134313136209
+Raleigh,South Carolina,T,F_belowFigureCentroid_f_l,1.0
+Raleigh,South Carolina,T,F_closeDistNormFigure_f_l,1.0
+Raleigh,South Carolina,T,F_closeDistNormFigure_l_f,0.196292735317
+Raleigh,South Carolina,T,F_closeDistNormLandmark_f_l,0.196292735317
+Raleigh,South Carolina,T,F_closeDistNormLandmark_l_f,1.0
+Raleigh,South Carolina,T,F_closeDistNormUnion_f_l,0.194031759024
+Raleigh,South Carolina,T,F_closeDistNormUnion_l_f,0.194031759024
+Raleigh,South Carolina,T,F_distBtwnCentroids_f_l,0.154584353667
+Raleigh,South Carolina,T,F_distBtwnCentroids_l_f,0.154584353667
+Raleigh,South Carolina,T,F_distHorizontalCentroid_f_l,-0.117044762384
+Raleigh,South Carolina,T,F_distHorizontalCentroid_l_f,0.117044762384
+Raleigh,South Carolina,T,F_distVerticalCentroid_f_l,-0.100979433535
+Raleigh,South Carolina,T,F_distVerticalCentroid_l_f,0.100979433535
+Raleigh,South Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Raleigh,South Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Raleigh,Uwharrie National Forest,T,bias,1.0
+Raleigh,Uwharrie National Forest,T,F_aboveFigureCentroid_l_f,1.0
+Raleigh,Uwharrie National Forest,T,F_avsResult_0_-1_f_l,0.163949508457
+Raleigh,Uwharrie National Forest,T,F_avsResult_0_1_f_l,0.163949508457
+Raleigh,Uwharrie National Forest,T,F_avsResult_0_-1_l_f,0.341826195812
+Raleigh,Uwharrie National Forest,T,F_avsResult_0_1_l_f,0.341826195812
+Raleigh,Uwharrie National Forest,T,F_avsResult_1_0_f_l,0.0330292200885
+Raleigh,Uwharrie National Forest,T,F_avsResult_-1_0_f_l,0.580720363492
+Raleigh,Uwharrie National Forest,T,F_avsResult_-1_0_l_f,0.0357451233086
+Raleigh,Uwharrie National Forest,T,F_avsResult_1_0_l_f,0.594181084378
+Raleigh,Uwharrie National Forest,T,F_avsResult_-1_-1_f_l,0.467832957915
+Raleigh,Uwharrie National Forest,T,F_avsResult_-1_1_f_l,0.467832957915
+Raleigh,Uwharrie National Forest,T,F_avsResult_-1_-1_l_f,0.0691181434779
+Raleigh,Uwharrie National Forest,T,F_avsResult_-1_1_l_f,0.0691181434779
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_0_-1_f_l,0.163949508457
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_0_1_f_l,0.163949508457
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_0_-1_l_f,0.341826195812
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_0_1_l_f,0.341826195812
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_1_0_f_l,0.0330292200885
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_-1_0_f_l,0.580720363492
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_-1_0_l_f,0.0357451233086
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_1_0_l_f,0.594181084378
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_-1_-1_f_l,0.467832957915
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_-1_1_f_l,0.467832957915
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_-1_-1_l_f,0.0691181434779
+Raleigh,Uwharrie National Forest,T,F_avsResult_outside_-1_1_l_f,0.0691181434779
+Raleigh,Uwharrie National Forest,T,F_belowFigureCentroid_f_l,1.0
+Raleigh,Uwharrie National Forest,T,F_closeDistNormFigure_f_l,1.0
+Raleigh,Uwharrie National Forest,T,F_closeDistNormFigure_l_f,1.0
+Raleigh,Uwharrie National Forest,T,F_closeDistNormLandmark_f_l,1.0
+Raleigh,Uwharrie National Forest,T,F_closeDistNormLandmark_l_f,1.0
+Raleigh,Uwharrie National Forest,T,F_closeDistNormUnion_f_l,1.0
+Raleigh,Uwharrie National Forest,T,F_closeDistNormUnion_l_f,1.0
+Raleigh,Uwharrie National Forest,T,F_distBtwnCentroids_f_l,1.52021212875
+Raleigh,Uwharrie National Forest,T,F_distBtwnCentroids_l_f,1.52021212875
+Raleigh,Uwharrie National Forest,T,F_distHorizontalCentroid_f_l,-1.43491846508
+Raleigh,Uwharrie National Forest,T,F_distHorizontalCentroid_l_f,1.43491846508
+Raleigh,Uwharrie National Forest,T,F_distVerticalCentroid_f_l,-0.502049713648
+Raleigh,Uwharrie National Forest,T,F_distVerticalCentroid_l_f,0.502049713648
+Raleigh,Uwharrie National Forest,T,F_leftOfFigureCentroid_f_l,1.0
+Raleigh,Uwharrie National Forest,T,F_rightOfFigureCentroid_l_f,1.0
+South Carolina,Atlantic Ocean,T,arg1 facing arg2,1
+South Carolina,Atlantic Ocean,T,arg1 meets arg2,1
+South Carolina,Atlantic Ocean,T,arg1 shares with arg2,1
+South Carolina,Atlantic Ocean,T,arg1 sits on arg2,1
+South Carolina,Atlantic Ocean,T,arg1 stretches from arg2,1
+South Carolina,Atlantic Ocean,T,arg1 to the south and arg2,1
+South Carolina,Atlantic Ocean,T,arg2 form the borders of arg1,1
+South Carolina,Atlantic Ocean,T,arg2 off arg1,1
+South Carolina,Atlantic Ocean,T,arg2 off the coast of arg1,1
+South Carolina,Atlantic Ocean,T,arg2 off the coasts of arg1,1
+South Carolina,Atlantic Ocean,T,arg2 shores of arg1,1
+South Carolina,Atlantic Ocean,T,bias,1.0
+South Carolina,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+South Carolina,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.0065991848275
+South Carolina,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.0065991848275
+South Carolina,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.615448141973
+South Carolina,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.615448141973
+South Carolina,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.871202556906
+South Carolina,Atlantic Ocean,T,F_avsResult_-1_0_f_l,3.06982399757e-05
+South Carolina,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.871093981011
+South Carolina,Atlantic Ocean,T,F_avsResult_1_0_l_f,4.24140784435e-05
+South Carolina,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.744761894471
+South Carolina,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.744761894471
+South Carolina,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.00570770486254
+South Carolina,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.00570770486254
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.0065991848275
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.0065991848275
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.615448141973
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.615448141973
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.871202556906
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,3.06982399757e-05
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.871093981011
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,4.24140784435e-05
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.744761894471
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.744761894471
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.00570770486254
+South Carolina,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.00570770486254
+South Carolina,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+South Carolina,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+South Carolina,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+South Carolina,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+South Carolina,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+South Carolina,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+South Carolina,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+South Carolina,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.0413112672004
+South Carolina,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.0413112672004
+South Carolina,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.0379842626648
+South Carolina,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.0379842626648
+South Carolina,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0162424316995
+South Carolina,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0162424316995
+South Carolina,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+South Carolina,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+South Carolina,Charlotte,T,arg1 border from arg2,1
+South Carolina,Charlotte,T,arg1 with a regional office in arg2,1
+South Carolina,Charlotte,T,arg2 advances to play arg1,1
+South Carolina,Charlotte,T,arg2 and northern arg1,1
+South Carolina,Charlotte,T,arg2 and upstate arg1,1
+South Carolina,Charlotte,T,arg2 area including arg1,1
+South Carolina,Charlotte,T,arg2 back into arg1,1
+South Carolina,Charlotte,T,arg2 metropolitan area of arg1,1
+South Carolina,Charlotte,T,arg2 on its way to arg1,1
+South Carolina,Charlotte,T,arg2 past arg1,1
+South Carolina,Charlotte,T,arg2 will play at arg1,1
+South Carolina,Charlotte,T,bias,1.0
+South Carolina,Charlotte,T,F_aboveFigureCentroid_f_l,1.0
+South Carolina,Charlotte,T,F_avsResult_0_-1_f_l,0.348201441783
+South Carolina,Charlotte,T,F_avsResult_0_1_f_l,0.348201441783
+South Carolina,Charlotte,T,F_avsResult_0_-1_l_f,0.00398372748242
+South Carolina,Charlotte,T,F_avsResult_0_1_l_f,0.00398372748242
+South Carolina,Charlotte,T,F_avsResult_-1_0_f_l,0.0585255624458
+South Carolina,Charlotte,T,F_avsResult_1_0_f_l,0.212169653118
+South Carolina,Charlotte,T,F_avsResult_1_0_l_f,0.23985829136
+South Carolina,Charlotte,T,F_avsResult_-1_0_l_f,0.258896300607
+South Carolina,Charlotte,T,F_avsResult_-1_-1_f_l,0.122608419073
+South Carolina,Charlotte,T,F_avsResult_-1_1_f_l,0.122608419073
+South Carolina,Charlotte,T,F_avsResult_outside_0_-1_f_l,0.348201441783
+South Carolina,Charlotte,T,F_avsResult_outside_0_1_f_l,0.348201441783
+South Carolina,Charlotte,T,F_avsResult_outside_0_-1_l_f,0.00398372748242
+South Carolina,Charlotte,T,F_avsResult_outside_0_1_l_f,0.00398372748242
+South Carolina,Charlotte,T,F_avsResult_outside_-1_0_f_l,0.0585255624458
+South Carolina,Charlotte,T,F_avsResult_outside_1_0_f_l,0.212169653118
+South Carolina,Charlotte,T,F_avsResult_outside_1_0_l_f,0.23985829136
+South Carolina,Charlotte,T,F_avsResult_outside_-1_0_l_f,0.258896300607
+South Carolina,Charlotte,T,F_avsResult_outside_-1_-1_f_l,0.122608419073
+South Carolina,Charlotte,T,F_avsResult_outside_-1_1_f_l,0.122608419073
+South Carolina,Charlotte,T,F_belowFigureCentroid_l_f,1.0
+South Carolina,Charlotte,T,F_closeDistNormFigure_f_l,0.00298853735073
+South Carolina,Charlotte,T,F_closeDistNormFigure_l_f,1.0
+South Carolina,Charlotte,T,F_closeDistNormLandmark_f_l,1.0
+South Carolina,Charlotte,T,F_closeDistNormLandmark_l_f,0.00298853735073
+South Carolina,Charlotte,T,F_closeDistNormUnion_f_l,0.00298841805921
+South Carolina,Charlotte,T,F_closeDistNormUnion_l_f,0.00298841805921
+South Carolina,Charlotte,T,F_distBtwnCentroids_f_l,0.0875883898698
+South Carolina,Charlotte,T,F_distBtwnCentroids_l_f,0.0875883898698
+South Carolina,Charlotte,T,F_distHorizontalCentroid_f_l,0.00330106689001
+South Carolina,Charlotte,T,F_distHorizontalCentroid_l_f,-0.00330106689001
+South Carolina,Charlotte,T,F_distVerticalCentroid_f_l,0.0875261617882
+South Carolina,Charlotte,T,F_distVerticalCentroid_l_f,-0.0875261617882
+South Carolina,Charlotte,T,F_leftOfFigureCentroid_l_f,1.0
+South Carolina,Charlotte,T,F_rightOfFigureCentroid_f_l,1.0
+South Carolina,Greensboro,T,arg1 and was raised in arg2,1
+South Carolina,Greensboro,T,bias,1.0
+South Carolina,Greensboro,T,F_aboveFigureCentroid_f_l,1.0
+South Carolina,Greensboro,T,F_avsResult_0_-1_f_l,0.574634204164
+South Carolina,Greensboro,T,F_avsResult_0_1_f_l,0.574634204164
+South Carolina,Greensboro,T,F_avsResult_0_-1_l_f,0.0361851667882
+South Carolina,Greensboro,T,F_avsResult_0_1_l_f,0.0361851667882
+South Carolina,Greensboro,T,F_avsResult_-1_0_f_l,0.0588395656328
+South Carolina,Greensboro,T,F_avsResult_1_0_f_l,0.197306466992
+South Carolina,Greensboro,T,F_avsResult_1_0_l_f,0.122593894196
+South Carolina,Greensboro,T,F_avsResult_-1_0_l_f,0.396304211442
+South Carolina,Greensboro,T,F_avsResult_-1_-1_l_f,0.0971852399892
+South Carolina,Greensboro,T,F_avsResult_-1_1_l_f,0.0971852399892
+South Carolina,Greensboro,T,F_avsResult_outside_0_-1_f_l,0.574634204164
+South Carolina,Greensboro,T,F_avsResult_outside_0_1_f_l,0.574634204164
+South Carolina,Greensboro,T,F_avsResult_outside_0_-1_l_f,0.0361851667882
+South Carolina,Greensboro,T,F_avsResult_outside_0_1_l_f,0.0361851667882
+South Carolina,Greensboro,T,F_avsResult_outside_-1_0_f_l,0.0588395656328
+South Carolina,Greensboro,T,F_avsResult_outside_1_0_f_l,0.197306466992
+South Carolina,Greensboro,T,F_avsResult_outside_1_0_l_f,0.122593894196
+South Carolina,Greensboro,T,F_avsResult_outside_-1_0_l_f,0.396304211442
+South Carolina,Greensboro,T,F_avsResult_outside_-1_-1_l_f,0.0971852399892
+South Carolina,Greensboro,T,F_avsResult_outside_-1_1_l_f,0.0971852399892
+South Carolina,Greensboro,T,F_belowFigureCentroid_l_f,1.0
+South Carolina,Greensboro,T,F_closeDistNormFigure_f_l,0.175947336496
+South Carolina,Greensboro,T,F_closeDistNormFigure_l_f,1.0
+South Carolina,Greensboro,T,F_closeDistNormLandmark_f_l,1.0
+South Carolina,Greensboro,T,F_closeDistNormLandmark_l_f,0.175947336496
+South Carolina,Greensboro,T,F_closeDistNormUnion_f_l,0.174179487798
+South Carolina,Greensboro,T,F_closeDistNormUnion_l_f,0.174179487798
+South Carolina,Greensboro,T,F_distBtwnCentroids_f_l,0.123376773281
+South Carolina,Greensboro,T,F_distBtwnCentroids_l_f,0.123376773281
+South Carolina,Greensboro,T,F_distHorizontalCentroid_f_l,0.0535479983557
+South Carolina,Greensboro,T,F_distHorizontalCentroid_l_f,-0.0535479983557
+South Carolina,Greensboro,T,F_distVerticalCentroid_f_l,0.111150528822
+South Carolina,Greensboro,T,F_distVerticalCentroid_l_f,-0.111150528822
+South Carolina,Greensboro,T,F_leftOfFigureCentroid_l_f,1.0
+South Carolina,Greensboro,T,F_rightOfFigureCentroid_f_l,1.0
+South Carolina,Myrtle Beach,T,arg1 beaches in arg2,1
+South Carolina,Myrtle Beach,T,arg1 destinations like arg2,1
+South Carolina,Myrtle Beach,T,arg1 surrounding arg2,1
+South Carolina,Myrtle Beach,T,arg1 with offices in arg2,1
+South Carolina,Myrtle Beach,T,arg2 and throughout arg1,1
+South Carolina,Myrtle Beach,T,arg2 area in arg1,1
+South Carolina,Myrtle Beach,T,arg2 area of arg1,1
+South Carolina,Myrtle Beach,T,arg2 areas of arg1,1
+South Carolina,Myrtle Beach,T,arg2 hotels in arg1,1
+South Carolina,Myrtle Beach,T,arg2 is located in arg1,1
+South Carolina,Myrtle Beach,T,arg2 located on arg1,1
+South Carolina,Myrtle Beach,T,arg2 or anywhere in arg1,1
+South Carolina,Myrtle Beach,T,arg2 or elsewhere in arg1,1
+South Carolina,Myrtle Beach,T,arg2 real estate agent in arg1,1
+South Carolina,Myrtle Beach,T,arg2 resort in arg1,1
+South Carolina,Myrtle Beach,T,bias,1.0
+South Carolina,Myrtle Beach,T,F_3dIntersectsFigureLandmark_f_l,1.0
+South Carolina,Myrtle Beach,T,F_3dIntersectsFigureLandmark_l_f,1.0
+South Carolina,Myrtle Beach,T,F_aboveFigureCentroid_l_f,1.0
+South Carolina,Myrtle Beach,T,F_avsResult_0_-1_f_l,0.00216787089996
+South Carolina,Myrtle Beach,T,F_avsResult_0_1_f_l,0.00216787089996
+South Carolina,Myrtle Beach,T,F_avsResult_0_-1_l_f,0.272392780293
+South Carolina,Myrtle Beach,T,F_avsResult_0_1_l_f,0.272392780293
+South Carolina,Myrtle Beach,T,F_avsResult_-1_0_f_l,0.00643194226977
+South Carolina,Myrtle Beach,T,F_avsResult_1_0_f_l,0.228235742074
+South Carolina,Myrtle Beach,T,F_avsResult_1_0_l_f,0.00768588969346
+South Carolina,Myrtle Beach,T,F_avsResult_-1_0_l_f,0.696571651738
+South Carolina,Myrtle Beach,T,F_avsResult_1_-1_f_l,0.12188097132
+South Carolina,Myrtle Beach,T,F_avsResult_1_1_f_l,0.12188097132
+South Carolina,Myrtle Beach,T,F_avsResult_inside_0_-1_f_l,0.00216787089996
+South Carolina,Myrtle Beach,T,F_avsResult_inside_0_1_f_l,0.00216787089996
+South Carolina,Myrtle Beach,T,F_avsResult_inside_-1_0_f_l,0.00643194226977
+South Carolina,Myrtle Beach,T,F_avsResult_inside_1_0_f_l,0.228235742074
+South Carolina,Myrtle Beach,T,F_avsResult_inside_1_-1_f_l,0.12188097132
+South Carolina,Myrtle Beach,T,F_avsResult_inside_1_1_f_l,0.12188097132
+South Carolina,Myrtle Beach,T,F_avsResult_outside_0_-1_l_f,0.272392780293
+South Carolina,Myrtle Beach,T,F_avsResult_outside_0_1_l_f,0.272392780293
+South Carolina,Myrtle Beach,T,F_avsResult_outside_1_0_l_f,0.00768588969346
+South Carolina,Myrtle Beach,T,F_avsResult_outside_-1_0_l_f,0.696571651738
+South Carolina,Myrtle Beach,T,F_belowFigureCentroid_f_l,1.0
+South Carolina,Myrtle Beach,T,F_distBtwnCentroids_f_l,0.134447342377
+South Carolina,Myrtle Beach,T,F_distBtwnCentroids_l_f,0.134447342377
+South Carolina,Myrtle Beach,T,F_distHorizontalCentroid_f_l,0.13390444769
+South Carolina,Myrtle Beach,T,F_distHorizontalCentroid_l_f,-0.13390444769
+South Carolina,Myrtle Beach,T,F_distVerticalCentroid_f_l,-0.0120700771015
+South Carolina,Myrtle Beach,T,F_distVerticalCentroid_l_f,0.0120700771015
+South Carolina,Myrtle Beach,T,F_leftOfFigureCentroid_l_f,1.0
+South Carolina,Myrtle Beach,T,F_math2dFigureIntersectionArea_f_l,0.00244124354359
+South Carolina,Myrtle Beach,T,F_math2dFigureIntersectionArea_l_f,0.723209940452
+South Carolina,Myrtle Beach,T,F_math2dIntersectionArea_f_l,0.00243896476183
+South Carolina,Myrtle Beach,T,F_math2dIntersectionArea_l_f,0.00243896476183
+South Carolina,Myrtle Beach,T,F_math2dLandmarkIntersectionArea_f_l,0.723209940452
+South Carolina,Myrtle Beach,T,F_math2dLandmarkIntersectionArea_l_f,0.00244124354359
+South Carolina,Myrtle Beach,T,F_rightOfFigureCentroid_f_l,1.0
+South Carolina,North Carolina,T,arg1 and parts of arg2,1
+South Carolina,North Carolina,T,arg1 and southeastern arg2,1
+South Carolina,North Carolina,T,arg1 and western arg2,1
+South Carolina,North Carolina,T,arg1 is bordered by arg2,1
+South Carolina,North Carolina,T,arg1 sued arg2,1
+South Carolina,North Carolina,T,arg2 and adjacent areas of arg1,1
+South Carolina,North Carolina,T,arg2 and coastal arg1,1
+South Carolina,North Carolina,T,arg2 and four in arg1,1
+South Carolina,North Carolina,T,arg2 and northeast arg1,1
+South Carolina,North Carolina,T,arg2 and northeastern arg1,1
+South Carolina,North Carolina,T,arg2 and northern arg1,1
+South Carolina,North Carolina,T,arg2 and northwestern arg1,1
+South Carolina,North Carolina,T,arg2 and one in arg1,1
+South Carolina,North Carolina,T,arg2 and parts of arg1,1
+South Carolina,North Carolina,T,arg2 and upper arg1,1
+South Carolina,North Carolina,T,arg2 and upstate arg1,1
+South Carolina,North Carolina,T,arg2 as well as arg1,1
+South Carolina,North Carolina,T,arg2 is bordered by arg1,1
+South Carolina,North Carolina,T,arg2 near the border of arg1,1
+South Carolina,North Carolina,T,bias,1.0
+South Carolina,North Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+South Carolina,North Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+South Carolina,North Carolina,T,F_aboveFigureCentroid_f_l,1.0
+South Carolina,North Carolina,T,F_avsResult_0_-1_f_l,0.445190213326
+South Carolina,North Carolina,T,F_avsResult_0_1_f_l,0.445190213326
+South Carolina,North Carolina,T,F_avsResult_0_-1_l_f,0.000640342698654
+South Carolina,North Carolina,T,F_avsResult_0_1_l_f,0.000640342698654
+South Carolina,North Carolina,T,F_avsResult_-1_0_f_l,0.0405741190624
+South Carolina,North Carolina,T,F_avsResult_1_0_f_l,0.293141630799
+South Carolina,North Carolina,T,F_avsResult_1_0_l_f,0.0815155142036
+South Carolina,North Carolina,T,F_avsResult_-1_0_l_f,0.123307920818
+South Carolina,North Carolina,T,F_avsResult_-1_-1_f_l,0.159016506549
+South Carolina,North Carolina,T,F_avsResult_-1_1_f_l,0.159016506549
+South Carolina,North Carolina,T,F_avsResult_1_-1_l_f,0.0295869348578
+South Carolina,North Carolina,T,F_avsResult_1_1_l_f,0.0295869348578
+South Carolina,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.445190213326
+South Carolina,North Carolina,T,F_avsResult_outside_0_1_f_l,0.445190213326
+South Carolina,North Carolina,T,F_avsResult_outside_0_-1_l_f,0.000640342698654
+South Carolina,North Carolina,T,F_avsResult_outside_0_1_l_f,0.000640342698654
+South Carolina,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.0405741190624
+South Carolina,North Carolina,T,F_avsResult_outside_1_0_f_l,0.293141630799
+South Carolina,North Carolina,T,F_avsResult_outside_1_0_l_f,0.0815155142036
+South Carolina,North Carolina,T,F_avsResult_outside_-1_0_l_f,0.123307920818
+South Carolina,North Carolina,T,F_avsResult_outside_-1_-1_f_l,0.159016506549
+South Carolina,North Carolina,T,F_avsResult_outside_-1_1_f_l,0.159016506549
+South Carolina,North Carolina,T,F_avsResult_outside_1_-1_l_f,0.0295869348578
+South Carolina,North Carolina,T,F_avsResult_outside_1_1_l_f,0.0295869348578
+South Carolina,North Carolina,T,F_belowFigureCentroid_l_f,1.0
+South Carolina,North Carolina,T,F_distBtwnCentroids_f_l,0.0590800642278
+South Carolina,North Carolina,T,F_distBtwnCentroids_l_f,0.0590800642278
+South Carolina,North Carolina,T,F_distHorizontalCentroid_f_l,0.0434390032781
+South Carolina,North Carolina,T,F_distHorizontalCentroid_l_f,-0.0434390032781
+South Carolina,North Carolina,T,F_distVerticalCentroid_f_l,0.040043813297
+South Carolina,North Carolina,T,F_distVerticalCentroid_l_f,-0.040043813297
+South Carolina,North Carolina,T,F_leftOfFigureCentroid_l_f,1.0
+South Carolina,North Carolina,T,F_math2dFigureIntersectionArea_f_l,0.00132764935279
+South Carolina,North Carolina,T,F_math2dFigureIntersectionArea_l_f,0.000753899263929
+South Carolina,North Carolina,T,F_math2dIntersectionArea_f_l,0.000481081913409
+South Carolina,North Carolina,T,F_math2dIntersectionArea_l_f,0.000481081913409
+South Carolina,North Carolina,T,F_math2dLandmarkIntersectionArea_f_l,0.000753899263929
+South Carolina,North Carolina,T,F_math2dLandmarkIntersectionArea_l_f,0.00132764935279
+South Carolina,North Carolina,T,F_rightOfFigureCentroid_f_l,1.0
+South Carolina,Raleigh,T,arg1 including arg2,1
+South Carolina,Raleigh,T,arg1 native who resides in arg2,1
+South Carolina,Raleigh,T,bias,1.0
+South Carolina,Raleigh,T,F_aboveFigureCentroid_f_l,1.0
+South Carolina,Raleigh,T,F_avsResult_0_-1_f_l,0.455407950984
+South Carolina,Raleigh,T,F_avsResult_0_1_f_l,0.455407950984
+South Carolina,Raleigh,T,F_avsResult_0_-1_l_f,0.0742325567234
+South Carolina,Raleigh,T,F_avsResult_0_1_l_f,0.0742325567234
+South Carolina,Raleigh,T,F_avsResult_-1_0_f_l,0.0378020034912
+South Carolina,Raleigh,T,F_avsResult_1_0_f_l,0.359453135422
+South Carolina,Raleigh,T,F_avsResult_1_0_l_f,0.056909745888
+South Carolina,Raleigh,T,F_avsResult_-1_0_l_f,0.562719001647
+South Carolina,Raleigh,T,F_avsResult_-1_-1_f_l,0.134313136209
+South Carolina,Raleigh,T,F_avsResult_-1_1_f_l,0.134313136209
+South Carolina,Raleigh,T,F_avsResult_-1_-1_l_f,0.27324832638
+South Carolina,Raleigh,T,F_avsResult_-1_1_l_f,0.27324832638
+South Carolina,Raleigh,T,F_avsResult_outside_0_-1_f_l,0.455407950984
+South Carolina,Raleigh,T,F_avsResult_outside_0_1_f_l,0.455407950984
+South Carolina,Raleigh,T,F_avsResult_outside_0_-1_l_f,0.0742325567234
+South Carolina,Raleigh,T,F_avsResult_outside_0_1_l_f,0.0742325567234
+South Carolina,Raleigh,T,F_avsResult_outside_-1_0_f_l,0.0378020034912
+South Carolina,Raleigh,T,F_avsResult_outside_1_0_f_l,0.359453135422
+South Carolina,Raleigh,T,F_avsResult_outside_1_0_l_f,0.056909745888
+South Carolina,Raleigh,T,F_avsResult_outside_-1_0_l_f,0.562719001647
+South Carolina,Raleigh,T,F_avsResult_outside_-1_-1_f_l,0.134313136209
+South Carolina,Raleigh,T,F_avsResult_outside_-1_1_f_l,0.134313136209
+South Carolina,Raleigh,T,F_avsResult_outside_-1_-1_l_f,0.27324832638
+South Carolina,Raleigh,T,F_avsResult_outside_-1_1_l_f,0.27324832638
+South Carolina,Raleigh,T,F_belowFigureCentroid_l_f,1.0
+South Carolina,Raleigh,T,F_closeDistNormFigure_f_l,0.196292735317
+South Carolina,Raleigh,T,F_closeDistNormFigure_l_f,1.0
+South Carolina,Raleigh,T,F_closeDistNormLandmark_f_l,1.0
+South Carolina,Raleigh,T,F_closeDistNormLandmark_l_f,0.196292735317
+South Carolina,Raleigh,T,F_closeDistNormUnion_f_l,0.194031759024
+South Carolina,Raleigh,T,F_closeDistNormUnion_l_f,0.194031759024
+South Carolina,Raleigh,T,F_distBtwnCentroids_f_l,0.154584353667
+South Carolina,Raleigh,T,F_distBtwnCentroids_l_f,0.154584353667
+South Carolina,Raleigh,T,F_distHorizontalCentroid_f_l,0.117044762384
+South Carolina,Raleigh,T,F_distHorizontalCentroid_l_f,-0.117044762384
+South Carolina,Raleigh,T,F_distVerticalCentroid_f_l,0.100979433535
+South Carolina,Raleigh,T,F_distVerticalCentroid_l_f,-0.100979433535
+South Carolina,Raleigh,T,F_leftOfFigureCentroid_l_f,1.0
+South Carolina,Raleigh,T,F_rightOfFigureCentroid_f_l,1.0
+South Carolina,South Carolina,T,arg1 resident and arg2,1
+South Carolina,South Carolina,T,arg1 road map and arg2,1
+South Carolina,South Carolina,T,arg1 serving all of arg2,1
+South Carolina,South Carolina,T,arg1 singles groups and arg2,1
+South Carolina,South Carolina,T,arg1 space for lease or arg2,1
+South Carolina,South Carolina,T,arg1 stay in arg2,1
+South Carolina,South Carolina,T,arg1 students in arg2,1
+South Carolina,South Carolina,T,arg1 technical schools and arg2,1
+South Carolina,South Carolina,T,arg1 university networks and arg2,1
+South Carolina,South Carolina,T,arg1 urban real estate or rural arg2,1
+South Carolina,South Carolina,T,arg1 walking events and arg2,1
+South Carolina,South Carolina,T,arg1 we love arg2,1
+South Carolina,South Carolina,T,arg2 resident and arg1,1
+South Carolina,South Carolina,T,arg2 road map and arg1,1
+South Carolina,South Carolina,T,arg2 serving all of arg1,1
+South Carolina,South Carolina,T,arg2 singles groups and arg1,1
+South Carolina,South Carolina,T,arg2 space for lease or arg1,1
+South Carolina,South Carolina,T,arg2 stay in arg1,1
+South Carolina,South Carolina,T,arg2 students in arg1,1
+South Carolina,South Carolina,T,arg2 technical schools and arg1,1
+South Carolina,South Carolina,T,arg2 university networks and arg1,1
+South Carolina,South Carolina,T,arg2 urban real estate or rural arg1,1
+South Carolina,South Carolina,T,arg2 walking events and arg1,1
+South Carolina,South Carolina,T,arg2 we love arg1,1
+South Carolina,South Carolina,T,bias,1.0
+South Carolina,South Carolina,T,entity1=entity2,1
+South Carolina,South Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+South Carolina,South Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+South Carolina,South Carolina,T,F_avsResult_0_-1_f_l,0.00860410302103
+South Carolina,South Carolina,T,F_avsResult_0_1_f_l,0.00860410302103
+South Carolina,South Carolina,T,F_avsResult_0_-1_l_f,0.00860410302103
+South Carolina,South Carolina,T,F_avsResult_0_1_l_f,0.00860410302103
+South Carolina,South Carolina,T,F_avsResult_-1_0_f_l,0.0394455056376
+South Carolina,South Carolina,T,F_avsResult_1_0_f_l,0.129547057169
+South Carolina,South Carolina,T,F_avsResult_-1_0_l_f,0.0394455056376
+South Carolina,South Carolina,T,F_avsResult_1_0_l_f,0.129547057169
+South Carolina,South Carolina,T,F_avsResult_inside_0_-1_f_l,0.00860410302103
+South Carolina,South Carolina,T,F_avsResult_inside_0_1_f_l,0.00860410302103
+South Carolina,South Carolina,T,F_avsResult_inside_0_-1_l_f,0.00860410302103
+South Carolina,South Carolina,T,F_avsResult_inside_0_1_l_f,0.00860410302103
+South Carolina,South Carolina,T,F_avsResult_inside_-1_0_f_l,0.0394455056376
+South Carolina,South Carolina,T,F_avsResult_inside_1_0_f_l,0.129547057169
+South Carolina,South Carolina,T,F_avsResult_inside_-1_0_l_f,0.0394455056376
+South Carolina,South Carolina,T,F_avsResult_inside_1_0_l_f,0.129547057169
+South Carolina,South Carolina,T,F_math2dFigureIntersectionArea_f_l,1.0
+South Carolina,South Carolina,T,F_math2dFigureIntersectionArea_l_f,1.0
+South Carolina,South Carolina,T,F_math2dIntersectionArea_f_l,1.0
+South Carolina,South Carolina,T,F_math2dIntersectionArea_l_f,1.0
+South Carolina,South Carolina,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+South Carolina,South Carolina,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+South Carolina,Uwharrie National Forest,T,bias,1.0
+South Carolina,Uwharrie National Forest,T,F_aboveFigureCentroid_f_l,1.0
+South Carolina,Uwharrie National Forest,T,F_avsResult_0_-1_f_l,0.520711933011
+South Carolina,Uwharrie National Forest,T,F_avsResult_0_1_f_l,0.520711933011
+South Carolina,Uwharrie National Forest,T,F_avsResult_0_-1_l_f,0.0564927836629
+South Carolina,Uwharrie National Forest,T,F_avsResult_0_1_l_f,0.0564927836629
+South Carolina,Uwharrie National Forest,T,F_avsResult_-1_0_f_l,0.0523399903849
+South Carolina,Uwharrie National Forest,T,F_avsResult_1_0_f_l,0.167593742755
+South Carolina,Uwharrie National Forest,T,F_avsResult_1_0_l_f,0.121127379736
+South Carolina,Uwharrie National Forest,T,F_avsResult_-1_0_l_f,0.421649015397
+South Carolina,Uwharrie National Forest,T,F_avsResult_-1_-1_l_f,0.155974269083
+South Carolina,Uwharrie National Forest,T,F_avsResult_-1_1_l_f,0.155974269083
+South Carolina,Uwharrie National Forest,T,F_avsResult_outside_0_-1_f_l,0.520711933011
+South Carolina,Uwharrie National Forest,T,F_avsResult_outside_0_1_f_l,0.520711933011
+South Carolina,Uwharrie National Forest,T,F_avsResult_outside_0_-1_l_f,0.0564927836629
+South Carolina,Uwharrie National Forest,T,F_avsResult_outside_0_1_l_f,0.0564927836629
+South Carolina,Uwharrie National Forest,T,F_avsResult_outside_-1_0_f_l,0.0523399903849
+South Carolina,Uwharrie National Forest,T,F_avsResult_outside_1_0_f_l,0.167593742755
+South Carolina,Uwharrie National Forest,T,F_avsResult_outside_1_0_l_f,0.121127379736
+South Carolina,Uwharrie National Forest,T,F_avsResult_outside_-1_0_l_f,0.421649015397
+South Carolina,Uwharrie National Forest,T,F_avsResult_outside_-1_-1_l_f,0.155974269083
+South Carolina,Uwharrie National Forest,T,F_avsResult_outside_-1_1_l_f,0.155974269083
+South Carolina,Uwharrie National Forest,T,F_belowFigureCentroid_l_f,1.0
+South Carolina,Uwharrie National Forest,T,F_closeDistNormFigure_f_l,0.0388292623242
+South Carolina,Uwharrie National Forest,T,F_closeDistNormFigure_l_f,1.0
+South Carolina,Uwharrie National Forest,T,F_closeDistNormLandmark_f_l,1.0
+South Carolina,Uwharrie National Forest,T,F_closeDistNormLandmark_l_f,0.0388292623242
+South Carolina,Uwharrie National Forest,T,F_closeDistNormUnion_f_l,0.038827892003
+South Carolina,Uwharrie National Forest,T,F_closeDistNormUnion_l_f,0.038827892003
+South Carolina,Uwharrie National Forest,T,F_distBtwnCentroids_f_l,0.109583198638
+South Carolina,Uwharrie National Forest,T,F_distBtwnCentroids_l_f,0.109583198638
+South Carolina,Uwharrie National Forest,T,F_distHorizontalCentroid_f_l,0.0580839722285
+South Carolina,Uwharrie National Forest,T,F_distHorizontalCentroid_l_f,-0.0580839722285
+South Carolina,Uwharrie National Forest,T,F_distVerticalCentroid_f_l,0.092923245713
+South Carolina,Uwharrie National Forest,T,F_distVerticalCentroid_l_f,-0.092923245713
+South Carolina,Uwharrie National Forest,T,F_leftOfFigureCentroid_l_f,1.0
+South Carolina,Uwharrie National Forest,T,F_rightOfFigureCentroid_f_l,1.0
+Uwharrie National Forest,Atlantic Ocean,T,bias,1.0
+Uwharrie National Forest,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.00628448172262
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.00628448172262
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.626566819822
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.626566819822
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.862027418525
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_-1_0_f_l,5.12407037359e-05
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.86201885604
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_1_0_l_f,5.1222069831e-05
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.720445956878
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.720445956878
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.00777562999399
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.00777562999399
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.00628448172262
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.00628448172262
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.626566819822
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.626566819822
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.862027418525
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,5.12407037359e-05
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.86201885604
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,5.1222069831e-05
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.720445956878
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.720445956878
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.00777562999399
+Uwharrie National Forest,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.00777562999399
+Uwharrie National Forest,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+Uwharrie National Forest,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+Uwharrie National Forest,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+Uwharrie National Forest,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+Uwharrie National Forest,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+Uwharrie National Forest,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+Uwharrie National Forest,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+Uwharrie National Forest,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.0433491466205
+Uwharrie National Forest,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.0433491466205
+Uwharrie National Forest,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.0393578887897
+Uwharrie National Forest,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.0393578887897
+Uwharrie National Forest,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0181687947521
+Uwharrie National Forest,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0181687947521
+Uwharrie National Forest,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+Uwharrie National Forest,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+Uwharrie National Forest,Charlotte,T,arg1 northeast of arg2,1
+Uwharrie National Forest,Charlotte,T,bias,1.0
+Uwharrie National Forest,Charlotte,T,F_aboveFigureCentroid_l_f,1.0
+Uwharrie National Forest,Charlotte,T,F_avsResult_0_-1_f_l,0.213127308498
+Uwharrie National Forest,Charlotte,T,F_avsResult_0_1_f_l,0.213127308498
+Uwharrie National Forest,Charlotte,T,F_avsResult_0_-1_l_f,0.287808032036
+Uwharrie National Forest,Charlotte,T,F_avsResult_0_1_l_f,0.287808032036
+Uwharrie National Forest,Charlotte,T,F_avsResult_1_0_f_l,0.0203084832403
+Uwharrie National Forest,Charlotte,T,F_avsResult_-1_0_f_l,0.583321947814
+Uwharrie National Forest,Charlotte,T,F_avsResult_-1_0_l_f,0.020567212241
+Uwharrie National Forest,Charlotte,T,F_avsResult_1_0_l_f,0.582519633924
+Uwharrie National Forest,Charlotte,T,F_avsResult_outside_0_-1_f_l,0.213127308498
+Uwharrie National Forest,Charlotte,T,F_avsResult_outside_0_1_f_l,0.213127308498
+Uwharrie National Forest,Charlotte,T,F_avsResult_outside_0_-1_l_f,0.287808032036
+Uwharrie National Forest,Charlotte,T,F_avsResult_outside_0_1_l_f,0.287808032036
+Uwharrie National Forest,Charlotte,T,F_avsResult_outside_1_0_f_l,0.0203084832403
+Uwharrie National Forest,Charlotte,T,F_avsResult_outside_-1_0_f_l,0.583321947814
+Uwharrie National Forest,Charlotte,T,F_avsResult_outside_-1_0_l_f,0.020567212241
+Uwharrie National Forest,Charlotte,T,F_avsResult_outside_1_0_l_f,0.582519633924
+Uwharrie National Forest,Charlotte,T,F_belowFigureCentroid_f_l,1.0
+Uwharrie National Forest,Charlotte,T,F_closeDistNormFigure_f_l,1.0
+Uwharrie National Forest,Charlotte,T,F_closeDistNormFigure_l_f,1.0
+Uwharrie National Forest,Charlotte,T,F_closeDistNormLandmark_f_l,1.0
+Uwharrie National Forest,Charlotte,T,F_closeDistNormLandmark_l_f,1.0
+Uwharrie National Forest,Charlotte,T,F_closeDistNormUnion_f_l,1.0
+Uwharrie National Forest,Charlotte,T,F_closeDistNormUnion_l_f,1.0
+Uwharrie National Forest,Charlotte,T,F_distBtwnCentroids_f_l,5.73969992474
+Uwharrie National Forest,Charlotte,T,F_distBtwnCentroids_l_f,5.73969992474
+Uwharrie National Forest,Charlotte,T,F_distHorizontalCentroid_f_l,-5.65769728856
+Uwharrie National Forest,Charlotte,T,F_distHorizontalCentroid_l_f,5.65769728856
+Uwharrie National Forest,Charlotte,T,F_distVerticalCentroid_f_l,-0.966755717411
+Uwharrie National Forest,Charlotte,T,F_distVerticalCentroid_l_f,0.966755717411
+Uwharrie National Forest,Charlotte,T,F_leftOfFigureCentroid_f_l,1.0
+Uwharrie National Forest,Charlotte,T,F_rightOfFigureCentroid_l_f,1.0
+Uwharrie National Forest,Greensboro,T,bias,1.0
+Uwharrie National Forest,Greensboro,T,F_aboveFigureCentroid_f_l,1.0
+Uwharrie National Forest,Greensboro,T,F_avsResult_0_-1_f_l,0.561011862165
+Uwharrie National Forest,Greensboro,T,F_avsResult_0_1_f_l,0.561011862165
+Uwharrie National Forest,Greensboro,T,F_avsResult_0_-1_l_f,0.0177123667072
+Uwharrie National Forest,Greensboro,T,F_avsResult_0_1_l_f,0.0177123667072
+Uwharrie National Forest,Greensboro,T,F_avsResult_-1_0_f_l,0.211014517222
+Uwharrie National Forest,Greensboro,T,F_avsResult_1_0_f_l,0.290111960651
+Uwharrie National Forest,Greensboro,T,F_avsResult_1_0_l_f,0.199839008778
+Uwharrie National Forest,Greensboro,T,F_avsResult_-1_0_l_f,0.267240642963
+Uwharrie National Forest,Greensboro,T,F_avsResult_outside_0_-1_f_l,0.561011862165
+Uwharrie National Forest,Greensboro,T,F_avsResult_outside_0_1_f_l,0.561011862165
+Uwharrie National Forest,Greensboro,T,F_avsResult_outside_0_-1_l_f,0.0177123667072
+Uwharrie National Forest,Greensboro,T,F_avsResult_outside_0_1_l_f,0.0177123667072
+Uwharrie National Forest,Greensboro,T,F_avsResult_outside_-1_0_f_l,0.211014517222
+Uwharrie National Forest,Greensboro,T,F_avsResult_outside_1_0_f_l,0.290111960651
+Uwharrie National Forest,Greensboro,T,F_avsResult_outside_1_0_l_f,0.199839008778
+Uwharrie National Forest,Greensboro,T,F_avsResult_outside_-1_0_l_f,0.267240642963
+Uwharrie National Forest,Greensboro,T,F_belowFigureCentroid_l_f,1.0
+Uwharrie National Forest,Greensboro,T,F_closeDistNormFigure_f_l,1.0
+Uwharrie National Forest,Greensboro,T,F_closeDistNormFigure_l_f,1.0
+Uwharrie National Forest,Greensboro,T,F_closeDistNormLandmark_f_l,1.0
+Uwharrie National Forest,Greensboro,T,F_closeDistNormLandmark_l_f,1.0
+Uwharrie National Forest,Greensboro,T,F_closeDistNormUnion_f_l,1.0
+Uwharrie National Forest,Greensboro,T,F_closeDistNormUnion_l_f,1.0
+Uwharrie National Forest,Greensboro,T,F_distBtwnCentroids_f_l,2.47903161449
+Uwharrie National Forest,Greensboro,T,F_distBtwnCentroids_l_f,2.47903161449
+Uwharrie National Forest,Greensboro,T,F_distHorizontalCentroid_f_l,0.46200777149
+Uwharrie National Forest,Greensboro,T,F_distHorizontalCentroid_l_f,-0.46200777149
+Uwharrie National Forest,Greensboro,T,F_distVerticalCentroid_f_l,2.43559983674
+Uwharrie National Forest,Greensboro,T,F_distVerticalCentroid_l_f,-2.43559983674
+Uwharrie National Forest,Greensboro,T,F_leftOfFigureCentroid_l_f,1.0
+Uwharrie National Forest,Greensboro,T,F_rightOfFigureCentroid_f_l,1.0
+Uwharrie National Forest,Myrtle Beach,T,bias,1.0
+Uwharrie National Forest,Myrtle Beach,T,F_aboveFigureCentroid_l_f,1.0
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_0_-1_f_l,0.055845581847
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_0_1_f_l,0.055845581847
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_0_-1_l_f,0.563454464662
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_0_1_l_f,0.563454464662
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_-1_0_f_l,0.112711989278
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_1_0_f_l,0.438636560472
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_1_0_l_f,0.10979641118
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_-1_0_l_f,0.431857990604
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_1_-1_f_l,0.162199462103
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_1_1_f_l,0.162199462103
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_1_-1_l_f,0.342817417739
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_1_1_l_f,0.342817417739
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_0_-1_f_l,0.055845581847
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_0_1_f_l,0.055845581847
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_0_-1_l_f,0.563454464662
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_0_1_l_f,0.563454464662
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_-1_0_f_l,0.112711989278
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_1_0_f_l,0.438636560472
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_1_0_l_f,0.10979641118
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_-1_0_l_f,0.431857990604
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_1_-1_f_l,0.162199462103
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_1_1_f_l,0.162199462103
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_1_-1_l_f,0.342817417739
+Uwharrie National Forest,Myrtle Beach,T,F_avsResult_outside_1_1_l_f,0.342817417739
+Uwharrie National Forest,Myrtle Beach,T,F_belowFigureCentroid_f_l,1.0
+Uwharrie National Forest,Myrtle Beach,T,F_closeDistNormFigure_f_l,1.0
+Uwharrie National Forest,Myrtle Beach,T,F_closeDistNormFigure_l_f,1.0
+Uwharrie National Forest,Myrtle Beach,T,F_closeDistNormLandmark_f_l,1.0
+Uwharrie National Forest,Myrtle Beach,T,F_closeDistNormLandmark_l_f,1.0
+Uwharrie National Forest,Myrtle Beach,T,F_closeDistNormUnion_f_l,1.0
+Uwharrie National Forest,Myrtle Beach,T,F_closeDistNormUnion_l_f,1.0
+Uwharrie National Forest,Myrtle Beach,T,F_distBtwnCentroids_f_l,0.959306304728
+Uwharrie National Forest,Myrtle Beach,T,F_distBtwnCentroids_l_f,0.959306304728
+Uwharrie National Forest,Myrtle Beach,T,F_distHorizontalCentroid_f_l,0.525660361015
+Uwharrie National Forest,Myrtle Beach,T,F_distHorizontalCentroid_l_f,-0.525660361015
+Uwharrie National Forest,Myrtle Beach,T,F_distVerticalCentroid_f_l,-0.802464809913
+Uwharrie National Forest,Myrtle Beach,T,F_distVerticalCentroid_l_f,0.802464809913
+Uwharrie National Forest,Myrtle Beach,T,F_leftOfFigureCentroid_l_f,1.0
+Uwharrie National Forest,Myrtle Beach,T,F_rightOfFigureCentroid_f_l,1.0
+Uwharrie National Forest,North Carolina,T,arg1 and home to arg2,1
+Uwharrie National Forest,North Carolina,T,arg1 in the heart of arg2,1
+Uwharrie National Forest,North Carolina,T,arg1 is located in central arg2,1
+Uwharrie National Forest,North Carolina,T,arg2 across from arg1,1
+Uwharrie National Forest,North Carolina,T,arg2 and in the heart of arg1,1
+Uwharrie National Forest,North Carolina,T,arg2 campgrounds in arg1,1
+Uwharrie National Forest,North Carolina,T,bias,1.0
+Uwharrie National Forest,North Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Uwharrie National Forest,North Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Uwharrie National Forest,North Carolina,T,F_aboveFigureCentroid_f_l,1.0
+Uwharrie National Forest,North Carolina,T,F_avsResult_0_-1_f_l,0.289104885063
+Uwharrie National Forest,North Carolina,T,F_avsResult_0_1_f_l,0.289104885063
+Uwharrie National Forest,North Carolina,T,F_avsResult_0_-1_l_f,0.282152542926
+Uwharrie National Forest,North Carolina,T,F_avsResult_0_1_l_f,0.282152542926
+Uwharrie National Forest,North Carolina,T,F_avsResult_-1_0_f_l,0.0219230528921
+Uwharrie National Forest,North Carolina,T,F_avsResult_1_0_f_l,0.57713014039
+Uwharrie National Forest,North Carolina,T,F_avsResult_-1_0_l_f,0.0594856849853
+Uwharrie National Forest,North Carolina,T,F_avsResult_1_0_l_f,0.109295187982
+Uwharrie National Forest,North Carolina,T,F_avsResult_1_-1_l_f,0.0257045502599
+Uwharrie National Forest,North Carolina,T,F_avsResult_1_1_l_f,0.0257045502599
+Uwharrie National Forest,North Carolina,T,F_avsResult_-1_-1_l_f,0.0358506400958
+Uwharrie National Forest,North Carolina,T,F_avsResult_-1_1_l_f,0.0358506400958
+Uwharrie National Forest,North Carolina,T,F_avsResult_inside_0_-1_l_f,0.282152542926
+Uwharrie National Forest,North Carolina,T,F_avsResult_inside_0_1_l_f,0.282152542926
+Uwharrie National Forest,North Carolina,T,F_avsResult_inside_-1_0_l_f,0.0594856849853
+Uwharrie National Forest,North Carolina,T,F_avsResult_inside_1_0_l_f,0.109295187982
+Uwharrie National Forest,North Carolina,T,F_avsResult_inside_1_-1_l_f,0.0257045502599
+Uwharrie National Forest,North Carolina,T,F_avsResult_inside_1_1_l_f,0.0257045502599
+Uwharrie National Forest,North Carolina,T,F_avsResult_inside_-1_-1_l_f,0.0358506400958
+Uwharrie National Forest,North Carolina,T,F_avsResult_inside_-1_1_l_f,0.0358506400958
+Uwharrie National Forest,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.289104885063
+Uwharrie National Forest,North Carolina,T,F_avsResult_outside_0_1_f_l,0.289104885063
+Uwharrie National Forest,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.0219230528921
+Uwharrie National Forest,North Carolina,T,F_avsResult_outside_1_0_f_l,0.57713014039
+Uwharrie National Forest,North Carolina,T,F_belowFigureCentroid_l_f,1.0
+Uwharrie National Forest,North Carolina,T,F_distBtwnCentroids_f_l,0.0340821355992
+Uwharrie National Forest,North Carolina,T,F_distBtwnCentroids_l_f,0.0340821355992
+Uwharrie National Forest,North Carolina,T,F_distHorizontalCentroid_f_l,0.0335533968612
+Uwharrie National Forest,North Carolina,T,F_distHorizontalCentroid_l_f,-0.0335533968612
+Uwharrie National Forest,North Carolina,T,F_distVerticalCentroid_f_l,0.00598009415255
+Uwharrie National Forest,North Carolina,T,F_distVerticalCentroid_l_f,-0.00598009415255
+Uwharrie National Forest,North Carolina,T,F_leftOfFigureCentroid_l_f,1.0
+Uwharrie National Forest,North Carolina,T,F_math2dFigureIntersectionArea_f_l,0.999999999998
+Uwharrie National Forest,North Carolina,T,F_math2dFigureIntersectionArea_l_f,2.00404962218e-05
+Uwharrie National Forest,North Carolina,T,F_math2dIntersectionArea_f_l,2.00404962218e-05
+Uwharrie National Forest,North Carolina,T,F_math2dIntersectionArea_l_f,2.00404962218e-05
+Uwharrie National Forest,North Carolina,T,F_math2dLandmarkIntersectionArea_f_l,2.00404962218e-05
+Uwharrie National Forest,North Carolina,T,F_math2dLandmarkIntersectionArea_l_f,0.999999999998
+Uwharrie National Forest,North Carolina,T,F_rightOfFigureCentroid_f_l,1.0
+Uwharrie National Forest,Raleigh,T,bias,1.0
+Uwharrie National Forest,Raleigh,T,F_aboveFigureCentroid_f_l,1.0
+Uwharrie National Forest,Raleigh,T,F_avsResult_0_-1_f_l,0.341826195812
+Uwharrie National Forest,Raleigh,T,F_avsResult_0_1_f_l,0.341826195812
+Uwharrie National Forest,Raleigh,T,F_avsResult_0_-1_l_f,0.163949508457
+Uwharrie National Forest,Raleigh,T,F_avsResult_0_1_l_f,0.163949508457
+Uwharrie National Forest,Raleigh,T,F_avsResult_-1_0_f_l,0.0357451233086
+Uwharrie National Forest,Raleigh,T,F_avsResult_1_0_f_l,0.594181084378
+Uwharrie National Forest,Raleigh,T,F_avsResult_1_0_l_f,0.0330292200885
+Uwharrie National Forest,Raleigh,T,F_avsResult_-1_0_l_f,0.580720363492
+Uwharrie National Forest,Raleigh,T,F_avsResult_-1_-1_f_l,0.0691181434779
+Uwharrie National Forest,Raleigh,T,F_avsResult_-1_1_f_l,0.0691181434779
+Uwharrie National Forest,Raleigh,T,F_avsResult_-1_-1_l_f,0.467832957915
+Uwharrie National Forest,Raleigh,T,F_avsResult_-1_1_l_f,0.467832957915
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_0_-1_f_l,0.341826195812
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_0_1_f_l,0.341826195812
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_0_-1_l_f,0.163949508457
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_0_1_l_f,0.163949508457
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_-1_0_f_l,0.0357451233086
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_1_0_f_l,0.594181084378
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_1_0_l_f,0.0330292200885
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_-1_0_l_f,0.580720363492
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_-1_-1_f_l,0.0691181434779
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_-1_1_f_l,0.0691181434779
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_-1_-1_l_f,0.467832957915
+Uwharrie National Forest,Raleigh,T,F_avsResult_outside_-1_1_l_f,0.467832957915
+Uwharrie National Forest,Raleigh,T,F_belowFigureCentroid_l_f,1.0
+Uwharrie National Forest,Raleigh,T,F_closeDistNormFigure_f_l,1.0
+Uwharrie National Forest,Raleigh,T,F_closeDistNormFigure_l_f,1.0
+Uwharrie National Forest,Raleigh,T,F_closeDistNormLandmark_f_l,1.0
+Uwharrie National Forest,Raleigh,T,F_closeDistNormLandmark_l_f,1.0
+Uwharrie National Forest,Raleigh,T,F_closeDistNormUnion_f_l,1.0
+Uwharrie National Forest,Raleigh,T,F_closeDistNormUnion_l_f,1.0
+Uwharrie National Forest,Raleigh,T,F_distBtwnCentroids_f_l,1.52021212875
+Uwharrie National Forest,Raleigh,T,F_distBtwnCentroids_l_f,1.52021212875
+Uwharrie National Forest,Raleigh,T,F_distHorizontalCentroid_f_l,1.43491846508
+Uwharrie National Forest,Raleigh,T,F_distHorizontalCentroid_l_f,-1.43491846508
+Uwharrie National Forest,Raleigh,T,F_distVerticalCentroid_f_l,0.502049713648
+Uwharrie National Forest,Raleigh,T,F_distVerticalCentroid_l_f,-0.502049713648
+Uwharrie National Forest,Raleigh,T,F_leftOfFigureCentroid_l_f,1.0
+Uwharrie National Forest,Raleigh,T,F_rightOfFigureCentroid_f_l,1.0
+Uwharrie National Forest,South Carolina,T,bias,1.0
+Uwharrie National Forest,South Carolina,T,F_aboveFigureCentroid_l_f,1.0
+Uwharrie National Forest,South Carolina,T,F_avsResult_0_-1_f_l,0.0564927836629
+Uwharrie National Forest,South Carolina,T,F_avsResult_0_1_f_l,0.0564927836629
+Uwharrie National Forest,South Carolina,T,F_avsResult_0_-1_l_f,0.520711933011
+Uwharrie National Forest,South Carolina,T,F_avsResult_0_1_l_f,0.520711933011
+Uwharrie National Forest,South Carolina,T,F_avsResult_1_0_f_l,0.121127379736
+Uwharrie National Forest,South Carolina,T,F_avsResult_-1_0_f_l,0.421649015397
+Uwharrie National Forest,South Carolina,T,F_avsResult_-1_0_l_f,0.0523399903849
+Uwharrie National Forest,South Carolina,T,F_avsResult_1_0_l_f,0.167593742755
+Uwharrie National Forest,South Carolina,T,F_avsResult_-1_-1_f_l,0.155974269083
+Uwharrie National Forest,South Carolina,T,F_avsResult_-1_1_f_l,0.155974269083
+Uwharrie National Forest,South Carolina,T,F_avsResult_outside_0_-1_f_l,0.0564927836629
+Uwharrie National Forest,South Carolina,T,F_avsResult_outside_0_1_f_l,0.0564927836629
+Uwharrie National Forest,South Carolina,T,F_avsResult_outside_0_-1_l_f,0.520711933011
+Uwharrie National Forest,South Carolina,T,F_avsResult_outside_0_1_l_f,0.520711933011
+Uwharrie National Forest,South Carolina,T,F_avsResult_outside_1_0_f_l,0.121127379736
+Uwharrie National Forest,South Carolina,T,F_avsResult_outside_-1_0_f_l,0.421649015397
+Uwharrie National Forest,South Carolina,T,F_avsResult_outside_-1_0_l_f,0.0523399903849
+Uwharrie National Forest,South Carolina,T,F_avsResult_outside_1_0_l_f,0.167593742755
+Uwharrie National Forest,South Carolina,T,F_avsResult_outside_-1_-1_f_l,0.155974269083
+Uwharrie National Forest,South Carolina,T,F_avsResult_outside_-1_1_f_l,0.155974269083
+Uwharrie National Forest,South Carolina,T,F_belowFigureCentroid_f_l,1.0
+Uwharrie National Forest,South Carolina,T,F_closeDistNormFigure_f_l,1.0
+Uwharrie National Forest,South Carolina,T,F_closeDistNormFigure_l_f,0.0388292623242
+Uwharrie National Forest,South Carolina,T,F_closeDistNormLandmark_f_l,0.0388292623242
+Uwharrie National Forest,South Carolina,T,F_closeDistNormLandmark_l_f,1.0
+Uwharrie National Forest,South Carolina,T,F_closeDistNormUnion_f_l,0.038827892003
+Uwharrie National Forest,South Carolina,T,F_closeDistNormUnion_l_f,0.038827892003
+Uwharrie National Forest,South Carolina,T,F_distBtwnCentroids_f_l,0.109583198638
+Uwharrie National Forest,South Carolina,T,F_distBtwnCentroids_l_f,0.109583198638
+Uwharrie National Forest,South Carolina,T,F_distHorizontalCentroid_f_l,-0.0580839722285
+Uwharrie National Forest,South Carolina,T,F_distHorizontalCentroid_l_f,0.0580839722285
+Uwharrie National Forest,South Carolina,T,F_distVerticalCentroid_f_l,-0.092923245713
+Uwharrie National Forest,South Carolina,T,F_distVerticalCentroid_l_f,0.092923245713
+Uwharrie National Forest,South Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Uwharrie National Forest,South Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Uwharrie National Forest,Uwharrie National Forest,T,bias,1.0
+Uwharrie National Forest,Uwharrie National Forest,T,entity1=entity2,1
+Uwharrie National Forest,Uwharrie National Forest,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Uwharrie National Forest,Uwharrie National Forest,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_0_-1_f_l,0.130233196802
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_0_1_f_l,0.130233196802
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_0_-1_l_f,0.130233196802
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_0_1_l_f,0.130233196802
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_-1_0_f_l,0.024510831293
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_1_0_f_l,0.178204556314
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_-1_0_l_f,0.024510831293
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_1_0_l_f,0.178204556314
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_inside_0_-1_f_l,0.130233196802
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_inside_0_1_f_l,0.130233196802
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_inside_0_-1_l_f,0.130233196802
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_inside_0_1_l_f,0.130233196802
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_inside_-1_0_f_l,0.024510831293
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_inside_1_0_f_l,0.178204556314
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_inside_-1_0_l_f,0.024510831293
+Uwharrie National Forest,Uwharrie National Forest,T,F_avsResult_inside_1_0_l_f,0.178204556314
+Uwharrie National Forest,Uwharrie National Forest,T,F_math2dFigureIntersectionArea_f_l,0.999999999998
+Uwharrie National Forest,Uwharrie National Forest,T,F_math2dFigureIntersectionArea_l_f,0.999999999998
+Uwharrie National Forest,Uwharrie National Forest,T,F_math2dIntersectionArea_f_l,1.0
+Uwharrie National Forest,Uwharrie National Forest,T,F_math2dIntersectionArea_l_f,1.0
+Uwharrie National Forest,Uwharrie National Forest,T,F_math2dLandmarkIntersectionArea_f_l,0.999999999998
+Uwharrie National Forest,Uwharrie National Forest,T,F_math2dLandmarkIntersectionArea_l_f,0.999999999998

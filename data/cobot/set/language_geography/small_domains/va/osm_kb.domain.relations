@@ -1,0 +1,1812 @@
+Atlantic Ocean,Atlantic Ocean,T,arg1 which empties into arg2,1
+Atlantic Ocean,Atlantic Ocean,T,arg2 which empties into arg1,1
+Atlantic Ocean,Atlantic Ocean,T,bias,1.0
+Atlantic Ocean,Atlantic Ocean,T,entity1=entity2,1
+Atlantic Ocean,Atlantic Ocean,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_-1_0_f_l,0.0272095442825
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.0300835420756
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.0272095442825
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_1_0_l_f,0.0300835420756
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_0_-1_f_l,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_0_1_f_l,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_0_-1_l_f,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_0_1_l_f,0.000813718156177
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_-1_0_f_l,0.0272095442825
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_1_0_f_l,0.0300835420756
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_-1_0_l_f,0.0272095442825
+Atlantic Ocean,Atlantic Ocean,T,F_avsResult_inside_1_0_l_f,0.0300835420756
+Atlantic Ocean,Atlantic Ocean,T,F_math2dFigureIntersectionArea_f_l,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_math2dFigureIntersectionArea_l_f,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_math2dIntersectionArea_f_l,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_math2dIntersectionArea_l_f,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Atlantic Ocean,Atlantic Ocean,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Atlantic Ocean,North Carolina,T,arg1 after hitting arg2,1
+Atlantic Ocean,North Carolina,T,arg1 and south to arg2,1
+Atlantic Ocean,North Carolina,T,arg1 as far north as arg2,1
+Atlantic Ocean,North Carolina,T,arg1 in southeastern arg2,1
+Atlantic Ocean,North Carolina,T,arg1 off arg2,1
+Atlantic Ocean,North Carolina,T,arg1 off the coast of arg2,1
+Atlantic Ocean,North Carolina,T,arg1 on the east and arg2,1
+Atlantic Ocean,North Carolina,T,arg2 coast in arg1,1
+Atlantic Ocean,North Carolina,T,arg2 is bordered by arg1,1
+Atlantic Ocean,North Carolina,T,arg2 is located on arg1,1
+Atlantic Ocean,North Carolina,T,arg2 meets arg1,1
+Atlantic Ocean,North Carolina,T,arg2 overlooking arg1,1
+Atlantic Ocean,North Carolina,T,arg2 rivers into arg1,1
+Atlantic Ocean,North Carolina,T,arg2 that sticks out into arg1,1
+Atlantic Ocean,North Carolina,T,bias,1.0
+Atlantic Ocean,North Carolina,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,North Carolina,T,F_avsResult_0_-1_f_l,0.629329381949
+Atlantic Ocean,North Carolina,T,F_avsResult_0_1_f_l,0.629329381949
+Atlantic Ocean,North Carolina,T,F_avsResult_0_-1_l_f,0.00539260821592
+Atlantic Ocean,North Carolina,T,F_avsResult_0_1_l_f,0.00539260821592
+Atlantic Ocean,North Carolina,T,F_avsResult_-1_0_f_l,0.859383901717
+Atlantic Ocean,North Carolina,T,F_avsResult_1_0_f_l,5.82623231687e-05
+Atlantic Ocean,North Carolina,T,F_avsResult_1_0_l_f,0.861369787608
+Atlantic Ocean,North Carolina,T,F_avsResult_-1_0_l_f,2.90538421611e-05
+Atlantic Ocean,North Carolina,T,F_avsResult_1_-1_f_l,0.00869445802219
+Atlantic Ocean,North Carolina,T,F_avsResult_1_1_f_l,0.00869445802219
+Atlantic Ocean,North Carolina,T,F_avsResult_1_-1_l_f,0.70645464416
+Atlantic Ocean,North Carolina,T,F_avsResult_1_1_l_f,0.70645464416
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.629329381949
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_0_1_f_l,0.629329381949
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_0_-1_l_f,0.00539260821592
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_0_1_l_f,0.00539260821592
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.859383901717
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_0_f_l,5.82623231687e-05
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_0_l_f,0.861369787608
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_-1_0_l_f,2.90538421611e-05
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_-1_f_l,0.00869445802219
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_1_f_l,0.00869445802219
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_-1_l_f,0.70645464416
+Atlantic Ocean,North Carolina,T,F_avsResult_outside_1_1_l_f,0.70645464416
+Atlantic Ocean,North Carolina,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,North Carolina,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,North Carolina,T,F_distBtwnCentroids_f_l,0.0379227716917
+Atlantic Ocean,North Carolina,T,F_distBtwnCentroids_l_f,0.0379227716917
+Atlantic Ocean,North Carolina,T,F_distHorizontalCentroid_f_l,-0.0343002271555
+Atlantic Ocean,North Carolina,T,F_distHorizontalCentroid_l_f,0.0343002271555
+Atlantic Ocean,North Carolina,T,F_distVerticalCentroid_f_l,0.0161750125152
+Atlantic Ocean,North Carolina,T,F_distVerticalCentroid_l_f,-0.0161750125152
+Atlantic Ocean,North Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,North Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Atlantic Ocean,Richmond,T,arg1 in the area of arg2,1
+Atlantic Ocean,Richmond,T,arg2 stretches from arg1,1
+Atlantic Ocean,Richmond,T,arg2 to the shores of arg1,1
+Atlantic Ocean,Richmond,T,bias,1.0
+Atlantic Ocean,Richmond,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,Richmond,T,F_avsResult_0_-1_f_l,0.645284713545
+Atlantic Ocean,Richmond,T,F_avsResult_0_1_f_l,0.645284713545
+Atlantic Ocean,Richmond,T,F_avsResult_0_-1_l_f,0.00456106874131
+Atlantic Ocean,Richmond,T,F_avsResult_0_1_l_f,0.00456106874131
+Atlantic Ocean,Richmond,T,F_avsResult_-1_0_f_l,0.845635217053
+Atlantic Ocean,Richmond,T,F_avsResult_1_0_f_l,7.97442400072e-05
+Atlantic Ocean,Richmond,T,F_avsResult_1_0_l_f,0.845626568627
+Atlantic Ocean,Richmond,T,F_avsResult_-1_0_l_f,7.97487488773e-05
+Atlantic Ocean,Richmond,T,F_avsResult_1_-1_f_l,0.0134502656579
+Atlantic Ocean,Richmond,T,F_avsResult_1_1_f_l,0.0134502656579
+Atlantic Ocean,Richmond,T,F_avsResult_1_-1_l_f,0.670781518423
+Atlantic Ocean,Richmond,T,F_avsResult_1_1_l_f,0.670781518423
+Atlantic Ocean,Richmond,T,F_avsResult_outside_0_-1_f_l,0.645284713545
+Atlantic Ocean,Richmond,T,F_avsResult_outside_0_1_f_l,0.645284713545
+Atlantic Ocean,Richmond,T,F_avsResult_outside_0_-1_l_f,0.00456106874131
+Atlantic Ocean,Richmond,T,F_avsResult_outside_0_1_l_f,0.00456106874131
+Atlantic Ocean,Richmond,T,F_avsResult_outside_-1_0_f_l,0.845635217053
+Atlantic Ocean,Richmond,T,F_avsResult_outside_1_0_f_l,7.97442400072e-05
+Atlantic Ocean,Richmond,T,F_avsResult_outside_1_0_l_f,0.845626568627
+Atlantic Ocean,Richmond,T,F_avsResult_outside_-1_0_l_f,7.97487488773e-05
+Atlantic Ocean,Richmond,T,F_avsResult_outside_1_-1_f_l,0.0134502656579
+Atlantic Ocean,Richmond,T,F_avsResult_outside_1_1_f_l,0.0134502656579
+Atlantic Ocean,Richmond,T,F_avsResult_outside_1_-1_l_f,0.670781518423
+Atlantic Ocean,Richmond,T,F_avsResult_outside_1_1_l_f,0.670781518423
+Atlantic Ocean,Richmond,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,Richmond,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,Richmond,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,Richmond,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,Richmond,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,Richmond,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,Richmond,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,Richmond,T,F_distBtwnCentroids_f_l,0.040966467109
+Atlantic Ocean,Richmond,T,F_distBtwnCentroids_l_f,0.040966467109
+Atlantic Ocean,Richmond,T,F_distHorizontalCentroid_f_l,-0.0362690109352
+Atlantic Ocean,Richmond,T,F_distHorizontalCentroid_l_f,0.0362690109352
+Atlantic Ocean,Richmond,T,F_distVerticalCentroid_f_l,0.0190475791946
+Atlantic Ocean,Richmond,T,F_distVerticalCentroid_l_f,-0.0190475791946
+Atlantic Ocean,Richmond,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,Richmond,T,F_rightOfFigureCentroid_l_f,1.0
+Atlantic Ocean,Virginia Beach,T,arg1 and throughout arg2,1
+Atlantic Ocean,Virginia Beach,T,arg1 off arg2,1
+Atlantic Ocean,Virginia Beach,T,arg1 off of arg2,1
+Atlantic Ocean,Virginia Beach,T,arg1 south of arg2,1
+Atlantic Ocean,Virginia Beach,T,arg2 along arg1,1
+Atlantic Ocean,Virginia Beach,T,arg2 along the shores of arg1,1
+Atlantic Ocean,Virginia Beach,T,arg2 and the shores of arg1,1
+Atlantic Ocean,Virginia Beach,T,arg2 is bordered by arg1,1
+Atlantic Ocean,Virginia Beach,T,bias,1.0
+Atlantic Ocean,Virginia Beach,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,Virginia Beach,T,F_avsResult_0_-1_f_l,0.644344726062
+Atlantic Ocean,Virginia Beach,T,F_avsResult_0_1_f_l,0.644344726062
+Atlantic Ocean,Virginia Beach,T,F_avsResult_0_-1_l_f,0.00486967125471
+Atlantic Ocean,Virginia Beach,T,F_avsResult_0_1_l_f,0.00486967125471
+Atlantic Ocean,Virginia Beach,T,F_avsResult_-1_0_f_l,0.84560800993
+Atlantic Ocean,Virginia Beach,T,F_avsResult_1_0_f_l,9.60216075025e-05
+Atlantic Ocean,Virginia Beach,T,F_avsResult_1_0_l_f,0.84563411955
+Atlantic Ocean,Virginia Beach,T,F_avsResult_-1_0_l_f,9.35368612164e-05
+Atlantic Ocean,Virginia Beach,T,F_avsResult_1_-1_f_l,0.0142132342095
+Atlantic Ocean,Virginia Beach,T,F_avsResult_1_1_f_l,0.0142132342095
+Atlantic Ocean,Virginia Beach,T,F_avsResult_1_-1_l_f,0.668337424806
+Atlantic Ocean,Virginia Beach,T,F_avsResult_1_1_l_f,0.668337424806
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_0_-1_f_l,0.644344726062
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_0_1_f_l,0.644344726062
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_0_-1_l_f,0.00486967125471
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_0_1_l_f,0.00486967125471
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_-1_0_f_l,0.84560800993
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_1_0_f_l,9.60216075025e-05
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_1_0_l_f,0.84563411955
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_-1_0_l_f,9.35368612164e-05
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_1_-1_f_l,0.0142132342095
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_1_1_f_l,0.0142132342095
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_1_-1_l_f,0.668337424806
+Atlantic Ocean,Virginia Beach,T,F_avsResult_outside_1_1_l_f,0.668337424806
+Atlantic Ocean,Virginia Beach,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,Virginia Beach,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,Virginia Beach,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,Virginia Beach,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,Virginia Beach,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,Virginia Beach,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,Virginia Beach,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,Virginia Beach,T,F_distBtwnCentroids_f_l,0.041574387813
+Atlantic Ocean,Virginia Beach,T,F_distBtwnCentroids_l_f,0.041574387813
+Atlantic Ocean,Virginia Beach,T,F_distHorizontalCentroid_f_l,-0.0368110266389
+Atlantic Ocean,Virginia Beach,T,F_distHorizontalCentroid_l_f,0.0368110266389
+Atlantic Ocean,Virginia Beach,T,F_distVerticalCentroid_f_l,0.0193229925172
+Atlantic Ocean,Virginia Beach,T,F_distVerticalCentroid_l_f,-0.0193229925172
+Atlantic Ocean,Virginia Beach,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,Virginia Beach,T,F_rightOfFigureCentroid_l_f,1.0
+Atlantic Ocean,Virginia,T,arg1 off arg2,1
+Atlantic Ocean,Virginia,T,arg1 off the coast of arg2,1
+Atlantic Ocean,Virginia,T,arg1 off the coasts of arg2,1
+Atlantic Ocean,Virginia,T,arg1 on their way to arg2,1
+Atlantic Ocean,Virginia,T,arg2 along arg1,1
+Atlantic Ocean,Virginia,T,arg2 borders arg1,1
+Atlantic Ocean,Virginia,T,arg2 meets arg1,1
+Atlantic Ocean,Virginia,T,arg2 mountains and arg1,1
+Atlantic Ocean,Virginia,T,arg2 on the north and arg1,1
+Atlantic Ocean,Virginia,T,arg2 to the north and arg1,1
+Atlantic Ocean,Virginia,T,bias,1.0
+Atlantic Ocean,Virginia,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,Virginia,T,F_avsResult_0_-1_f_l,0.64210818852
+Atlantic Ocean,Virginia,T,F_avsResult_0_1_f_l,0.64210818852
+Atlantic Ocean,Virginia,T,F_avsResult_0_-1_l_f,0.00363155772251
+Atlantic Ocean,Virginia,T,F_avsResult_0_1_l_f,0.00363155772251
+Atlantic Ocean,Virginia,T,F_avsResult_-1_0_f_l,0.848888231857
+Atlantic Ocean,Virginia,T,F_avsResult_1_0_f_l,6.63341705007e-05
+Atlantic Ocean,Virginia,T,F_avsResult_1_0_l_f,0.849826126272
+Atlantic Ocean,Virginia,T,F_avsResult_-1_0_l_f,3.42519784608e-05
+Atlantic Ocean,Virginia,T,F_avsResult_1_-1_f_l,0.0117642969881
+Atlantic Ocean,Virginia,T,F_avsResult_1_1_f_l,0.0117642969881
+Atlantic Ocean,Virginia,T,F_avsResult_1_-1_l_f,0.673134800254
+Atlantic Ocean,Virginia,T,F_avsResult_1_1_l_f,0.673134800254
+Atlantic Ocean,Virginia,T,F_avsResult_outside_0_-1_f_l,0.64210818852
+Atlantic Ocean,Virginia,T,F_avsResult_outside_0_1_f_l,0.64210818852
+Atlantic Ocean,Virginia,T,F_avsResult_outside_0_-1_l_f,0.00363155772251
+Atlantic Ocean,Virginia,T,F_avsResult_outside_0_1_l_f,0.00363155772251
+Atlantic Ocean,Virginia,T,F_avsResult_outside_-1_0_f_l,0.848888231857
+Atlantic Ocean,Virginia,T,F_avsResult_outside_1_0_f_l,6.63341705007e-05
+Atlantic Ocean,Virginia,T,F_avsResult_outside_1_0_l_f,0.849826126272
+Atlantic Ocean,Virginia,T,F_avsResult_outside_-1_0_l_f,3.42519784608e-05
+Atlantic Ocean,Virginia,T,F_avsResult_outside_1_-1_f_l,0.0117642969881
+Atlantic Ocean,Virginia,T,F_avsResult_outside_1_1_f_l,0.0117642969881
+Atlantic Ocean,Virginia,T,F_avsResult_outside_1_-1_l_f,0.673134800254
+Atlantic Ocean,Virginia,T,F_avsResult_outside_1_1_l_f,0.673134800254
+Atlantic Ocean,Virginia,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,Virginia,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,Virginia,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,Virginia,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,Virginia,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,Virginia,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,Virginia,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,Virginia,T,F_distBtwnCentroids_f_l,0.0349197480383
+Atlantic Ocean,Virginia,T,F_distBtwnCentroids_l_f,0.0349197480383
+Atlantic Ocean,Virginia,T,F_distHorizontalCentroid_f_l,-0.0310767175841
+Atlantic Ocean,Virginia,T,F_distHorizontalCentroid_l_f,0.0310767175841
+Atlantic Ocean,Virginia,T,F_distVerticalCentroid_f_l,0.0159256531186
+Atlantic Ocean,Virginia,T,F_distVerticalCentroid_l_f,-0.0159256531186
+Atlantic Ocean,Virginia,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,Virginia,T,F_rightOfFigureCentroid_l_f,1.0
+Atlantic Ocean,West Virginia,T,arg1 to the mountains of arg2,1
+Atlantic Ocean,West Virginia,T,arg2 does not border arg1,1
+Atlantic Ocean,West Virginia,T,arg2 which empties into arg1,1
+Atlantic Ocean,West Virginia,T,bias,1.0
+Atlantic Ocean,West Virginia,T,F_aboveFigureCentroid_f_l,1.0
+Atlantic Ocean,West Virginia,T,F_avsResult_0_-1_f_l,0.644434865183
+Atlantic Ocean,West Virginia,T,F_avsResult_0_1_f_l,0.644434865183
+Atlantic Ocean,West Virginia,T,F_avsResult_0_-1_l_f,0.00307459742091
+Atlantic Ocean,West Virginia,T,F_avsResult_0_1_l_f,0.00307459742091
+Atlantic Ocean,West Virginia,T,F_avsResult_-1_0_f_l,0.847873843465
+Atlantic Ocean,West Virginia,T,F_avsResult_1_0_f_l,5.21041203897e-05
+Atlantic Ocean,West Virginia,T,F_avsResult_1_0_l_f,0.845981669369
+Atlantic Ocean,West Virginia,T,F_avsResult_-1_0_l_f,4.02577598997e-05
+Atlantic Ocean,West Virginia,T,F_avsResult_1_-1_f_l,0.0111984235365
+Atlantic Ocean,West Virginia,T,F_avsResult_1_1_f_l,0.0111984235365
+Atlantic Ocean,West Virginia,T,F_avsResult_1_-1_l_f,0.666847508232
+Atlantic Ocean,West Virginia,T,F_avsResult_1_1_l_f,0.666847508232
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_0_-1_f_l,0.644434865183
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_0_1_f_l,0.644434865183
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_0_-1_l_f,0.00307459742091
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_0_1_l_f,0.00307459742091
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_-1_0_f_l,0.847873843465
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_1_0_f_l,5.21041203897e-05
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_1_0_l_f,0.845981669369
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_-1_0_l_f,4.02577598997e-05
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_1_-1_f_l,0.0111984235365
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_1_1_f_l,0.0111984235365
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_1_-1_l_f,0.666847508232
+Atlantic Ocean,West Virginia,T,F_avsResult_outside_1_1_l_f,0.666847508232
+Atlantic Ocean,West Virginia,T,F_belowFigureCentroid_l_f,1.0
+Atlantic Ocean,West Virginia,T,F_closeDistNormFigure_f_l,1.0
+Atlantic Ocean,West Virginia,T,F_closeDistNormFigure_l_f,1.0
+Atlantic Ocean,West Virginia,T,F_closeDistNormLandmark_f_l,1.0
+Atlantic Ocean,West Virginia,T,F_closeDistNormLandmark_l_f,1.0
+Atlantic Ocean,West Virginia,T,F_closeDistNormUnion_f_l,1.0
+Atlantic Ocean,West Virginia,T,F_closeDistNormUnion_l_f,1.0
+Atlantic Ocean,West Virginia,T,F_distBtwnCentroids_f_l,0.0354146284599
+Atlantic Ocean,West Virginia,T,F_distBtwnCentroids_l_f,0.0354146284599
+Atlantic Ocean,West Virginia,T,F_distHorizontalCentroid_f_l,-0.0314612790295
+Atlantic Ocean,West Virginia,T,F_distHorizontalCentroid_l_f,0.0314612790295
+Atlantic Ocean,West Virginia,T,F_distVerticalCentroid_f_l,0.0162598840951
+Atlantic Ocean,West Virginia,T,F_distVerticalCentroid_l_f,-0.0162598840951
+Atlantic Ocean,West Virginia,T,F_leftOfFigureCentroid_f_l,1.0
+Atlantic Ocean,West Virginia,T,F_rightOfFigureCentroid_l_f,1.0
+North Carolina,Atlantic Ocean,T,arg1 coast in arg2,1
+North Carolina,Atlantic Ocean,T,arg1 meets arg2,1
+North Carolina,Atlantic Ocean,T,arg2 after hitting arg1,1
+North Carolina,Atlantic Ocean,T,arg2 and south to arg1,1
+North Carolina,Atlantic Ocean,T,arg2 as far north as arg1,1
+North Carolina,Atlantic Ocean,T,arg2 in eastern arg1,1
+North Carolina,Atlantic Ocean,T,arg2 in southeastern arg1,1
+North Carolina,Atlantic Ocean,T,arg2 just off the coast of arg1,1
+North Carolina,Atlantic Ocean,T,arg2 off arg1,1
+North Carolina,Atlantic Ocean,T,arg2 off of the coast of arg1,1
+North Carolina,Atlantic Ocean,T,arg2 off the coast of arg1,1
+North Carolina,Atlantic Ocean,T,arg2 on the east and arg1,1
+North Carolina,Atlantic Ocean,T,bias,1.0
+North Carolina,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+North Carolina,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.00539260821592
+North Carolina,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.00539260821592
+North Carolina,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.629329381949
+North Carolina,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.629329381949
+North Carolina,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.861369787608
+North Carolina,Atlantic Ocean,T,F_avsResult_-1_0_f_l,2.90538421611e-05
+North Carolina,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.859383901717
+North Carolina,Atlantic Ocean,T,F_avsResult_1_0_l_f,5.82623231687e-05
+North Carolina,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.70645464416
+North Carolina,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.70645464416
+North Carolina,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.00869445802219
+North Carolina,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.00869445802219
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.00539260821592
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.00539260821592
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.629329381949
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.629329381949
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.861369787608
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,2.90538421611e-05
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.859383901717
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,5.82623231687e-05
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.70645464416
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.70645464416
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.00869445802219
+North Carolina,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.00869445802219
+North Carolina,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+North Carolina,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+North Carolina,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.0379227716917
+North Carolina,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.0379227716917
+North Carolina,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.0343002271555
+North Carolina,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.0343002271555
+North Carolina,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0161750125152
+North Carolina,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0161750125152
+North Carolina,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+North Carolina,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+North Carolina,North Carolina,T,arg1 and admitted to bar in arg2,1
+North Carolina,North Carolina,T,arg1 and live in arg2,1
+North Carolina,North Carolina,T,arg1 and rural arg2,1
+North Carolina,North Carolina,T,arg1 and the state of arg2,1
+North Carolina,North Carolina,T,arg1 and throughout arg2,1
+North Carolina,North Carolina,T,arg1 commercial real estate and arg2,1
+North Carolina,North Carolina,T,arg1 if you reside in arg2,1
+North Carolina,North Carolina,T,arg1 resident and arg2,1
+North Carolina,North Carolina,T,arg1 road map and arg2,1
+North Carolina,North Carolina,T,arg1 walking events and arg2,1
+North Carolina,North Carolina,T,arg1 we love arg2,1
+North Carolina,North Carolina,T,arg2 and admitted to bar in arg1,1
+North Carolina,North Carolina,T,arg2 and live in arg1,1
+North Carolina,North Carolina,T,arg2 and rural arg1,1
+North Carolina,North Carolina,T,arg2 and the state of arg1,1
+North Carolina,North Carolina,T,arg2 and throughout arg1,1
+North Carolina,North Carolina,T,arg2 commercial real estate and arg1,1
+North Carolina,North Carolina,T,arg2 if you reside in arg1,1
+North Carolina,North Carolina,T,arg2 resident and arg1,1
+North Carolina,North Carolina,T,arg2 road map and arg1,1
+North Carolina,North Carolina,T,arg2 walking events and arg1,1
+North Carolina,North Carolina,T,arg2 we love arg1,1
+North Carolina,North Carolina,T,bias,1.0
+North Carolina,North Carolina,T,entity1=entity2,1
+North Carolina,North Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+North Carolina,North Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+North Carolina,North Carolina,T,F_avsResult_0_-1_f_l,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_0_1_f_l,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_0_-1_l_f,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_0_1_l_f,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_-1_0_f_l,0.0305945252121
+North Carolina,North Carolina,T,F_avsResult_1_0_f_l,0.104070652399
+North Carolina,North Carolina,T,F_avsResult_-1_0_l_f,0.0305945252121
+North Carolina,North Carolina,T,F_avsResult_1_0_l_f,0.104070652399
+North Carolina,North Carolina,T,F_avsResult_inside_0_-1_f_l,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_inside_0_1_f_l,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_inside_0_-1_l_f,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_inside_0_1_l_f,0.0799261632735
+North Carolina,North Carolina,T,F_avsResult_inside_-1_0_f_l,0.0305945252121
+North Carolina,North Carolina,T,F_avsResult_inside_1_0_f_l,0.104070652399
+North Carolina,North Carolina,T,F_avsResult_inside_-1_0_l_f,0.0305945252121
+North Carolina,North Carolina,T,F_avsResult_inside_1_0_l_f,0.104070652399
+North Carolina,North Carolina,T,F_math2dFigureIntersectionArea_f_l,1.0
+North Carolina,North Carolina,T,F_math2dFigureIntersectionArea_l_f,1.0
+North Carolina,North Carolina,T,F_math2dIntersectionArea_f_l,1.0
+North Carolina,North Carolina,T,F_math2dIntersectionArea_l_f,1.0
+North Carolina,North Carolina,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+North Carolina,North Carolina,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+North Carolina,Richmond,T,arg1 counties of arg2,1
+North Carolina,Richmond,T,arg1 extending from arg2,1
+North Carolina,Richmond,T,arg1 is coming to arg2,1
+North Carolina,Richmond,T,arg1 settled in arg2,1
+North Carolina,Richmond,T,arg2 and grew up in arg1,1
+North Carolina,Richmond,T,arg2 and south into arg1,1
+North Carolina,Richmond,T,arg2 centered around arg1,1
+North Carolina,Richmond,T,arg2 counties in central arg1,1
+North Carolina,Richmond,T,arg2 county arg1,1
+North Carolina,Richmond,T,arg2 leapfrogged arg1,1
+North Carolina,Richmond,T,arg2 on the way to arg1,1
+North Carolina,Richmond,T,arg2 or south to arg1,1
+North Carolina,Richmond,T,arg2 through arg1,1
+North Carolina,Richmond,T,arg2 to upper arg1,1
+North Carolina,Richmond,T,bias,1.0
+North Carolina,Richmond,T,F_aboveFigureCentroid_f_l,1.0
+North Carolina,Richmond,T,F_avsResult_0_-1_f_l,0.597553613937
+North Carolina,Richmond,T,F_avsResult_0_1_f_l,0.597553613937
+North Carolina,Richmond,T,F_avsResult_0_-1_l_f,0.0610802270662
+North Carolina,Richmond,T,F_avsResult_0_1_l_f,0.0610802270662
+North Carolina,Richmond,T,F_avsResult_-1_0_f_l,0.0420445259419
+North Carolina,Richmond,T,F_avsResult_1_0_f_l,0.124263610324
+North Carolina,Richmond,T,F_avsResult_1_0_l_f,0.0833593619709
+North Carolina,Richmond,T,F_avsResult_-1_0_l_f,0.504331752112
+North Carolina,Richmond,T,F_avsResult_-1_-1_l_f,0.206659496696
+North Carolina,Richmond,T,F_avsResult_-1_1_l_f,0.206659496696
+North Carolina,Richmond,T,F_avsResult_outside_0_-1_f_l,0.597553613937
+North Carolina,Richmond,T,F_avsResult_outside_0_1_f_l,0.597553613937
+North Carolina,Richmond,T,F_avsResult_outside_0_-1_l_f,0.0610802270662
+North Carolina,Richmond,T,F_avsResult_outside_0_1_l_f,0.0610802270662
+North Carolina,Richmond,T,F_avsResult_outside_-1_0_f_l,0.0420445259419
+North Carolina,Richmond,T,F_avsResult_outside_1_0_f_l,0.124263610324
+North Carolina,Richmond,T,F_avsResult_outside_1_0_l_f,0.0833593619709
+North Carolina,Richmond,T,F_avsResult_outside_-1_0_l_f,0.504331752112
+North Carolina,Richmond,T,F_avsResult_outside_-1_-1_l_f,0.206659496696
+North Carolina,Richmond,T,F_avsResult_outside_-1_1_l_f,0.206659496696
+North Carolina,Richmond,T,F_belowFigureCentroid_l_f,1.0
+North Carolina,Richmond,T,F_closeDistNormFigure_f_l,0.072791700188
+North Carolina,Richmond,T,F_closeDistNormFigure_l_f,1.0
+North Carolina,Richmond,T,F_closeDistNormLandmark_f_l,1.0
+North Carolina,Richmond,T,F_closeDistNormLandmark_l_f,0.072791700188
+North Carolina,Richmond,T,F_closeDistNormUnion_f_l,0.0727900502404
+North Carolina,Richmond,T,F_closeDistNormUnion_l_f,0.0727900502404
+North Carolina,Richmond,T,F_distBtwnCentroids_f_l,0.0780999895747
+North Carolina,Richmond,T,F_distBtwnCentroids_l_f,0.0780999895747
+North Carolina,Richmond,T,F_distHorizontalCentroid_f_l,0.0501453113907
+North Carolina,Richmond,T,F_distHorizontalCentroid_l_f,-0.0501453113907
+North Carolina,Richmond,T,F_distVerticalCentroid_f_l,0.0598753381377
+North Carolina,Richmond,T,F_distVerticalCentroid_l_f,-0.0598753381377
+North Carolina,Richmond,T,F_leftOfFigureCentroid_l_f,1.0
+North Carolina,Richmond,T,F_rightOfFigureCentroid_f_l,1.0
+North Carolina,Virginia Beach,T,arg1 and includes the cities of arg2,1
+North Carolina,Virginia Beach,T,arg1 and later moved to arg2,1
+North Carolina,Virginia Beach,T,arg1 as cocaine traffickers in arg2,1
+North Carolina,Virginia Beach,T,arg1 back to arg2,1
+North Carolina,Virginia Beach,T,arg1 or conducting business in arg2,1
+North Carolina,Virginia Beach,T,arg2 and as far away as arg1,1
+North Carolina,Virginia Beach,T,arg2 borders arg1,1
+North Carolina,Virginia Beach,T,bias,1.0
+North Carolina,Virginia Beach,T,F_3dIntersectsFigureLandmark_f_l,1.0
+North Carolina,Virginia Beach,T,F_3dIntersectsFigureLandmark_l_f,1.0
+North Carolina,Virginia Beach,T,F_aboveFigureCentroid_f_l,1.0
+North Carolina,Virginia Beach,T,F_avsResult_0_-1_f_l,0.39231276958
+North Carolina,Virginia Beach,T,F_avsResult_0_1_f_l,0.39231276958
+North Carolina,Virginia Beach,T,F_avsResult_0_-1_l_f,0.118924783402
+North Carolina,Virginia Beach,T,F_avsResult_0_1_l_f,0.118924783402
+North Carolina,Virginia Beach,T,F_avsResult_-1_0_f_l,0.0243450610423
+North Carolina,Virginia Beach,T,F_avsResult_1_0_f_l,0.313741161172
+North Carolina,Virginia Beach,T,F_avsResult_1_0_l_f,0.0261080018547
+North Carolina,Virginia Beach,T,F_avsResult_-1_0_l_f,0.676831107876
+North Carolina,Virginia Beach,T,F_avsResult_-1_-1_f_l,0.0874746714868
+North Carolina,Virginia Beach,T,F_avsResult_-1_1_f_l,0.0874746714868
+North Carolina,Virginia Beach,T,F_avsResult_-1_-1_l_f,0.501244719689
+North Carolina,Virginia Beach,T,F_avsResult_-1_1_l_f,0.501244719689
+North Carolina,Virginia Beach,T,F_avsResult_outside_0_-1_f_l,0.39231276958
+North Carolina,Virginia Beach,T,F_avsResult_outside_0_1_f_l,0.39231276958
+North Carolina,Virginia Beach,T,F_avsResult_outside_0_-1_l_f,0.118924783402
+North Carolina,Virginia Beach,T,F_avsResult_outside_0_1_l_f,0.118924783402
+North Carolina,Virginia Beach,T,F_avsResult_outside_-1_0_f_l,0.0243450610423
+North Carolina,Virginia Beach,T,F_avsResult_outside_1_0_f_l,0.313741161172
+North Carolina,Virginia Beach,T,F_avsResult_outside_1_0_l_f,0.0261080018547
+North Carolina,Virginia Beach,T,F_avsResult_outside_-1_0_l_f,0.676831107876
+North Carolina,Virginia Beach,T,F_avsResult_outside_-1_-1_f_l,0.0874746714868
+North Carolina,Virginia Beach,T,F_avsResult_outside_-1_1_f_l,0.0874746714868
+North Carolina,Virginia Beach,T,F_avsResult_outside_-1_-1_l_f,0.501244719689
+North Carolina,Virginia Beach,T,F_avsResult_outside_-1_1_l_f,0.501244719689
+North Carolina,Virginia Beach,T,F_belowFigureCentroid_l_f,1.0
+North Carolina,Virginia Beach,T,F_distBtwnCentroids_f_l,0.115279322915
+North Carolina,Virginia Beach,T,F_distBtwnCentroids_l_f,0.115279322915
+North Carolina,Virginia Beach,T,F_distHorizontalCentroid_f_l,0.106902221624
+North Carolina,Virginia Beach,T,F_distHorizontalCentroid_l_f,-0.106902221624
+North Carolina,Virginia Beach,T,F_distVerticalCentroid_f_l,0.0431420595668
+North Carolina,Virginia Beach,T,F_distVerticalCentroid_l_f,-0.0431420595668
+North Carolina,Virginia Beach,T,F_leftOfFigureCentroid_l_f,1.0
+North Carolina,Virginia Beach,T,F_math2dFigureIntersectionArea_f_l,1.61849631739e-07
+North Carolina,Virginia Beach,T,F_math2dFigureIntersectionArea_l_f,1.75758710264e-05
+North Carolina,Virginia Beach,T,F_math2dIntersectionArea_f_l,1.60372844073e-07
+North Carolina,Virginia Beach,T,F_math2dIntersectionArea_l_f,1.60372844073e-07
+North Carolina,Virginia Beach,T,F_math2dLandmarkIntersectionArea_f_l,1.75758710264e-05
+North Carolina,Virginia Beach,T,F_math2dLandmarkIntersectionArea_l_f,1.61849631739e-07
+North Carolina,Virginia Beach,T,F_rightOfFigureCentroid_f_l,1.0
+North Carolina,Virginia,T,arg1 and eastern arg2,1
+North Carolina,Virginia,T,arg1 and parts of arg2,1
+North Carolina,Virginia,T,arg1 and south central arg2,1
+North Carolina,Virginia,T,arg1 and southeastern arg2,1
+North Carolina,Virginia,T,arg1 and southern arg2,1
+North Carolina,Virginia,T,arg1 and southwest arg2,1
+North Carolina,Virginia,T,arg1 and southwestern arg2,1
+North Carolina,Virginia,T,arg1 and western arg2,1
+North Carolina,Virginia,T,arg1 as well as arg2,1
+North Carolina,Virginia,T,arg2 and eastern arg1,1
+North Carolina,Virginia,T,arg2 and northeast arg1,1
+North Carolina,Virginia,T,arg2 and northeastern arg1,1
+North Carolina,Virginia,T,arg2 and northern arg1,1
+North Carolina,Virginia,T,arg2 and northwestern arg1,1
+North Carolina,Virginia,T,arg2 and one in arg1,1
+North Carolina,Virginia,T,arg2 and parts of arg1,1
+North Carolina,Virginia,T,arg2 and western arg1,1
+North Carolina,Virginia,T,arg2 follow arg1,1
+North Carolina,Virginia,T,arg2 successfully competed with arg1,1
+North Carolina,Virginia,T,arg2 through arg1,1
+North Carolina,Virginia,T,bias,1.0
+North Carolina,Virginia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+North Carolina,Virginia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+North Carolina,Virginia,T,F_aboveFigureCentroid_f_l,1.0
+North Carolina,Virginia,T,F_avsResult_0_-1_f_l,0.584539796462
+North Carolina,Virginia,T,F_avsResult_0_1_f_l,0.584539796462
+North Carolina,Virginia,T,F_avsResult_0_-1_l_f,0.0100165772488
+North Carolina,Virginia,T,F_avsResult_0_1_l_f,0.0100165772488
+North Carolina,Virginia,T,F_avsResult_-1_0_f_l,0.0529708159175
+North Carolina,Virginia,T,F_avsResult_1_0_f_l,0.120882544504
+North Carolina,Virginia,T,F_avsResult_-1_0_l_f,0.0752809359593
+North Carolina,Virginia,T,F_avsResult_1_0_l_f,0.110933084153
+North Carolina,Virginia,T,F_avsResult_outside_0_-1_f_l,0.584539796462
+North Carolina,Virginia,T,F_avsResult_outside_0_1_f_l,0.584539796462
+North Carolina,Virginia,T,F_avsResult_outside_0_-1_l_f,0.0100165772488
+North Carolina,Virginia,T,F_avsResult_outside_0_1_l_f,0.0100165772488
+North Carolina,Virginia,T,F_avsResult_outside_-1_0_f_l,0.0529708159175
+North Carolina,Virginia,T,F_avsResult_outside_1_0_f_l,0.120882544504
+North Carolina,Virginia,T,F_avsResult_outside_-1_0_l_f,0.0752809359593
+North Carolina,Virginia,T,F_avsResult_outside_1_0_l_f,0.110933084153
+North Carolina,Virginia,T,F_belowFigureCentroid_l_f,1.0
+North Carolina,Virginia,T,F_distBtwnCentroids_f_l,0.0402593227234
+North Carolina,Virginia,T,F_distBtwnCentroids_l_f,0.0402593227234
+North Carolina,Virginia,T,F_distHorizontalCentroid_f_l,0.00871719813619
+North Carolina,Virginia,T,F_distHorizontalCentroid_l_f,-0.00871719813619
+North Carolina,Virginia,T,F_distVerticalCentroid_f_l,0.0393042430636
+North Carolina,Virginia,T,F_distVerticalCentroid_l_f,-0.0393042430636
+North Carolina,Virginia,T,F_leftOfFigureCentroid_l_f,1.0
+North Carolina,Virginia,T,F_math2dFigureIntersectionArea_f_l,7.0012915212e-05
+North Carolina,Virginia,T,F_math2dFigureIntersectionArea_l_f,8.63389907973e-05
+North Carolina,Virginia,T,F_math2dIntersectionArea_f_l,3.86632840623e-05
+North Carolina,Virginia,T,F_math2dIntersectionArea_l_f,3.86632840623e-05
+North Carolina,Virginia,T,F_math2dLandmarkIntersectionArea_f_l,8.63389907973e-05
+North Carolina,Virginia,T,F_math2dLandmarkIntersectionArea_l_f,7.0012915212e-05
+North Carolina,Virginia,T,F_rightOfFigureCentroid_f_l,1.0
+North Carolina,West Virginia,T,arg1 against arg2,1
+North Carolina,West Virginia,T,arg1 and as far west as arg2,1
+North Carolina,West Virginia,T,arg1 and southern arg2,1
+North Carolina,West Virginia,T,arg2 and northern arg1,1
+North Carolina,West Virginia,T,arg2 and western arg1,1
+North Carolina,West Virginia,T,arg2 beat arg1,1
+North Carolina,West Virginia,T,arg2 line all the way to arg1,1
+North Carolina,West Virginia,T,arg2 made arg1,1
+North Carolina,West Virginia,T,arg2 taking on arg1,1
+North Carolina,West Virginia,T,arg2 through arg1,1
+North Carolina,West Virginia,T,arg2 through western arg1,1
+North Carolina,West Virginia,T,arg2 to southwestern arg1,1
+North Carolina,West Virginia,T,arg2 to the coast of arg1,1
+North Carolina,West Virginia,T,arg2 vs arg1,1
+North Carolina,West Virginia,T,arg2 will face arg1,1
+North Carolina,West Virginia,T,arg2 will play arg1,1
+North Carolina,West Virginia,T,arg2 win over arg1,1
+North Carolina,West Virginia,T,bias,1.0
+North Carolina,West Virginia,T,F_aboveFigureCentroid_f_l,1.0
+North Carolina,West Virginia,T,F_avsResult_0_-1_f_l,0.721676842491
+North Carolina,West Virginia,T,F_avsResult_0_1_f_l,0.721676842491
+North Carolina,West Virginia,T,F_avsResult_0_-1_l_f,0.0156855716751
+North Carolina,West Virginia,T,F_avsResult_0_1_l_f,0.0156855716751
+North Carolina,West Virginia,T,F_avsResult_-1_0_f_l,0.0875158255549
+North Carolina,West Virginia,T,F_avsResult_1_0_f_l,0.0879469525588
+North Carolina,West Virginia,T,F_avsResult_-1_0_l_f,0.0717026700807
+North Carolina,West Virginia,T,F_avsResult_1_0_l_f,0.203680347612
+North Carolina,West Virginia,T,F_avsResult_outside_0_-1_f_l,0.721676842491
+North Carolina,West Virginia,T,F_avsResult_outside_0_1_f_l,0.721676842491
+North Carolina,West Virginia,T,F_avsResult_outside_0_-1_l_f,0.0156855716751
+North Carolina,West Virginia,T,F_avsResult_outside_0_1_l_f,0.0156855716751
+North Carolina,West Virginia,T,F_avsResult_outside_-1_0_f_l,0.0875158255549
+North Carolina,West Virginia,T,F_avsResult_outside_1_0_f_l,0.0879469525588
+North Carolina,West Virginia,T,F_avsResult_outside_-1_0_l_f,0.0717026700807
+North Carolina,West Virginia,T,F_avsResult_outside_1_0_l_f,0.203680347612
+North Carolina,West Virginia,T,F_belowFigureCentroid_l_f,1.0
+North Carolina,West Virginia,T,F_closeDistNormFigure_f_l,0.0327147590754
+North Carolina,West Virginia,T,F_closeDistNormFigure_l_f,0.0663344952545
+North Carolina,West Virginia,T,F_closeDistNormLandmark_f_l,0.0663344952545
+North Carolina,West Virginia,T,F_closeDistNormLandmark_l_f,0.0327147590754
+North Carolina,West Virginia,T,F_closeDistNormUnion_f_l,0.0219094736788
+North Carolina,West Virginia,T,F_closeDistNormUnion_l_f,0.0219094736788
+North Carolina,West Virginia,T,F_distBtwnCentroids_f_l,0.057541454552
+North Carolina,West Virginia,T,F_distBtwnCentroids_l_f,0.057541454552
+North Carolina,West Virginia,T,F_distHorizontalCentroid_f_l,-0.0238526108442
+North Carolina,West Virginia,T,F_distHorizontalCentroid_l_f,0.0238526108442
+North Carolina,West Virginia,T,F_distVerticalCentroid_f_l,0.0523647968379
+North Carolina,West Virginia,T,F_distVerticalCentroid_l_f,-0.0523647968379
+North Carolina,West Virginia,T,F_leftOfFigureCentroid_f_l,1.0
+North Carolina,West Virginia,T,F_rightOfFigureCentroid_l_f,1.0
+Richmond,Atlantic Ocean,T,arg1 stretches from arg2,1
+Richmond,Atlantic Ocean,T,arg1 to the shores of arg2,1
+Richmond,Atlantic Ocean,T,arg2 in the area of arg1,1
+Richmond,Atlantic Ocean,T,bias,1.0
+Richmond,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+Richmond,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.00456106874131
+Richmond,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.00456106874131
+Richmond,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.645284713545
+Richmond,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.645284713545
+Richmond,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.845626568627
+Richmond,Atlantic Ocean,T,F_avsResult_-1_0_f_l,7.97487488773e-05
+Richmond,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.845635217053
+Richmond,Atlantic Ocean,T,F_avsResult_1_0_l_f,7.97442400072e-05
+Richmond,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.670781518423
+Richmond,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.670781518423
+Richmond,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.0134502656579
+Richmond,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.0134502656579
+Richmond,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.00456106874131
+Richmond,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.00456106874131
+Richmond,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.645284713545
+Richmond,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.645284713545
+Richmond,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.845626568627
+Richmond,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,7.97487488773e-05
+Richmond,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.845635217053
+Richmond,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,7.97442400072e-05
+Richmond,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.670781518423
+Richmond,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.670781518423
+Richmond,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.0134502656579
+Richmond,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.0134502656579
+Richmond,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+Richmond,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+Richmond,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+Richmond,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+Richmond,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+Richmond,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+Richmond,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+Richmond,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.040966467109
+Richmond,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.040966467109
+Richmond,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.0362690109352
+Richmond,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.0362690109352
+Richmond,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0190475791946
+Richmond,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0190475791946
+Richmond,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+Richmond,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+Richmond,North Carolina,T,arg1 leapfrogged arg2,1
+Richmond,North Carolina,T,arg1 on the way to arg2,1
+Richmond,North Carolina,T,arg1 or south to arg2,1
+Richmond,North Carolina,T,arg1 through arg2,1
+Richmond,North Carolina,T,arg1 to upper arg2,1
+Richmond,North Carolina,T,arg2 and moved to arg1,1
+Richmond,North Carolina,T,arg2 and one in arg1,1
+Richmond,North Carolina,T,arg2 and raised in arg1,1
+Richmond,North Carolina,T,arg2 and the suburbs of arg1,1
+Richmond,North Carolina,T,arg2 as cocaine traffickers in arg1,1
+Richmond,North Carolina,T,arg2 before relocating to arg1,1
+Richmond,North Carolina,T,arg2 counties of arg1,1
+Richmond,North Carolina,T,arg2 extending from arg1,1
+Richmond,North Carolina,T,arg2 is coming to arg1,1
+Richmond,North Carolina,T,arg2 settled in arg1,1
+Richmond,North Carolina,T,bias,1.0
+Richmond,North Carolina,T,F_aboveFigureCentroid_l_f,1.0
+Richmond,North Carolina,T,F_avsResult_0_-1_f_l,0.0610802270662
+Richmond,North Carolina,T,F_avsResult_0_1_f_l,0.0610802270662
+Richmond,North Carolina,T,F_avsResult_0_-1_l_f,0.597553613937
+Richmond,North Carolina,T,F_avsResult_0_1_l_f,0.597553613937
+Richmond,North Carolina,T,F_avsResult_1_0_f_l,0.0833593619709
+Richmond,North Carolina,T,F_avsResult_-1_0_f_l,0.504331752112
+Richmond,North Carolina,T,F_avsResult_-1_0_l_f,0.0420445259419
+Richmond,North Carolina,T,F_avsResult_1_0_l_f,0.124263610324
+Richmond,North Carolina,T,F_avsResult_-1_-1_f_l,0.206659496696
+Richmond,North Carolina,T,F_avsResult_-1_1_f_l,0.206659496696
+Richmond,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.0610802270662
+Richmond,North Carolina,T,F_avsResult_outside_0_1_f_l,0.0610802270662
+Richmond,North Carolina,T,F_avsResult_outside_0_-1_l_f,0.597553613937
+Richmond,North Carolina,T,F_avsResult_outside_0_1_l_f,0.597553613937
+Richmond,North Carolina,T,F_avsResult_outside_1_0_f_l,0.0833593619709
+Richmond,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.504331752112
+Richmond,North Carolina,T,F_avsResult_outside_-1_0_l_f,0.0420445259419
+Richmond,North Carolina,T,F_avsResult_outside_1_0_l_f,0.124263610324
+Richmond,North Carolina,T,F_avsResult_outside_-1_-1_f_l,0.206659496696
+Richmond,North Carolina,T,F_avsResult_outside_-1_1_f_l,0.206659496696
+Richmond,North Carolina,T,F_belowFigureCentroid_f_l,1.0
+Richmond,North Carolina,T,F_closeDistNormFigure_f_l,1.0
+Richmond,North Carolina,T,F_closeDistNormFigure_l_f,0.072791700188
+Richmond,North Carolina,T,F_closeDistNormLandmark_f_l,0.072791700188
+Richmond,North Carolina,T,F_closeDistNormLandmark_l_f,1.0
+Richmond,North Carolina,T,F_closeDistNormUnion_f_l,0.0727900502404
+Richmond,North Carolina,T,F_closeDistNormUnion_l_f,0.0727900502404
+Richmond,North Carolina,T,F_distBtwnCentroids_f_l,0.0780999895747
+Richmond,North Carolina,T,F_distBtwnCentroids_l_f,0.0780999895747
+Richmond,North Carolina,T,F_distHorizontalCentroid_f_l,-0.0501453113907
+Richmond,North Carolina,T,F_distHorizontalCentroid_l_f,0.0501453113907
+Richmond,North Carolina,T,F_distVerticalCentroid_f_l,-0.0598753381377
+Richmond,North Carolina,T,F_distVerticalCentroid_l_f,0.0598753381377
+Richmond,North Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Richmond,North Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Richmond,Richmond,T,arg1 bank foreclosures and arg2,1
+Richmond,Richmond,T,arg1 computer reservation system in arg2,1
+Richmond,Richmond,T,arg1 guests and families in arg2,1
+Richmond,Richmond,T,arg1 is located at in arg2,1
+Richmond,Richmond,T,arg1 is located in arg2,1
+Richmond,Richmond,T,arg1 located in arg2,1
+Richmond,Richmond,T,arg1 or sending flowers to arg2,1
+Richmond,Richmond,T,arg1 or shipped to arg2,1
+Richmond,Richmond,T,arg1 used car inventory search arg2,1
+Richmond,Richmond,T,arg2 bank foreclosures and arg1,1
+Richmond,Richmond,T,arg2 computer reservation system in arg1,1
+Richmond,Richmond,T,arg2 guests and families in arg1,1
+Richmond,Richmond,T,arg2 is located at in arg1,1
+Richmond,Richmond,T,arg2 is located in arg1,1
+Richmond,Richmond,T,arg2 located in arg1,1
+Richmond,Richmond,T,arg2 or sending flowers to arg1,1
+Richmond,Richmond,T,arg2 or shipped to arg1,1
+Richmond,Richmond,T,arg2 used car inventory search arg1,1
+Richmond,Richmond,T,bias,1.0
+Richmond,Richmond,T,entity1=entity2,1
+Richmond,Richmond,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Richmond,Richmond,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Richmond,Richmond,T,F_avsResult_0_-1_f_l,0.000813156693858
+Richmond,Richmond,T,F_avsResult_0_1_f_l,0.000813156693858
+Richmond,Richmond,T,F_avsResult_0_-1_l_f,0.000813156693858
+Richmond,Richmond,T,F_avsResult_0_1_l_f,0.000813156693858
+Richmond,Richmond,T,F_avsResult_-1_0_f_l,0.027209456352
+Richmond,Richmond,T,F_avsResult_1_0_f_l,0.030083497487
+Richmond,Richmond,T,F_avsResult_-1_0_l_f,0.027209456352
+Richmond,Richmond,T,F_avsResult_1_0_l_f,0.030083497487
+Richmond,Richmond,T,F_avsResult_inside_0_-1_f_l,0.000813156693858
+Richmond,Richmond,T,F_avsResult_inside_0_1_f_l,0.000813156693858
+Richmond,Richmond,T,F_avsResult_inside_0_-1_l_f,0.000813156693858
+Richmond,Richmond,T,F_avsResult_inside_0_1_l_f,0.000813156693858
+Richmond,Richmond,T,F_avsResult_inside_-1_0_f_l,0.027209456352
+Richmond,Richmond,T,F_avsResult_inside_1_0_f_l,0.030083497487
+Richmond,Richmond,T,F_avsResult_inside_-1_0_l_f,0.027209456352
+Richmond,Richmond,T,F_avsResult_inside_1_0_l_f,0.030083497487
+Richmond,Richmond,T,F_math2dFigureIntersectionArea_f_l,1.0
+Richmond,Richmond,T,F_math2dFigureIntersectionArea_l_f,1.0
+Richmond,Richmond,T,F_math2dIntersectionArea_f_l,1.0
+Richmond,Richmond,T,F_math2dIntersectionArea_l_f,1.0
+Richmond,Richmond,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Richmond,Richmond,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Richmond,Virginia Beach,T,arg1 headed for arg2,1
+Richmond,Virginia Beach,T,arg1 is the capital and arg2,1
+Richmond,Virginia Beach,T,arg1 is the capital city and arg2,1
+Richmond,Virginia Beach,T,arg1 is the state capital and arg2,1
+Richmond,Virginia Beach,T,arg1 moving company arg2,1
+Richmond,Virginia Beach,T,arg1 or printing in arg2,1
+Richmond,Virginia Beach,T,arg1 to the coast of arg2,1
+Richmond,Virginia Beach,T,arg1 toward arg2,1
+Richmond,Virginia Beach,T,arg1 with a branch office in arg2,1
+Richmond,Virginia Beach,T,arg2 and here in arg1,1
+Richmond,Virginia Beach,T,arg2 and north to arg1,1
+Richmond,Virginia Beach,T,arg2 and one in arg1,1
+Richmond,Virginia Beach,T,arg2 metro and arg1,1
+Richmond,Virginia Beach,T,bias,1.0
+Richmond,Virginia Beach,T,F_aboveFigureCentroid_l_f,1.0
+Richmond,Virginia Beach,T,F_avsResult_0_-1_f_l,0.135972678849
+Richmond,Virginia Beach,T,F_avsResult_0_1_f_l,0.135972678849
+Richmond,Virginia Beach,T,F_avsResult_0_-1_l_f,0.373470967403
+Richmond,Virginia Beach,T,F_avsResult_0_1_l_f,0.373470967403
+Richmond,Virginia Beach,T,F_avsResult_-1_0_f_l,0.0504836498647
+Richmond,Virginia Beach,T,F_avsResult_1_0_f_l,0.569615255721
+Richmond,Virginia Beach,T,F_avsResult_1_0_l_f,0.0471990102096
+Richmond,Virginia Beach,T,F_avsResult_-1_0_l_f,0.553331935216
+Richmond,Virginia Beach,T,F_avsResult_1_-1_f_l,0.392999745524
+Richmond,Virginia Beach,T,F_avsResult_1_1_f_l,0.392999745524
+Richmond,Virginia Beach,T,F_avsResult_1_-1_l_f,0.12078518789
+Richmond,Virginia Beach,T,F_avsResult_1_1_l_f,0.12078518789
+Richmond,Virginia Beach,T,F_avsResult_outside_0_-1_f_l,0.135972678849
+Richmond,Virginia Beach,T,F_avsResult_outside_0_1_f_l,0.135972678849
+Richmond,Virginia Beach,T,F_avsResult_outside_0_-1_l_f,0.373470967403
+Richmond,Virginia Beach,T,F_avsResult_outside_0_1_l_f,0.373470967403
+Richmond,Virginia Beach,T,F_avsResult_outside_-1_0_f_l,0.0504836498647
+Richmond,Virginia Beach,T,F_avsResult_outside_1_0_f_l,0.569615255721
+Richmond,Virginia Beach,T,F_avsResult_outside_1_0_l_f,0.0471990102096
+Richmond,Virginia Beach,T,F_avsResult_outside_-1_0_l_f,0.553331935216
+Richmond,Virginia Beach,T,F_avsResult_outside_1_-1_f_l,0.392999745524
+Richmond,Virginia Beach,T,F_avsResult_outside_1_1_f_l,0.392999745524
+Richmond,Virginia Beach,T,F_avsResult_outside_1_-1_l_f,0.12078518789
+Richmond,Virginia Beach,T,F_avsResult_outside_1_1_l_f,0.12078518789
+Richmond,Virginia Beach,T,F_belowFigureCentroid_f_l,1.0
+Richmond,Virginia Beach,T,F_closeDistNormFigure_f_l,1.0
+Richmond,Virginia Beach,T,F_closeDistNormFigure_l_f,1.0
+Richmond,Virginia Beach,T,F_closeDistNormLandmark_f_l,1.0
+Richmond,Virginia Beach,T,F_closeDistNormLandmark_l_f,1.0
+Richmond,Virginia Beach,T,F_closeDistNormUnion_f_l,1.0
+Richmond,Virginia Beach,T,F_closeDistNormUnion_l_f,1.0
+Richmond,Virginia Beach,T,F_distBtwnCentroids_f_l,0.987414521478
+Richmond,Virginia Beach,T,F_distBtwnCentroids_l_f,0.987414521478
+Richmond,Virginia Beach,T,F_distHorizontalCentroid_f_l,0.870942965108
+Richmond,Virginia Beach,T,F_distHorizontalCentroid_l_f,-0.870942965108
+Richmond,Virginia Beach,T,F_distVerticalCentroid_f_l,-0.465237346689
+Richmond,Virginia Beach,T,F_distVerticalCentroid_l_f,0.465237346689
+Richmond,Virginia Beach,T,F_leftOfFigureCentroid_l_f,1.0
+Richmond,Virginia Beach,T,F_rightOfFigureCentroid_f_l,1.0
+Richmond,Virginia,T,arg1 and central arg2,1
+Richmond,Virginia,T,arg1 and northern arg2,1
+Richmond,Virginia,T,arg1 and the state of arg2,1
+Richmond,Virginia,T,arg1 and throughout arg2,1
+Richmond,Virginia,T,arg1 area of arg2,1
+Richmond,Virginia,T,arg1 areas of arg2,1
+Richmond,Virginia,T,arg1 became the capital of arg2,1
+Richmond,Virginia,T,arg1 florist shop in arg2,1
+Richmond,Virginia,T,arg1 hotel in arg2,1
+Richmond,Virginia,T,arg1 is the capital of arg2,1
+Richmond,Virginia,T,arg2 and captured arg1,1
+Richmond,Virginia,T,arg2 capital of arg1,1
+Richmond,Virginia,T,arg2 including arg1,1
+Richmond,Virginia,T,arg2 is located in downtown arg1,1
+Richmond,Virginia,T,arg2 located in arg1,1
+Richmond,Virginia,T,arg2 moved to arg1,1
+Richmond,Virginia,T,arg2 such as arg1,1
+Richmond,Virginia,T,arg2 was moved to arg1,1
+Richmond,Virginia,T,arg2 west of arg1,1
+Richmond,Virginia,T,bias,1.0
+Richmond,Virginia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Richmond,Virginia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Richmond,Virginia,T,F_aboveFigureCentroid_l_f,1.0
+Richmond,Virginia,T,F_avsResult_0_-1_f_l,0.243726466395
+Richmond,Virginia,T,F_avsResult_0_1_f_l,0.243726466395
+Richmond,Virginia,T,F_avsResult_0_-1_l_f,0.138285922456
+Richmond,Virginia,T,F_avsResult_0_1_l_f,0.138285922456
+Richmond,Virginia,T,F_avsResult_1_0_f_l,0.00247926149223
+Richmond,Virginia,T,F_avsResult_-1_0_f_l,0.652924687187
+Richmond,Virginia,T,F_avsResult_-1_0_l_f,0.0192655500333
+Richmond,Virginia,T,F_avsResult_1_0_l_f,0.0586963049539
+Richmond,Virginia,T,F_avsResult_inside_0_-1_l_f,0.138285922456
+Richmond,Virginia,T,F_avsResult_inside_0_1_l_f,0.138285922456
+Richmond,Virginia,T,F_avsResult_inside_-1_0_l_f,0.0192655500333
+Richmond,Virginia,T,F_avsResult_inside_1_0_l_f,0.0586963049539
+Richmond,Virginia,T,F_avsResult_outside_0_-1_f_l,0.243726466395
+Richmond,Virginia,T,F_avsResult_outside_0_1_f_l,0.243726466395
+Richmond,Virginia,T,F_avsResult_outside_1_0_f_l,0.00247926149223
+Richmond,Virginia,T,F_avsResult_outside_-1_0_f_l,0.652924687187
+Richmond,Virginia,T,F_belowFigureCentroid_f_l,1.0
+Richmond,Virginia,T,F_distBtwnCentroids_f_l,0.0520126193555
+Richmond,Virginia,T,F_distBtwnCentroids_l_f,0.0520126193555
+Richmond,Virginia,T,F_distHorizontalCentroid_f_l,-0.0519998121233
+Richmond,Virginia,T,F_distHorizontalCentroid_l_f,0.0519998121233
+Richmond,Virginia,T,F_distVerticalCentroid_f_l,-0.00115417128638
+Richmond,Virginia,T,F_distVerticalCentroid_l_f,0.00115417128638
+Richmond,Virginia,T,F_leftOfFigureCentroid_f_l,1.0
+Richmond,Virginia,T,F_math2dFigureIntersectionArea_f_l,1.0
+Richmond,Virginia,T,F_math2dFigureIntersectionArea_l_f,2.79529050335e-05
+Richmond,Virginia,T,F_math2dIntersectionArea_f_l,2.79529050335e-05
+Richmond,Virginia,T,F_math2dIntersectionArea_l_f,2.79529050335e-05
+Richmond,Virginia,T,F_math2dLandmarkIntersectionArea_f_l,2.79529050335e-05
+Richmond,Virginia,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Richmond,Virginia,T,F_rightOfFigureCentroid_l_f,1.0
+Richmond,West Virginia,T,arg2 and are based in arg1,1
+Richmond,West Virginia,T,arg2 and through arg1,1
+Richmond,West Virginia,T,arg2 before returning to arg1,1
+Richmond,West Virginia,T,arg2 border to arg1,1
+Richmond,West Virginia,T,arg2 toward arg1,1
+Richmond,West Virginia,T,bias,1.0
+Richmond,West Virginia,T,F_aboveFigureCentroid_f_l,1.0
+Richmond,West Virginia,T,F_avsResult_0_-1_f_l,0.40062876587
+Richmond,West Virginia,T,F_avsResult_0_1_f_l,0.40062876587
+Richmond,West Virginia,T,F_avsResult_0_-1_l_f,0.0517908222388
+Richmond,West Virginia,T,F_avsResult_0_1_l_f,0.0517908222388
+Richmond,West Virginia,T,F_avsResult_1_0_f_l,0.0252025714174
+Richmond,West Virginia,T,F_avsResult_-1_0_f_l,0.690285605287
+Richmond,West Virginia,T,F_avsResult_-1_0_l_f,0.0260176048313
+Richmond,West Virginia,T,F_avsResult_1_0_l_f,0.394471064317
+Richmond,West Virginia,T,F_avsResult_1_-1_f_l,0.062630212543
+Richmond,West Virginia,T,F_avsResult_1_1_f_l,0.062630212543
+Richmond,West Virginia,T,F_avsResult_1_-1_l_f,0.159447928122
+Richmond,West Virginia,T,F_avsResult_1_1_l_f,0.159447928122
+Richmond,West Virginia,T,F_avsResult_outside_0_-1_f_l,0.40062876587
+Richmond,West Virginia,T,F_avsResult_outside_0_1_f_l,0.40062876587
+Richmond,West Virginia,T,F_avsResult_outside_0_-1_l_f,0.0517908222388
+Richmond,West Virginia,T,F_avsResult_outside_0_1_l_f,0.0517908222388
+Richmond,West Virginia,T,F_avsResult_outside_1_0_f_l,0.0252025714174
+Richmond,West Virginia,T,F_avsResult_outside_-1_0_f_l,0.690285605287
+Richmond,West Virginia,T,F_avsResult_outside_-1_0_l_f,0.0260176048313
+Richmond,West Virginia,T,F_avsResult_outside_1_0_l_f,0.394471064317
+Richmond,West Virginia,T,F_avsResult_outside_1_-1_f_l,0.062630212543
+Richmond,West Virginia,T,F_avsResult_outside_1_1_f_l,0.062630212543
+Richmond,West Virginia,T,F_avsResult_outside_1_-1_l_f,0.159447928122
+Richmond,West Virginia,T,F_avsResult_outside_1_1_l_f,0.159447928122
+Richmond,West Virginia,T,F_belowFigureCentroid_l_f,1.0
+Richmond,West Virginia,T,F_closeDistNormFigure_f_l,1.0
+Richmond,West Virginia,T,F_closeDistNormFigure_l_f,0.387367057213
+Richmond,West Virginia,T,F_closeDistNormLandmark_f_l,0.387367057213
+Richmond,West Virginia,T,F_closeDistNormLandmark_l_f,1.0
+Richmond,West Virginia,T,F_closeDistNormUnion_f_l,0.387349254075
+Richmond,West Virginia,T,F_closeDistNormUnion_l_f,0.387349254075
+Richmond,West Virginia,T,F_distBtwnCentroids_f_l,0.189968803259
+Richmond,West Virginia,T,F_distBtwnCentroids_l_f,0.189968803259
+Richmond,West Virginia,T,F_distHorizontalCentroid_f_l,-0.177719416027
+Richmond,West Virginia,T,F_distHorizontalCentroid_l_f,0.177719416027
+Richmond,West Virginia,T,F_distVerticalCentroid_f_l,0.0671115145
+Richmond,West Virginia,T,F_distVerticalCentroid_l_f,-0.0671115145
+Richmond,West Virginia,T,F_leftOfFigureCentroid_f_l,1.0
+Richmond,West Virginia,T,F_rightOfFigureCentroid_l_f,1.0
+Virginia,Atlantic Ocean,T,arg1 meets arg2,1
+Virginia,Atlantic Ocean,T,arg1 on the north and arg2,1
+Virginia,Atlantic Ocean,T,arg1 to the north and arg2,1
+Virginia,Atlantic Ocean,T,arg2 and on the north by arg1,1
+Virginia,Atlantic Ocean,T,arg2 and the states of arg1,1
+Virginia,Atlantic Ocean,T,arg2 in southeastern arg1,1
+Virginia,Atlantic Ocean,T,arg2 in the southeastern part of arg1,1
+Virginia,Atlantic Ocean,T,arg2 make arg1,1
+Virginia,Atlantic Ocean,T,arg2 makes arg1,1
+Virginia,Atlantic Ocean,T,arg2 off arg1,1
+Virginia,Atlantic Ocean,T,arg2 off the coast of arg1,1
+Virginia,Atlantic Ocean,T,arg2 off the coasts of arg1,1
+Virginia,Atlantic Ocean,T,arg2 on their way to arg1,1
+Virginia,Atlantic Ocean,T,bias,1.0
+Virginia,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+Virginia,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.00363155772251
+Virginia,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.00363155772251
+Virginia,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.64210818852
+Virginia,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.64210818852
+Virginia,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.849826126272
+Virginia,Atlantic Ocean,T,F_avsResult_-1_0_f_l,3.42519784608e-05
+Virginia,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.848888231857
+Virginia,Atlantic Ocean,T,F_avsResult_1_0_l_f,6.63341705007e-05
+Virginia,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.673134800254
+Virginia,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.673134800254
+Virginia,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.0117642969881
+Virginia,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.0117642969881
+Virginia,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.00363155772251
+Virginia,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.00363155772251
+Virginia,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.64210818852
+Virginia,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.64210818852
+Virginia,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.849826126272
+Virginia,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,3.42519784608e-05
+Virginia,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.848888231857
+Virginia,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,6.63341705007e-05
+Virginia,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.673134800254
+Virginia,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.673134800254
+Virginia,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.0117642969881
+Virginia,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.0117642969881
+Virginia,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+Virginia,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+Virginia,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+Virginia,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+Virginia,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+Virginia,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+Virginia,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+Virginia,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.0349197480383
+Virginia,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.0349197480383
+Virginia,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.0310767175841
+Virginia,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.0310767175841
+Virginia,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0159256531186
+Virginia,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0159256531186
+Virginia,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+Virginia,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+Virginia Beach,Atlantic Ocean,T,arg1 along arg2,1
+Virginia Beach,Atlantic Ocean,T,arg1 along the shores of arg2,1
+Virginia Beach,Atlantic Ocean,T,arg1 and the shores of arg2,1
+Virginia Beach,Atlantic Ocean,T,arg1 is bordered by arg2,1
+Virginia Beach,Atlantic Ocean,T,arg2 and throughout arg1,1
+Virginia Beach,Atlantic Ocean,T,arg2 off arg1,1
+Virginia Beach,Atlantic Ocean,T,arg2 off of arg1,1
+Virginia Beach,Atlantic Ocean,T,arg2 south of arg1,1
+Virginia Beach,Atlantic Ocean,T,bias,1.0
+Virginia Beach,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+Virginia Beach,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.00486967125471
+Virginia Beach,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.00486967125471
+Virginia Beach,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.644344726062
+Virginia Beach,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.644344726062
+Virginia Beach,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.84563411955
+Virginia Beach,Atlantic Ocean,T,F_avsResult_-1_0_f_l,9.35368612164e-05
+Virginia Beach,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.84560800993
+Virginia Beach,Atlantic Ocean,T,F_avsResult_1_0_l_f,9.60216075025e-05
+Virginia Beach,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.668337424806
+Virginia Beach,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.668337424806
+Virginia Beach,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.0142132342095
+Virginia Beach,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.0142132342095
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.00486967125471
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.00486967125471
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.644344726062
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.644344726062
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.84563411955
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,9.35368612164e-05
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.84560800993
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,9.60216075025e-05
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.668337424806
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.668337424806
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.0142132342095
+Virginia Beach,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.0142132342095
+Virginia Beach,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+Virginia Beach,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+Virginia Beach,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+Virginia Beach,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+Virginia Beach,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+Virginia Beach,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+Virginia Beach,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+Virginia Beach,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.041574387813
+Virginia Beach,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.041574387813
+Virginia Beach,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.0368110266389
+Virginia Beach,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.0368110266389
+Virginia Beach,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0193229925172
+Virginia Beach,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0193229925172
+Virginia Beach,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+Virginia Beach,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+Virginia Beach,North Carolina,T,arg1 and as far away as arg2,1
+Virginia Beach,North Carolina,T,arg1 borders arg2,1
+Virginia Beach,North Carolina,T,arg2 and includes the cities of arg1,1
+Virginia Beach,North Carolina,T,arg2 and later moved to arg1,1
+Virginia Beach,North Carolina,T,arg2 as cocaine traffickers in arg1,1
+Virginia Beach,North Carolina,T,arg2 back to arg1,1
+Virginia Beach,North Carolina,T,arg2 or conducting business in arg1,1
+Virginia Beach,North Carolina,T,bias,1.0
+Virginia Beach,North Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Virginia Beach,North Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Virginia Beach,North Carolina,T,F_aboveFigureCentroid_l_f,1.0
+Virginia Beach,North Carolina,T,F_avsResult_0_-1_f_l,0.118924783402
+Virginia Beach,North Carolina,T,F_avsResult_0_1_f_l,0.118924783402
+Virginia Beach,North Carolina,T,F_avsResult_0_-1_l_f,0.39231276958
+Virginia Beach,North Carolina,T,F_avsResult_0_1_l_f,0.39231276958
+Virginia Beach,North Carolina,T,F_avsResult_1_0_f_l,0.0261080018547
+Virginia Beach,North Carolina,T,F_avsResult_-1_0_f_l,0.676831107876
+Virginia Beach,North Carolina,T,F_avsResult_-1_0_l_f,0.0243450610423
+Virginia Beach,North Carolina,T,F_avsResult_1_0_l_f,0.313741161172
+Virginia Beach,North Carolina,T,F_avsResult_-1_-1_f_l,0.501244719689
+Virginia Beach,North Carolina,T,F_avsResult_-1_1_f_l,0.501244719689
+Virginia Beach,North Carolina,T,F_avsResult_-1_-1_l_f,0.0874746714868
+Virginia Beach,North Carolina,T,F_avsResult_-1_1_l_f,0.0874746714868
+Virginia Beach,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.118924783402
+Virginia Beach,North Carolina,T,F_avsResult_outside_0_1_f_l,0.118924783402
+Virginia Beach,North Carolina,T,F_avsResult_outside_0_-1_l_f,0.39231276958
+Virginia Beach,North Carolina,T,F_avsResult_outside_0_1_l_f,0.39231276958
+Virginia Beach,North Carolina,T,F_avsResult_outside_1_0_f_l,0.0261080018547
+Virginia Beach,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.676831107876
+Virginia Beach,North Carolina,T,F_avsResult_outside_-1_0_l_f,0.0243450610423
+Virginia Beach,North Carolina,T,F_avsResult_outside_1_0_l_f,0.313741161172
+Virginia Beach,North Carolina,T,F_avsResult_outside_-1_-1_f_l,0.501244719689
+Virginia Beach,North Carolina,T,F_avsResult_outside_-1_1_f_l,0.501244719689
+Virginia Beach,North Carolina,T,F_avsResult_outside_-1_-1_l_f,0.0874746714868
+Virginia Beach,North Carolina,T,F_avsResult_outside_-1_1_l_f,0.0874746714868
+Virginia Beach,North Carolina,T,F_belowFigureCentroid_f_l,1.0
+Virginia Beach,North Carolina,T,F_distBtwnCentroids_f_l,0.115279322915
+Virginia Beach,North Carolina,T,F_distBtwnCentroids_l_f,0.115279322915
+Virginia Beach,North Carolina,T,F_distHorizontalCentroid_f_l,-0.106902221624
+Virginia Beach,North Carolina,T,F_distHorizontalCentroid_l_f,0.106902221624
+Virginia Beach,North Carolina,T,F_distVerticalCentroid_f_l,-0.0431420595668
+Virginia Beach,North Carolina,T,F_distVerticalCentroid_l_f,0.0431420595668
+Virginia Beach,North Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Virginia Beach,North Carolina,T,F_math2dFigureIntersectionArea_f_l,1.75758710264e-05
+Virginia Beach,North Carolina,T,F_math2dFigureIntersectionArea_l_f,1.61849631739e-07
+Virginia Beach,North Carolina,T,F_math2dIntersectionArea_f_l,1.60372844073e-07
+Virginia Beach,North Carolina,T,F_math2dIntersectionArea_l_f,1.60372844073e-07
+Virginia Beach,North Carolina,T,F_math2dLandmarkIntersectionArea_f_l,1.61849631739e-07
+Virginia Beach,North Carolina,T,F_math2dLandmarkIntersectionArea_l_f,1.75758710264e-05
+Virginia Beach,North Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Virginia Beach,Richmond,T,arg1 metro and arg2,1
+Virginia Beach,Richmond,T,arg2 and its largest city is arg1,1
+Virginia Beach,Richmond,T,arg2 and largest city is arg1,1
+Virginia Beach,Richmond,T,arg2 and the largest city is arg1,1
+Virginia Beach,Richmond,T,arg2 and the shores of arg1,1
+Virginia Beach,Richmond,T,arg2 fans in arg1,1
+Virginia Beach,Richmond,T,arg2 headed for arg1,1
+Virginia Beach,Richmond,T,arg2 is the capital and arg1,1
+Virginia Beach,Richmond,T,arg2 is the capital city and arg1,1
+Virginia Beach,Richmond,T,arg2 is the state capital and arg1,1
+Virginia Beach,Richmond,T,arg2 moving company arg1,1
+Virginia Beach,Richmond,T,arg2 or printing in arg1,1
+Virginia Beach,Richmond,T,arg2 to the coast of arg1,1
+Virginia Beach,Richmond,T,arg2 toward arg1,1
+Virginia Beach,Richmond,T,arg2 with a branch office in arg1,1
+Virginia Beach,Richmond,T,bias,1.0
+Virginia Beach,Richmond,T,F_aboveFigureCentroid_f_l,1.0
+Virginia Beach,Richmond,T,F_avsResult_0_-1_f_l,0.373470967403
+Virginia Beach,Richmond,T,F_avsResult_0_1_f_l,0.373470967403
+Virginia Beach,Richmond,T,F_avsResult_0_-1_l_f,0.135972678849
+Virginia Beach,Richmond,T,F_avsResult_0_1_l_f,0.135972678849
+Virginia Beach,Richmond,T,F_avsResult_1_0_f_l,0.0471990102096
+Virginia Beach,Richmond,T,F_avsResult_-1_0_f_l,0.553331935216
+Virginia Beach,Richmond,T,F_avsResult_-1_0_l_f,0.0504836498647
+Virginia Beach,Richmond,T,F_avsResult_1_0_l_f,0.569615255721
+Virginia Beach,Richmond,T,F_avsResult_1_-1_f_l,0.12078518789
+Virginia Beach,Richmond,T,F_avsResult_1_1_f_l,0.12078518789
+Virginia Beach,Richmond,T,F_avsResult_1_-1_l_f,0.392999745524
+Virginia Beach,Richmond,T,F_avsResult_1_1_l_f,0.392999745524
+Virginia Beach,Richmond,T,F_avsResult_outside_0_-1_f_l,0.373470967403
+Virginia Beach,Richmond,T,F_avsResult_outside_0_1_f_l,0.373470967403
+Virginia Beach,Richmond,T,F_avsResult_outside_0_-1_l_f,0.135972678849
+Virginia Beach,Richmond,T,F_avsResult_outside_0_1_l_f,0.135972678849
+Virginia Beach,Richmond,T,F_avsResult_outside_1_0_f_l,0.0471990102096
+Virginia Beach,Richmond,T,F_avsResult_outside_-1_0_f_l,0.553331935216
+Virginia Beach,Richmond,T,F_avsResult_outside_-1_0_l_f,0.0504836498647
+Virginia Beach,Richmond,T,F_avsResult_outside_1_0_l_f,0.569615255721
+Virginia Beach,Richmond,T,F_avsResult_outside_1_-1_f_l,0.12078518789
+Virginia Beach,Richmond,T,F_avsResult_outside_1_1_f_l,0.12078518789
+Virginia Beach,Richmond,T,F_avsResult_outside_1_-1_l_f,0.392999745524
+Virginia Beach,Richmond,T,F_avsResult_outside_1_1_l_f,0.392999745524
+Virginia Beach,Richmond,T,F_belowFigureCentroid_l_f,1.0
+Virginia Beach,Richmond,T,F_closeDistNormFigure_f_l,1.0
+Virginia Beach,Richmond,T,F_closeDistNormFigure_l_f,1.0
+Virginia Beach,Richmond,T,F_closeDistNormLandmark_f_l,1.0
+Virginia Beach,Richmond,T,F_closeDistNormLandmark_l_f,1.0
+Virginia Beach,Richmond,T,F_closeDistNormUnion_f_l,1.0
+Virginia Beach,Richmond,T,F_closeDistNormUnion_l_f,1.0
+Virginia Beach,Richmond,T,F_distBtwnCentroids_f_l,0.987414521478
+Virginia Beach,Richmond,T,F_distBtwnCentroids_l_f,0.987414521478
+Virginia Beach,Richmond,T,F_distHorizontalCentroid_f_l,-0.870942965108
+Virginia Beach,Richmond,T,F_distHorizontalCentroid_l_f,0.870942965108
+Virginia Beach,Richmond,T,F_distVerticalCentroid_f_l,0.465237346689
+Virginia Beach,Richmond,T,F_distVerticalCentroid_l_f,-0.465237346689
+Virginia Beach,Richmond,T,F_leftOfFigureCentroid_f_l,1.0
+Virginia Beach,Richmond,T,F_rightOfFigureCentroid_l_f,1.0
+Virginia Beach,Virginia Beach,T,arg1 boardwalk in arg2,1
+Virginia Beach,Virginia Beach,T,arg1 city arg2,1
+Virginia Beach,Virginia Beach,T,arg1 classified ads around arg2,1
+Virginia Beach,Virginia Beach,T,arg1 deliver flowers in arg2,1
+Virginia Beach,Virginia Beach,T,arg1 executive suite categories including arg2,1
+Virginia Beach,Virginia Beach,T,arg1 guests and families in arg2,1
+Virginia Beach,Virginia Beach,T,arg1 homes value through arg2,1
+Virginia Beach,Virginia Beach,T,arg1 located in arg2,1
+Virginia Beach,Virginia Beach,T,arg1 needs arg2,1
+Virginia Beach,Virginia Beach,T,arg1 online dating and arg2,1
+Virginia Beach,Virginia Beach,T,arg1 or relocating outside arg2,1
+Virginia Beach,Virginia Beach,T,arg1 schools pages to research arg2,1
+Virginia Beach,Virginia Beach,T,arg1 shopping in arg2,1
+Virginia Beach,Virginia Beach,T,arg1 single men and arg2,1
+Virginia Beach,Virginia Beach,T,arg1 to help you move within arg2,1
+Virginia Beach,Virginia Beach,T,arg2 boardwalk in arg1,1
+Virginia Beach,Virginia Beach,T,arg2 city arg1,1
+Virginia Beach,Virginia Beach,T,arg2 classified ads around arg1,1
+Virginia Beach,Virginia Beach,T,arg2 deliver flowers in arg1,1
+Virginia Beach,Virginia Beach,T,arg2 executive suite categories including arg1,1
+Virginia Beach,Virginia Beach,T,arg2 guests and families in arg1,1
+Virginia Beach,Virginia Beach,T,arg2 homes value through arg1,1
+Virginia Beach,Virginia Beach,T,arg2 located in arg1,1
+Virginia Beach,Virginia Beach,T,arg2 needs arg1,1
+Virginia Beach,Virginia Beach,T,arg2 online dating and arg1,1
+Virginia Beach,Virginia Beach,T,arg2 or relocating outside arg1,1
+Virginia Beach,Virginia Beach,T,arg2 schools pages to research arg1,1
+Virginia Beach,Virginia Beach,T,arg2 shopping in arg1,1
+Virginia Beach,Virginia Beach,T,arg2 single men and arg1,1
+Virginia Beach,Virginia Beach,T,arg2 to help you move within arg1,1
+Virginia Beach,Virginia Beach,T,bias,1.0
+Virginia Beach,Virginia Beach,T,entity1=entity2,1
+Virginia Beach,Virginia Beach,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Virginia Beach,Virginia Beach,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Virginia Beach,Virginia Beach,T,F_avsResult_0_-1_f_l,0.326537834711
+Virginia Beach,Virginia Beach,T,F_avsResult_0_1_f_l,0.326537834711
+Virginia Beach,Virginia Beach,T,F_avsResult_0_-1_l_f,0.326537834711
+Virginia Beach,Virginia Beach,T,F_avsResult_0_1_l_f,0.326537834711
+Virginia Beach,Virginia Beach,T,F_avsResult_1_0_f_l,0.0506223203928
+Virginia Beach,Virginia Beach,T,F_avsResult_-1_0_f_l,0.0683739904566
+Virginia Beach,Virginia Beach,T,F_avsResult_1_0_l_f,0.0506223203928
+Virginia Beach,Virginia Beach,T,F_avsResult_-1_0_l_f,0.0683739904566
+Virginia Beach,Virginia Beach,T,F_avsResult_-1_-1_f_l,0.131785383556
+Virginia Beach,Virginia Beach,T,F_avsResult_-1_1_f_l,0.131785383556
+Virginia Beach,Virginia Beach,T,F_avsResult_-1_-1_l_f,0.131785383556
+Virginia Beach,Virginia Beach,T,F_avsResult_-1_1_l_f,0.131785383556
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_0_-1_f_l,0.326537834711
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_0_1_f_l,0.326537834711
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_0_-1_l_f,0.326537834711
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_0_1_l_f,0.326537834711
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_1_0_f_l,0.0506223203928
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_-1_0_f_l,0.0683739904566
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_1_0_l_f,0.0506223203928
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_-1_0_l_f,0.0683739904566
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_-1_-1_f_l,0.131785383556
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_-1_1_f_l,0.131785383556
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_-1_-1_l_f,0.131785383556
+Virginia Beach,Virginia Beach,T,F_avsResult_inside_-1_1_l_f,0.131785383556
+Virginia Beach,Virginia Beach,T,F_math2dFigureIntersectionArea_f_l,1.0
+Virginia Beach,Virginia Beach,T,F_math2dFigureIntersectionArea_l_f,1.0
+Virginia Beach,Virginia Beach,T,F_math2dIntersectionArea_f_l,1.0
+Virginia Beach,Virginia Beach,T,F_math2dIntersectionArea_l_f,1.0
+Virginia Beach,Virginia Beach,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Virginia Beach,Virginia Beach,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Virginia Beach,Virginia,T,arg1 and throughout arg2,1
+Virginia Beach,Virginia,T,arg1 area of arg2,1
+Virginia Beach,Virginia,T,arg1 areas of arg2,1
+Virginia Beach,Virginia,T,arg1 is the largest city in arg2,1
+Virginia Beach,Virginia,T,arg1 real estate agent in arg2,1
+Virginia Beach,Virginia,T,arg2 include arg1,1
+Virginia Beach,Virginia,T,arg2 including arg1,1
+Virginia Beach,Virginia,T,arg2 including cities such as arg1,1
+Virginia Beach,Virginia,T,arg2 living in arg1,1
+Virginia Beach,Virginia,T,arg2 located in arg1,1
+Virginia Beach,Virginia,T,arg2 municipalities of arg1,1
+Virginia Beach,Virginia,T,arg2 opened in arg1,1
+Virginia Beach,Virginia,T,arg2 which includes arg1,1
+Virginia Beach,Virginia,T,arg2 which includes the cities of arg1,1
+Virginia Beach,Virginia,T,bias,1.0
+Virginia Beach,Virginia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Virginia Beach,Virginia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Virginia Beach,Virginia,T,F_aboveFigureCentroid_f_l,1.0
+Virginia Beach,Virginia,T,F_avsResult_0_-1_f_l,0.331169550441
+Virginia Beach,Virginia,T,F_avsResult_0_1_f_l,0.331169550441
+Virginia Beach,Virginia,T,F_avsResult_0_-1_l_f,0.028195792947
+Virginia Beach,Virginia,T,F_avsResult_0_1_l_f,0.028195792947
+Virginia Beach,Virginia,T,F_avsResult_1_0_f_l,0.019460254203
+Virginia Beach,Virginia,T,F_avsResult_-1_0_f_l,0.686657338118
+Virginia Beach,Virginia,T,F_avsResult_-1_0_l_f,0.0192357348579
+Virginia Beach,Virginia,T,F_avsResult_1_0_l_f,0.149063707115
+Virginia Beach,Virginia,T,F_avsResult_1_-1_f_l,0.0108638444106
+Virginia Beach,Virginia,T,F_avsResult_1_1_f_l,0.0108638444106
+Virginia Beach,Virginia,T,F_avsResult_inside_0_-1_l_f,0.028195792947
+Virginia Beach,Virginia,T,F_avsResult_inside_0_1_l_f,0.028195792947
+Virginia Beach,Virginia,T,F_avsResult_inside_-1_0_l_f,0.0192357348579
+Virginia Beach,Virginia,T,F_avsResult_inside_1_0_l_f,0.149063707115
+Virginia Beach,Virginia,T,F_avsResult_outside_0_-1_f_l,0.331169550441
+Virginia Beach,Virginia,T,F_avsResult_outside_0_1_f_l,0.331169550441
+Virginia Beach,Virginia,T,F_avsResult_outside_1_0_f_l,0.019460254203
+Virginia Beach,Virginia,T,F_avsResult_outside_-1_0_f_l,0.686657338118
+Virginia Beach,Virginia,T,F_avsResult_outside_1_-1_f_l,0.0108638444106
+Virginia Beach,Virginia,T,F_avsResult_outside_1_1_f_l,0.0108638444106
+Virginia Beach,Virginia,T,F_belowFigureCentroid_l_f,1.0
+Virginia Beach,Virginia,T,F_distBtwnCentroids_f_l,0.115441502556
+Virginia Beach,Virginia,T,F_distBtwnCentroids_l_f,0.115441502556
+Virginia Beach,Virginia,T,F_distHorizontalCentroid_f_l,-0.111329075191
+Virginia Beach,Virginia,T,F_distHorizontalCentroid_l_f,0.111329075191
+Virginia Beach,Virginia,T,F_distVerticalCentroid_f_l,0.0305381323848
+Virginia Beach,Virginia,T,F_distVerticalCentroid_l_f,-0.0305381323848
+Virginia Beach,Virginia,T,F_leftOfFigureCentroid_f_l,1.0
+Virginia Beach,Virginia,T,F_math2dFigureIntersectionArea_f_l,0.967480894891
+Virginia Beach,Virginia,T,F_math2dFigureIntersectionArea_l_f,0.0109866695651
+Virginia Beach,Virginia,T,F_math2dIntersectionArea_f_l,0.0109826138451
+Virginia Beach,Virginia,T,F_math2dIntersectionArea_l_f,0.0109826138451
+Virginia Beach,Virginia,T,F_math2dLandmarkIntersectionArea_f_l,0.0109866695651
+Virginia Beach,Virginia,T,F_math2dLandmarkIntersectionArea_l_f,0.967480894891
+Virginia Beach,Virginia,T,F_rightOfFigureCentroid_l_f,1.0
+Virginia Beach,West Virginia,T,bias,1.0
+Virginia Beach,West Virginia,T,F_aboveFigureCentroid_f_l,1.0
+Virginia Beach,West Virginia,T,F_avsResult_0_-1_f_l,0.439775520104
+Virginia Beach,West Virginia,T,F_avsResult_0_1_f_l,0.439775520104
+Virginia Beach,West Virginia,T,F_avsResult_0_-1_l_f,0.0601764904426
+Virginia Beach,West Virginia,T,F_avsResult_0_1_l_f,0.0601764904426
+Virginia Beach,West Virginia,T,F_avsResult_1_0_f_l,0.0229160765255
+Virginia Beach,West Virginia,T,F_avsResult_-1_0_f_l,0.70867513736
+Virginia Beach,West Virginia,T,F_avsResult_-1_0_l_f,0.0221291347675
+Virginia Beach,West Virginia,T,F_avsResult_1_0_l_f,0.564103934352
+Virginia Beach,West Virginia,T,F_avsResult_1_-1_f_l,0.0630400314516
+Virginia Beach,West Virginia,T,F_avsResult_1_1_f_l,0.0630400314516
+Virginia Beach,West Virginia,T,F_avsResult_1_-1_l_f,0.245933399817
+Virginia Beach,West Virginia,T,F_avsResult_1_1_l_f,0.245933399817
+Virginia Beach,West Virginia,T,F_avsResult_outside_0_-1_f_l,0.439775520104
+Virginia Beach,West Virginia,T,F_avsResult_outside_0_1_f_l,0.439775520104
+Virginia Beach,West Virginia,T,F_avsResult_outside_0_-1_l_f,0.0601764904426
+Virginia Beach,West Virginia,T,F_avsResult_outside_0_1_l_f,0.0601764904426
+Virginia Beach,West Virginia,T,F_avsResult_outside_1_0_f_l,0.0229160765255
+Virginia Beach,West Virginia,T,F_avsResult_outside_-1_0_f_l,0.70867513736
+Virginia Beach,West Virginia,T,F_avsResult_outside_-1_0_l_f,0.0221291347675
+Virginia Beach,West Virginia,T,F_avsResult_outside_1_0_l_f,0.564103934352
+Virginia Beach,West Virginia,T,F_avsResult_outside_1_-1_f_l,0.0630400314516
+Virginia Beach,West Virginia,T,F_avsResult_outside_1_1_f_l,0.0630400314516
+Virginia Beach,West Virginia,T,F_avsResult_outside_1_-1_l_f,0.245933399817
+Virginia Beach,West Virginia,T,F_avsResult_outside_1_1_l_f,0.245933399817
+Virginia Beach,West Virginia,T,F_belowFigureCentroid_l_f,1.0
+Virginia Beach,West Virginia,T,F_closeDistNormFigure_f_l,1.0
+Virginia Beach,West Virginia,T,F_closeDistNormFigure_l_f,1.0
+Virginia Beach,West Virginia,T,F_closeDistNormLandmark_f_l,1.0
+Virginia Beach,West Virginia,T,F_closeDistNormLandmark_l_f,1.0
+Virginia Beach,West Virginia,T,F_closeDistNormUnion_f_l,1.0
+Virginia Beach,West Virginia,T,F_closeDistNormUnion_l_f,1.0
+Virginia Beach,West Virginia,T,F_distBtwnCentroids_f_l,0.178146144446
+Virginia Beach,West Virginia,T,F_distBtwnCentroids_l_f,0.178146144446
+Virginia Beach,West Virginia,T,F_distHorizontalCentroid_f_l,-0.163872772514
+Virginia Beach,West Virginia,T,F_distHorizontalCentroid_l_f,0.163872772514
+Virginia Beach,West Virginia,T,F_distVerticalCentroid_f_l,0.069869615781
+Virginia Beach,West Virginia,T,F_distVerticalCentroid_l_f,-0.069869615781
+Virginia Beach,West Virginia,T,F_leftOfFigureCentroid_f_l,1.0
+Virginia Beach,West Virginia,T,F_rightOfFigureCentroid_l_f,1.0
+Virginia,North Carolina,T,arg1 and eastern arg2,1
+Virginia,North Carolina,T,arg1 and northeast arg2,1
+Virginia,North Carolina,T,arg1 and northeastern arg2,1
+Virginia,North Carolina,T,arg1 and northern arg2,1
+Virginia,North Carolina,T,arg1 and northwestern arg2,1
+Virginia,North Carolina,T,arg1 and one in arg2,1
+Virginia,North Carolina,T,arg1 and parts of arg2,1
+Virginia,North Carolina,T,arg1 and western arg2,1
+Virginia,North Carolina,T,arg1 follow arg2,1
+Virginia,North Carolina,T,arg1 successfully competed with arg2,1
+Virginia,North Carolina,T,arg1 through arg2,1
+Virginia,North Carolina,T,arg2 and eastern arg1,1
+Virginia,North Carolina,T,arg2 and parts of arg1,1
+Virginia,North Carolina,T,arg2 and south central arg1,1
+Virginia,North Carolina,T,arg2 and southeastern arg1,1
+Virginia,North Carolina,T,arg2 and southern arg1,1
+Virginia,North Carolina,T,arg2 and southwest arg1,1
+Virginia,North Carolina,T,arg2 and southwestern arg1,1
+Virginia,North Carolina,T,arg2 and western arg1,1
+Virginia,North Carolina,T,arg2 as well as arg1,1
+Virginia,North Carolina,T,bias,1.0
+Virginia,North Carolina,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Virginia,North Carolina,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Virginia,North Carolina,T,F_aboveFigureCentroid_l_f,1.0
+Virginia,North Carolina,T,F_avsResult_0_-1_f_l,0.0100165772488
+Virginia,North Carolina,T,F_avsResult_0_1_f_l,0.0100165772488
+Virginia,North Carolina,T,F_avsResult_0_-1_l_f,0.584539796462
+Virginia,North Carolina,T,F_avsResult_0_1_l_f,0.584539796462
+Virginia,North Carolina,T,F_avsResult_-1_0_f_l,0.0752809359593
+Virginia,North Carolina,T,F_avsResult_1_0_f_l,0.110933084153
+Virginia,North Carolina,T,F_avsResult_-1_0_l_f,0.0529708159175
+Virginia,North Carolina,T,F_avsResult_1_0_l_f,0.120882544504
+Virginia,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.0100165772488
+Virginia,North Carolina,T,F_avsResult_outside_0_1_f_l,0.0100165772488
+Virginia,North Carolina,T,F_avsResult_outside_0_-1_l_f,0.584539796462
+Virginia,North Carolina,T,F_avsResult_outside_0_1_l_f,0.584539796462
+Virginia,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.0752809359593
+Virginia,North Carolina,T,F_avsResult_outside_1_0_f_l,0.110933084153
+Virginia,North Carolina,T,F_avsResult_outside_-1_0_l_f,0.0529708159175
+Virginia,North Carolina,T,F_avsResult_outside_1_0_l_f,0.120882544504
+Virginia,North Carolina,T,F_belowFigureCentroid_f_l,1.0
+Virginia,North Carolina,T,F_distBtwnCentroids_f_l,0.0402593227234
+Virginia,North Carolina,T,F_distBtwnCentroids_l_f,0.0402593227234
+Virginia,North Carolina,T,F_distHorizontalCentroid_f_l,-0.00871719813619
+Virginia,North Carolina,T,F_distHorizontalCentroid_l_f,0.00871719813619
+Virginia,North Carolina,T,F_distVerticalCentroid_f_l,-0.0393042430636
+Virginia,North Carolina,T,F_distVerticalCentroid_l_f,0.0393042430636
+Virginia,North Carolina,T,F_leftOfFigureCentroid_f_l,1.0
+Virginia,North Carolina,T,F_math2dFigureIntersectionArea_f_l,8.63389907973e-05
+Virginia,North Carolina,T,F_math2dFigureIntersectionArea_l_f,7.0012915212e-05
+Virginia,North Carolina,T,F_math2dIntersectionArea_f_l,3.86632840623e-05
+Virginia,North Carolina,T,F_math2dIntersectionArea_l_f,3.86632840623e-05
+Virginia,North Carolina,T,F_math2dLandmarkIntersectionArea_f_l,7.0012915212e-05
+Virginia,North Carolina,T,F_math2dLandmarkIntersectionArea_l_f,8.63389907973e-05
+Virginia,North Carolina,T,F_rightOfFigureCentroid_l_f,1.0
+Virginia,Richmond,T,arg1 including arg2,1
+Virginia,Richmond,T,arg1 is located in downtown arg2,1
+Virginia,Richmond,T,arg1 located in arg2,1
+Virginia,Richmond,T,arg1 moved to arg2,1
+Virginia,Richmond,T,arg1 such as arg2,1
+Virginia,Richmond,T,arg1 was moved to arg2,1
+Virginia,Richmond,T,arg1 west of arg2,1
+Virginia,Richmond,T,arg2 and central arg1,1
+Virginia,Richmond,T,arg2 and northern arg1,1
+Virginia,Richmond,T,arg2 and the state of arg1,1
+Virginia,Richmond,T,arg2 and throughout arg1,1
+Virginia,Richmond,T,arg2 area of arg1,1
+Virginia,Richmond,T,arg2 areas of arg1,1
+Virginia,Richmond,T,arg2 became the capital of arg1,1
+Virginia,Richmond,T,arg2 florist shop in arg1,1
+Virginia,Richmond,T,arg2 hotel in arg1,1
+Virginia,Richmond,T,arg2 is a city in arg1,1
+Virginia,Richmond,T,arg2 is the capital of arg1,1
+Virginia,Richmond,T,bias,1.0
+Virginia,Richmond,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Virginia,Richmond,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Virginia,Richmond,T,F_aboveFigureCentroid_f_l,1.0
+Virginia,Richmond,T,F_avsResult_0_-1_f_l,0.138285922456
+Virginia,Richmond,T,F_avsResult_0_1_f_l,0.138285922456
+Virginia,Richmond,T,F_avsResult_0_-1_l_f,0.243726466395
+Virginia,Richmond,T,F_avsResult_0_1_l_f,0.243726466395
+Virginia,Richmond,T,F_avsResult_-1_0_f_l,0.0192655500333
+Virginia,Richmond,T,F_avsResult_1_0_f_l,0.0586963049539
+Virginia,Richmond,T,F_avsResult_1_0_l_f,0.00247926149223
+Virginia,Richmond,T,F_avsResult_-1_0_l_f,0.652924687187
+Virginia,Richmond,T,F_avsResult_inside_0_-1_f_l,0.138285922456
+Virginia,Richmond,T,F_avsResult_inside_0_1_f_l,0.138285922456
+Virginia,Richmond,T,F_avsResult_inside_-1_0_f_l,0.0192655500333
+Virginia,Richmond,T,F_avsResult_inside_1_0_f_l,0.0586963049539
+Virginia,Richmond,T,F_avsResult_outside_0_-1_l_f,0.243726466395
+Virginia,Richmond,T,F_avsResult_outside_0_1_l_f,0.243726466395
+Virginia,Richmond,T,F_avsResult_outside_1_0_l_f,0.00247926149223
+Virginia,Richmond,T,F_avsResult_outside_-1_0_l_f,0.652924687187
+Virginia,Richmond,T,F_belowFigureCentroid_l_f,1.0
+Virginia,Richmond,T,F_distBtwnCentroids_f_l,0.0520126193555
+Virginia,Richmond,T,F_distBtwnCentroids_l_f,0.0520126193555
+Virginia,Richmond,T,F_distHorizontalCentroid_f_l,0.0519998121233
+Virginia,Richmond,T,F_distHorizontalCentroid_l_f,-0.0519998121233
+Virginia,Richmond,T,F_distVerticalCentroid_f_l,0.00115417128638
+Virginia,Richmond,T,F_distVerticalCentroid_l_f,-0.00115417128638
+Virginia,Richmond,T,F_leftOfFigureCentroid_l_f,1.0
+Virginia,Richmond,T,F_math2dFigureIntersectionArea_f_l,2.79529050335e-05
+Virginia,Richmond,T,F_math2dFigureIntersectionArea_l_f,1.0
+Virginia,Richmond,T,F_math2dIntersectionArea_f_l,2.79529050335e-05
+Virginia,Richmond,T,F_math2dIntersectionArea_l_f,2.79529050335e-05
+Virginia,Richmond,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Virginia,Richmond,T,F_math2dLandmarkIntersectionArea_l_f,2.79529050335e-05
+Virginia,Richmond,T,F_rightOfFigureCentroid_f_l,1.0
+Virginia,Virginia Beach,T,arg1 include arg2,1
+Virginia,Virginia Beach,T,arg1 including arg2,1
+Virginia,Virginia Beach,T,arg1 located in arg2,1
+Virginia,Virginia Beach,T,arg1 municipalities of arg2,1
+Virginia,Virginia Beach,T,arg1 which includes arg2,1
+Virginia,Virginia Beach,T,arg2 and throughout arg1,1
+Virginia,Virginia Beach,T,arg2 area of arg1,1
+Virginia,Virginia Beach,T,arg2 areas of arg1,1
+Virginia,Virginia Beach,T,arg2 is the largest city in arg1,1
+Virginia,Virginia Beach,T,arg2 or anywhere in arg1,1
+Virginia,Virginia Beach,T,arg2 or elsewhere in arg1,1
+Virginia,Virginia Beach,T,arg2 portions of arg1,1
+Virginia,Virginia Beach,T,arg2 real estate agent in arg1,1
+Virginia,Virginia Beach,T,arg2 resort area of arg1,1
+Virginia,Virginia Beach,T,arg2 through arg1,1
+Virginia,Virginia Beach,T,arg2 with his wife arg1,1
+Virginia,Virginia Beach,T,bias,1.0
+Virginia,Virginia Beach,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Virginia,Virginia Beach,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Virginia,Virginia Beach,T,F_aboveFigureCentroid_l_f,1.0
+Virginia,Virginia Beach,T,F_avsResult_0_-1_f_l,0.028195792947
+Virginia,Virginia Beach,T,F_avsResult_0_1_f_l,0.028195792947
+Virginia,Virginia Beach,T,F_avsResult_0_-1_l_f,0.331169550441
+Virginia,Virginia Beach,T,F_avsResult_0_1_l_f,0.331169550441
+Virginia,Virginia Beach,T,F_avsResult_-1_0_f_l,0.0192357348579
+Virginia,Virginia Beach,T,F_avsResult_1_0_f_l,0.149063707115
+Virginia,Virginia Beach,T,F_avsResult_1_0_l_f,0.019460254203
+Virginia,Virginia Beach,T,F_avsResult_-1_0_l_f,0.686657338118
+Virginia,Virginia Beach,T,F_avsResult_1_-1_l_f,0.0108638444106
+Virginia,Virginia Beach,T,F_avsResult_1_1_l_f,0.0108638444106
+Virginia,Virginia Beach,T,F_avsResult_inside_0_-1_f_l,0.028195792947
+Virginia,Virginia Beach,T,F_avsResult_inside_0_1_f_l,0.028195792947
+Virginia,Virginia Beach,T,F_avsResult_inside_-1_0_f_l,0.0192357348579
+Virginia,Virginia Beach,T,F_avsResult_inside_1_0_f_l,0.149063707115
+Virginia,Virginia Beach,T,F_avsResult_outside_0_-1_l_f,0.331169550441
+Virginia,Virginia Beach,T,F_avsResult_outside_0_1_l_f,0.331169550441
+Virginia,Virginia Beach,T,F_avsResult_outside_1_0_l_f,0.019460254203
+Virginia,Virginia Beach,T,F_avsResult_outside_-1_0_l_f,0.686657338118
+Virginia,Virginia Beach,T,F_avsResult_outside_1_-1_l_f,0.0108638444106
+Virginia,Virginia Beach,T,F_avsResult_outside_1_1_l_f,0.0108638444106
+Virginia,Virginia Beach,T,F_belowFigureCentroid_f_l,1.0
+Virginia,Virginia Beach,T,F_distBtwnCentroids_f_l,0.115441502556
+Virginia,Virginia Beach,T,F_distBtwnCentroids_l_f,0.115441502556
+Virginia,Virginia Beach,T,F_distHorizontalCentroid_f_l,0.111329075191
+Virginia,Virginia Beach,T,F_distHorizontalCentroid_l_f,-0.111329075191
+Virginia,Virginia Beach,T,F_distVerticalCentroid_f_l,-0.0305381323848
+Virginia,Virginia Beach,T,F_distVerticalCentroid_l_f,0.0305381323848
+Virginia,Virginia Beach,T,F_leftOfFigureCentroid_l_f,1.0
+Virginia,Virginia Beach,T,F_math2dFigureIntersectionArea_f_l,0.0109866695651
+Virginia,Virginia Beach,T,F_math2dFigureIntersectionArea_l_f,0.967480894891
+Virginia,Virginia Beach,T,F_math2dIntersectionArea_f_l,0.0109826138451
+Virginia,Virginia Beach,T,F_math2dIntersectionArea_l_f,0.0109826138451
+Virginia,Virginia Beach,T,F_math2dLandmarkIntersectionArea_f_l,0.967480894891
+Virginia,Virginia Beach,T,F_math2dLandmarkIntersectionArea_l_f,0.0109866695651
+Virginia,Virginia Beach,T,F_rightOfFigureCentroid_f_l,1.0
+Virginia,Virginia,T,arg1 and lives in arg2,1
+Virginia,Virginia,T,arg1 and western arg2,1
+Virginia,Virginia,T,arg1 corporation or arg2,1
+Virginia,Virginia,T,arg1 is a city of arg2,1
+Virginia,Virginia,T,arg1 kindergarten and arg2,1
+Virginia,Virginia,T,arg1 or moving from arg2,1
+Virginia,Virginia,T,arg1 our local arg2,1
+Virginia,Virginia,T,arg1 real estate agency or arg2,1
+Virginia,Virginia,T,arg1 real estate agents and arg2,1
+Virginia,Virginia,T,arg1 real estate license classes and arg2,1
+Virginia,Virginia,T,arg1 seceded from arg2,1
+Virginia,Virginia,T,arg2 and lives in arg1,1
+Virginia,Virginia,T,arg2 and western arg1,1
+Virginia,Virginia,T,arg2 corporation or arg1,1
+Virginia,Virginia,T,arg2 is a city of arg1,1
+Virginia,Virginia,T,arg2 kindergarten and arg1,1
+Virginia,Virginia,T,arg2 or moving from arg1,1
+Virginia,Virginia,T,arg2 our local arg1,1
+Virginia,Virginia,T,arg2 real estate agency or arg1,1
+Virginia,Virginia,T,arg2 real estate agents and arg1,1
+Virginia,Virginia,T,arg2 real estate license classes and arg1,1
+Virginia,Virginia,T,arg2 seceded from arg1,1
+Virginia,Virginia,T,bias,1.0
+Virginia,Virginia,T,entity1=entity2,1
+Virginia,Virginia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Virginia,Virginia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Virginia,Virginia,T,F_avsResult_0_-1_f_l,0.222289990564
+Virginia,Virginia,T,F_avsResult_0_1_f_l,0.222289990564
+Virginia,Virginia,T,F_avsResult_0_-1_l_f,0.222289990564
+Virginia,Virginia,T,F_avsResult_0_1_l_f,0.222289990564
+Virginia,Virginia,T,F_avsResult_-1_0_f_l,0.0082139154503
+Virginia,Virginia,T,F_avsResult_1_0_f_l,0.134474917789
+Virginia,Virginia,T,F_avsResult_-1_0_l_f,0.0082139154503
+Virginia,Virginia,T,F_avsResult_1_0_l_f,0.134474917789
+Virginia,Virginia,T,F_avsResult_-1_-1_f_l,0.131388965177
+Virginia,Virginia,T,F_avsResult_-1_1_f_l,0.131388965177
+Virginia,Virginia,T,F_avsResult_-1_-1_l_f,0.131388965177
+Virginia,Virginia,T,F_avsResult_-1_1_l_f,0.131388965177
+Virginia,Virginia,T,F_avsResult_inside_0_-1_f_l,0.222289990564
+Virginia,Virginia,T,F_avsResult_inside_0_1_f_l,0.222289990564
+Virginia,Virginia,T,F_avsResult_inside_0_-1_l_f,0.222289990564
+Virginia,Virginia,T,F_avsResult_inside_0_1_l_f,0.222289990564
+Virginia,Virginia,T,F_avsResult_inside_-1_0_f_l,0.0082139154503
+Virginia,Virginia,T,F_avsResult_inside_1_0_f_l,0.134474917789
+Virginia,Virginia,T,F_avsResult_inside_-1_0_l_f,0.0082139154503
+Virginia,Virginia,T,F_avsResult_inside_1_0_l_f,0.134474917789
+Virginia,Virginia,T,F_avsResult_inside_-1_-1_f_l,0.131388965177
+Virginia,Virginia,T,F_avsResult_inside_-1_1_f_l,0.131388965177
+Virginia,Virginia,T,F_avsResult_inside_-1_-1_l_f,0.131388965177
+Virginia,Virginia,T,F_avsResult_inside_-1_1_l_f,0.131388965177
+Virginia,Virginia,T,F_math2dFigureIntersectionArea_f_l,1.0
+Virginia,Virginia,T,F_math2dFigureIntersectionArea_l_f,1.0
+Virginia,Virginia,T,F_math2dIntersectionArea_f_l,1.0
+Virginia,Virginia,T,F_math2dIntersectionArea_l_f,1.0
+Virginia,Virginia,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Virginia,Virginia,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Virginia,West Virginia,T,arg1 and eastern arg2,1
+Virginia,West Virginia,T,arg1 and parts of arg2,1
+Virginia,West Virginia,T,arg1 and southern arg2,1
+Virginia,West Virginia,T,arg1 is bordered by arg2,1
+Virginia,West Virginia,T,arg1 through arg2,1
+Virginia,West Virginia,T,arg2 and far western arg1,1
+Virginia,West Virginia,T,arg2 and northern arg1,1
+Virginia,West Virginia,T,arg2 and one in arg1,1
+Virginia,West Virginia,T,arg2 and parts of arg1,1
+Virginia,West Virginia,T,arg2 and southwest arg1,1
+Virginia,West Virginia,T,arg2 and southwestern arg1,1
+Virginia,West Virginia,T,arg2 and western arg1,1
+Virginia,West Virginia,T,arg2 broke away from arg1,1
+Virginia,West Virginia,T,arg2 seceded from arg1,1
+Virginia,West Virginia,T,arg2 secedes from arg1,1
+Virginia,West Virginia,T,arg2 separated from arg1,1
+Virginia,West Virginia,T,arg2 split from arg1,1
+Virginia,West Virginia,T,arg2 was once part of arg1,1
+Virginia,West Virginia,T,arg2 was part of arg1,1
+Virginia,West Virginia,T,arg2 was still part of arg1,1
+Virginia,West Virginia,T,bias,1.0
+Virginia,West Virginia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Virginia,West Virginia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Virginia,West Virginia,T,F_aboveFigureCentroid_f_l,1.0
+Virginia,West Virginia,T,F_avsResult_0_-1_f_l,0.335127368586
+Virginia,West Virginia,T,F_avsResult_0_1_f_l,0.335127368586
+Virginia,West Virginia,T,F_avsResult_0_-1_l_f,0.0302235528136
+Virginia,West Virginia,T,F_avsResult_0_1_l_f,0.0302235528136
+Virginia,West Virginia,T,F_avsResult_1_0_f_l,0.024107617205
+Virginia,West Virginia,T,F_avsResult_-1_0_f_l,0.149082994247
+Virginia,West Virginia,T,F_avsResult_-1_0_l_f,0.0406557002405
+Virginia,West Virginia,T,F_avsResult_1_0_l_f,0.24770039954
+Virginia,West Virginia,T,F_avsResult_1_-1_f_l,0.157932214085
+Virginia,West Virginia,T,F_avsResult_1_1_f_l,0.157932214085
+Virginia,West Virginia,T,F_avsResult_outside_0_-1_f_l,0.335127368586
+Virginia,West Virginia,T,F_avsResult_outside_0_1_f_l,0.335127368586
+Virginia,West Virginia,T,F_avsResult_outside_0_-1_l_f,0.0302235528136
+Virginia,West Virginia,T,F_avsResult_outside_0_1_l_f,0.0302235528136
+Virginia,West Virginia,T,F_avsResult_outside_1_0_f_l,0.024107617205
+Virginia,West Virginia,T,F_avsResult_outside_-1_0_f_l,0.149082994247
+Virginia,West Virginia,T,F_avsResult_outside_-1_0_l_f,0.0406557002405
+Virginia,West Virginia,T,F_avsResult_outside_1_0_l_f,0.24770039954
+Virginia,West Virginia,T,F_avsResult_outside_1_-1_f_l,0.157932214085
+Virginia,West Virginia,T,F_avsResult_outside_1_1_f_l,0.157932214085
+Virginia,West Virginia,T,F_belowFigureCentroid_l_f,1.0
+Virginia,West Virginia,T,F_distBtwnCentroids_f_l,0.0663394915361
+Virginia,West Virginia,T,F_distBtwnCentroids_l_f,0.0663394915361
+Virginia,West Virginia,T,F_distHorizontalCentroid_f_l,-0.0558756564807
+Virginia,West Virginia,T,F_distHorizontalCentroid_l_f,0.0558756564807
+Virginia,West Virginia,T,F_distVerticalCentroid_f_l,0.0357608605899
+Virginia,West Virginia,T,F_distVerticalCentroid_l_f,-0.0357608605899
+Virginia,West Virginia,T,F_leftOfFigureCentroid_f_l,1.0
+Virginia,West Virginia,T,F_math2dFigureIntersectionArea_f_l,0.00477184823363
+Virginia,West Virginia,T,F_math2dFigureIntersectionArea_l_f,0.0078460942113
+Virginia,West Virginia,T,F_math2dIntersectionArea_f_l,0.00297606332263
+Virginia,West Virginia,T,F_math2dIntersectionArea_l_f,0.00297606332263
+Virginia,West Virginia,T,F_math2dLandmarkIntersectionArea_f_l,0.0078460942113
+Virginia,West Virginia,T,F_math2dLandmarkIntersectionArea_l_f,0.00477184823363
+Virginia,West Virginia,T,F_rightOfFigureCentroid_l_f,1.0
+West Virginia,Atlantic Ocean,T,arg1 does not border arg2,1
+West Virginia,Atlantic Ocean,T,arg1 which empties into arg2,1
+West Virginia,Atlantic Ocean,T,arg2 to the mountains of arg1,1
+West Virginia,Atlantic Ocean,T,bias,1.0
+West Virginia,Atlantic Ocean,T,F_aboveFigureCentroid_l_f,1.0
+West Virginia,Atlantic Ocean,T,F_avsResult_0_-1_f_l,0.00307459742091
+West Virginia,Atlantic Ocean,T,F_avsResult_0_1_f_l,0.00307459742091
+West Virginia,Atlantic Ocean,T,F_avsResult_0_-1_l_f,0.644434865183
+West Virginia,Atlantic Ocean,T,F_avsResult_0_1_l_f,0.644434865183
+West Virginia,Atlantic Ocean,T,F_avsResult_1_0_f_l,0.845981669369
+West Virginia,Atlantic Ocean,T,F_avsResult_-1_0_f_l,4.02577598997e-05
+West Virginia,Atlantic Ocean,T,F_avsResult_-1_0_l_f,0.847873843465
+West Virginia,Atlantic Ocean,T,F_avsResult_1_0_l_f,5.21041203897e-05
+West Virginia,Atlantic Ocean,T,F_avsResult_1_-1_f_l,0.666847508232
+West Virginia,Atlantic Ocean,T,F_avsResult_1_1_f_l,0.666847508232
+West Virginia,Atlantic Ocean,T,F_avsResult_1_-1_l_f,0.0111984235365
+West Virginia,Atlantic Ocean,T,F_avsResult_1_1_l_f,0.0111984235365
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_0_-1_f_l,0.00307459742091
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_0_1_f_l,0.00307459742091
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_0_-1_l_f,0.644434865183
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_0_1_l_f,0.644434865183
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_1_0_f_l,0.845981669369
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_-1_0_f_l,4.02577598997e-05
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_-1_0_l_f,0.847873843465
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_1_0_l_f,5.21041203897e-05
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_1_-1_f_l,0.666847508232
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_1_1_f_l,0.666847508232
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_1_-1_l_f,0.0111984235365
+West Virginia,Atlantic Ocean,T,F_avsResult_outside_1_1_l_f,0.0111984235365
+West Virginia,Atlantic Ocean,T,F_belowFigureCentroid_f_l,1.0
+West Virginia,Atlantic Ocean,T,F_closeDistNormFigure_f_l,1.0
+West Virginia,Atlantic Ocean,T,F_closeDistNormFigure_l_f,1.0
+West Virginia,Atlantic Ocean,T,F_closeDistNormLandmark_f_l,1.0
+West Virginia,Atlantic Ocean,T,F_closeDistNormLandmark_l_f,1.0
+West Virginia,Atlantic Ocean,T,F_closeDistNormUnion_f_l,1.0
+West Virginia,Atlantic Ocean,T,F_closeDistNormUnion_l_f,1.0
+West Virginia,Atlantic Ocean,T,F_distBtwnCentroids_f_l,0.0354146284599
+West Virginia,Atlantic Ocean,T,F_distBtwnCentroids_l_f,0.0354146284599
+West Virginia,Atlantic Ocean,T,F_distHorizontalCentroid_f_l,0.0314612790295
+West Virginia,Atlantic Ocean,T,F_distHorizontalCentroid_l_f,-0.0314612790295
+West Virginia,Atlantic Ocean,T,F_distVerticalCentroid_f_l,-0.0162598840951
+West Virginia,Atlantic Ocean,T,F_distVerticalCentroid_l_f,0.0162598840951
+West Virginia,Atlantic Ocean,T,F_leftOfFigureCentroid_l_f,1.0
+West Virginia,Atlantic Ocean,T,F_rightOfFigureCentroid_f_l,1.0
+West Virginia,North Carolina,T,arg1 and northern arg2,1
+West Virginia,North Carolina,T,arg1 and western arg2,1
+West Virginia,North Carolina,T,arg1 beat arg2,1
+West Virginia,North Carolina,T,arg1 through western arg2,1
+West Virginia,North Carolina,T,arg1 vs arg2,1
+West Virginia,North Carolina,T,arg2 against arg1,1
+West Virginia,North Carolina,T,arg2 and as far west as arg1,1
+West Virginia,North Carolina,T,arg2 and southern arg1,1
+West Virginia,North Carolina,T,arg2 and southwestern arg1,1
+West Virginia,North Carolina,T,arg2 and the other in arg1,1
+West Virginia,North Carolina,T,arg2 before returning to arg1,1
+West Virginia,North Carolina,T,arg2 deep into arg1,1
+West Virginia,North Carolina,T,arg2 from the mountains of arg1,1
+West Virginia,North Carolina,T,arg2 lost to arg1,1
+West Virginia,North Carolina,T,arg2 shares with arg1,1
+West Virginia,North Carolina,T,arg2 west to arg1,1
+West Virginia,North Carolina,T,bias,1.0
+West Virginia,North Carolina,T,F_aboveFigureCentroid_l_f,1.0
+West Virginia,North Carolina,T,F_avsResult_0_-1_f_l,0.0156855716751
+West Virginia,North Carolina,T,F_avsResult_0_1_f_l,0.0156855716751
+West Virginia,North Carolina,T,F_avsResult_0_-1_l_f,0.721676842491
+West Virginia,North Carolina,T,F_avsResult_0_1_l_f,0.721676842491
+West Virginia,North Carolina,T,F_avsResult_-1_0_f_l,0.0717026700807
+West Virginia,North Carolina,T,F_avsResult_1_0_f_l,0.203680347612
+West Virginia,North Carolina,T,F_avsResult_-1_0_l_f,0.0875158255549
+West Virginia,North Carolina,T,F_avsResult_1_0_l_f,0.0879469525588
+West Virginia,North Carolina,T,F_avsResult_outside_0_-1_f_l,0.0156855716751
+West Virginia,North Carolina,T,F_avsResult_outside_0_1_f_l,0.0156855716751
+West Virginia,North Carolina,T,F_avsResult_outside_0_-1_l_f,0.721676842491
+West Virginia,North Carolina,T,F_avsResult_outside_0_1_l_f,0.721676842491
+West Virginia,North Carolina,T,F_avsResult_outside_-1_0_f_l,0.0717026700807
+West Virginia,North Carolina,T,F_avsResult_outside_1_0_f_l,0.203680347612
+West Virginia,North Carolina,T,F_avsResult_outside_-1_0_l_f,0.0875158255549
+West Virginia,North Carolina,T,F_avsResult_outside_1_0_l_f,0.0879469525588
+West Virginia,North Carolina,T,F_belowFigureCentroid_f_l,1.0
+West Virginia,North Carolina,T,F_closeDistNormFigure_f_l,0.0663344952545
+West Virginia,North Carolina,T,F_closeDistNormFigure_l_f,0.0327147590754
+West Virginia,North Carolina,T,F_closeDistNormLandmark_f_l,0.0327147590754
+West Virginia,North Carolina,T,F_closeDistNormLandmark_l_f,0.0663344952545
+West Virginia,North Carolina,T,F_closeDistNormUnion_f_l,0.0219094736788
+West Virginia,North Carolina,T,F_closeDistNormUnion_l_f,0.0219094736788
+West Virginia,North Carolina,T,F_distBtwnCentroids_f_l,0.057541454552
+West Virginia,North Carolina,T,F_distBtwnCentroids_l_f,0.057541454552
+West Virginia,North Carolina,T,F_distHorizontalCentroid_f_l,0.0238526108442
+West Virginia,North Carolina,T,F_distHorizontalCentroid_l_f,-0.0238526108442
+West Virginia,North Carolina,T,F_distVerticalCentroid_f_l,-0.0523647968379
+West Virginia,North Carolina,T,F_distVerticalCentroid_l_f,0.0523647968379
+West Virginia,North Carolina,T,F_leftOfFigureCentroid_l_f,1.0
+West Virginia,North Carolina,T,F_rightOfFigureCentroid_f_l,1.0
+West Virginia,Richmond,T,arg1 and are based in arg2,1
+West Virginia,Richmond,T,arg1 and through arg2,1
+West Virginia,Richmond,T,arg1 before returning to arg2,1
+West Virginia,Richmond,T,arg1 border to arg2,1
+West Virginia,Richmond,T,arg1 toward arg2,1
+West Virginia,Richmond,T,bias,1.0
+West Virginia,Richmond,T,F_aboveFigureCentroid_l_f,1.0
+West Virginia,Richmond,T,F_avsResult_0_-1_f_l,0.0517908222388
+West Virginia,Richmond,T,F_avsResult_0_1_f_l,0.0517908222388
+West Virginia,Richmond,T,F_avsResult_0_-1_l_f,0.40062876587
+West Virginia,Richmond,T,F_avsResult_0_1_l_f,0.40062876587
+West Virginia,Richmond,T,F_avsResult_-1_0_f_l,0.0260176048313
+West Virginia,Richmond,T,F_avsResult_1_0_f_l,0.394471064317
+West Virginia,Richmond,T,F_avsResult_1_0_l_f,0.0252025714174
+West Virginia,Richmond,T,F_avsResult_-1_0_l_f,0.690285605287
+West Virginia,Richmond,T,F_avsResult_1_-1_f_l,0.159447928122
+West Virginia,Richmond,T,F_avsResult_1_1_f_l,0.159447928122
+West Virginia,Richmond,T,F_avsResult_1_-1_l_f,0.062630212543
+West Virginia,Richmond,T,F_avsResult_1_1_l_f,0.062630212543
+West Virginia,Richmond,T,F_avsResult_outside_0_-1_f_l,0.0517908222388
+West Virginia,Richmond,T,F_avsResult_outside_0_1_f_l,0.0517908222388
+West Virginia,Richmond,T,F_avsResult_outside_0_-1_l_f,0.40062876587
+West Virginia,Richmond,T,F_avsResult_outside_0_1_l_f,0.40062876587
+West Virginia,Richmond,T,F_avsResult_outside_-1_0_f_l,0.0260176048313
+West Virginia,Richmond,T,F_avsResult_outside_1_0_f_l,0.394471064317
+West Virginia,Richmond,T,F_avsResult_outside_1_0_l_f,0.0252025714174
+West Virginia,Richmond,T,F_avsResult_outside_-1_0_l_f,0.690285605287
+West Virginia,Richmond,T,F_avsResult_outside_1_-1_f_l,0.159447928122
+West Virginia,Richmond,T,F_avsResult_outside_1_1_f_l,0.159447928122
+West Virginia,Richmond,T,F_avsResult_outside_1_-1_l_f,0.062630212543
+West Virginia,Richmond,T,F_avsResult_outside_1_1_l_f,0.062630212543
+West Virginia,Richmond,T,F_belowFigureCentroid_f_l,1.0
+West Virginia,Richmond,T,F_closeDistNormFigure_f_l,0.387367057213
+West Virginia,Richmond,T,F_closeDistNormFigure_l_f,1.0
+West Virginia,Richmond,T,F_closeDistNormLandmark_f_l,1.0
+West Virginia,Richmond,T,F_closeDistNormLandmark_l_f,0.387367057213
+West Virginia,Richmond,T,F_closeDistNormUnion_f_l,0.387349254075
+West Virginia,Richmond,T,F_closeDistNormUnion_l_f,0.387349254075
+West Virginia,Richmond,T,F_distBtwnCentroids_f_l,0.189968803259
+West Virginia,Richmond,T,F_distBtwnCentroids_l_f,0.189968803259
+West Virginia,Richmond,T,F_distHorizontalCentroid_f_l,0.177719416027
+West Virginia,Richmond,T,F_distHorizontalCentroid_l_f,-0.177719416027
+West Virginia,Richmond,T,F_distVerticalCentroid_f_l,-0.0671115145
+West Virginia,Richmond,T,F_distVerticalCentroid_l_f,0.0671115145
+West Virginia,Richmond,T,F_leftOfFigureCentroid_l_f,1.0
+West Virginia,Richmond,T,F_rightOfFigureCentroid_f_l,1.0
+West Virginia,Virginia Beach,T,bias,1.0
+West Virginia,Virginia Beach,T,F_aboveFigureCentroid_l_f,1.0
+West Virginia,Virginia Beach,T,F_avsResult_0_-1_f_l,0.0601764904426
+West Virginia,Virginia Beach,T,F_avsResult_0_1_f_l,0.0601764904426
+West Virginia,Virginia Beach,T,F_avsResult_0_-1_l_f,0.439775520104
+West Virginia,Virginia Beach,T,F_avsResult_0_1_l_f,0.439775520104
+West Virginia,Virginia Beach,T,F_avsResult_-1_0_f_l,0.0221291347675
+West Virginia,Virginia Beach,T,F_avsResult_1_0_f_l,0.564103934352
+West Virginia,Virginia Beach,T,F_avsResult_1_0_l_f,0.0229160765255
+West Virginia,Virginia Beach,T,F_avsResult_-1_0_l_f,0.70867513736
+West Virginia,Virginia Beach,T,F_avsResult_1_-1_f_l,0.245933399817
+West Virginia,Virginia Beach,T,F_avsResult_1_1_f_l,0.245933399817
+West Virginia,Virginia Beach,T,F_avsResult_1_-1_l_f,0.0630400314516
+West Virginia,Virginia Beach,T,F_avsResult_1_1_l_f,0.0630400314516
+West Virginia,Virginia Beach,T,F_avsResult_outside_0_-1_f_l,0.0601764904426
+West Virginia,Virginia Beach,T,F_avsResult_outside_0_1_f_l,0.0601764904426
+West Virginia,Virginia Beach,T,F_avsResult_outside_0_-1_l_f,0.439775520104
+West Virginia,Virginia Beach,T,F_avsResult_outside_0_1_l_f,0.439775520104
+West Virginia,Virginia Beach,T,F_avsResult_outside_-1_0_f_l,0.0221291347675
+West Virginia,Virginia Beach,T,F_avsResult_outside_1_0_f_l,0.564103934352
+West Virginia,Virginia Beach,T,F_avsResult_outside_1_0_l_f,0.0229160765255
+West Virginia,Virginia Beach,T,F_avsResult_outside_-1_0_l_f,0.70867513736
+West Virginia,Virginia Beach,T,F_avsResult_outside_1_-1_f_l,0.245933399817
+West Virginia,Virginia Beach,T,F_avsResult_outside_1_1_f_l,0.245933399817
+West Virginia,Virginia Beach,T,F_avsResult_outside_1_-1_l_f,0.0630400314516
+West Virginia,Virginia Beach,T,F_avsResult_outside_1_1_l_f,0.0630400314516
+West Virginia,Virginia Beach,T,F_belowFigureCentroid_f_l,1.0
+West Virginia,Virginia Beach,T,F_closeDistNormFigure_f_l,1.0
+West Virginia,Virginia Beach,T,F_closeDistNormFigure_l_f,1.0
+West Virginia,Virginia Beach,T,F_closeDistNormLandmark_f_l,1.0
+West Virginia,Virginia Beach,T,F_closeDistNormLandmark_l_f,1.0
+West Virginia,Virginia Beach,T,F_closeDistNormUnion_f_l,1.0
+West Virginia,Virginia Beach,T,F_closeDistNormUnion_l_f,1.0
+West Virginia,Virginia Beach,T,F_distBtwnCentroids_f_l,0.178146144446
+West Virginia,Virginia Beach,T,F_distBtwnCentroids_l_f,0.178146144446
+West Virginia,Virginia Beach,T,F_distHorizontalCentroid_f_l,0.163872772514
+West Virginia,Virginia Beach,T,F_distHorizontalCentroid_l_f,-0.163872772514
+West Virginia,Virginia Beach,T,F_distVerticalCentroid_f_l,-0.069869615781
+West Virginia,Virginia Beach,T,F_distVerticalCentroid_l_f,0.069869615781
+West Virginia,Virginia Beach,T,F_leftOfFigureCentroid_l_f,1.0
+West Virginia,Virginia Beach,T,F_rightOfFigureCentroid_f_l,1.0
+West Virginia,Virginia,T,arg1 and far western arg2,1
+West Virginia,Virginia,T,arg1 and northern arg2,1
+West Virginia,Virginia,T,arg1 and one in arg2,1
+West Virginia,Virginia,T,arg1 and parts of arg2,1
+West Virginia,Virginia,T,arg1 and southwest arg2,1
+West Virginia,Virginia,T,arg1 and southwestern arg2,1
+West Virginia,Virginia,T,arg1 and western arg2,1
+West Virginia,Virginia,T,arg1 broke away from arg2,1
+West Virginia,Virginia,T,arg1 seceded from arg2,1
+West Virginia,Virginia,T,arg1 secedes from arg2,1
+West Virginia,Virginia,T,arg1 separated from arg2,1
+West Virginia,Virginia,T,arg1 split from arg2,1
+West Virginia,Virginia,T,arg1 was part of arg2,1
+West Virginia,Virginia,T,arg2 and eastern arg1,1
+West Virginia,Virginia,T,arg2 and parts of arg1,1
+West Virginia,Virginia,T,arg2 and southern arg1,1
+West Virginia,Virginia,T,arg2 and two in arg1,1
+West Virginia,Virginia,T,arg2 as well as eastern arg1,1
+West Virginia,Virginia,T,arg2 is bordered by arg1,1
+West Virginia,Virginia,T,arg2 through arg1,1
+West Virginia,Virginia,T,bias,1.0
+West Virginia,Virginia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+West Virginia,Virginia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+West Virginia,Virginia,T,F_aboveFigureCentroid_l_f,1.0
+West Virginia,Virginia,T,F_avsResult_0_-1_f_l,0.0302235528136
+West Virginia,Virginia,T,F_avsResult_0_1_f_l,0.0302235528136
+West Virginia,Virginia,T,F_avsResult_0_-1_l_f,0.335127368586
+West Virginia,Virginia,T,F_avsResult_0_1_l_f,0.335127368586
+West Virginia,Virginia,T,F_avsResult_-1_0_f_l,0.0406557002405
+West Virginia,Virginia,T,F_avsResult_1_0_f_l,0.24770039954
+West Virginia,Virginia,T,F_avsResult_1_0_l_f,0.024107617205
+West Virginia,Virginia,T,F_avsResult_-1_0_l_f,0.149082994247
+West Virginia,Virginia,T,F_avsResult_1_-1_l_f,0.157932214085
+West Virginia,Virginia,T,F_avsResult_1_1_l_f,0.157932214085
+West Virginia,Virginia,T,F_avsResult_outside_0_-1_f_l,0.0302235528136
+West Virginia,Virginia,T,F_avsResult_outside_0_1_f_l,0.0302235528136
+West Virginia,Virginia,T,F_avsResult_outside_0_-1_l_f,0.335127368586
+West Virginia,Virginia,T,F_avsResult_outside_0_1_l_f,0.335127368586
+West Virginia,Virginia,T,F_avsResult_outside_-1_0_f_l,0.0406557002405
+West Virginia,Virginia,T,F_avsResult_outside_1_0_f_l,0.24770039954
+West Virginia,Virginia,T,F_avsResult_outside_1_0_l_f,0.024107617205
+West Virginia,Virginia,T,F_avsResult_outside_-1_0_l_f,0.149082994247
+West Virginia,Virginia,T,F_avsResult_outside_1_-1_l_f,0.157932214085
+West Virginia,Virginia,T,F_avsResult_outside_1_1_l_f,0.157932214085
+West Virginia,Virginia,T,F_belowFigureCentroid_f_l,1.0
+West Virginia,Virginia,T,F_distBtwnCentroids_f_l,0.0663394915361
+West Virginia,Virginia,T,F_distBtwnCentroids_l_f,0.0663394915361
+West Virginia,Virginia,T,F_distHorizontalCentroid_f_l,0.0558756564807
+West Virginia,Virginia,T,F_distHorizontalCentroid_l_f,-0.0558756564807
+West Virginia,Virginia,T,F_distVerticalCentroid_f_l,-0.0357608605899
+West Virginia,Virginia,T,F_distVerticalCentroid_l_f,0.0357608605899
+West Virginia,Virginia,T,F_leftOfFigureCentroid_l_f,1.0
+West Virginia,Virginia,T,F_math2dFigureIntersectionArea_f_l,0.0078460942113
+West Virginia,Virginia,T,F_math2dFigureIntersectionArea_l_f,0.00477184823363
+West Virginia,Virginia,T,F_math2dIntersectionArea_f_l,0.00297606332263
+West Virginia,Virginia,T,F_math2dIntersectionArea_l_f,0.00297606332263
+West Virginia,Virginia,T,F_math2dLandmarkIntersectionArea_f_l,0.00477184823363
+West Virginia,Virginia,T,F_math2dLandmarkIntersectionArea_l_f,0.0078460942113
+West Virginia,Virginia,T,F_rightOfFigureCentroid_f_l,1.0
+West Virginia,West Virginia,T,arg1 and southern arg2,1
+West Virginia,West Virginia,T,arg1 and view arg2,1
+West Virginia,West Virginia,T,arg1 moving companies arg2,1
+West Virginia,West Virginia,T,arg1 real estate license classes and arg2,1
+West Virginia,West Virginia,T,arg1 refinance in arg2,1
+West Virginia,West Virginia,T,arg1 resident and arg2,1
+West Virginia,West Virginia,T,arg1 residents in arg2,1
+West Virginia,West Virginia,T,arg1 serving arg2,1
+West Virginia,West Virginia,T,arg1 singles groups and arg2,1
+West Virginia,West Virginia,T,arg1 space for lease or arg2,1
+West Virginia,West Virginia,T,arg1 technical schools and arg2,1
+West Virginia,West Virginia,T,arg1 town alphabetically and then arg2,1
+West Virginia,West Virginia,T,arg1 urban real estate or rural arg2,1
+West Virginia,West Virginia,T,arg1 vocational schools and arg2,1
+West Virginia,West Virginia,T,arg1 walking events and arg2,1
+West Virginia,West Virginia,T,arg2 and southern arg1,1
+West Virginia,West Virginia,T,arg2 and view arg1,1
+West Virginia,West Virginia,T,arg2 moving companies arg1,1
+West Virginia,West Virginia,T,arg2 real estate license classes and arg1,1
+West Virginia,West Virginia,T,arg2 refinance in arg1,1
+West Virginia,West Virginia,T,arg2 resident and arg1,1
+West Virginia,West Virginia,T,arg2 residents in arg1,1
+West Virginia,West Virginia,T,arg2 serving arg1,1
+West Virginia,West Virginia,T,arg2 singles groups and arg1,1
+West Virginia,West Virginia,T,arg2 space for lease or arg1,1
+West Virginia,West Virginia,T,arg2 technical schools and arg1,1
+West Virginia,West Virginia,T,arg2 town alphabetically and then arg1,1
+West Virginia,West Virginia,T,arg2 urban real estate or rural arg1,1
+West Virginia,West Virginia,T,arg2 vocational schools and arg1,1
+West Virginia,West Virginia,T,arg2 walking events and arg1,1
+West Virginia,West Virginia,T,bias,1.0
+West Virginia,West Virginia,T,entity1=entity2,1
+West Virginia,West Virginia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+West Virginia,West Virginia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+West Virginia,West Virginia,T,F_avsResult_0_-1_f_l,0.263353637915
+West Virginia,West Virginia,T,F_avsResult_0_1_f_l,0.263353637915
+West Virginia,West Virginia,T,F_avsResult_0_-1_l_f,0.263353637915
+West Virginia,West Virginia,T,F_avsResult_0_1_l_f,0.263353637915
+West Virginia,West Virginia,T,F_avsResult_1_0_f_l,0.0219313433507
+West Virginia,West Virginia,T,F_avsResult_-1_0_f_l,0.0429263372024
+West Virginia,West Virginia,T,F_avsResult_1_0_l_f,0.0219313433507
+West Virginia,West Virginia,T,F_avsResult_-1_0_l_f,0.0429263372024
+West Virginia,West Virginia,T,F_avsResult_inside_0_-1_f_l,0.263353637915
+West Virginia,West Virginia,T,F_avsResult_inside_0_1_f_l,0.263353637915
+West Virginia,West Virginia,T,F_avsResult_inside_0_-1_l_f,0.263353637915
+West Virginia,West Virginia,T,F_avsResult_inside_0_1_l_f,0.263353637915
+West Virginia,West Virginia,T,F_avsResult_inside_1_0_f_l,0.0219313433507
+West Virginia,West Virginia,T,F_avsResult_inside_-1_0_f_l,0.0429263372024
+West Virginia,West Virginia,T,F_avsResult_inside_1_0_l_f,0.0219313433507
+West Virginia,West Virginia,T,F_avsResult_inside_-1_0_l_f,0.0429263372024
+West Virginia,West Virginia,T,F_math2dFigureIntersectionArea_f_l,1.0
+West Virginia,West Virginia,T,F_math2dFigureIntersectionArea_l_f,1.0
+West Virginia,West Virginia,T,F_math2dIntersectionArea_f_l,1.0
+West Virginia,West Virginia,T,F_math2dIntersectionArea_l_f,1.0
+West Virginia,West Virginia,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+West Virginia,West Virginia,T,F_math2dLandmarkIntersectionArea_l_f,1.0

@@ -1,0 +1,6 @@
+Pennsylvania;Pennsylvania, USA;162109
+Ohio;Ohio, USA;162061
+Cleveland;Cleveland, Ohio, USA;182130
+Cleveland Browns Stadium;Cleveland Browns Stadium, Ohio, USA;41020147
+Lake Erie;Lake Erie, USA;936282563
+Pittsburgh;Pittsburgh, Pennsylvania, USA;188553

@@ -1,0 +1,20 @@
+which states border Texas ?;Oklahoma,Arkansas,Louisiana;1;(lambda $x (exists $y (and (state $x) (border-rel $x $y) (kb-Texas $y))))
+which states border Louisiana ?;Texas,Arkansas,Mississippi;1;(lambda $x (exists $y (and (state $x) (border-rel $x $y) (kb-Louisiana $y))))
+which states border Arkansas ?;Texas,Oklahoma,Mississippi,Louisiana;1;(lambda $x (exists $y (and (state $x) (border-rel $x $y) (kb-Arkansas $y))))
+which state is east of Oklahoma ?;Arkansas;1;(lambda $x (exists $y (and (state $x) (east-rel $x $y) (kb-Oklahoma $y))))
+which state is east of Louisiana ?;Mississippi;1;(lambda $x (exists $y (and (state $x) (east-rel $x $y) (kb-Louisiana $y))))
+which state is west of Louisiana ?;Texas;1;(lambda $x (exists $y (and (state $x) (west-rel $x $y) (kb-Louisiana $y))))
+which state is west of Arkansas ?;Oklahoma;1;(lambda $x (exists $y (and (state $x) (west-rel $x $y) (kb-Arkansas $y))))
+which state is south of Arkansas ?;Louisiana;1;(lambda $x (exists $y (and (state $x) (south-rel $x $y) (kb-Arkansas $y))))
+which state is south of Oklahoma ?;Texas;1;(lambda $x (exists $y (and (state $x) (south-rel $x $y) (kb-Oklahoma $y))))
+which state is north of Louisiana ?;Arkansas;1;(lambda $x (exists $y (and (state $x) (north-rel $x $y) (kb-Louisiana $y))))
+which state is north of Texas ?;Oklahoma;1;(lambda $x (exists $y (and (state $x) (north-rel $x $y) (kb-Texas $y))))
+which state is north west of Louisiana ?;Oklahoma;1;(lambda $x (exists $y (and (state $x) (northwest-rel $x $y) (kb-Louisiana $y))))
+which state is north east of Texas ?;Arkansas;1;(lambda $x (exists $y (and (state $x) (northeast-rel $x $y) (kb-Texas $y))))
+which state is south east of Oklahoma ?;Louisiana;1;(lambda $x (exists $y (and (state $x) (southeast-rel $x $y) (kb-Oklahoma $y))))
+which state is south west of Arkansas ?;Texas;1;(lambda $x (exists $y (and (state $x) (southwest-rel $x $y) (kb-Arkansas $y))))
+which states are between Texas and Mississippi ?;Louisiana,Arkansas;4;
+which states border both Texas and Arkansas ?;Oklahoma,Louisiana;4
+which states border both Louisiana and Arkansas ?;Texas,Mississippi;4
+#how many states are east of Texas ?;3
+#how many states are west of Mississippi ?;4

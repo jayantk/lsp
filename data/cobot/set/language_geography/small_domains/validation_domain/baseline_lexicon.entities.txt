@@ -1,0 +1,176 @@
+Pennsylvania,N,kb-Pennsylvania 0 0
+Pennsylvania,N/N,kb-Pennsylvania 0 0
+Pennsylvania,N,kb-ignore 0 0
+Pennsylvania,N/N,kb-ignore 0 0
+New Jersey,N,kb-New_Jersey 0 0
+New Jersey,N/N,kb-New_Jersey 0 0
+New Jersey,N,kb-ignore 0 0
+New Jersey,N/N,kb-ignore 0 0
+Ohio,N,kb-Ohio 0 0
+Ohio,N/N,kb-Ohio 0 0
+Ohio,N,kb-ignore 0 0
+Ohio,N/N,kb-ignore 0 0
+New York,N,kb-New_York 0 0
+New York,N/N,kb-New_York 0 0
+New York,N,kb-ignore 0 0
+New York,N/N,kb-ignore 0 0
+Connecticut,N,kb-Connecticut 0 0
+Connecticut,N/N,kb-Connecticut 0 0
+Connecticut,N,kb-ignore 0 0
+Connecticut,N/N,kb-ignore 0 0
+Rhode Island,N,kb-Rhode_Island 0 0
+Rhode Island,N/N,kb-Rhode_Island 0 0
+Rhode Island,N,kb-ignore 0 0
+Rhode Island,N/N,kb-ignore 0 0
+Massachusetts,N,kb-Massachusetts 0 0
+Massachusetts,N/N,kb-Massachusetts 0 0
+Massachusetts,N,kb-ignore 0 0
+Massachusetts,N/N,kb-ignore 0 0
+Maine,N,kb-Maine 0 0
+Maine,N/N,kb-Maine 0 0
+Maine,N,kb-ignore 0 0
+Maine,N/N,kb-ignore 0 0
+Vermont,N,kb-Vermont 0 0
+Vermont,N/N,kb-Vermont 0 0
+Vermont,N,kb-ignore 0 0
+Vermont,N/N,kb-ignore 0 0
+New Hampshire,N,kb-New_Hampshire 0 0
+New Hampshire,N/N,kb-New_Hampshire 0 0
+New Hampshire,N,kb-ignore 0 0
+New Hampshire,N/N,kb-ignore 0 0
+Ontario,N,kb-Ontario 0 0
+Ontario,N/N,kb-Ontario 0 0
+Ontario,N,kb-ignore 0 0
+Ontario,N/N,kb-ignore 0 0
+Michigan,N,kb-Michigan 0 0
+Michigan,N/N,kb-Michigan 0 0
+Michigan,N,kb-ignore 0 0
+Michigan,N/N,kb-ignore 0 0
+Pittsburgh,N,kb-Pittsburgh 0 0
+Pittsburgh,N/N,kb-Pittsburgh 0 0
+Pittsburgh,N,kb-ignore 0 0
+Pittsburgh,N/N,kb-ignore 0 0
+Harrisburg,N,kb-Harrisburg 0 0
+Harrisburg,N/N,kb-Harrisburg 0 0
+Harrisburg,N,kb-ignore 0 0
+Harrisburg,N/N,kb-ignore 0 0
+Newark,N,kb-Newark 0 0
+Newark,N/N,kb-Newark 0 0
+Newark,N,kb-ignore 0 0
+Newark,N/N,kb-ignore 0 0
+Trenton,N,kb-Trenton 0 0
+Trenton,N/N,kb-Trenton 0 0
+Trenton,N,kb-ignore 0 0
+Trenton,N/N,kb-ignore 0 0
+Cleveland,N,kb-Cleveland 0 0
+Cleveland,N/N,kb-Cleveland 0 0
+Cleveland,N,kb-ignore 0 0
+Cleveland,N/N,kb-ignore 0 0
+Philadelphia,N,kb-Philadelphia 0 0
+Philadelphia,N/N,kb-Philadelphia 0 0
+Philadelphia,N,kb-ignore 0 0
+Philadelphia,N/N,kb-ignore 0 0
+Buffalo,N,kb-Buffalo 0 0
+Buffalo,N/N,kb-Buffalo 0 0
+Buffalo,N,kb-ignore 0 0
+Buffalo,N/N,kb-ignore 0 0
+Rochester,N,kb-Rochester 0 0
+Rochester,N/N,kb-Rochester 0 0
+Rochester,N,kb-ignore 0 0
+Rochester,N/N,kb-ignore 0 0
+Albany,N,kb-Albany 0 0
+Albany,N/N,kb-Albany 0 0
+Albany,N,kb-ignore 0 0
+Albany,N/N,kb-ignore 0 0
+Nashua,N,kb-Nashua 0 0
+Nashua,N/N,kb-Nashua 0 0
+Nashua,N,kb-ignore 0 0
+Nashua,N/N,kb-ignore 0 0
+New York City,N,kb-New_York_City 0 0
+New York City,N/N,kb-New_York_City 0 0
+New York City,N,kb-ignore 0 0
+New York City,N/N,kb-ignore 0 0
+Altoona,N,kb-Altoona 0 0
+Altoona,N/N,kb-Altoona 0 0
+Altoona,N,kb-ignore 0 0
+Altoona,N/N,kb-ignore 0 0
+London,N,kb-London 0 0
+London,N/N,kb-London 0 0
+London,N,kb-ignore 0 0
+London,N/N,kb-ignore 0 0
+Markham,N,kb-Markham 0 0
+Markham,N/N,kb-Markham 0 0
+Markham,N,kb-ignore 0 0
+Markham,N/N,kb-ignore 0 0
+Toronto,N,kb-Toronto 0 0
+Toronto,N/N,kb-Toronto 0 0
+Toronto,N,kb-ignore 0 0
+Toronto,N/N,kb-ignore 0 0
+Kingston,N,kb-Kingston 0 0
+Kingston,N/N,kb-Kingston 0 0
+Kingston,N,kb-ignore 0 0
+Kingston,N/N,kb-ignore 0 0
+Lake Huron,N,kb-Lake_Huron 0 0
+Lake Huron,N/N,kb-Lake_Huron 0 0
+Lake Huron,N,kb-ignore 0 0
+Lake Huron,N/N,kb-ignore 0 0
+Lake Erie,N,kb-Lake_Erie 0 0
+Lake Erie,N/N,kb-Lake_Erie 0 0
+Lake Erie,N,kb-ignore 0 0
+Lake Erie,N/N,kb-ignore 0 0
+Utica,N,kb-Utica 0 0
+Utica,N/N,kb-Utica 0 0
+Utica,N,kb-ignore 0 0
+Utica,N/N,kb-ignore 0 0
+Detroit,N,kb-Detroit 0 0
+Detroit,N/N,kb-Detroit 0 0
+Detroit,N,kb-ignore 0 0
+Detroit,N/N,kb-ignore 0 0
+Burlington,N,kb-Burlington 0 0
+Burlington,N/N,kb-Burlington 0 0
+Burlington,N,kb-ignore 0 0
+Burlington,N/N,kb-ignore 0 0
+Columbus,N,kb-Columbus 0 0
+Columbus,N/N,kb-Columbus 0 0
+Columbus,N,kb-ignore 0 0
+Columbus,N/N,kb-ignore 0 0
+Richmond,N,kb-Richmond 0 0
+Richmond,N/N,kb-Richmond 0 0
+Richmond,N,kb-ignore 0 0
+Richmond,N/N,kb-ignore 0 0
+Lake Superior,N,kb-Lake_Superior 0 0
+Lake Superior,N/N,kb-Lake_Superior 0 0
+Lake Superior,N,kb-ignore 0 0
+Lake Superior,N/N,kb-ignore 0 0
+Atlantic Ocean,N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N/N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N,kb-ignore 0 0
+Atlantic Ocean,N/N,kb-ignore 0 0
+Montreal,N,kb-Montreal 0 0
+Montreal,N/N,kb-Montreal 0 0
+Montreal,N,kb-ignore 0 0
+Montreal,N/N,kb-ignore 0 0
+Lake Ontario,N,kb-Lake_Ontario 0 0
+Lake Ontario,N/N,kb-Lake_Ontario 0 0
+Lake Ontario,N,kb-ignore 0 0
+Lake Ontario,N/N,kb-ignore 0 0
+Manchester,N,kb-Manchester 0 0
+Manchester,N/N,kb-Manchester 0 0
+Manchester,N,kb-ignore 0 0
+Manchester,N/N,kb-ignore 0 0
+Canton,N,kb-Canton 0 0
+Canton,N/N,kb-Canton 0 0
+Canton,N,kb-ignore 0 0
+Canton,N/N,kb-ignore 0 0
+Mansfield,N,kb-Mansfield 0 0
+Mansfield,N/N,kb-Mansfield 0 0
+Mansfield,N,kb-ignore 0 0
+Mansfield,N/N,kb-ignore 0 0
+Allentown,N,kb-Allentown 0 0
+Allentown,N/N,kb-Allentown 0 0
+Allentown,N,kb-ignore 0 0
+Allentown,N/N,kb-ignore 0 0
+New Haven,N,kb-New_Haven 0 0
+New Haven,N/N,kb-New_Haven 0 0
+New Haven,N,kb-ignore 0 0
+New Haven,N/N,kb-ignore 0 0

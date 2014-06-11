@@ -1,0 +1,18 @@
+Virginia,T,f_f__F_landmarkPerimeter,2.40431592487
+Virginia,T,bias,1.0
+Virginia,T,f_f__F_landmarkArea,1.12124584087
+Virginia Beach,T,f_f__F_landmarkPerimeter,0.176405636866
+Virginia Beach,T,bias,1.0
+Virginia Beach,T,f_f__F_landmarkArea,0.0130022902765
+Richmond,T,f_f__F_landmarkPerimeter,0.00628312135213
+Richmond,T,bias,1.0
+Richmond,T,f_f__F_landmarkArea,3.14146474921e-05
+Atlantic Ocean,T,f_f__F_landmarkPerimeter,0.00628312135213
+Atlantic Ocean,T,bias,1.0
+Atlantic Ocean,T,f_f__F_landmarkArea,3.14146474381e-05
+West Virginia,T,f_f__F_landmarkPerimeter,2.01927486215
+West Virginia,T,bias,1.0
+West Virginia,T,f_f__F_landmarkArea,0.649438947961
+North Carolina,T,f_f__F_landmarkPerimeter,2.21292659044
+North Carolina,T,bias,1.0
+North Carolina,T,f_f__F_landmarkArea,1.38519840646

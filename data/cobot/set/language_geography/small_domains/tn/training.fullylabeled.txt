@@ -1,0 +1,11 @@
+*city;Memphis,Nashville,Knoxville,Birmingham
+*state;Alabama,Tennessee
+*park;Great Smoky Mountains National Park
+*major;Nashville,Memphis
+*in-rel;Nashville#Tennessee,Memphis#Tennessee,Knoxville#Tennessee,Great Smoky Mountains National Park#Tennessee,Birmingham#Alabama
+*west-rel;Memphis#Nashville,Memphis#Knoxville,Memphis#Birmingham,Memphis#Alabama,Nashville#Knoxville,Birmingham#Knoxville,Memphis#Great Smoky Mountains National Park,Nashville#Great Smoky Mountains National Park,Birmingham#Great Smoky Mountains National Park,Alabama#Great Smoky Mountains National Park
+*east-rel;Nashville#Memphis,Knoxville#Memphis,Birmingham#Memphis,Alabama#Memphis,Knoxville#Nashville,Knoxville#Birmingham,Great Smoky Mountains National Park#Memphis,Great Smoky Mountains National Park#Nashville,Great Smoky Mountains National Park#Birmingham,Great Smoky Mountains National Park#Alabama
+*south-rel;Alabama#Memphis,Alabama#Nashville,Alabama#Knoxville,Alabama#Tennessee,Alabama#Great Smoky Mountains National Park,Birmingham#Memphis,Birmingham#Nashville,Birmingham#Knoxville,Birmingham#Tennessee,Birmingham#Great Smoky Mountains National Park,Memphis#Nashville,Memphis#Knoxville,Great Smoky Mountains National Park#Knoxville
+*near-rel;Great Smoky Mountains National Park#Knoxville,Knoxville#Great Smoky Mountains National Park,Alabama#Tennessee,Tennessee#Alabama
+*border-rel;Tennessee#Alabama,Alabama#Tennessee
+*bigger-rel;Alabama#Birmingham,Alabama#Great Smoky Mountains National Park,Alabama#Knoxville,Alabama#Memphis,Alabama#Nashville,Alabama#Tennessee,Birmingham#Knoxville,Memphis#Birmingham,Memphis#Knoxville,Nashville#Birmingham,Nashville#Knoxville,Nashville#Memphis,Great Smoky Mountains National Park#Birmingham,Great Smoky Mountains National Park#Knoxville,Great Smoky Mountains National Park#Memphis,Great Smoky Mountains National Park#Nashville,Tennessee#Birmingham,Tennessee#Knoxville,Tennessee#Memphis,Tennessee#Nashville,Tennessee#Great Smoky Mountains National Park

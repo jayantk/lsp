@@ -1,0 +1,188 @@
+Atlantic Ocean,T,access to _,1
+Atlantic Ocean,T,Atlantic Ocean,1
+Atlantic Ocean,T,beaches of _,1
+Atlantic Ocean,T,bias,1.0
+Atlantic Ocean,T,bottom of _,1
+Atlantic Ocean,T,breathtaking views of _,1
+Atlantic Ocean,T,coast of _,1
+Atlantic Ocean,T,edge of _,1
+Atlantic Ocean,T,f_f__F_landmarkArea,3.14146474381e-05
+Atlantic Ocean,T,f_f__F_landmarkPerimeter,0.00628312135213
+Atlantic Ocean,T,middle of _,1
+Atlantic Ocean,T,other side of _,1
+Atlantic Ocean,T,panoramic views of _,1
+Atlantic Ocean,T,part of _,1
+Atlantic Ocean,T,shores of _,1
+Atlantic Ocean,T,side of _,1
+Atlantic Ocean,T,sides of _,1
+Atlantic Ocean,T,spectacular views of _,1
+Atlantic Ocean,T,view of _,1
+Atlantic Ocean,T,views of _,1
+Atlantic Ocean,T,views over _,1
+Atlantic Ocean,T,waters of _,1
+Atlantic Ocean,T,waves of _,1
+Atlantic Ocean,T,west by _,1
+Charlotte,T,area of _,1
+Charlotte,T,bias,1.0
+Charlotte,T,business in _,1
+Charlotte,T,Charlotte,1
+Charlotte,T,city of _,1
+Charlotte,T,company in _,1
+Charlotte,T,f_f__F_landmarkArea,3.14146475603e-05
+Charlotte,T,f_f__F_landmarkPerimeter,0.00628312135213
+Charlotte,T,flight from _,1
+Charlotte,T,flight to _,1
+Charlotte,T,headquarters in _,1
+Charlotte,T,heart of _,1
+Charlotte,T,home in _,1
+Charlotte,T,mayor of _,1
+Charlotte,T,name is _,1
+Charlotte,T,office in _,1
+Charlotte,T,offices in _,1
+Charlotte,T,part of _,1
+Charlotte,T,people in _,1
+Charlotte,T,professional wedding vendor in _,1
+Charlotte,T,school in _,1
+Charlotte,T,trip to _,1
+Charlotte,T,vendor in _,1
+Charlotte,T,wedding vendor in _,1
+Greensboro,T,bias,1.0
+Greensboro,T,center in _,1
+Greensboro,T,cities of _,1
+Greensboro,T,citizens of _,1
+Greensboro,T,city of _,1
+Greensboro,T,company in _,1
+Greensboro,T,counter in _,1
+Greensboro,T,facility in _,1
+Greensboro,T,f_f__F_landmarkArea,0.00798649776261
+Greensboro,T,f_f__F_landmarkPerimeter,0.115434265137
+Greensboro,T,Greensboro,1
+Greensboro,T,headquarters in _,1
+Greensboro,T,home in _,1
+Greensboro,T,hotels in _,1
+Greensboro,T,jobs in _,1
+Greensboro,T,lunch counter in _,1
+Greensboro,T,meeting in _,1
+Greensboro,T,office in _,1
+Greensboro,T,offices in _,1
+Greensboro,T,people in _,1
+Greensboro,T,place in _,1
+Greensboro,T,school in _,1
+Greensboro,T,store in _,1
+Greensboro,T,system in _,1
+Myrtle Beach,T,area of _,1
+Myrtle Beach,T,bias,1.0
+Myrtle Beach,T,city of _,1
+Myrtle Beach,T,computer reservation system in _,1
+Myrtle Beach,T,course in _,1
+Myrtle Beach,T,courses in _,1
+Myrtle Beach,T,end of _,1
+Myrtle Beach,T,f_f__F_landmarkArea,0.00265616476536
+Myrtle Beach,T,f_f__F_landmarkPerimeter,0.0657165527344
+Myrtle Beach,T,golf in _,1
+Myrtle Beach,T,heart of _,1
+Myrtle Beach,T,home in _,1
+Myrtle Beach,T,hotel in _,1
+Myrtle Beach,T,hotels in _,1
+Myrtle Beach,T,Myrtle Beach,1
+Myrtle Beach,T,rentals in _,1
+Myrtle Beach,T,reservation system in _,1
+Myrtle Beach,T,resort in _,1
+Myrtle Beach,T,section of _,1
+Myrtle Beach,T,system in _,1
+Myrtle Beach,T,trip to _,1
+Myrtle Beach,T,vacation in _,1
+Myrtle Beach,T,vacation to _,1
+Myrtle Beach,T,way to _,1
+North Carolina,T,area of _,1
+North Carolina,T,areas of _,1
+North Carolina,T,bias,1.0
+North Carolina,T,character of _,1
+North Carolina,T,citizens of _,1
+North Carolina,T,coast of _,1
+North Carolina,T,counties in _,1
+North Carolina,T,f_f__F_landmarkArea,1.38519840646
+North Carolina,T,f_f__F_landmarkPerimeter,2.21292659044
+North Carolina,T,governor of _,1
+North Carolina,T,home in _,1
+North Carolina,T,mountains of _,1
+North Carolina,T,mountains of western _,1
+North Carolina,T,native of _,1
+North Carolina,T,North Carolina,1
+North Carolina,T,part of _,1
+North Carolina,T,people of _,1
+North Carolina,T,region of _,1
+North Carolina,T,residents of _,1
+North Carolina,T,school in _,1
+North Carolina,T,schools in _,1
+North Carolina,T,state of _,1
+North Carolina,T,town in _,1
+North Carolina,T,trip to _,1
+Raleigh,T,area of _,1
+Raleigh,T,bias,1.0
+Raleigh,T,center in _,1
+Raleigh,T,cities of _,1
+Raleigh,T,city of _,1
+Raleigh,T,company in _,1
+Raleigh,T,courts in _,1
+Raleigh,T,events around _,1
+Raleigh,T,f_f__F_landmarkArea,0.00916920068562
+Raleigh,T,f_f__F_landmarkPerimeter,0.122296905518
+Raleigh,T,firm in _,1
+Raleigh,T,headquarters in _,1
+Raleigh,T,home in _,1
+Raleigh,T,meeting in _,1
+Raleigh,T,office in _,1
+Raleigh,T,offices in _,1
+Raleigh,T,practice in _,1
+Raleigh,T,professional wedding vendor in _,1
+Raleigh,T,Raleigh,1
+Raleigh,T,school in _,1
+Raleigh,T,store in _,1
+Raleigh,T,trip to _,1
+Raleigh,T,vendor in _,1
+Raleigh,T,wedding vendor in _,1
+South Carolina,T,area of _,1
+South Carolina,T,areas of _,1
+South Carolina,T,bias,1.0
+South Carolina,T,citizens of _,1
+South Carolina,T,coast of _,1
+South Carolina,T,counties in _,1
+South Carolina,T,directory of _,1
+South Carolina,T,education in _,1
+South Carolina,T,f_f__F_landmarkArea,0.787710768436
+South Carolina,T,f_f__F_landmarkPerimeter,1.43957448725
+South Carolina,T,governor of _,1
+South Carolina,T,home in _,1
+South Carolina,T,native of _,1
+South Carolina,T,part of _,1
+South Carolina,T,people in _,1
+South Carolina,T,people of _,1
+South Carolina,T,region of _,1
+South Carolina,T,school in _,1
+South Carolina,T,schools in _,1
+South Carolina,T,South Carolina,1
+South Carolina,T,state of _,1
+South Carolina,T,town in _,1
+South Carolina,T,trip to _,1
+South Carolina,T,upstate of _,1
+Uwharrie National Forest,T,bays of _,1
+Uwharrie National Forest,T,beauty of _,1
+Uwharrie National Forest,T,bias,1.0
+Uwharrie National Forest,T,camping vacation in _,1
+Uwharrie National Forest,T,creature in _,1
+Uwharrie National Forest,T,edge of _,1
+Uwharrie National Forest,T,entrance of _,1
+Uwharrie National Forest,T,f_f__F_landmarkArea,2.77707005353e-05
+Uwharrie National Forest,T,f_f__F_landmarkPerimeter,0.0109131270312
+Uwharrie National Forest,T,heart of _,1
+Uwharrie National Forest,T,home to _,1
+Uwharrie National Forest,T,information about _,1
+Uwharrie National Forest,T,main entrance of _,1
+Uwharrie National Forest,T,region of _,1
+Uwharrie National Forest,T,rides in _,1
+Uwharrie National Forest,T,trails in _,1
+Uwharrie National Forest,T,Uwharrie National Forest,1
+Uwharrie National Forest,T,vacation in _,1
+Uwharrie National Forest,T,woodlands of _,1
+Uwharrie National Forest,T,year in _,1

@@ -1,0 +1,8 @@
+*city;Harrisburg,Newark,Pittsburgh,Trenton;
+*state;New Jersey,Pennsylvania;
+
+*in-rel;Harrisburg#Pennsylvania,Newark#New Jersey,Trenton#New Jersey,Pittsburgh#Pennsylvania
+*west-rel;Pennsylvania#New Jersey,Pittsburgh#New Jersey,Harrisburg#New Jersey,Pittsburgh#Harrisburg,Pittsburgh#Newark,Harrisburg#Newark,Pennsylvania#Newark,Pittsburgh#Trenton,Harrisburg#Trenton,Pennsylvania#Trenton
+*east-rel;New Jersey#Pennsylvania,New Jersey#Pittsburgh,New Jersey#Harrisburg,Harrisburg#Pittsburgh,Newark#Pittsburgh,Newark#Harrisburg,Newark#Pennsylvania,Trenton#Pittsburgh,Trenton#Harrisburg,Trenton#Pennsylvania
+*capital-rel;Harrisburg#Pennsylvania,Trenton#New Jersey
+

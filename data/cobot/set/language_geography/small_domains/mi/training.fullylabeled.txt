@@ -1,0 +1,10 @@
+*city;Detroit,Grand Rapids,Milwaukee
+*state;Michigan,Wisconsin
+*lake;Lake Michigan,Lake Huron
+*largest;Detroit,Milwaukee
+*in-rel;Detroit#Michigan,Grand Rapids#Michigan,Milwaukee#Wisconsin
+*near-rel;Lake Michigan#Michigan,Lake Huron#Michigan,Milwaukee#Michigan,Wisconsin#Michigan,Lake Huron#Detroit,Lake Michigan#Grand Rapids,Michigan#Lake Michigan,Wisconsin#Lake Michigan,Milwaukee#Lake Michigan,Detroit#Lake Huron,Michigan#Lake Huron,Michigan#Wisconsin,Lake Michigan#Wisconsin,Lake Michigan#Milwaukee,Michigan#Milwaukee
+*on-rel;Milwaukee#Lake Michigan,Wisconsin#Lake Michigan,Michigan#Lake Michigan,Michigan#Lake Huron
+*west-rel;Wisconsin#Michigan,Lake Michigan#Michigan,Milwaukee#Michigan,Grand Rapids#Detroit,Lake Michigan#Detroit,Wisconsin#Detroit,Milwaukee#Detroit,Lake Michigan#Grand Rapids,Wisconsin#Grand Rapids,Milwaukee#Grand Rapids,Wisconsin#Lake Michigan,Milwaukee#Lake Michigan,Grand Rapids#Lake Huron,Lake Michigan#Lake Huron,Wisconsin#Lake Huron,Milwaukee#Lake Huron,Lake Michigan#Lake Huron,Wisconsin#Lake Huron
+*east-rel;Michigan#Wisconsin,Michigan#Lake Michigan,Michigan#Milwaukee,Detroit#Grand Rapids,Detroit#Lake Michigan,Detroit#Wisconsin,Detroit#Milwaukee,Grand Rapids#Lake Michigan,Grand Rapids#Wisconsin,Grand Rapids#Milwaukee,Lake Michigan#Wisconsin,Lake Michigan#Milwaukee,Lake Huron#Grand Rapids,Lake Huron#Lake Michigan,Lake Huron#Wisconsin,Lake Huron#Milwaukee,Lake Huron#Lake Michigan,Lake Huron#Wisconsin
+*border-rel;Lake Michigan#Michigan,Lake Huron#Michigan,Michigan#Lake Michigan,Michigan#Lake Huron,Wisconsin#Lake Michigan,Lake Michigan#Wisconsin,Michigan#Wisconsin,Wisconsin#Michigan

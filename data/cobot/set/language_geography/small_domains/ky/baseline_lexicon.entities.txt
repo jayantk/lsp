@@ -1,0 +1,24 @@
+Kentucky,N,kb-Kentucky 0 0
+Kentucky,N/N,kb-Kentucky 0 0
+Kentucky,N,kb-ignore 0 0
+Kentucky,N/N,kb-ignore 0 0
+Louisville,N,kb-Louisville 0 0
+Louisville,N/N,kb-Louisville 0 0
+Louisville,N,kb-ignore 0 0
+Louisville,N/N,kb-ignore 0 0
+Indiana,N,kb-Indiana 0 0
+Indiana,N/N,kb-Indiana 0 0
+Indiana,N,kb-ignore 0 0
+Indiana,N/N,kb-ignore 0 0
+Indianapolis,N,kb-Indianapolis 0 0
+Indianapolis,N/N,kb-Indianapolis 0 0
+Indianapolis,N,kb-ignore 0 0
+Indianapolis,N/N,kb-ignore 0 0
+South Bend,N,kb-South_Bend 0 0
+South Bend,N/N,kb-South_Bend 0 0
+South Bend,N,kb-ignore 0 0
+South Bend,N/N,kb-ignore 0 0
+Lake Michigan,N,kb-Lake_Michigan 0 0
+Lake Michigan,N/N,kb-Lake_Michigan 0 0
+Lake Michigan,N,kb-ignore 0 0
+Lake Michigan,N/N,kb-ignore 0 0

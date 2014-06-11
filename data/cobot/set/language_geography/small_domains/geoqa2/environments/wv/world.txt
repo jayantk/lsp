@@ -1,0 +1,9 @@
+*city;Charleston,Richmond
+*state;West Virginia,Virginia
+*park;Monongahela National Forest
+*lake;Tygart Lake
+
+*capital-rel;Charleston#West Virginia,Richmond#Virginia
+*in-rel;Charleston#West Virginia,Richmond#Virginia,Monongahela National Forest#West Virginia,Tygart Lake#West Virginia
+*west-rel;Charleston#Monongahela National Forest,West Virginia#Richmond,Monongahela National Forest#Richmond,West Virginia#Virginia,Monongahela National Forest#Virginia,Tygart Lake#Virginia
+*east-rel;Monongahela National Forest#Charleston,Richmond#West Virginia,Richmond#Monongahela National Forest,Virginia#West Virginia,Virginia#Monongahela National Forest,Virginia#Tygart Lake

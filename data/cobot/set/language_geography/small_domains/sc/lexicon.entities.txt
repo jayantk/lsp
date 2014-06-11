@@ -1,0 +1,20 @@
+South Carolina,N,kb-South_Carolina 0 0
+South Carolina,N/N,kb-South_Carolina 0 0
+Myrtle Beach,N,kb-Myrtle_Beach 0 0
+Myrtle Beach,N/N,kb-Myrtle_Beach 0 0
+Lake Moultrie,N,kb-Lake_Moultrie 0 0
+Lake Moultrie,N/N,kb-Lake_Moultrie 0 0
+Francis Marion National Forest,N,kb-Francis_Marion_National_Forest 0 0
+Francis Marion National Forest,N/N,kb-Francis_Marion_National_Forest 0 0
+Greenville,N,kb-Greenville 0 0
+Greenville,N/N,kb-Greenville 0 0
+Charleston,N,kb-Charleston 0 0
+Charleston,N/N,kb-Charleston 0 0
+Hilton Head Island,N,kb-Hilton_Head_Island 0 0
+Hilton Head Island,N/N,kb-Hilton_Head_Island 0 0
+Atlantic Ocean,N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N/N,kb-Atlantic_Ocean 0 0
+North Carolina,N,kb-North_Carolina 0 0
+North Carolina,N/N,kb-North_Carolina 0 0
+Raleigh,N,kb-Raleigh 0 0
+Raleigh,N/N,kb-Raleigh 0 0

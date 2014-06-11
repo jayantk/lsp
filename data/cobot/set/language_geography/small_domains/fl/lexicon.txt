@@ -1,0 +1,246 @@
+to,N\N/N,to-rel 0 0 1
+to,N\N/N,kb-equal 0 0 1
+to,A/N,to-rel 0 1
+to,A\N,to-rel 1 0
+to,P/N,kb-ignore 0 0
+to,P/P,kb-ignore 0 0
+to,P\N,kb-ignore 0 0
+to,P\P,kb-ignore 0 0
+its,N,kb-ignore 0 0
+its,N/N,kb-ignore 0 0
+located,N/N,located 0 0
+located,N/N,kb-ignore 0 0
+located,N/P,located-rel 0 1
+located,N,located 0 0
+national park,N/P,nationalpark-rel 0 1
+national park,N,nationalpark 0 0
+national park,N/N,nationalpark 0 0
+cities,N/P,city-rel 0 1
+cities,N,city 0 0
+cities,N/N,city 0 0
+just,P/P,kb-ignore 0 0
+just,N/N,kb-ignore 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+parks,N/P,park-rel 0 1
+parks,N,park 0 0
+parks,N/N,park 0 0
+north,P/P,kb-ignore 0 0
+north,N/N,kb-ignore 0 0
+south east,N/P,southeast-rel 0 1
+south east,N,southeast 0 0
+south east,N/N,southeast 0 0
+not,P/P,kb-ignore 0 0
+not,N/N,kb-ignore 0 0
+at,N\N/N,at-rel 0 0 1
+at,N\N/N,kb-equal 0 0 1
+at,A/N,at-rel 0 1
+at,A\N,at-rel 1 0
+at,P/N,kb-ignore 0 0
+at,P/P,kb-ignore 0 0
+at,P\N,kb-ignore 0 0
+at,P\P,kb-ignore 0 0
+west,N/P,west-rel 0 1
+west,N,west 0 0
+west,N/N,west 0 0
+south west,N/P,southwest-rel 0 1
+south west,N,southwest 0 0
+south west,N/N,southwest 0 0
+is,S\N/N,kb-equal 0 0 1
+is,S\N/A,kb-equal 0 0 1
+is,S\N/P,kb-equal 0 0 1
+is,S\A/N,kb-equal 0 0 1
+is,S\P/N,kb-equal 0 0 1
+is,S/N/N,kb-equal 0 1 0
+is,S/A/N,kb-equal 0 1 0
+is,S/P/N,kb-equal 0 1 0
+island chain,N/P,islandchain-rel 0 1
+island chain,N,islandchain 0 0
+island chain,N/N,islandchain 0 0
+in,N\N/N,in-rel 0 0 1
+in,N\N/N,kb-equal 0 0 1
+in,A/N,in-rel 0 1
+in,A\N,in-rel 1 0
+in,P/N,kb-ignore 0 0
+in,P/P,kb-ignore 0 0
+in,P\N,kb-ignore 0 0
+in,P\P,kb-ignore 0 0
+coast,N/P,coast-rel 0 1
+coast,N,coast 0 0
+coast,N/N,coast 0 0
+beach city,N/P,beachcity-rel 0 1
+beach city,N,beachcity 0 0
+beach city,N/N,beachcity 0 0
+some,N,kb-ignore 0 0
+some,N/N,kb-ignore 0 0
+southern tip,N/P,southerntip-rel 0 1
+southern tip,N,southerntip 0 0
+southern tip,N/N,southerntip 0 0
+city,N/P,city-rel 0 1
+city,N,city 0 0
+city,N/N,city 0 0
+there,P/P,kb-ignore 0 0
+there,N/N,kb-ignore 0 0
+state,N/P,state-rel 0 1
+state,N,state 0 0
+state,N/N,state 0 0
+which,N/N,kb-ignore 0 0
+which,N,kb-ignore 0 0
+which,N,which 0 0
+north west,N/P,northwest-rel 0 1
+north west,N,northwest 0 0
+north west,N/N,northwest 0 0
+beach,N/P,beach-rel 0 1
+beach,N,beach 0 0
+beach,N/N,beach 0 0
+has,N\N/N,have-rel 0 0 1
+has,S\N/N,have-rel 0 0 1
+has,S\N/P,have-rel 0 0 1
+has,S/N/N,have-rel 0 1 0
+has,S/P/N,have-rel 0 1 0
+has,S\N/N,kb-ignore-equal 0 0 1
+has,S\N/P,kb-ignore-equal 0 0 1
+has,S/N/N,kb-ignore-equal 0 1 0
+has,S/P/N,kb-ignore-equal 0 1 0
+has,S/N,kb-ignore 0 0
+south,N/N,south 0 0
+south,N/N,kb-ignore 0 0
+south,N/P,south-rel 0 1
+south,N,south 0 0
+of,N\N/N,of-rel 0 0 1
+of,N\N/N,kb-equal 0 0 1
+of,A/N,of-rel 0 1
+of,A\N,of-rel 1 0
+of,P/N,kb-ignore 0 0
+of,P/P,kb-ignore 0 0
+of,P\N,kb-ignore 0 0
+of,P\P,kb-ignore 0 0
+peninsula,N/P,peninsula-rel 0 1
+peninsula,N,peninsula 0 0
+peninsula,N/N,peninsula 0 0
+national parks,N/P,nationalpark-rel 0 1
+national parks,N,nationalpark 0 0
+national parks,N/N,nationalpark 0 0
+and,N\N/N,kb-equal 0 0 1
+and,A\A/N,kb-equal 0 0 1
+and,A\N/A,kb-equal 0 0 1
+and,A\A/A,kb-equal 0 0 1
+are,S\N/N,kb-equal 0 0 1
+are,S\N/A,kb-equal 0 0 1
+are,S\N/P,kb-equal 0 0 1
+are,S\A/N,kb-equal 0 0 1
+are,S\P/N,kb-equal 0 0 1
+are,S/N/N,kb-equal 0 1 0
+are,S/A/N,kb-equal 0 1 0
+are,S/P/N,kb-equal 0 1 0
+major city,N/P,majorcity-rel 0 1
+major city,N,majorcity 0 0
+major city,N/N,majorcity 0 0
+north,N/P,north-rel 0 1
+north,N,north 0 0
+north,N/N,north 0 0
+major,N/N,major 0 0
+major,N/N,kb-ignore 0 0
+major,N/P,major-rel 0 1
+major,N,major 0 0
+national,N/N,national 0 0
+national,N/N,kb-ignore 0 0
+national,N/P,national-rel 0 1
+national,N,national 0 0
+most,P/P,kb-ignore 0 0
+most,N/N,kb-ignore 0 0
+chain,N/P,chain-rel 0 1
+chain,N,chain 0 0
+chain,N/N,chain 0 0
+an,N,kb-ignore 0 0
+an,N/N,kb-ignore 0 0
+island,N/P,island-rel 0 1
+island,N,island 0 0
+island,N/N,island 0 0
+the,N,kb-ignore 0 0
+the,N/N,kb-ignore 0 0
+beaches,N/P,beach-rel 0 1
+beaches,N,beach 0 0
+beaches,N/N,beach 0 0
+between,N\N/N,between-rel 0 0 1
+between,N\N/N,kb-equal 0 0 1
+between,A/N,between-rel 0 1
+between,A\N,between-rel 1 0
+between,P/N,kb-ignore 0 0
+between,P/P,kb-ignore 0 0
+between,P\N,kb-ignore 0 0
+between,P\P,kb-ignore 0 0
+south,P/P,kb-ignore 0 0
+south,N/N,kb-ignore 0 0
+as,N\N/N,as-rel 0 0 1
+as,N\N/N,kb-equal 0 0 1
+as,A/N,as-rel 0 1
+as,A\N,as-rel 1 0
+as,P/N,kb-ignore 0 0
+as,P/P,kb-ignore 0 0
+as,P\N,kb-ignore 0 0
+as,P\P,kb-ignore 0 0
+east coast,N/P,eastcoast-rel 0 1
+east coast,N,eastcoast 0 0
+east coast,N/N,eastcoast 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+lies,N\N/N,lie-rel 0 0 1
+lies,S\N/N,lie-rel 0 0 1
+lies,S\N/P,lie-rel 0 0 1
+lies,S/N/N,lie-rel 0 1 0
+lies,S/P/N,lie-rel 0 1 0
+lies,S\N/N,kb-ignore-equal 0 0 1
+lies,S\N/P,kb-ignore-equal 0 0 1
+lies,S/N/N,kb-ignore-equal 0 1 0
+lies,S/P/N,kb-ignore-equal 0 1 0
+lies,S/N,kb-ignore 0 0
+park,N/P,park-rel 0 1
+park,N,park 0 0
+park,N/N,park 0 0
+on,N\N/N,on-rel 0 0 1
+on,N\N/N,kb-equal 0 0 1
+on,A/N,on-rel 0 1
+on,A\N,on-rel 1 0
+on,P/N,kb-ignore 0 0
+on,P/P,kb-ignore 0 0
+on,P\N,kb-ignore 0 0
+on,P\P,kb-ignore 0 0
+southern,N/N,southern 0 0
+southern,N/N,kb-ignore 0 0
+southern,N/P,southern-rel 0 1
+southern,N,southern 0 0
+capital,N/P,capital-rel 0 1
+capital,N,capital 0 0
+capital,N/N,capital 0 0
+tip,N/P,tip-rel 0 1
+tip,N,tip 0 0
+tip,N/N,tip 0 0
+northern,N/N,northern 0 0
+northern,N/N,kb-ignore 0 0
+northern,N/P,northern-rel 0 1
+northern,N,northern 0 0
+east,N/N,east 0 0
+east,N/N,kb-ignore 0 0
+east,N/P,east-rel 0 1
+east,N,east 0 0
+a,N,kb-ignore 0 0
+a,N/N,kb-ignore 0 0
+Florida,N,kb-Florida 0 0
+Florida,N/N,kb-Florida 0 0
+Tallahassee,N,kb-Tallahassee 0 0
+Tallahassee,N/N,kb-Tallahassee 0 0
+Miami,N,kb-Miami 0 0
+Miami,N/N,kb-Miami 0 0
+Everglades National Park,N,kb-Everglades_National_Park 0 0
+Everglades National Park,N/N,kb-Everglades_National_Park 0 0
+Key Largo,N,kb-Key_Largo 0 0
+Key Largo,N/N,kb-Key_Largo 0 0
+Daytona Beach,N,kb-Daytona_Beach 0 0
+Daytona Beach,N/N,kb-Daytona_Beach 0 0
+Georgia,N,kb-Georgia 0 0
+Georgia,N/N,kb-Georgia 0 0
+Atlanta,N,kb-Atlanta 0 0
+Atlanta,N/N,kb-Atlanta 0 0

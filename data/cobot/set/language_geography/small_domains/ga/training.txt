@@ -1,0 +1,25 @@
+what states are there ?;Georgia,Alabama;0;(lambda $x (and (state $x)))
+what state is west of Georgia ?;Alabama;1;(lambda $x (exists $y (and (state $x) (west-rel $x $y) (kb-Georgia $y))))
+what state is east of Alabama ?;Georgia;1;(lambda $x (exists $y (and (state $x) (east-rel $x $y) (kb-Alabama $y))))
+what state borders Alabama ?;Georgia;1;(lambda $x (exists $y (and (state $x) (border-rel $x $y) (kb-Alabama $y))))
+what state borders Georgia ?;Alabama;1;(lambda $x (exists $y (and (state $x) (border-rel $x $y) (kb-Georgia $y))))
+what cities are there ?;Atlanta,Macon,Montgomery,Birmingham;0;(lambda $x (and (city $x)))
+what cities are in Alabama ?;Montgomery,Birmingham;1;(lambda $x (exists $y (and (city $x) (in-rel $x $y) (kb-Alabama $y))))
+what cities are in Georgia ?;Atlanta,Macon;1;(lambda $x (exists $y (and (city $x) (in-rel $x $y) (kb-Georgia $y))))
+what state is Atlanta in ?;Georgia;1;(lambda $x (exists $y (and (state $x) (in-rel $y $x) (kb-Atlanta $y))))
+what state is Macon in ?;Georgia;1;(lambda $x (exists $y (and (state $x) (in-rel $y $x) (kb-Macon $y))))
+what state is Montgomery in ?;Alabama;1;(lambda $x (exists $y (and (state $x) (in-rel $y $x) (kb-Montgomery $y))))
+what state is Birmingham in ?;Alabama;1;(lambda $x (exists $y (and (state $x) (in-rel $y $x) (kb-Birmingham $y))))
+what city is south of Birmingham ?;Montgomery;1;(lambda $x (exists $y (and (city $x) (south-rel $x $y) (kb-Birmingham $y))))
+what city is south of Atlanta ?;Macon;1;(lambda $x (exists $y (and (city $x) (south-rel $x $y) (kb-Atlanta $y))))
+what city is north of Macon ?;Atlanta;1;(lambda $x (exists $y (and (city $x) (north-rel $x $y) (kb-Macon $y))))
+what city is north of Montgomery ?;Birmingham;1;(lambda $x (exists $y (and (city $x) (north-rel $x $y) (kb-Montgomery $y))))
+what is the southernmost city in Alabama ?;Montgomery;4
+what is the southernmost city in Georgia ?;Macon;4
+what is the farthest city from Birmingham ?;Macon;4
+what is the farthest city from Macon ?;Birmingham;4
+what is the closest city to Birmingham ?;Montgomery;4
+what is the closest city to Atlanta ?;Macon;4
+what cities are in states that border Alabama ?;Atlanta,Macon;3;(lambda $x (exists $y $z (and (city $x) (in-rel $x $y) (state $y) (border-rel $y $z) (kb-Alabama $z))))
+what cities are in states that border Georgia ?;Birmingham,Montgomery;3;(lambda $x (exists $y $z (and (city $x) (in-rel $x $y) (state $y) (border-rel $y $z) (kb-Georgia $z))))
+what city is north of Montgomery in the state bordering Georgia ?;Birmingham;3;(lambda $x (exists $w $y $z (and (city $x) (north-rel $x $y) (kb-Montgomery $y) (in-rel $x $w) (state $w) (border-rel $w $z) (kb-Georgia $z))))

@@ -1,0 +1,2281 @@
+Detroit,Detroit,T,arg1 and attended arg2,1
+Detroit,Detroit,T,arg1 being arg2,1
+Detroit,Detroit,T,arg1 is located in arg2,1
+Detroit,Detroit,T,arg1 or nationwide companies that service arg2,1
+Detroit,Detroit,T,arg1 until arg2,1
+Detroit,Detroit,T,arg1 was given the name arg2,1
+Detroit,Detroit,T,arg1 which includes the cities of arg2,1
+Detroit,Detroit,T,arg1 will be arg2,1
+Detroit,Detroit,T,arg1 win in arg2,1
+Detroit,Detroit,T,arg1 writing jobs arg2,1
+Detroit,Detroit,T,arg2 and attended arg1,1
+Detroit,Detroit,T,arg2 being arg1,1
+Detroit,Detroit,T,arg2 is located in arg1,1
+Detroit,Detroit,T,arg2 or nationwide companies that service arg1,1
+Detroit,Detroit,T,arg2 until arg1,1
+Detroit,Detroit,T,arg2 vacation homes or houses in arg1,1
+Detroit,Detroit,T,arg2 was given the name arg1,1
+Detroit,Detroit,T,arg2 which includes the cities of arg1,1
+Detroit,Detroit,T,arg2 will be arg1,1
+Detroit,Detroit,T,arg2 win in arg1,1
+Detroit,Detroit,T,arg2 writing jobs arg1,1
+Detroit,Detroit,T,bias,1.0
+Detroit,Detroit,T,entity1=entity2,1
+Detroit,Detroit,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Detroit,Detroit,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Detroit,Detroit,T,F_avsResult_0_-1_f_l,0.0129816554845
+Detroit,Detroit,T,F_avsResult_0_1_f_l,0.0129816554845
+Detroit,Detroit,T,F_avsResult_0_-1_l_f,0.0129816554845
+Detroit,Detroit,T,F_avsResult_0_1_l_f,0.0129816554845
+Detroit,Detroit,T,F_avsResult_1_0_f_l,0.229074179611
+Detroit,Detroit,T,F_avsResult_-1_0_f_l,0.304846057296
+Detroit,Detroit,T,F_avsResult_1_0_l_f,0.229074179611
+Detroit,Detroit,T,F_avsResult_-1_0_l_f,0.304846057296
+Detroit,Detroit,T,F_avsResult_inside_0_-1_f_l,0.0129816554845
+Detroit,Detroit,T,F_avsResult_inside_0_1_f_l,0.0129816554845
+Detroit,Detroit,T,F_avsResult_inside_0_-1_l_f,0.0129816554845
+Detroit,Detroit,T,F_avsResult_inside_0_1_l_f,0.0129816554845
+Detroit,Detroit,T,F_avsResult_inside_1_0_f_l,0.229074179611
+Detroit,Detroit,T,F_avsResult_inside_-1_0_f_l,0.304846057296
+Detroit,Detroit,T,F_avsResult_inside_1_0_l_f,0.229074179611
+Detroit,Detroit,T,F_avsResult_inside_-1_0_l_f,0.304846057296
+Detroit,Detroit,T,F_math2dFigureIntersectionArea_f_l,1.0
+Detroit,Detroit,T,F_math2dFigureIntersectionArea_l_f,1.0
+Detroit,Detroit,T,F_math2dIntersectionArea_f_l,1.0
+Detroit,Detroit,T,F_math2dIntersectionArea_l_f,1.0
+Detroit,Detroit,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Detroit,Detroit,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Detroit,Grand Rapids,T,arg1 and raised in arg2,1
+Detroit,Grand Rapids,T,arg1 and then home to arg2,1
+Detroit,Grand Rapids,T,arg1 area and arg2,1
+Detroit,Grand Rapids,T,arg1 back to arg2,1
+Detroit,Grand Rapids,T,arg1 beyond arg2,1
+Detroit,Grand Rapids,T,arg1 metro area and arg2,1
+Detroit,Grand Rapids,T,arg1 to rural arg2,1
+Detroit,Grand Rapids,T,arg2 and back in arg1,1
+Detroit,Grand Rapids,T,arg2 and ended up in arg1,1
+Detroit,Grand Rapids,T,arg2 and growing up in arg1,1
+Detroit,Grand Rapids,T,arg2 instead of arg1,1
+Detroit,Grand Rapids,T,bias,1.0
+Detroit,Grand Rapids,T,F_aboveFigureCentroid_f_l,1.0
+Detroit,Grand Rapids,T,F_avsResult_0_-1_f_l,0.326616644445
+Detroit,Grand Rapids,T,F_avsResult_0_1_f_l,0.326616644445
+Detroit,Grand Rapids,T,F_avsResult_0_-1_l_f,0.17691902912
+Detroit,Grand Rapids,T,F_avsResult_0_1_l_f,0.17691902912
+Detroit,Grand Rapids,T,F_avsResult_1_0_f_l,0.0170249550327
+Detroit,Grand Rapids,T,F_avsResult_-1_0_f_l,0.691901534183
+Detroit,Grand Rapids,T,F_avsResult_-1_0_l_f,0.0168132035231
+Detroit,Grand Rapids,T,F_avsResult_1_0_l_f,0.69833986387
+Detroit,Grand Rapids,T,F_avsResult_outside_0_-1_f_l,0.326616644445
+Detroit,Grand Rapids,T,F_avsResult_outside_0_1_f_l,0.326616644445
+Detroit,Grand Rapids,T,F_avsResult_outside_0_-1_l_f,0.17691902912
+Detroit,Grand Rapids,T,F_avsResult_outside_0_1_l_f,0.17691902912
+Detroit,Grand Rapids,T,F_avsResult_outside_1_0_f_l,0.0170249550327
+Detroit,Grand Rapids,T,F_avsResult_outside_-1_0_f_l,0.691901534183
+Detroit,Grand Rapids,T,F_avsResult_outside_-1_0_l_f,0.0168132035231
+Detroit,Grand Rapids,T,F_avsResult_outside_1_0_l_f,0.69833986387
+Detroit,Grand Rapids,T,F_belowFigureCentroid_l_f,1.0
+Detroit,Grand Rapids,T,F_closeDistNormFigure_f_l,1.0
+Detroit,Grand Rapids,T,F_closeDistNormFigure_l_f,1.0
+Detroit,Grand Rapids,T,F_closeDistNormLandmark_f_l,1.0
+Detroit,Grand Rapids,T,F_closeDistNormLandmark_l_f,1.0
+Detroit,Grand Rapids,T,F_closeDistNormUnion_f_l,1.0
+Detroit,Grand Rapids,T,F_closeDistNormUnion_l_f,1.0
+Detroit,Grand Rapids,T,F_distBtwnCentroids_f_l,1.19409233546
+Detroit,Grand Rapids,T,F_distBtwnCentroids_l_f,1.19409233546
+Detroit,Grand Rapids,T,F_distHorizontalCentroid_f_l,-1.16470987232
+Detroit,Grand Rapids,T,F_distHorizontalCentroid_l_f,1.16470987232
+Detroit,Grand Rapids,T,F_distVerticalCentroid_f_l,0.263263022342
+Detroit,Grand Rapids,T,F_distVerticalCentroid_l_f,-0.263263022342
+Detroit,Grand Rapids,T,F_leftOfFigureCentroid_f_l,1.0
+Detroit,Grand Rapids,T,F_rightOfFigureCentroid_l_f,1.0
+Detroit,Lake Huron,T,arg1 and entered arg2,1
+Detroit,Lake Huron,T,arg1 and south of arg2,1
+Detroit,Lake Huron,T,arg1 river and arg2,1
+Detroit,Lake Huron,T,arg1 through arg2,1
+Detroit,Lake Huron,T,arg1 to the bottom of arg2,1
+Detroit,Lake Huron,T,arg2 and through arg1,1
+Detroit,Lake Huron,T,arg2 not far from arg1,1
+Detroit,Lake Huron,T,arg2 past arg1,1
+Detroit,Lake Huron,T,bias,1.0
+Detroit,Lake Huron,T,F_aboveFigureCentroid_f_l,1.0
+Detroit,Lake Huron,T,F_avsResult_0_-1_f_l,0.528252932806
+Detroit,Lake Huron,T,F_avsResult_0_1_f_l,0.528252932806
+Detroit,Lake Huron,T,F_avsResult_0_-1_l_f,0.0695737749156
+Detroit,Lake Huron,T,F_avsResult_0_1_l_f,0.0695737749156
+Detroit,Lake Huron,T,F_avsResult_-1_0_f_l,0.0910379427274
+Detroit,Lake Huron,T,F_avsResult_1_0_f_l,0.457828585234
+Detroit,Lake Huron,T,F_avsResult_1_0_l_f,0.0957206445455
+Detroit,Lake Huron,T,F_avsResult_-1_0_l_f,0.4724077068
+Detroit,Lake Huron,T,F_avsResult_-1_-1_f_l,0.281864541932
+Detroit,Lake Huron,T,F_avsResult_-1_1_f_l,0.281864541932
+Detroit,Lake Huron,T,F_avsResult_-1_-1_l_f,0.207701511794
+Detroit,Lake Huron,T,F_avsResult_-1_1_l_f,0.207701511794
+Detroit,Lake Huron,T,F_avsResult_outside_0_-1_f_l,0.528252932806
+Detroit,Lake Huron,T,F_avsResult_outside_0_1_f_l,0.528252932806
+Detroit,Lake Huron,T,F_avsResult_outside_0_-1_l_f,0.0695737749156
+Detroit,Lake Huron,T,F_avsResult_outside_0_1_l_f,0.0695737749156
+Detroit,Lake Huron,T,F_avsResult_outside_-1_0_f_l,0.0910379427274
+Detroit,Lake Huron,T,F_avsResult_outside_1_0_f_l,0.457828585234
+Detroit,Lake Huron,T,F_avsResult_outside_1_0_l_f,0.0957206445455
+Detroit,Lake Huron,T,F_avsResult_outside_-1_0_l_f,0.4724077068
+Detroit,Lake Huron,T,F_avsResult_outside_-1_-1_f_l,0.281864541932
+Detroit,Lake Huron,T,F_avsResult_outside_-1_1_f_l,0.281864541932
+Detroit,Lake Huron,T,F_avsResult_outside_-1_-1_l_f,0.207701511794
+Detroit,Lake Huron,T,F_avsResult_outside_-1_1_l_f,0.207701511794
+Detroit,Lake Huron,T,F_belowFigureCentroid_l_f,1.0
+Detroit,Lake Huron,T,F_closeDistNormFigure_f_l,1.0
+Detroit,Lake Huron,T,F_closeDistNormFigure_l_f,1.0
+Detroit,Lake Huron,T,F_closeDistNormLandmark_f_l,1.0
+Detroit,Lake Huron,T,F_closeDistNormLandmark_l_f,1.0
+Detroit,Lake Huron,T,F_closeDistNormUnion_f_l,1.0
+Detroit,Lake Huron,T,F_closeDistNormUnion_l_f,1.0
+Detroit,Lake Huron,T,F_distBtwnCentroids_f_l,0.830952118263
+Detroit,Lake Huron,T,F_distBtwnCentroids_l_f,0.830952118263
+Detroit,Lake Huron,T,F_distHorizontalCentroid_f_l,0.529295424722
+Detroit,Lake Huron,T,F_distHorizontalCentroid_l_f,-0.529295424722
+Detroit,Lake Huron,T,F_distVerticalCentroid_f_l,0.64056832283
+Detroit,Lake Huron,T,F_distVerticalCentroid_l_f,-0.64056832283
+Detroit,Lake Huron,T,F_leftOfFigureCentroid_l_f,1.0
+Detroit,Lake Huron,T,F_rightOfFigureCentroid_f_l,1.0
+Detroit,Lake Michigan,T,arg1 and along arg2,1
+Detroit,Lake Michigan,T,bias,1.0
+Detroit,Lake Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Detroit,Lake Michigan,T,F_avsResult_0_-1_f_l,0.438158209745
+Detroit,Lake Michigan,T,F_avsResult_0_1_f_l,0.438158209745
+Detroit,Lake Michigan,T,F_avsResult_0_-1_l_f,0.0604802178605
+Detroit,Lake Michigan,T,F_avsResult_0_1_l_f,0.0604802178605
+Detroit,Lake Michigan,T,F_avsResult_1_0_f_l,0.0269208884654
+Detroit,Lake Michigan,T,F_avsResult_-1_0_f_l,0.683589788788
+Detroit,Lake Michigan,T,F_avsResult_-1_0_l_f,0.028158148524
+Detroit,Lake Michigan,T,F_avsResult_1_0_l_f,0.603758994217
+Detroit,Lake Michigan,T,F_avsResult_1_-1_f_l,0.0776390030468
+Detroit,Lake Michigan,T,F_avsResult_1_1_f_l,0.0776390030468
+Detroit,Lake Michigan,T,F_avsResult_1_-1_l_f,0.25241082987
+Detroit,Lake Michigan,T,F_avsResult_1_1_l_f,0.25241082987
+Detroit,Lake Michigan,T,F_avsResult_outside_0_-1_f_l,0.438158209745
+Detroit,Lake Michigan,T,F_avsResult_outside_0_1_f_l,0.438158209745
+Detroit,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.0604802178605
+Detroit,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.0604802178605
+Detroit,Lake Michigan,T,F_avsResult_outside_1_0_f_l,0.0269208884654
+Detroit,Lake Michigan,T,F_avsResult_outside_-1_0_f_l,0.683589788788
+Detroit,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.028158148524
+Detroit,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.603758994217
+Detroit,Lake Michigan,T,F_avsResult_outside_1_-1_f_l,0.0776390030468
+Detroit,Lake Michigan,T,F_avsResult_outside_1_1_f_l,0.0776390030468
+Detroit,Lake Michigan,T,F_avsResult_outside_1_-1_l_f,0.25241082987
+Detroit,Lake Michigan,T,F_avsResult_outside_1_1_l_f,0.25241082987
+Detroit,Lake Michigan,T,F_belowFigureCentroid_l_f,1.0
+Detroit,Lake Michigan,T,F_closeDistNormFigure_f_l,1.0
+Detroit,Lake Michigan,T,F_closeDistNormFigure_l_f,1.0
+Detroit,Lake Michigan,T,F_closeDistNormLandmark_f_l,1.0
+Detroit,Lake Michigan,T,F_closeDistNormLandmark_l_f,1.0
+Detroit,Lake Michigan,T,F_closeDistNormUnion_f_l,1.0
+Detroit,Lake Michigan,T,F_closeDistNormUnion_l_f,1.0
+Detroit,Lake Michigan,T,F_distBtwnCentroids_f_l,0.174301380384
+Detroit,Lake Michigan,T,F_distBtwnCentroids_l_f,0.174301380384
+Detroit,Lake Michigan,T,F_distHorizontalCentroid_f_l,-0.159015578181
+Detroit,Lake Michigan,T,F_distHorizontalCentroid_l_f,0.159015578181
+Detroit,Lake Michigan,T,F_distVerticalCentroid_f_l,0.0713793884781
+Detroit,Lake Michigan,T,F_distVerticalCentroid_l_f,-0.0713793884781
+Detroit,Lake Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+Detroit,Lake Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+Detroit,Michigan,T,arg1 and across arg2,1
+Detroit,Michigan,T,arg1 and southeast arg2,1
+Detroit,Michigan,T,arg1 and southeastern arg2,1
+Detroit,Michigan,T,arg1 and the state of arg2,1
+Detroit,Michigan,T,arg1 and throughout arg2,1
+Detroit,Michigan,T,arg1 area and throughout arg2,1
+Detroit,Michigan,T,arg1 area of arg2,1
+Detroit,Michigan,T,arg1 is the largest city in arg2,1
+Detroit,Michigan,T,arg1 metro area of arg2,1
+Detroit,Michigan,T,arg2 and grew up in arg1,1
+Detroit,Michigan,T,arg2 and the city of arg1,1
+Detroit,Michigan,T,arg2 a suburb of arg1,1
+Detroit,Michigan,T,arg2 including arg1,1
+Detroit,Michigan,T,arg2 just outside of arg1,1
+Detroit,Michigan,T,arg2 outside arg1,1
+Detroit,Michigan,T,arg2 outside of arg1,1
+Detroit,Michigan,T,arg2 which includes arg1,1
+Detroit,Michigan,T,arg2 which is a suburb of arg1,1
+Detroit,Michigan,T,bias,1.0
+Detroit,Michigan,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Detroit,Michigan,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Detroit,Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Detroit,Michigan,T,F_avsResult_0_-1_f_l,0.542123790727
+Detroit,Michigan,T,F_avsResult_0_1_f_l,0.542123790727
+Detroit,Michigan,T,F_avsResult_0_-1_l_f,0.019928539344
+Detroit,Michigan,T,F_avsResult_0_1_l_f,0.019928539344
+Detroit,Michigan,T,F_avsResult_1_0_f_l,0.0505492474661
+Detroit,Michigan,T,F_avsResult_-1_0_f_l,0.588738220873
+Detroit,Michigan,T,F_avsResult_-1_0_l_f,0.0354021424672
+Detroit,Michigan,T,F_avsResult_1_0_l_f,0.239739303858
+Detroit,Michigan,T,F_avsResult_1_-1_f_l,0.197826498682
+Detroit,Michigan,T,F_avsResult_1_1_f_l,0.197826498682
+Detroit,Michigan,T,F_avsResult_inside_0_-1_l_f,0.019928539344
+Detroit,Michigan,T,F_avsResult_inside_0_1_l_f,0.019928539344
+Detroit,Michigan,T,F_avsResult_inside_-1_0_l_f,0.0354021424672
+Detroit,Michigan,T,F_avsResult_inside_1_0_l_f,0.239739303858
+Detroit,Michigan,T,F_avsResult_outside_0_-1_f_l,0.542123790727
+Detroit,Michigan,T,F_avsResult_outside_0_1_f_l,0.542123790727
+Detroit,Michigan,T,F_avsResult_outside_1_0_f_l,0.0505492474661
+Detroit,Michigan,T,F_avsResult_outside_-1_0_f_l,0.588738220873
+Detroit,Michigan,T,F_avsResult_outside_1_-1_f_l,0.197826498682
+Detroit,Michigan,T,F_avsResult_outside_1_1_f_l,0.197826498682
+Detroit,Michigan,T,F_belowFigureCentroid_l_f,1.0
+Detroit,Michigan,T,F_distBtwnCentroids_f_l,0.0735180938303
+Detroit,Michigan,T,F_distBtwnCentroids_l_f,0.0735180938303
+Detroit,Michigan,T,F_distHorizontalCentroid_f_l,-0.055877563427
+Detroit,Michigan,T,F_distHorizontalCentroid_l_f,0.055877563427
+Detroit,Michigan,T,F_distVerticalCentroid_f_l,0.0477766472862
+Detroit,Michigan,T,F_distVerticalCentroid_l_f,-0.0477766472862
+Detroit,Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+Detroit,Michigan,T,F_math2dFigureIntersectionArea_f_l,0.954864476728
+Detroit,Michigan,T,F_math2dFigureIntersectionArea_l_f,0.00155583398692
+Detroit,Michigan,T,F_math2dIntersectionArea_f_l,0.00155571957499
+Detroit,Michigan,T,F_math2dIntersectionArea_l_f,0.00155571957499
+Detroit,Michigan,T,F_math2dLandmarkIntersectionArea_f_l,0.00155583398692
+Detroit,Michigan,T,F_math2dLandmarkIntersectionArea_l_f,0.954864476728
+Detroit,Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+Detroit,Milwaukee,T,arg1 beats arg2,1
+Detroit,Milwaukee,T,arg1 before moving to arg2,1
+Detroit,Milwaukee,T,arg1 handed arg2,1
+Detroit,Milwaukee,T,arg1 outscored arg2,1
+Detroit,Milwaukee,T,arg1 smashed arg2,1
+Detroit,Milwaukee,T,arg2 beat arg1,1
+Detroit,Milwaukee,T,arg2 cut arg1,1
+Detroit,Milwaukee,T,arg2 defeated arg1,1
+Detroit,Milwaukee,T,arg2 from becoming arg1,1
+Detroit,Milwaukee,T,arg2 heads to arg1,1
+Detroit,Milwaukee,T,arg2 is right up there with arg1,1
+Detroit,Milwaukee,T,arg2 was beaten by arg1,1
+Detroit,Milwaukee,T,bias,1.0
+Detroit,Milwaukee,T,F_aboveFigureCentroid_f_l,1.0
+Detroit,Milwaukee,T,F_avsResult_0_-1_f_l,0.318298602529
+Detroit,Milwaukee,T,F_avsResult_0_1_f_l,0.318298602529
+Detroit,Milwaukee,T,F_avsResult_0_-1_l_f,0.178648689639
+Detroit,Milwaukee,T,F_avsResult_0_1_l_f,0.178648689639
+Detroit,Milwaukee,T,F_avsResult_1_0_f_l,0.00775887000687
+Detroit,Milwaukee,T,F_avsResult_-1_0_f_l,0.783036482735
+Detroit,Milwaukee,T,F_avsResult_-1_0_l_f,0.00750219375105
+Detroit,Milwaukee,T,F_avsResult_1_0_l_f,0.786053144023
+Detroit,Milwaukee,T,F_avsResult_outside_0_-1_f_l,0.318298602529
+Detroit,Milwaukee,T,F_avsResult_outside_0_1_f_l,0.318298602529
+Detroit,Milwaukee,T,F_avsResult_outside_0_-1_l_f,0.178648689639
+Detroit,Milwaukee,T,F_avsResult_outside_0_1_l_f,0.178648689639
+Detroit,Milwaukee,T,F_avsResult_outside_1_0_f_l,0.00775887000687
+Detroit,Milwaukee,T,F_avsResult_outside_-1_0_f_l,0.783036482735
+Detroit,Milwaukee,T,F_avsResult_outside_-1_0_l_f,0.00750219375105
+Detroit,Milwaukee,T,F_avsResult_outside_1_0_l_f,0.786053144023
+Detroit,Milwaukee,T,F_belowFigureCentroid_l_f,1.0
+Detroit,Milwaukee,T,F_closeDistNormFigure_f_l,1.0
+Detroit,Milwaukee,T,F_closeDistNormFigure_l_f,1.0
+Detroit,Milwaukee,T,F_closeDistNormLandmark_f_l,1.0
+Detroit,Milwaukee,T,F_closeDistNormLandmark_l_f,1.0
+Detroit,Milwaukee,T,F_closeDistNormUnion_f_l,1.0
+Detroit,Milwaukee,T,F_closeDistNormUnion_l_f,1.0
+Detroit,Milwaukee,T,F_distBtwnCentroids_f_l,1.01760868351
+Detroit,Milwaukee,T,F_distBtwnCentroids_l_f,1.01760868351
+Detroit,Milwaukee,T,F_distHorizontalCentroid_f_l,-1.00784100113
+Detroit,Milwaukee,T,F_distHorizontalCentroid_l_f,1.00784100113
+Detroit,Milwaukee,T,F_distVerticalCentroid_f_l,0.140655427184
+Detroit,Milwaukee,T,F_distVerticalCentroid_l_f,-0.140655427184
+Detroit,Milwaukee,T,F_leftOfFigureCentroid_f_l,1.0
+Detroit,Milwaukee,T,F_rightOfFigureCentroid_l_f,1.0
+Detroit,Wisconsin,T,arg1 and arrived in arg2,1
+Detroit,Wisconsin,T,arg1 and rural arg2,1
+Detroit,Wisconsin,T,arg1 and southern arg2,1
+Detroit,Wisconsin,T,arg1 to rural arg2,1
+Detroit,Wisconsin,T,arg2 and inner city arg1,1
+Detroit,Wisconsin,T,arg2 and suburban arg1,1
+Detroit,Wisconsin,T,arg2 and urban arg1,1
+Detroit,Wisconsin,T,bias,1.0
+Detroit,Wisconsin,T,F_aboveFigureCentroid_f_l,1.0
+Detroit,Wisconsin,T,F_avsResult_0_-1_f_l,0.439190235419
+Detroit,Wisconsin,T,F_avsResult_0_1_f_l,0.439190235419
+Detroit,Wisconsin,T,F_avsResult_0_-1_l_f,0.0710919734633
+Detroit,Wisconsin,T,F_avsResult_0_1_l_f,0.0710919734633
+Detroit,Wisconsin,T,F_avsResult_1_0_f_l,0.0146840079945
+Detroit,Wisconsin,T,F_avsResult_-1_0_f_l,0.763538989646
+Detroit,Wisconsin,T,F_avsResult_-1_0_l_f,0.0103396804017
+Detroit,Wisconsin,T,F_avsResult_1_0_l_f,0.712819871736
+Detroit,Wisconsin,T,F_avsResult_1_-1_f_l,0.0303875121441
+Detroit,Wisconsin,T,F_avsResult_1_1_f_l,0.0303875121441
+Detroit,Wisconsin,T,F_avsResult_1_-1_l_f,0.472142376966
+Detroit,Wisconsin,T,F_avsResult_1_1_l_f,0.472142376966
+Detroit,Wisconsin,T,F_avsResult_outside_0_-1_f_l,0.439190235419
+Detroit,Wisconsin,T,F_avsResult_outside_0_1_f_l,0.439190235419
+Detroit,Wisconsin,T,F_avsResult_outside_0_-1_l_f,0.0710919734633
+Detroit,Wisconsin,T,F_avsResult_outside_0_1_l_f,0.0710919734633
+Detroit,Wisconsin,T,F_avsResult_outside_1_0_f_l,0.0146840079945
+Detroit,Wisconsin,T,F_avsResult_outside_-1_0_f_l,0.763538989646
+Detroit,Wisconsin,T,F_avsResult_outside_-1_0_l_f,0.0103396804017
+Detroit,Wisconsin,T,F_avsResult_outside_1_0_l_f,0.712819871736
+Detroit,Wisconsin,T,F_avsResult_outside_1_-1_f_l,0.0303875121441
+Detroit,Wisconsin,T,F_avsResult_outside_1_1_f_l,0.0303875121441
+Detroit,Wisconsin,T,F_avsResult_outside_1_-1_l_f,0.472142376966
+Detroit,Wisconsin,T,F_avsResult_outside_1_1_l_f,0.472142376966
+Detroit,Wisconsin,T,F_belowFigureCentroid_l_f,1.0
+Detroit,Wisconsin,T,F_closeDistNormFigure_f_l,1.0
+Detroit,Wisconsin,T,F_closeDistNormFigure_l_f,0.858087435013
+Detroit,Wisconsin,T,F_closeDistNormLandmark_f_l,0.858087435013
+Detroit,Wisconsin,T,F_closeDistNormLandmark_l_f,1.0
+Detroit,Wisconsin,T,F_closeDistNormUnion_f_l,0.856082944842
+Detroit,Wisconsin,T,F_closeDistNormUnion_l_f,0.856082944842
+Detroit,Wisconsin,T,F_distBtwnCentroids_f_l,0.157688304471
+Detroit,Wisconsin,T,F_distBtwnCentroids_l_f,0.157688304471
+Detroit,Wisconsin,T,F_distHorizontalCentroid_f_l,-0.149873098026
+Detroit,Wisconsin,T,F_distHorizontalCentroid_l_f,0.149873098026
+Detroit,Wisconsin,T,F_distVerticalCentroid_f_l,0.049027093072
+Detroit,Wisconsin,T,F_distVerticalCentroid_l_f,-0.049027093072
+Detroit,Wisconsin,T,F_leftOfFigureCentroid_f_l,1.0
+Detroit,Wisconsin,T,F_rightOfFigureCentroid_l_f,1.0
+Grand Rapids,Detroit,T,arg1 instead of arg2,1
+Grand Rapids,Detroit,T,arg2 and east of arg1,1
+Grand Rapids,Detroit,T,arg2 and one in arg1,1
+Grand Rapids,Detroit,T,arg2 and perhaps arg1,1
+Grand Rapids,Detroit,T,arg2 and raised in arg1,1
+Grand Rapids,Detroit,T,arg2 and then home to arg1,1
+Grand Rapids,Detroit,T,arg2 area and arg1,1
+Grand Rapids,Detroit,T,arg2 back to arg1,1
+Grand Rapids,Detroit,T,arg2 beyond arg1,1
+Grand Rapids,Detroit,T,arg2 metro area and arg1,1
+Grand Rapids,Detroit,T,arg2 to rural arg1,1
+Grand Rapids,Detroit,T,bias,1.0
+Grand Rapids,Detroit,T,F_aboveFigureCentroid_l_f,1.0
+Grand Rapids,Detroit,T,F_avsResult_0_-1_f_l,0.17691902912
+Grand Rapids,Detroit,T,F_avsResult_0_1_f_l,0.17691902912
+Grand Rapids,Detroit,T,F_avsResult_0_-1_l_f,0.326616644445
+Grand Rapids,Detroit,T,F_avsResult_0_1_l_f,0.326616644445
+Grand Rapids,Detroit,T,F_avsResult_-1_0_f_l,0.0168132035231
+Grand Rapids,Detroit,T,F_avsResult_1_0_f_l,0.69833986387
+Grand Rapids,Detroit,T,F_avsResult_1_0_l_f,0.0170249550327
+Grand Rapids,Detroit,T,F_avsResult_-1_0_l_f,0.691901534183
+Grand Rapids,Detroit,T,F_avsResult_outside_0_-1_f_l,0.17691902912
+Grand Rapids,Detroit,T,F_avsResult_outside_0_1_f_l,0.17691902912
+Grand Rapids,Detroit,T,F_avsResult_outside_0_-1_l_f,0.326616644445
+Grand Rapids,Detroit,T,F_avsResult_outside_0_1_l_f,0.326616644445
+Grand Rapids,Detroit,T,F_avsResult_outside_-1_0_f_l,0.0168132035231
+Grand Rapids,Detroit,T,F_avsResult_outside_1_0_f_l,0.69833986387
+Grand Rapids,Detroit,T,F_avsResult_outside_1_0_l_f,0.0170249550327
+Grand Rapids,Detroit,T,F_avsResult_outside_-1_0_l_f,0.691901534183
+Grand Rapids,Detroit,T,F_belowFigureCentroid_f_l,1.0
+Grand Rapids,Detroit,T,F_closeDistNormFigure_f_l,1.0
+Grand Rapids,Detroit,T,F_closeDistNormFigure_l_f,1.0
+Grand Rapids,Detroit,T,F_closeDistNormLandmark_f_l,1.0
+Grand Rapids,Detroit,T,F_closeDistNormLandmark_l_f,1.0
+Grand Rapids,Detroit,T,F_closeDistNormUnion_f_l,1.0
+Grand Rapids,Detroit,T,F_closeDistNormUnion_l_f,1.0
+Grand Rapids,Detroit,T,F_distBtwnCentroids_f_l,1.19409233546
+Grand Rapids,Detroit,T,F_distBtwnCentroids_l_f,1.19409233546
+Grand Rapids,Detroit,T,F_distHorizontalCentroid_f_l,1.16470987232
+Grand Rapids,Detroit,T,F_distHorizontalCentroid_l_f,-1.16470987232
+Grand Rapids,Detroit,T,F_distVerticalCentroid_f_l,-0.263263022342
+Grand Rapids,Detroit,T,F_distVerticalCentroid_l_f,0.263263022342
+Grand Rapids,Detroit,T,F_leftOfFigureCentroid_l_f,1.0
+Grand Rapids,Detroit,T,F_rightOfFigureCentroid_f_l,1.0
+Grand Rapids,Grand Rapids,T,arg1 classified ads around arg2,1
+Grand Rapids,Grand Rapids,T,arg1 industrial real estate categories including arg2,1
+Grand Rapids,Grand Rapids,T,arg1 needs arg2,1
+Grand Rapids,Grand Rapids,T,arg1 office space categories including arg2,1
+Grand Rapids,Grand Rapids,T,arg1 or relocating outside arg2,1
+Grand Rapids,Grand Rapids,T,arg1 or sending flowers to arg2,1
+Grand Rapids,Grand Rapids,T,arg1 or shipped to arg2,1
+Grand Rapids,Grand Rapids,T,arg1 personal injury lawyer visit our arg2,1
+Grand Rapids,Grand Rapids,T,arg1 properties or browse arg2,1
+Grand Rapids,Grand Rapids,T,arg1 real estate or apartments in arg2,1
+Grand Rapids,Grand Rapids,T,arg1 single men and arg2,1
+Grand Rapids,Grand Rapids,T,arg1 singles groups and arg2,1
+Grand Rapids,Grand Rapids,T,arg1 started in arg2,1
+Grand Rapids,Grand Rapids,T,arg1 to help you move within arg2,1
+Grand Rapids,Grand Rapids,T,arg1 used and arg2,1
+Grand Rapids,Grand Rapids,T,arg1 vacation homes or houses in arg2,1
+Grand Rapids,Grand Rapids,T,arg2 classified ads around arg1,1
+Grand Rapids,Grand Rapids,T,arg2 guests and families in arg1,1
+Grand Rapids,Grand Rapids,T,arg2 industrial real estate categories including arg1,1
+Grand Rapids,Grand Rapids,T,arg2 in the greater arg1,1
+Grand Rapids,Grand Rapids,T,arg2 needs arg1,1
+Grand Rapids,Grand Rapids,T,arg2 office space categories including arg1,1
+Grand Rapids,Grand Rapids,T,arg2 or relocating outside arg1,1
+Grand Rapids,Grand Rapids,T,arg2 or sending flowers to arg1,1
+Grand Rapids,Grand Rapids,T,arg2 or shipped to arg1,1
+Grand Rapids,Grand Rapids,T,arg2 personal injury lawyer visit our arg1,1
+Grand Rapids,Grand Rapids,T,arg2 properties or browse arg1,1
+Grand Rapids,Grand Rapids,T,arg2 real estate or apartments in arg1,1
+Grand Rapids,Grand Rapids,T,arg2 single men and arg1,1
+Grand Rapids,Grand Rapids,T,arg2 singles groups and arg1,1
+Grand Rapids,Grand Rapids,T,arg2 started in arg1,1
+Grand Rapids,Grand Rapids,T,arg2 to help you move within arg1,1
+Grand Rapids,Grand Rapids,T,arg2 used and arg1,1
+Grand Rapids,Grand Rapids,T,arg2 vacation homes or houses in arg1,1
+Grand Rapids,Grand Rapids,T,bias,1.0
+Grand Rapids,Grand Rapids,T,entity1=entity2,1
+Grand Rapids,Grand Rapids,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Grand Rapids,Grand Rapids,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Grand Rapids,Grand Rapids,T,F_avsResult_0_-1_f_l,0.47705608321
+Grand Rapids,Grand Rapids,T,F_avsResult_0_1_f_l,0.47705608321
+Grand Rapids,Grand Rapids,T,F_avsResult_0_-1_l_f,0.47705608321
+Grand Rapids,Grand Rapids,T,F_avsResult_0_1_l_f,0.47705608321
+Grand Rapids,Grand Rapids,T,F_avsResult_1_0_f_l,0.0485496977564
+Grand Rapids,Grand Rapids,T,F_avsResult_-1_0_f_l,0.324702109607
+Grand Rapids,Grand Rapids,T,F_avsResult_1_0_l_f,0.0485496977564
+Grand Rapids,Grand Rapids,T,F_avsResult_-1_0_l_f,0.324702109607
+Grand Rapids,Grand Rapids,T,F_avsResult_1_-1_f_l,0.1836961855
+Grand Rapids,Grand Rapids,T,F_avsResult_1_1_f_l,0.1836961855
+Grand Rapids,Grand Rapids,T,F_avsResult_1_-1_l_f,0.1836961855
+Grand Rapids,Grand Rapids,T,F_avsResult_1_1_l_f,0.1836961855
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_0_-1_f_l,0.47705608321
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_0_1_f_l,0.47705608321
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_0_-1_l_f,0.47705608321
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_0_1_l_f,0.47705608321
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_1_0_f_l,0.0485496977564
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_-1_0_f_l,0.324702109607
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_1_0_l_f,0.0485496977564
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_-1_0_l_f,0.324702109607
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_1_-1_f_l,0.1836961855
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_1_1_f_l,0.1836961855
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_1_-1_l_f,0.1836961855
+Grand Rapids,Grand Rapids,T,F_avsResult_inside_1_1_l_f,0.1836961855
+Grand Rapids,Grand Rapids,T,F_math2dFigureIntersectionArea_f_l,1.0
+Grand Rapids,Grand Rapids,T,F_math2dFigureIntersectionArea_l_f,1.0
+Grand Rapids,Grand Rapids,T,F_math2dIntersectionArea_f_l,1.0
+Grand Rapids,Grand Rapids,T,F_math2dIntersectionArea_l_f,1.0
+Grand Rapids,Grand Rapids,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Grand Rapids,Grand Rapids,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Grand Rapids,Lake Huron,T,bias,1.0
+Grand Rapids,Lake Huron,T,F_aboveFigureCentroid_f_l,1.0
+Grand Rapids,Lake Huron,T,F_avsResult_0_-1_f_l,0.353689596956
+Grand Rapids,Lake Huron,T,F_avsResult_0_1_f_l,0.353689596956
+Grand Rapids,Lake Huron,T,F_avsResult_0_-1_l_f,0.159996857061
+Grand Rapids,Lake Huron,T,F_avsResult_0_1_l_f,0.159996857061
+Grand Rapids,Lake Huron,T,F_avsResult_-1_0_f_l,0.015060503058
+Grand Rapids,Lake Huron,T,F_avsResult_1_0_f_l,0.736648187269
+Grand Rapids,Lake Huron,T,F_avsResult_1_0_l_f,0.015089805006
+Grand Rapids,Lake Huron,T,F_avsResult_-1_0_l_f,0.739138018787
+Grand Rapids,Lake Huron,T,F_avsResult_outside_0_-1_f_l,0.353689596956
+Grand Rapids,Lake Huron,T,F_avsResult_outside_0_1_f_l,0.353689596956
+Grand Rapids,Lake Huron,T,F_avsResult_outside_0_-1_l_f,0.159996857061
+Grand Rapids,Lake Huron,T,F_avsResult_outside_0_1_l_f,0.159996857061
+Grand Rapids,Lake Huron,T,F_avsResult_outside_-1_0_f_l,0.015060503058
+Grand Rapids,Lake Huron,T,F_avsResult_outside_1_0_f_l,0.736648187269
+Grand Rapids,Lake Huron,T,F_avsResult_outside_1_0_l_f,0.015089805006
+Grand Rapids,Lake Huron,T,F_avsResult_outside_-1_0_l_f,0.739138018787
+Grand Rapids,Lake Huron,T,F_belowFigureCentroid_l_f,1.0
+Grand Rapids,Lake Huron,T,F_closeDistNormFigure_f_l,1.0
+Grand Rapids,Lake Huron,T,F_closeDistNormFigure_l_f,1.0
+Grand Rapids,Lake Huron,T,F_closeDistNormLandmark_f_l,1.0
+Grand Rapids,Lake Huron,T,F_closeDistNormLandmark_l_f,1.0
+Grand Rapids,Lake Huron,T,F_closeDistNormUnion_f_l,1.0
+Grand Rapids,Lake Huron,T,F_closeDistNormUnion_l_f,1.0
+Grand Rapids,Lake Huron,T,F_distBtwnCentroids_f_l,0.998115084628
+Grand Rapids,Lake Huron,T,F_distBtwnCentroids_l_f,0.998115084628
+Grand Rapids,Lake Huron,T,F_distHorizontalCentroid_f_l,0.970214394034
+Grand Rapids,Lake Huron,T,F_distHorizontalCentroid_l_f,-0.970214394034
+Grand Rapids,Lake Huron,T,F_distVerticalCentroid_f_l,0.234345368571
+Grand Rapids,Lake Huron,T,F_distVerticalCentroid_l_f,-0.234345368571
+Grand Rapids,Lake Huron,T,F_leftOfFigureCentroid_l_f,1.0
+Grand Rapids,Lake Huron,T,F_rightOfFigureCentroid_f_l,1.0
+Grand Rapids,Lake Michigan,T,arg1 and the beaches of arg2,1
+Grand Rapids,Lake Michigan,T,arg1 on the shore of arg2,1
+Grand Rapids,Lake Michigan,T,arg2 south of arg1,1
+Grand Rapids,Lake Michigan,T,arg2 west of arg1,1
+Grand Rapids,Lake Michigan,T,bias,1.0
+Grand Rapids,Lake Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Grand Rapids,Lake Michigan,T,F_avsResult_0_-1_f_l,0.470262122824
+Grand Rapids,Lake Michigan,T,F_avsResult_0_1_f_l,0.470262122824
+Grand Rapids,Lake Michigan,T,F_avsResult_0_-1_l_f,0.0381281400707
+Grand Rapids,Lake Michigan,T,F_avsResult_0_1_l_f,0.0381281400707
+Grand Rapids,Lake Michigan,T,F_avsResult_1_0_f_l,0.0852274226834
+Grand Rapids,Lake Michigan,T,F_avsResult_-1_0_f_l,0.47690049557
+Grand Rapids,Lake Michigan,T,F_avsResult_-1_0_l_f,0.0394080102701
+Grand Rapids,Lake Michigan,T,F_avsResult_1_0_l_f,0.369811769525
+Grand Rapids,Lake Michigan,T,F_avsResult_1_-1_f_l,0.23803874626
+Grand Rapids,Lake Michigan,T,F_avsResult_1_1_f_l,0.23803874626
+Grand Rapids,Lake Michigan,T,F_avsResult_outside_0_-1_f_l,0.470262122824
+Grand Rapids,Lake Michigan,T,F_avsResult_outside_0_1_f_l,0.470262122824
+Grand Rapids,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.0381281400707
+Grand Rapids,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.0381281400707
+Grand Rapids,Lake Michigan,T,F_avsResult_outside_1_0_f_l,0.0852274226834
+Grand Rapids,Lake Michigan,T,F_avsResult_outside_-1_0_f_l,0.47690049557
+Grand Rapids,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.0394080102701
+Grand Rapids,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.369811769525
+Grand Rapids,Lake Michigan,T,F_avsResult_outside_1_-1_f_l,0.23803874626
+Grand Rapids,Lake Michigan,T,F_avsResult_outside_1_1_f_l,0.23803874626
+Grand Rapids,Lake Michigan,T,F_belowFigureCentroid_l_f,1.0
+Grand Rapids,Lake Michigan,T,F_closeDistNormFigure_f_l,1.0
+Grand Rapids,Lake Michigan,T,F_closeDistNormFigure_l_f,0.0341887849542
+Grand Rapids,Lake Michigan,T,F_closeDistNormLandmark_f_l,0.0341887849542
+Grand Rapids,Lake Michigan,T,F_closeDistNormLandmark_l_f,1.0
+Grand Rapids,Lake Michigan,T,F_closeDistNormUnion_f_l,0.0341214165724
+Grand Rapids,Lake Michigan,T,F_closeDistNormUnion_l_f,0.0341214165724
+Grand Rapids,Lake Michigan,T,F_distBtwnCentroids_f_l,0.104973074428
+Grand Rapids,Lake Michigan,T,F_distBtwnCentroids_l_f,0.104973074428
+Grand Rapids,Lake Michigan,T,F_distHorizontalCentroid_f_l,-0.0753876996194
+Grand Rapids,Lake Michigan,T,F_distHorizontalCentroid_l_f,0.0753876996194
+Grand Rapids,Lake Michigan,T,F_distVerticalCentroid_f_l,0.073048210799
+Grand Rapids,Lake Michigan,T,F_distVerticalCentroid_l_f,-0.073048210799
+Grand Rapids,Lake Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+Grand Rapids,Lake Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+Grand Rapids,Michigan,T,arg1 and other locations in arg2,1
+Grand Rapids,Michigan,T,arg1 and throughout arg2,1
+Grand Rapids,Michigan,T,arg1 and western arg2,1
+Grand Rapids,Michigan,T,arg1 area in arg2,1
+Grand Rapids,Michigan,T,arg1 area of arg2,1
+Grand Rapids,Michigan,T,arg1 areas of arg2,1
+Grand Rapids,Michigan,T,arg1 escorts in arg2,1
+Grand Rapids,Michigan,T,arg1 in the state of arg2,1
+Grand Rapids,Michigan,T,arg2 cities like arg1,1
+Grand Rapids,Michigan,T,arg2 include arg1,1
+Grand Rapids,Michigan,T,arg2 including arg1,1
+Grand Rapids,Michigan,T,arg2 outside of arg1,1
+Grand Rapids,Michigan,T,arg2 together in arg1,1
+Grand Rapids,Michigan,T,arg2 town near arg1,1
+Grand Rapids,Michigan,T,arg2 which is right outside of arg1,1
+Grand Rapids,Michigan,T,arg2 with branches in arg1,1
+Grand Rapids,Michigan,T,bias,1.0
+Grand Rapids,Michigan,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Grand Rapids,Michigan,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Grand Rapids,Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Grand Rapids,Michigan,T,F_avsResult_0_-1_f_l,0.671195376088
+Grand Rapids,Michigan,T,F_avsResult_0_1_f_l,0.671195376088
+Grand Rapids,Michigan,T,F_avsResult_0_-1_l_f,0.000727675591994
+Grand Rapids,Michigan,T,F_avsResult_0_1_l_f,0.000727675591994
+Grand Rapids,Michigan,T,F_avsResult_1_0_f_l,0.199111208405
+Grand Rapids,Michigan,T,F_avsResult_-1_0_f_l,0.292674145134
+Grand Rapids,Michigan,T,F_avsResult_1_0_l_f,0.023735051963
+Grand Rapids,Michigan,T,F_avsResult_-1_0_l_f,0.145237133984
+Grand Rapids,Michigan,T,F_avsResult_inside_0_-1_l_f,0.000727675591994
+Grand Rapids,Michigan,T,F_avsResult_inside_0_1_l_f,0.000727675591994
+Grand Rapids,Michigan,T,F_avsResult_inside_1_0_l_f,0.023735051963
+Grand Rapids,Michigan,T,F_avsResult_inside_-1_0_l_f,0.145237133984
+Grand Rapids,Michigan,T,F_avsResult_outside_0_-1_f_l,0.671195376088
+Grand Rapids,Michigan,T,F_avsResult_outside_0_1_f_l,0.671195376088
+Grand Rapids,Michigan,T,F_avsResult_outside_1_0_f_l,0.199111208405
+Grand Rapids,Michigan,T,F_avsResult_outside_-1_0_f_l,0.292674145134
+Grand Rapids,Michigan,T,F_belowFigureCentroid_l_f,1.0
+Grand Rapids,Michigan,T,F_distBtwnCentroids_f_l,0.0369816522916
+Grand Rapids,Michigan,T,F_distBtwnCentroids_l_f,0.0369816522916
+Grand Rapids,Michigan,T,F_distHorizontalCentroid_f_l,-0.00597183306956
+Grand Rapids,Michigan,T,F_distHorizontalCentroid_l_f,0.00597183306956
+Grand Rapids,Michigan,T,F_distVerticalCentroid_f_l,0.0364962986618
+Grand Rapids,Michigan,T,F_distVerticalCentroid_l_f,-0.0364962986618
+Grand Rapids,Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+Grand Rapids,Michigan,T,F_math2dFigureIntersectionArea_f_l,1.0
+Grand Rapids,Michigan,T,F_math2dFigureIntersectionArea_l_f,0.000501168591178
+Grand Rapids,Michigan,T,F_math2dIntersectionArea_f_l,0.000501168591178
+Grand Rapids,Michigan,T,F_math2dIntersectionArea_l_f,0.000501168591178
+Grand Rapids,Michigan,T,F_math2dLandmarkIntersectionArea_f_l,0.000501168591178
+Grand Rapids,Michigan,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Grand Rapids,Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+Grand Rapids,Milwaukee,T,arg2 and raised in arg1,1
+Grand Rapids,Milwaukee,T,bias,1.0
+Grand Rapids,Milwaukee,T,F_aboveFigureCentroid_f_l,1.0
+Grand Rapids,Milwaukee,T,F_avsResult_0_-1_f_l,0.25988071556
+Grand Rapids,Milwaukee,T,F_avsResult_0_1_f_l,0.25988071556
+Grand Rapids,Milwaukee,T,F_avsResult_0_-1_l_f,0.228325209602
+Grand Rapids,Milwaukee,T,F_avsResult_0_1_l_f,0.228325209602
+Grand Rapids,Milwaukee,T,F_avsResult_1_0_f_l,0.00373098633612
+Grand Rapids,Milwaukee,T,F_avsResult_-1_0_f_l,0.725905948161
+Grand Rapids,Milwaukee,T,F_avsResult_-1_0_l_f,0.00284231264114
+Grand Rapids,Milwaukee,T,F_avsResult_1_0_l_f,0.727845328289
+Grand Rapids,Milwaukee,T,F_avsResult_outside_0_-1_f_l,0.25988071556
+Grand Rapids,Milwaukee,T,F_avsResult_outside_0_1_f_l,0.25988071556
+Grand Rapids,Milwaukee,T,F_avsResult_outside_0_-1_l_f,0.228325209602
+Grand Rapids,Milwaukee,T,F_avsResult_outside_0_1_l_f,0.228325209602
+Grand Rapids,Milwaukee,T,F_avsResult_outside_1_0_f_l,0.00373098633612
+Grand Rapids,Milwaukee,T,F_avsResult_outside_-1_0_f_l,0.725905948161
+Grand Rapids,Milwaukee,T,F_avsResult_outside_-1_0_l_f,0.00284231264114
+Grand Rapids,Milwaukee,T,F_avsResult_outside_1_0_l_f,0.727845328289
+Grand Rapids,Milwaukee,T,F_belowFigureCentroid_l_f,1.0
+Grand Rapids,Milwaukee,T,F_closeDistNormFigure_f_l,1.0
+Grand Rapids,Milwaukee,T,F_closeDistNormFigure_l_f,1.0
+Grand Rapids,Milwaukee,T,F_closeDistNormLandmark_f_l,1.0
+Grand Rapids,Milwaukee,T,F_closeDistNormLandmark_l_f,1.0
+Grand Rapids,Milwaukee,T,F_closeDistNormUnion_f_l,1.0
+Grand Rapids,Milwaukee,T,F_closeDistNormUnion_l_f,1.0
+Grand Rapids,Milwaukee,T,F_distBtwnCentroids_f_l,2.99339796928
+Grand Rapids,Milwaukee,T,F_distBtwnCentroids_l_f,2.99339796928
+Grand Rapids,Milwaukee,T,F_distHorizontalCentroid_f_l,-2.99051079062
+Grand Rapids,Milwaukee,T,F_distHorizontalCentroid_l_f,2.99051079062
+Grand Rapids,Milwaukee,T,F_distVerticalCentroid_f_l,0.131440532896
+Grand Rapids,Milwaukee,T,F_distVerticalCentroid_l_f,-0.131440532896
+Grand Rapids,Milwaukee,T,F_leftOfFigureCentroid_f_l,1.0
+Grand Rapids,Milwaukee,T,F_rightOfFigureCentroid_l_f,1.0
+Grand Rapids,Wisconsin,T,arg2 and has since lived in arg1,1
+Grand Rapids,Wisconsin,T,arg2 come to arg1,1
+Grand Rapids,Wisconsin,T,arg2 or fitness certification in arg1,1
+Grand Rapids,Wisconsin,T,arg2 process or arg1,1
+Grand Rapids,Wisconsin,T,bias,1.0
+Grand Rapids,Wisconsin,T,F_aboveFigureCentroid_f_l,1.0
+Grand Rapids,Wisconsin,T,F_avsResult_0_-1_f_l,0.424712383324
+Grand Rapids,Wisconsin,T,F_avsResult_0_1_f_l,0.424712383324
+Grand Rapids,Wisconsin,T,F_avsResult_0_-1_l_f,0.0630281630726
+Grand Rapids,Wisconsin,T,F_avsResult_0_1_l_f,0.0630281630726
+Grand Rapids,Wisconsin,T,F_avsResult_1_0_f_l,0.0225612693396
+Grand Rapids,Wisconsin,T,F_avsResult_-1_0_f_l,0.709964173213
+Grand Rapids,Wisconsin,T,F_avsResult_-1_0_l_f,0.0132935522405
+Grand Rapids,Wisconsin,T,F_avsResult_1_0_l_f,0.562785791648
+Grand Rapids,Wisconsin,T,F_avsResult_1_-1_f_l,0.0585327668253
+Grand Rapids,Wisconsin,T,F_avsResult_1_1_f_l,0.0585327668253
+Grand Rapids,Wisconsin,T,F_avsResult_1_-1_l_f,0.293256825605
+Grand Rapids,Wisconsin,T,F_avsResult_1_1_l_f,0.293256825605
+Grand Rapids,Wisconsin,T,F_avsResult_outside_0_-1_f_l,0.424712383324
+Grand Rapids,Wisconsin,T,F_avsResult_outside_0_1_f_l,0.424712383324
+Grand Rapids,Wisconsin,T,F_avsResult_outside_0_-1_l_f,0.0630281630726
+Grand Rapids,Wisconsin,T,F_avsResult_outside_0_1_l_f,0.0630281630726
+Grand Rapids,Wisconsin,T,F_avsResult_outside_1_0_f_l,0.0225612693396
+Grand Rapids,Wisconsin,T,F_avsResult_outside_-1_0_f_l,0.709964173213
+Grand Rapids,Wisconsin,T,F_avsResult_outside_-1_0_l_f,0.0132935522405
+Grand Rapids,Wisconsin,T,F_avsResult_outside_1_0_l_f,0.562785791648
+Grand Rapids,Wisconsin,T,F_avsResult_outside_1_-1_f_l,0.0585327668253
+Grand Rapids,Wisconsin,T,F_avsResult_outside_1_1_f_l,0.0585327668253
+Grand Rapids,Wisconsin,T,F_avsResult_outside_1_-1_l_f,0.293256825605
+Grand Rapids,Wisconsin,T,F_avsResult_outside_1_1_l_f,0.293256825605
+Grand Rapids,Wisconsin,T,F_belowFigureCentroid_l_f,1.0
+Grand Rapids,Wisconsin,T,F_closeDistNormFigure_f_l,1.0
+Grand Rapids,Wisconsin,T,F_closeDistNormFigure_l_f,0.109010648694
+Grand Rapids,Wisconsin,T,F_closeDistNormLandmark_f_l,0.109010648694
+Grand Rapids,Wisconsin,T,F_closeDistNormLandmark_l_f,1.0
+Grand Rapids,Wisconsin,T,F_closeDistNormUnion_f_l,0.108932196215
+Grand Rapids,Wisconsin,T,F_closeDistNormUnion_l_f,0.108932196215
+Grand Rapids,Wisconsin,T,F_distBtwnCentroids_f_l,0.142860580146
+Grand Rapids,Wisconsin,T,F_distBtwnCentroids_l_f,0.142860580146
+Grand Rapids,Wisconsin,T,F_distHorizontalCentroid_f_l,-0.133101476647
+Grand Rapids,Wisconsin,T,F_distHorizontalCentroid_l_f,0.133101476647
+Grand Rapids,Wisconsin,T,F_distVerticalCentroid_f_l,0.0518954937724
+Grand Rapids,Wisconsin,T,F_distVerticalCentroid_l_f,-0.0518954937724
+Grand Rapids,Wisconsin,T,F_leftOfFigureCentroid_f_l,1.0
+Grand Rapids,Wisconsin,T,F_rightOfFigureCentroid_l_f,1.0
+Lake Huron,Detroit,T,arg1 and through arg2,1
+Lake Huron,Detroit,T,arg1 not far from arg2,1
+Lake Huron,Detroit,T,arg1 past arg2,1
+Lake Huron,Detroit,T,arg2 and entered arg1,1
+Lake Huron,Detroit,T,arg2 and south of arg1,1
+Lake Huron,Detroit,T,arg2 river and arg1,1
+Lake Huron,Detroit,T,arg2 through arg1,1
+Lake Huron,Detroit,T,arg2 to the bottom of arg1,1
+Lake Huron,Detroit,T,bias,1.0
+Lake Huron,Detroit,T,F_aboveFigureCentroid_l_f,1.0
+Lake Huron,Detroit,T,F_avsResult_0_-1_f_l,0.0695737749156
+Lake Huron,Detroit,T,F_avsResult_0_1_f_l,0.0695737749156
+Lake Huron,Detroit,T,F_avsResult_0_-1_l_f,0.528252932806
+Lake Huron,Detroit,T,F_avsResult_0_1_l_f,0.528252932806
+Lake Huron,Detroit,T,F_avsResult_1_0_f_l,0.0957206445455
+Lake Huron,Detroit,T,F_avsResult_-1_0_f_l,0.4724077068
+Lake Huron,Detroit,T,F_avsResult_-1_0_l_f,0.0910379427274
+Lake Huron,Detroit,T,F_avsResult_1_0_l_f,0.457828585234
+Lake Huron,Detroit,T,F_avsResult_-1_-1_f_l,0.207701511794
+Lake Huron,Detroit,T,F_avsResult_-1_1_f_l,0.207701511794
+Lake Huron,Detroit,T,F_avsResult_-1_-1_l_f,0.281864541932
+Lake Huron,Detroit,T,F_avsResult_-1_1_l_f,0.281864541932
+Lake Huron,Detroit,T,F_avsResult_outside_0_-1_f_l,0.0695737749156
+Lake Huron,Detroit,T,F_avsResult_outside_0_1_f_l,0.0695737749156
+Lake Huron,Detroit,T,F_avsResult_outside_0_-1_l_f,0.528252932806
+Lake Huron,Detroit,T,F_avsResult_outside_0_1_l_f,0.528252932806
+Lake Huron,Detroit,T,F_avsResult_outside_1_0_f_l,0.0957206445455
+Lake Huron,Detroit,T,F_avsResult_outside_-1_0_f_l,0.4724077068
+Lake Huron,Detroit,T,F_avsResult_outside_-1_0_l_f,0.0910379427274
+Lake Huron,Detroit,T,F_avsResult_outside_1_0_l_f,0.457828585234
+Lake Huron,Detroit,T,F_avsResult_outside_-1_-1_f_l,0.207701511794
+Lake Huron,Detroit,T,F_avsResult_outside_-1_1_f_l,0.207701511794
+Lake Huron,Detroit,T,F_avsResult_outside_-1_-1_l_f,0.281864541932
+Lake Huron,Detroit,T,F_avsResult_outside_-1_1_l_f,0.281864541932
+Lake Huron,Detroit,T,F_belowFigureCentroid_f_l,1.0
+Lake Huron,Detroit,T,F_closeDistNormFigure_f_l,1.0
+Lake Huron,Detroit,T,F_closeDistNormFigure_l_f,1.0
+Lake Huron,Detroit,T,F_closeDistNormLandmark_f_l,1.0
+Lake Huron,Detroit,T,F_closeDistNormLandmark_l_f,1.0
+Lake Huron,Detroit,T,F_closeDistNormUnion_f_l,1.0
+Lake Huron,Detroit,T,F_closeDistNormUnion_l_f,1.0
+Lake Huron,Detroit,T,F_distBtwnCentroids_f_l,0.830952118263
+Lake Huron,Detroit,T,F_distBtwnCentroids_l_f,0.830952118263
+Lake Huron,Detroit,T,F_distHorizontalCentroid_f_l,-0.529295424722
+Lake Huron,Detroit,T,F_distHorizontalCentroid_l_f,0.529295424722
+Lake Huron,Detroit,T,F_distVerticalCentroid_f_l,-0.64056832283
+Lake Huron,Detroit,T,F_distVerticalCentroid_l_f,0.64056832283
+Lake Huron,Detroit,T,F_leftOfFigureCentroid_f_l,1.0
+Lake Huron,Detroit,T,F_rightOfFigureCentroid_l_f,1.0
+Lake Huron,Grand Rapids,T,bias,1.0
+Lake Huron,Grand Rapids,T,F_aboveFigureCentroid_l_f,1.0
+Lake Huron,Grand Rapids,T,F_avsResult_0_-1_f_l,0.159996857061
+Lake Huron,Grand Rapids,T,F_avsResult_0_1_f_l,0.159996857061
+Lake Huron,Grand Rapids,T,F_avsResult_0_-1_l_f,0.353689596956
+Lake Huron,Grand Rapids,T,F_avsResult_0_1_l_f,0.353689596956
+Lake Huron,Grand Rapids,T,F_avsResult_1_0_f_l,0.015089805006
+Lake Huron,Grand Rapids,T,F_avsResult_-1_0_f_l,0.739138018787
+Lake Huron,Grand Rapids,T,F_avsResult_-1_0_l_f,0.015060503058
+Lake Huron,Grand Rapids,T,F_avsResult_1_0_l_f,0.736648187269
+Lake Huron,Grand Rapids,T,F_avsResult_outside_0_-1_f_l,0.159996857061
+Lake Huron,Grand Rapids,T,F_avsResult_outside_0_1_f_l,0.159996857061
+Lake Huron,Grand Rapids,T,F_avsResult_outside_0_-1_l_f,0.353689596956
+Lake Huron,Grand Rapids,T,F_avsResult_outside_0_1_l_f,0.353689596956
+Lake Huron,Grand Rapids,T,F_avsResult_outside_1_0_f_l,0.015089805006
+Lake Huron,Grand Rapids,T,F_avsResult_outside_-1_0_f_l,0.739138018787
+Lake Huron,Grand Rapids,T,F_avsResult_outside_-1_0_l_f,0.015060503058
+Lake Huron,Grand Rapids,T,F_avsResult_outside_1_0_l_f,0.736648187269
+Lake Huron,Grand Rapids,T,F_belowFigureCentroid_f_l,1.0
+Lake Huron,Grand Rapids,T,F_closeDistNormFigure_f_l,1.0
+Lake Huron,Grand Rapids,T,F_closeDistNormFigure_l_f,1.0
+Lake Huron,Grand Rapids,T,F_closeDistNormLandmark_f_l,1.0
+Lake Huron,Grand Rapids,T,F_closeDistNormLandmark_l_f,1.0
+Lake Huron,Grand Rapids,T,F_closeDistNormUnion_f_l,1.0
+Lake Huron,Grand Rapids,T,F_closeDistNormUnion_l_f,1.0
+Lake Huron,Grand Rapids,T,F_distBtwnCentroids_f_l,0.998115084628
+Lake Huron,Grand Rapids,T,F_distBtwnCentroids_l_f,0.998115084628
+Lake Huron,Grand Rapids,T,F_distHorizontalCentroid_f_l,-0.970214394034
+Lake Huron,Grand Rapids,T,F_distHorizontalCentroid_l_f,0.970214394034
+Lake Huron,Grand Rapids,T,F_distVerticalCentroid_f_l,-0.234345368571
+Lake Huron,Grand Rapids,T,F_distVerticalCentroid_l_f,0.234345368571
+Lake Huron,Grand Rapids,T,F_leftOfFigureCentroid_f_l,1.0
+Lake Huron,Grand Rapids,T,F_rightOfFigureCentroid_l_f,1.0
+Lake Huron,Lake Huron,T,bias,1.0
+Lake Huron,Lake Huron,T,entity1=entity2,1
+Lake Huron,Lake Huron,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Lake Huron,Lake Huron,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Lake Huron,Lake Huron,T,F_avsResult_0_-1_f_l,0.00122540126742
+Lake Huron,Lake Huron,T,F_avsResult_0_1_f_l,0.00122540126742
+Lake Huron,Lake Huron,T,F_avsResult_0_-1_l_f,0.00122540126742
+Lake Huron,Lake Huron,T,F_avsResult_0_1_l_f,0.00122540126742
+Lake Huron,Lake Huron,T,F_avsResult_1_0_f_l,0.00266117749551
+Lake Huron,Lake Huron,T,F_avsResult_-1_0_f_l,4.91971467381e-06
+Lake Huron,Lake Huron,T,F_avsResult_1_0_l_f,0.00266117749551
+Lake Huron,Lake Huron,T,F_avsResult_-1_0_l_f,4.91971467381e-06
+Lake Huron,Lake Huron,T,F_avsResult_inside_0_-1_f_l,0.00122540126742
+Lake Huron,Lake Huron,T,F_avsResult_inside_0_1_f_l,0.00122540126742
+Lake Huron,Lake Huron,T,F_avsResult_inside_0_-1_l_f,0.00122540126742
+Lake Huron,Lake Huron,T,F_avsResult_inside_0_1_l_f,0.00122540126742
+Lake Huron,Lake Huron,T,F_avsResult_inside_1_0_f_l,0.00266117749551
+Lake Huron,Lake Huron,T,F_avsResult_inside_-1_0_f_l,4.91971467381e-06
+Lake Huron,Lake Huron,T,F_avsResult_inside_1_0_l_f,0.00266117749551
+Lake Huron,Lake Huron,T,F_avsResult_inside_-1_0_l_f,4.91971467381e-06
+Lake Huron,Lake Huron,T,F_math2dFigureIntersectionArea_f_l,1.0
+Lake Huron,Lake Huron,T,F_math2dFigureIntersectionArea_l_f,1.0
+Lake Huron,Lake Huron,T,F_math2dIntersectionArea_f_l,1.0
+Lake Huron,Lake Huron,T,F_math2dIntersectionArea_l_f,1.0
+Lake Huron,Lake Huron,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Lake Huron,Lake Huron,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Lake Huron,Lake Michigan,T,arg1 and northern arg2,1
+Lake Huron,Lake Michigan,T,arg1 and then down arg2,1
+Lake Huron,Lake Michigan,T,arg1 is connected to arg2,1
+Lake Huron,Lake Michigan,T,arg1 meets arg2,1
+Lake Huron,Lake Michigan,T,arg2 and a bit of arg1,1
+Lake Huron,Lake Michigan,T,arg2 and on the east by arg1,1
+Lake Huron,Lake Michigan,T,arg2 flows into arg1,1
+Lake Huron,Lake Michigan,T,arg2 is connected to arg1,1
+Lake Huron,Lake Michigan,T,arg2 joins arg1,1
+Lake Huron,Lake Michigan,T,arg2 meets arg1,1
+Lake Huron,Lake Michigan,T,arg2 on the west to arg1,1
+Lake Huron,Lake Michigan,T,arg2 to the west and arg1,1
+Lake Huron,Lake Michigan,T,arg2 toward arg1,1
+Lake Huron,Lake Michigan,T,bias,1.0
+Lake Huron,Lake Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Lake Huron,Lake Michigan,T,F_avsResult_0_-1_f_l,0.264517353606
+Lake Huron,Lake Michigan,T,F_avsResult_0_1_f_l,0.264517353606
+Lake Huron,Lake Michigan,T,F_avsResult_0_-1_l_f,0.112696315409
+Lake Huron,Lake Michigan,T,F_avsResult_0_1_l_f,0.112696315409
+Lake Huron,Lake Michigan,T,F_avsResult_1_0_f_l,0.00167442399841
+Lake Huron,Lake Michigan,T,F_avsResult_-1_0_f_l,0.8155619756
+Lake Huron,Lake Michigan,T,F_avsResult_-1_0_l_f,0.00977649241093
+Lake Huron,Lake Michigan,T,F_avsResult_1_0_l_f,0.718595401076
+Lake Huron,Lake Michigan,T,F_avsResult_outside_0_-1_f_l,0.264517353606
+Lake Huron,Lake Michigan,T,F_avsResult_outside_0_1_f_l,0.264517353606
+Lake Huron,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.112696315409
+Lake Huron,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.112696315409
+Lake Huron,Lake Michigan,T,F_avsResult_outside_1_0_f_l,0.00167442399841
+Lake Huron,Lake Michigan,T,F_avsResult_outside_-1_0_f_l,0.8155619756
+Lake Huron,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.00977649241093
+Lake Huron,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.718595401076
+Lake Huron,Lake Michigan,T,F_belowFigureCentroid_l_f,1.0
+Lake Huron,Lake Michigan,T,F_closeDistNormFigure_f_l,1.0
+Lake Huron,Lake Michigan,T,F_closeDistNormFigure_l_f,1.0
+Lake Huron,Lake Michigan,T,F_closeDistNormLandmark_f_l,1.0
+Lake Huron,Lake Michigan,T,F_closeDistNormLandmark_l_f,1.0
+Lake Huron,Lake Michigan,T,F_closeDistNormUnion_f_l,1.0
+Lake Huron,Lake Michigan,T,F_closeDistNormUnion_l_f,1.0
+Lake Huron,Lake Michigan,T,F_distBtwnCentroids_f_l,0.176660704831
+Lake Huron,Lake Michigan,T,F_distBtwnCentroids_l_f,0.176660704831
+Lake Huron,Lake Michigan,T,F_distHorizontalCentroid_f_l,-0.176582013086
+Lake Huron,Lake Michigan,T,F_distHorizontalCentroid_l_f,0.176582013086
+Lake Huron,Lake Michigan,T,F_distVerticalCentroid_f_l,0.00527231311548
+Lake Huron,Lake Michigan,T,F_distVerticalCentroid_l_f,-0.00527231311548
+Lake Huron,Lake Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+Lake Huron,Lake Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+Lake Huron,Michigan,T,arg1 in northeast arg2,1
+Lake Huron,Michigan,T,arg1 in northern arg2,1
+Lake Huron,Michigan,T,arg1 shoreline of arg2,1
+Lake Huron,Michigan,T,arg2 along the shores of arg1,1
+Lake Huron,Michigan,T,arg2 coastline in arg1,1
+Lake Huron,Michigan,T,arg2 is located on arg1,1
+Lake Huron,Michigan,T,arg2 on an arm of arg1,1
+Lake Huron,Michigan,T,arg2 on the northern shore of arg1,1
+Lake Huron,Michigan,T,arg2 on the shore of arg1,1
+Lake Huron,Michigan,T,arg2 on the shores of arg1,1
+Lake Huron,Michigan,T,arg2 on the shores of beautiful arg1,1
+Lake Huron,Michigan,T,arg2 shoreline of arg1,1
+Lake Huron,Michigan,T,arg2 shores of arg1,1
+Lake Huron,Michigan,T,arg2 side of arg1,1
+Lake Huron,Michigan,T,arg2 waters of arg1,1
+Lake Huron,Michigan,T,bias,1.0
+Lake Huron,Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Lake Huron,Michigan,T,F_avsResult_0_-1_f_l,0.358201846005
+Lake Huron,Michigan,T,F_avsResult_0_1_f_l,0.358201846005
+Lake Huron,Michigan,T,F_avsResult_0_-1_l_f,0.101115980208
+Lake Huron,Michigan,T,F_avsResult_0_1_l_f,0.101115980208
+Lake Huron,Michigan,T,F_avsResult_1_0_f_l,0.014020516697
+Lake Huron,Michigan,T,F_avsResult_-1_0_f_l,0.748252777528
+Lake Huron,Michigan,T,F_avsResult_-1_0_l_f,0.00556590082585
+Lake Huron,Michigan,T,F_avsResult_1_0_l_f,0.556015665706
+Lake Huron,Michigan,T,F_avsResult_outside_0_-1_f_l,0.358201846005
+Lake Huron,Michigan,T,F_avsResult_outside_0_1_f_l,0.358201846005
+Lake Huron,Michigan,T,F_avsResult_outside_0_-1_l_f,0.101115980208
+Lake Huron,Michigan,T,F_avsResult_outside_0_1_l_f,0.101115980208
+Lake Huron,Michigan,T,F_avsResult_outside_1_0_f_l,0.014020516697
+Lake Huron,Michigan,T,F_avsResult_outside_-1_0_f_l,0.748252777528
+Lake Huron,Michigan,T,F_avsResult_outside_-1_0_l_f,0.00556590082585
+Lake Huron,Michigan,T,F_avsResult_outside_1_0_l_f,0.556015665706
+Lake Huron,Michigan,T,F_belowFigureCentroid_l_f,1.0
+Lake Huron,Michigan,T,F_closeDistNormFigure_f_l,1.0
+Lake Huron,Michigan,T,F_closeDistNormFigure_l_f,0.0411587396315
+Lake Huron,Michigan,T,F_closeDistNormLandmark_f_l,0.0411587396315
+Lake Huron,Michigan,T,F_closeDistNormLandmark_l_f,1.0
+Lake Huron,Michigan,T,F_closeDistNormUnion_f_l,0.0411582364899
+Lake Huron,Michigan,T,F_closeDistNormUnion_l_f,0.0411582364899
+Lake Huron,Michigan,T,F_distBtwnCentroids_f_l,0.0767807381357
+Lake Huron,Michigan,T,F_distBtwnCentroids_l_f,0.0767807381357
+Lake Huron,Michigan,T,F_distHorizontalCentroid_f_l,-0.0747795146855
+Lake Huron,Michigan,T,F_distHorizontalCentroid_l_f,0.0747795146855
+Lake Huron,Michigan,T,F_distVerticalCentroid_f_l,0.0174156806375
+Lake Huron,Michigan,T,F_distVerticalCentroid_l_f,-0.0174156806375
+Lake Huron,Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+Lake Huron,Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+Lake Huron,Milwaukee,T,bias,1.0
+Lake Huron,Milwaukee,T,F_aboveFigureCentroid_l_f,1.0
+Lake Huron,Milwaukee,T,F_avsResult_0_-1_f_l,0.178108739745
+Lake Huron,Milwaukee,T,F_avsResult_0_1_f_l,0.178108739745
+Lake Huron,Milwaukee,T,F_avsResult_0_-1_l_f,0.322275081979
+Lake Huron,Milwaukee,T,F_avsResult_0_1_l_f,0.322275081979
+Lake Huron,Milwaukee,T,F_avsResult_1_0_f_l,0.00658815871187
+Lake Huron,Milwaukee,T,F_avsResult_-1_0_f_l,0.807991834455
+Lake Huron,Milwaukee,T,F_avsResult_-1_0_l_f,0.00665771216067
+Lake Huron,Milwaukee,T,F_avsResult_1_0_l_f,0.805967013671
+Lake Huron,Milwaukee,T,F_avsResult_outside_0_-1_f_l,0.178108739745
+Lake Huron,Milwaukee,T,F_avsResult_outside_0_1_f_l,0.178108739745
+Lake Huron,Milwaukee,T,F_avsResult_outside_0_-1_l_f,0.322275081979
+Lake Huron,Milwaukee,T,F_avsResult_outside_0_1_l_f,0.322275081979
+Lake Huron,Milwaukee,T,F_avsResult_outside_1_0_f_l,0.00658815871187
+Lake Huron,Milwaukee,T,F_avsResult_outside_-1_0_f_l,0.807991834455
+Lake Huron,Milwaukee,T,F_avsResult_outside_-1_0_l_f,0.00665771216067
+Lake Huron,Milwaukee,T,F_avsResult_outside_1_0_l_f,0.805967013671
+Lake Huron,Milwaukee,T,F_belowFigureCentroid_f_l,1.0
+Lake Huron,Milwaukee,T,F_closeDistNormFigure_f_l,1.0
+Lake Huron,Milwaukee,T,F_closeDistNormFigure_l_f,1.0
+Lake Huron,Milwaukee,T,F_closeDistNormLandmark_f_l,1.0
+Lake Huron,Milwaukee,T,F_closeDistNormLandmark_l_f,1.0
+Lake Huron,Milwaukee,T,F_closeDistNormUnion_f_l,1.0
+Lake Huron,Milwaukee,T,F_closeDistNormUnion_l_f,1.0
+Lake Huron,Milwaukee,T,F_distBtwnCentroids_f_l,1.02909697734
+Lake Huron,Milwaukee,T,F_distBtwnCentroids_l_f,1.02909697734
+Lake Huron,Milwaukee,T,F_distHorizontalCentroid_f_l,-1.02006447261
+Lake Huron,Milwaukee,T,F_distHorizontalCentroid_l_f,1.02006447261
+Lake Huron,Milwaukee,T,F_distVerticalCentroid_f_l,-0.136048008049
+Lake Huron,Milwaukee,T,F_distVerticalCentroid_l_f,0.136048008049
+Lake Huron,Milwaukee,T,F_leftOfFigureCentroid_f_l,1.0
+Lake Huron,Milwaukee,T,F_rightOfFigureCentroid_l_f,1.0
+Lake Huron,Wisconsin,T,bias,1.0
+Lake Huron,Wisconsin,T,F_aboveFigureCentroid_f_l,1.0
+Lake Huron,Wisconsin,T,F_avsResult_0_-1_f_l,0.3128691749
+Lake Huron,Wisconsin,T,F_avsResult_0_1_f_l,0.3128691749
+Lake Huron,Wisconsin,T,F_avsResult_0_-1_l_f,0.107719618797
+Lake Huron,Wisconsin,T,F_avsResult_0_1_l_f,0.107719618797
+Lake Huron,Wisconsin,T,F_avsResult_1_0_f_l,0.00363054327347
+Lake Huron,Wisconsin,T,F_avsResult_-1_0_f_l,0.84458931204
+Lake Huron,Wisconsin,T,F_avsResult_-1_0_l_f,0.00190808280156
+Lake Huron,Wisconsin,T,F_avsResult_1_0_l_f,0.795814865607
+Lake Huron,Wisconsin,T,F_avsResult_outside_0_-1_f_l,0.3128691749
+Lake Huron,Wisconsin,T,F_avsResult_outside_0_1_f_l,0.3128691749
+Lake Huron,Wisconsin,T,F_avsResult_outside_0_-1_l_f,0.107719618797
+Lake Huron,Wisconsin,T,F_avsResult_outside_0_1_l_f,0.107719618797
+Lake Huron,Wisconsin,T,F_avsResult_outside_1_0_f_l,0.00363054327347
+Lake Huron,Wisconsin,T,F_avsResult_outside_-1_0_f_l,0.84458931204
+Lake Huron,Wisconsin,T,F_avsResult_outside_-1_0_l_f,0.00190808280156
+Lake Huron,Wisconsin,T,F_avsResult_outside_1_0_l_f,0.795814865607
+Lake Huron,Wisconsin,T,F_belowFigureCentroid_l_f,1.0
+Lake Huron,Wisconsin,T,F_closeDistNormFigure_f_l,1.0
+Lake Huron,Wisconsin,T,F_closeDistNormFigure_l_f,1.0
+Lake Huron,Wisconsin,T,F_closeDistNormLandmark_f_l,1.0
+Lake Huron,Wisconsin,T,F_closeDistNormLandmark_l_f,1.0
+Lake Huron,Wisconsin,T,F_closeDistNormUnion_f_l,1.0
+Lake Huron,Wisconsin,T,F_closeDistNormUnion_l_f,1.0
+Lake Huron,Wisconsin,T,F_distBtwnCentroids_f_l,0.170287613455
+Lake Huron,Wisconsin,T,F_distBtwnCentroids_l_f,0.170287613455
+Lake Huron,Wisconsin,T,F_distHorizontalCentroid_f_l,-0.169643535675
+Lake Huron,Wisconsin,T,F_distHorizontalCentroid_l_f,0.169643535675
+Lake Huron,Wisconsin,T,F_distVerticalCentroid_f_l,0.0147966921982
+Lake Huron,Wisconsin,T,F_distVerticalCentroid_l_f,-0.0147966921982
+Lake Huron,Wisconsin,T,F_leftOfFigureCentroid_f_l,1.0
+Lake Huron,Wisconsin,T,F_rightOfFigureCentroid_l_f,1.0
+Lake Michigan,Detroit,T,arg2 and along arg1,1
+Lake Michigan,Detroit,T,bias,1.0
+Lake Michigan,Detroit,T,F_aboveFigureCentroid_l_f,1.0
+Lake Michigan,Detroit,T,F_avsResult_0_-1_f_l,0.0604802178605
+Lake Michigan,Detroit,T,F_avsResult_0_1_f_l,0.0604802178605
+Lake Michigan,Detroit,T,F_avsResult_0_-1_l_f,0.438158209745
+Lake Michigan,Detroit,T,F_avsResult_0_1_l_f,0.438158209745
+Lake Michigan,Detroit,T,F_avsResult_-1_0_f_l,0.028158148524
+Lake Michigan,Detroit,T,F_avsResult_1_0_f_l,0.603758994217
+Lake Michigan,Detroit,T,F_avsResult_1_0_l_f,0.0269208884654
+Lake Michigan,Detroit,T,F_avsResult_-1_0_l_f,0.683589788788
+Lake Michigan,Detroit,T,F_avsResult_1_-1_f_l,0.25241082987
+Lake Michigan,Detroit,T,F_avsResult_1_1_f_l,0.25241082987
+Lake Michigan,Detroit,T,F_avsResult_1_-1_l_f,0.0776390030468
+Lake Michigan,Detroit,T,F_avsResult_1_1_l_f,0.0776390030468
+Lake Michigan,Detroit,T,F_avsResult_outside_0_-1_f_l,0.0604802178605
+Lake Michigan,Detroit,T,F_avsResult_outside_0_1_f_l,0.0604802178605
+Lake Michigan,Detroit,T,F_avsResult_outside_0_-1_l_f,0.438158209745
+Lake Michigan,Detroit,T,F_avsResult_outside_0_1_l_f,0.438158209745
+Lake Michigan,Detroit,T,F_avsResult_outside_-1_0_f_l,0.028158148524
+Lake Michigan,Detroit,T,F_avsResult_outside_1_0_f_l,0.603758994217
+Lake Michigan,Detroit,T,F_avsResult_outside_1_0_l_f,0.0269208884654
+Lake Michigan,Detroit,T,F_avsResult_outside_-1_0_l_f,0.683589788788
+Lake Michigan,Detroit,T,F_avsResult_outside_1_-1_f_l,0.25241082987
+Lake Michigan,Detroit,T,F_avsResult_outside_1_1_f_l,0.25241082987
+Lake Michigan,Detroit,T,F_avsResult_outside_1_-1_l_f,0.0776390030468
+Lake Michigan,Detroit,T,F_avsResult_outside_1_1_l_f,0.0776390030468
+Lake Michigan,Detroit,T,F_belowFigureCentroid_f_l,1.0
+Lake Michigan,Detroit,T,F_closeDistNormFigure_f_l,1.0
+Lake Michigan,Detroit,T,F_closeDistNormFigure_l_f,1.0
+Lake Michigan,Detroit,T,F_closeDistNormLandmark_f_l,1.0
+Lake Michigan,Detroit,T,F_closeDistNormLandmark_l_f,1.0
+Lake Michigan,Detroit,T,F_closeDistNormUnion_f_l,1.0
+Lake Michigan,Detroit,T,F_closeDistNormUnion_l_f,1.0
+Lake Michigan,Detroit,T,F_distBtwnCentroids_f_l,0.174301380384
+Lake Michigan,Detroit,T,F_distBtwnCentroids_l_f,0.174301380384
+Lake Michigan,Detroit,T,F_distHorizontalCentroid_f_l,0.159015578181
+Lake Michigan,Detroit,T,F_distHorizontalCentroid_l_f,-0.159015578181
+Lake Michigan,Detroit,T,F_distVerticalCentroid_f_l,-0.0713793884781
+Lake Michigan,Detroit,T,F_distVerticalCentroid_l_f,0.0713793884781
+Lake Michigan,Detroit,T,F_leftOfFigureCentroid_l_f,1.0
+Lake Michigan,Detroit,T,F_rightOfFigureCentroid_f_l,1.0
+Lake Michigan,Grand Rapids,T,arg1 south of arg2,1
+Lake Michigan,Grand Rapids,T,arg1 west of arg2,1
+Lake Michigan,Grand Rapids,T,arg2 and the beaches of arg1,1
+Lake Michigan,Grand Rapids,T,arg2 on the shore of arg1,1
+Lake Michigan,Grand Rapids,T,bias,1.0
+Lake Michigan,Grand Rapids,T,F_aboveFigureCentroid_l_f,1.0
+Lake Michigan,Grand Rapids,T,F_avsResult_0_-1_f_l,0.0381281400707
+Lake Michigan,Grand Rapids,T,F_avsResult_0_1_f_l,0.0381281400707
+Lake Michigan,Grand Rapids,T,F_avsResult_0_-1_l_f,0.470262122824
+Lake Michigan,Grand Rapids,T,F_avsResult_0_1_l_f,0.470262122824
+Lake Michigan,Grand Rapids,T,F_avsResult_-1_0_f_l,0.0394080102701
+Lake Michigan,Grand Rapids,T,F_avsResult_1_0_f_l,0.369811769525
+Lake Michigan,Grand Rapids,T,F_avsResult_1_0_l_f,0.0852274226834
+Lake Michigan,Grand Rapids,T,F_avsResult_-1_0_l_f,0.47690049557
+Lake Michigan,Grand Rapids,T,F_avsResult_1_-1_l_f,0.23803874626
+Lake Michigan,Grand Rapids,T,F_avsResult_1_1_l_f,0.23803874626
+Lake Michigan,Grand Rapids,T,F_avsResult_outside_0_-1_f_l,0.0381281400707
+Lake Michigan,Grand Rapids,T,F_avsResult_outside_0_1_f_l,0.0381281400707
+Lake Michigan,Grand Rapids,T,F_avsResult_outside_0_-1_l_f,0.470262122824
+Lake Michigan,Grand Rapids,T,F_avsResult_outside_0_1_l_f,0.470262122824
+Lake Michigan,Grand Rapids,T,F_avsResult_outside_-1_0_f_l,0.0394080102701
+Lake Michigan,Grand Rapids,T,F_avsResult_outside_1_0_f_l,0.369811769525
+Lake Michigan,Grand Rapids,T,F_avsResult_outside_1_0_l_f,0.0852274226834
+Lake Michigan,Grand Rapids,T,F_avsResult_outside_-1_0_l_f,0.47690049557
+Lake Michigan,Grand Rapids,T,F_avsResult_outside_1_-1_l_f,0.23803874626
+Lake Michigan,Grand Rapids,T,F_avsResult_outside_1_1_l_f,0.23803874626
+Lake Michigan,Grand Rapids,T,F_belowFigureCentroid_f_l,1.0
+Lake Michigan,Grand Rapids,T,F_closeDistNormFigure_f_l,0.0341887849542
+Lake Michigan,Grand Rapids,T,F_closeDistNormFigure_l_f,1.0
+Lake Michigan,Grand Rapids,T,F_closeDistNormLandmark_f_l,1.0
+Lake Michigan,Grand Rapids,T,F_closeDistNormLandmark_l_f,0.0341887849542
+Lake Michigan,Grand Rapids,T,F_closeDistNormUnion_f_l,0.0341214165724
+Lake Michigan,Grand Rapids,T,F_closeDistNormUnion_l_f,0.0341214165724
+Lake Michigan,Grand Rapids,T,F_distBtwnCentroids_f_l,0.104973074428
+Lake Michigan,Grand Rapids,T,F_distBtwnCentroids_l_f,0.104973074428
+Lake Michigan,Grand Rapids,T,F_distHorizontalCentroid_f_l,0.0753876996194
+Lake Michigan,Grand Rapids,T,F_distHorizontalCentroid_l_f,-0.0753876996194
+Lake Michigan,Grand Rapids,T,F_distVerticalCentroid_f_l,-0.073048210799
+Lake Michigan,Grand Rapids,T,F_distVerticalCentroid_l_f,0.073048210799
+Lake Michigan,Grand Rapids,T,F_leftOfFigureCentroid_l_f,1.0
+Lake Michigan,Grand Rapids,T,F_rightOfFigureCentroid_f_l,1.0
+Lake Michigan,Lake Huron,T,arg1 and a bit of arg2,1
+Lake Michigan,Lake Huron,T,arg1 and on the east by arg2,1
+Lake Michigan,Lake Huron,T,arg1 is connected to arg2,1
+Lake Michigan,Lake Huron,T,arg1 to the west and arg2,1
+Lake Michigan,Lake Huron,T,arg2 and half in arg1,1
+Lake Michigan,Lake Huron,T,arg2 and northern arg1,1
+Lake Michigan,Lake Huron,T,arg2 and then down arg1,1
+Lake Michigan,Lake Huron,T,arg2 is connected to arg1,1
+Lake Michigan,Lake Huron,T,arg2 meets arg1,1
+Lake Michigan,Lake Huron,T,arg2 on one side and arg1,1
+Lake Michigan,Lake Huron,T,arg2 to the shore of arg1,1
+Lake Michigan,Lake Huron,T,bias,1.0
+Lake Michigan,Lake Huron,T,F_aboveFigureCentroid_l_f,1.0
+Lake Michigan,Lake Huron,T,F_avsResult_0_-1_f_l,0.112696315409
+Lake Michigan,Lake Huron,T,F_avsResult_0_1_f_l,0.112696315409
+Lake Michigan,Lake Huron,T,F_avsResult_0_-1_l_f,0.264517353606
+Lake Michigan,Lake Huron,T,F_avsResult_0_1_l_f,0.264517353606
+Lake Michigan,Lake Huron,T,F_avsResult_-1_0_f_l,0.00977649241093
+Lake Michigan,Lake Huron,T,F_avsResult_1_0_f_l,0.718595401076
+Lake Michigan,Lake Huron,T,F_avsResult_1_0_l_f,0.00167442399841
+Lake Michigan,Lake Huron,T,F_avsResult_-1_0_l_f,0.8155619756
+Lake Michigan,Lake Huron,T,F_avsResult_outside_0_-1_f_l,0.112696315409
+Lake Michigan,Lake Huron,T,F_avsResult_outside_0_1_f_l,0.112696315409
+Lake Michigan,Lake Huron,T,F_avsResult_outside_0_-1_l_f,0.264517353606
+Lake Michigan,Lake Huron,T,F_avsResult_outside_0_1_l_f,0.264517353606
+Lake Michigan,Lake Huron,T,F_avsResult_outside_-1_0_f_l,0.00977649241093
+Lake Michigan,Lake Huron,T,F_avsResult_outside_1_0_f_l,0.718595401076
+Lake Michigan,Lake Huron,T,F_avsResult_outside_1_0_l_f,0.00167442399841
+Lake Michigan,Lake Huron,T,F_avsResult_outside_-1_0_l_f,0.8155619756
+Lake Michigan,Lake Huron,T,F_belowFigureCentroid_f_l,1.0
+Lake Michigan,Lake Huron,T,F_closeDistNormFigure_f_l,1.0
+Lake Michigan,Lake Huron,T,F_closeDistNormFigure_l_f,1.0
+Lake Michigan,Lake Huron,T,F_closeDistNormLandmark_f_l,1.0
+Lake Michigan,Lake Huron,T,F_closeDistNormLandmark_l_f,1.0
+Lake Michigan,Lake Huron,T,F_closeDistNormUnion_f_l,1.0
+Lake Michigan,Lake Huron,T,F_closeDistNormUnion_l_f,1.0
+Lake Michigan,Lake Huron,T,F_distBtwnCentroids_f_l,0.176660704831
+Lake Michigan,Lake Huron,T,F_distBtwnCentroids_l_f,0.176660704831
+Lake Michigan,Lake Huron,T,F_distHorizontalCentroid_f_l,0.176582013086
+Lake Michigan,Lake Huron,T,F_distHorizontalCentroid_l_f,-0.176582013086
+Lake Michigan,Lake Huron,T,F_distVerticalCentroid_f_l,-0.00527231311548
+Lake Michigan,Lake Huron,T,F_distVerticalCentroid_l_f,0.00527231311548
+Lake Michigan,Lake Huron,T,F_leftOfFigureCentroid_l_f,1.0
+Lake Michigan,Lake Huron,T,F_rightOfFigureCentroid_f_l,1.0
+Lake Michigan,Lake Michigan,T,arg1 and are part of arg2,1
+Lake Michigan,Lake Michigan,T,arg1 region arg2,1
+Lake Michigan,Lake Michigan,T,arg2 and are part of arg1,1
+Lake Michigan,Lake Michigan,T,arg2 region arg1,1
+Lake Michigan,Lake Michigan,T,bias,1.0
+Lake Michigan,Lake Michigan,T,entity1=entity2,1
+Lake Michigan,Lake Michigan,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Lake Michigan,Lake Michigan,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Lake Michigan,Lake Michigan,T,F_avsResult_0_-1_f_l,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_avsResult_0_1_f_l,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_avsResult_0_-1_l_f,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_avsResult_0_1_l_f,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_avsResult_1_0_f_l,0.0672439525552
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_0_f_l,0.268719027937
+Lake Michigan,Lake Michigan,T,F_avsResult_1_0_l_f,0.0672439525552
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_0_l_f,0.268719027937
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_-1_f_l,0.257883546474
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_1_f_l,0.257883546474
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_-1_l_f,0.257883546474
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_1_l_f,0.257883546474
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_0_-1_f_l,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_0_1_f_l,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_0_-1_l_f,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_0_1_l_f,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_1_0_f_l,0.0672439525552
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_0_f_l,0.268719027937
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_1_0_l_f,0.0672439525552
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_0_l_f,0.268719027937
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_-1_f_l,0.257883546474
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_1_f_l,0.257883546474
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_-1_l_f,0.257883546474
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_1_l_f,0.257883546474
+Lake Michigan,Lake Michigan,T,F_math2dFigureIntersectionArea_f_l,1.0
+Lake Michigan,Lake Michigan,T,F_math2dFigureIntersectionArea_l_f,1.0
+Lake Michigan,Lake Michigan,T,F_math2dIntersectionArea_f_l,1.0
+Lake Michigan,Lake Michigan,T,F_math2dIntersectionArea_l_f,1.0
+Lake Michigan,Lake Michigan,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Lake Michigan,Lake Michigan,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Lake Michigan,Michigan,T,arg1 and the state of arg2,1
+Lake Michigan,Michigan,T,arg1 in southwest arg2,1
+Lake Michigan,Michigan,T,arg1 in southwestern arg2,1
+Lake Michigan,Michigan,T,arg1 in western arg2,1
+Lake Michigan,Michigan,T,arg1 to the state of arg2,1
+Lake Michigan,Michigan,T,arg2 along the shores of arg1,1
+Lake Michigan,Michigan,T,arg2 close to arg1,1
+Lake Michigan,Michigan,T,arg2 is named after arg1,1
+Lake Michigan,Michigan,T,arg2 on the shore of arg1,1
+Lake Michigan,Michigan,T,arg2 on the shores of arg1,1
+Lake Michigan,Michigan,T,arg2 overlooking arg1,1
+Lake Michigan,Michigan,T,arg2 shore of arg1,1
+Lake Michigan,Michigan,T,arg2 shores of arg1,1
+Lake Michigan,Michigan,T,arg2 side of arg1,1
+Lake Michigan,Michigan,T,arg2 that drains to arg1,1
+Lake Michigan,Michigan,T,arg2 waters of arg1,1
+Lake Michigan,Michigan,T,bias,1.0
+Lake Michigan,Michigan,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Lake Michigan,Michigan,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Lake Michigan,Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Lake Michigan,Michigan,T,F_avsResult_0_-1_f_l,0.0334174835912
+Lake Michigan,Michigan,T,F_avsResult_0_1_f_l,0.0334174835912
+Lake Michigan,Michigan,T,F_avsResult_0_-1_l_f,0.00972461023916
+Lake Michigan,Michigan,T,F_avsResult_0_1_l_f,0.00972461023916
+Lake Michigan,Michigan,T,F_avsResult_1_0_f_l,0.176281507529
+Lake Michigan,Michigan,T,F_avsResult_-1_0_f_l,0.254374374267
+Lake Michigan,Michigan,T,F_avsResult_-1_0_l_f,0.0710909574302
+Lake Michigan,Michigan,T,F_avsResult_1_0_l_f,0.0839120049691
+Lake Michigan,Michigan,T,F_avsResult_1_-1_f_l,0.0157874831878
+Lake Michigan,Michigan,T,F_avsResult_1_1_f_l,0.0157874831878
+Lake Michigan,Michigan,T,F_avsResult_inside_0_-1_l_f,0.00972461023916
+Lake Michigan,Michigan,T,F_avsResult_inside_0_1_l_f,0.00972461023916
+Lake Michigan,Michigan,T,F_avsResult_inside_-1_0_l_f,0.0710909574302
+Lake Michigan,Michigan,T,F_avsResult_inside_1_0_l_f,0.0839120049691
+Lake Michigan,Michigan,T,F_avsResult_outside_0_-1_f_l,0.0334174835912
+Lake Michigan,Michigan,T,F_avsResult_outside_0_1_f_l,0.0334174835912
+Lake Michigan,Michigan,T,F_avsResult_outside_1_0_f_l,0.176281507529
+Lake Michigan,Michigan,T,F_avsResult_outside_-1_0_f_l,0.254374374267
+Lake Michigan,Michigan,T,F_avsResult_outside_1_-1_f_l,0.0157874831878
+Lake Michigan,Michigan,T,F_avsResult_outside_1_1_f_l,0.0157874831878
+Lake Michigan,Michigan,T,F_belowFigureCentroid_l_f,1.0
+Lake Michigan,Michigan,T,F_distBtwnCentroids_f_l,0.0217290113946
+Lake Michigan,Michigan,T,F_distBtwnCentroids_l_f,0.0217290113946
+Lake Michigan,Michigan,T,F_distHorizontalCentroid_f_l,0.0151845113342
+Lake Michigan,Michigan,T,F_distHorizontalCentroid_l_f,-0.0151845113342
+Lake Michigan,Michigan,T,F_distVerticalCentroid_f_l,0.0155428617612
+Lake Michigan,Michigan,T,F_distVerticalCentroid_l_f,-0.0155428617612
+Lake Michigan,Michigan,T,F_leftOfFigureCentroid_l_f,1.0
+Lake Michigan,Michigan,T,F_math2dFigureIntersectionArea_f_l,0.613855618013
+Lake Michigan,Michigan,T,F_math2dFigureIntersectionArea_l_f,0.155819216929
+Lake Michigan,Michigan,T,F_math2dIntersectionArea_f_l,0.141909567637
+Lake Michigan,Michigan,T,F_math2dIntersectionArea_l_f,0.141909567637
+Lake Michigan,Michigan,T,F_math2dLandmarkIntersectionArea_f_l,0.155819216929
+Lake Michigan,Michigan,T,F_math2dLandmarkIntersectionArea_l_f,0.613855618013
+Lake Michigan,Michigan,T,F_rightOfFigureCentroid_f_l,1.0
+Lake Michigan,Milwaukee,T,arg1 and downtown arg2,1
+Lake Michigan,Milwaukee,T,arg1 in downtown arg2,1
+Lake Michigan,Milwaukee,T,arg1 just north of arg2,1
+Lake Michigan,Milwaukee,T,arg1 north of arg2,1
+Lake Michigan,Milwaukee,T,arg1 off arg2,1
+Lake Michigan,Milwaukee,T,arg1 shore in arg2,1
+Lake Michigan,Milwaukee,T,arg1 shoreline in arg2,1
+Lake Michigan,Milwaukee,T,arg1 to connect arg2,1
+Lake Michigan,Milwaukee,T,arg2 along arg1,1
+Lake Michigan,Milwaukee,T,arg2 next to arg1,1
+Lake Michigan,Milwaukee,T,arg2 on the shore of arg1,1
+Lake Michigan,Milwaukee,T,arg2 on the shores of arg1,1
+Lake Michigan,Milwaukee,T,arg2 on the shores of beautiful arg1,1
+Lake Michigan,Milwaukee,T,arg2 overlooking arg1,1
+Lake Michigan,Milwaukee,T,bias,1.0
+Lake Michigan,Milwaukee,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Lake Michigan,Milwaukee,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Lake Michigan,Milwaukee,T,F_aboveFigureCentroid_l_f,1.0
+Lake Michigan,Milwaukee,T,F_avsResult_0_-1_f_l,0.0331480409656
+Lake Michigan,Milwaukee,T,F_avsResult_0_1_f_l,0.0331480409656
+Lake Michigan,Milwaukee,T,F_avsResult_0_-1_l_f,0.436912878552
+Lake Michigan,Milwaukee,T,F_avsResult_0_1_l_f,0.436912878552
+Lake Michigan,Milwaukee,T,F_avsResult_1_0_f_l,0.0503808447676
+Lake Michigan,Milwaukee,T,F_avsResult_-1_0_f_l,0.327508368696
+Lake Michigan,Milwaukee,T,F_avsResult_-1_0_l_f,0.0711955112014
+Lake Michigan,Milwaukee,T,F_avsResult_1_0_l_f,0.506471796829
+Lake Michigan,Milwaukee,T,F_avsResult_-1_-1_f_l,0.112364032873
+Lake Michigan,Milwaukee,T,F_avsResult_-1_1_f_l,0.112364032873
+Lake Michigan,Milwaukee,T,F_avsResult_-1_-1_l_f,0.19361146187
+Lake Michigan,Milwaukee,T,F_avsResult_-1_1_l_f,0.19361146187
+Lake Michigan,Milwaukee,T,F_avsResult_outside_0_-1_f_l,0.0331480409656
+Lake Michigan,Milwaukee,T,F_avsResult_outside_0_1_f_l,0.0331480409656
+Lake Michigan,Milwaukee,T,F_avsResult_outside_0_-1_l_f,0.436912878552
+Lake Michigan,Milwaukee,T,F_avsResult_outside_0_1_l_f,0.436912878552
+Lake Michigan,Milwaukee,T,F_avsResult_outside_1_0_f_l,0.0503808447676
+Lake Michigan,Milwaukee,T,F_avsResult_outside_-1_0_f_l,0.327508368696
+Lake Michigan,Milwaukee,T,F_avsResult_outside_-1_0_l_f,0.0711955112014
+Lake Michigan,Milwaukee,T,F_avsResult_outside_1_0_l_f,0.506471796829
+Lake Michigan,Milwaukee,T,F_avsResult_outside_-1_-1_f_l,0.112364032873
+Lake Michigan,Milwaukee,T,F_avsResult_outside_-1_1_f_l,0.112364032873
+Lake Michigan,Milwaukee,T,F_avsResult_outside_-1_-1_l_f,0.19361146187
+Lake Michigan,Milwaukee,T,F_avsResult_outside_-1_1_l_f,0.19361146187
+Lake Michigan,Milwaukee,T,F_belowFigureCentroid_f_l,1.0
+Lake Michigan,Milwaukee,T,F_distBtwnCentroids_f_l,0.105936360121
+Lake Michigan,Milwaukee,T,F_distBtwnCentroids_l_f,0.105936360121
+Lake Michigan,Milwaukee,T,F_distHorizontalCentroid_f_l,-0.0831740634367
+Lake Michigan,Milwaukee,T,F_distHorizontalCentroid_l_f,0.0831740634367
+Lake Michigan,Milwaukee,T,F_distVerticalCentroid_f_l,-0.0656093557892
+Lake Michigan,Milwaukee,T,F_distVerticalCentroid_l_f,0.0656093557892
+Lake Michigan,Milwaukee,T,F_leftOfFigureCentroid_f_l,1.0
+Lake Michigan,Milwaukee,T,F_math2dFigureIntersectionArea_f_l,3.83914853817e-06
+Lake Michigan,Milwaukee,T,F_math2dFigureIntersectionArea_l_f,0.000911011900867
+Lake Michigan,Milwaukee,T,F_math2dIntersectionArea_f_l,3.82305226726e-06
+Lake Michigan,Milwaukee,T,F_math2dIntersectionArea_l_f,3.82305226726e-06
+Lake Michigan,Milwaukee,T,F_math2dLandmarkIntersectionArea_f_l,0.000911011900867
+Lake Michigan,Milwaukee,T,F_math2dLandmarkIntersectionArea_l_f,3.83914853817e-06
+Lake Michigan,Milwaukee,T,F_rightOfFigureCentroid_l_f,1.0
+Lake Michigan,Wisconsin,T,arg1 coast in arg2,1
+Lake Michigan,Wisconsin,T,arg1 in northeast arg2,1
+Lake Michigan,Wisconsin,T,arg1 in southeastern arg2,1
+Lake Michigan,Wisconsin,T,arg1 in the state of arg2,1
+Lake Michigan,Wisconsin,T,arg1 shoreline of arg2,1
+Lake Michigan,Wisconsin,T,arg1 tributaries in arg2,1
+Lake Michigan,Wisconsin,T,arg2 across arg1,1
+Lake Michigan,Wisconsin,T,arg2 along arg1,1
+Lake Michigan,Wisconsin,T,arg2 along the shores of arg1,1
+Lake Michigan,Wisconsin,T,arg2 coast of arg1,1
+Lake Michigan,Wisconsin,T,arg2 near the shores of arg1,1
+Lake Michigan,Wisconsin,T,arg2 off of arg1,1
+Lake Michigan,Wisconsin,T,arg2 on the shores of arg1,1
+Lake Michigan,Wisconsin,T,arg2 on the shores of beautiful arg1,1
+Lake Michigan,Wisconsin,T,arg2 portion of arg1,1
+Lake Michigan,Wisconsin,T,arg2 shoreline of arg1,1
+Lake Michigan,Wisconsin,T,arg2 shore of arg1,1
+Lake Michigan,Wisconsin,T,arg2 side of arg1,1
+Lake Michigan,Wisconsin,T,arg2 waters of arg1,1
+Lake Michigan,Wisconsin,T,bias,1.0
+Lake Michigan,Wisconsin,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Lake Michigan,Wisconsin,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Lake Michigan,Wisconsin,T,F_aboveFigureCentroid_f_l,1.0
+Lake Michigan,Wisconsin,T,F_avsResult_0_-1_f_l,0.160693378589
+Lake Michigan,Wisconsin,T,F_avsResult_0_1_f_l,0.160693378589
+Lake Michigan,Wisconsin,T,F_avsResult_0_-1_l_f,0.0565169080155
+Lake Michigan,Wisconsin,T,F_avsResult_0_1_l_f,0.0565169080155
+Lake Michigan,Wisconsin,T,F_avsResult_1_0_f_l,0.0029972303525
+Lake Michigan,Wisconsin,T,F_avsResult_-1_0_f_l,0.694520709059
+Lake Michigan,Wisconsin,T,F_avsResult_-1_0_l_f,0.00019051976708
+Lake Michigan,Wisconsin,T,F_avsResult_1_0_l_f,0.322773872946
+Lake Michigan,Wisconsin,T,F_avsResult_1_-1_l_f,0.106901387219
+Lake Michigan,Wisconsin,T,F_avsResult_1_1_l_f,0.106901387219
+Lake Michigan,Wisconsin,T,F_avsResult_outside_0_-1_f_l,0.160693378589
+Lake Michigan,Wisconsin,T,F_avsResult_outside_0_1_f_l,0.160693378589
+Lake Michigan,Wisconsin,T,F_avsResult_outside_0_-1_l_f,0.0565169080155
+Lake Michigan,Wisconsin,T,F_avsResult_outside_0_1_l_f,0.0565169080155
+Lake Michigan,Wisconsin,T,F_avsResult_outside_1_0_f_l,0.0029972303525
+Lake Michigan,Wisconsin,T,F_avsResult_outside_-1_0_f_l,0.694520709059
+Lake Michigan,Wisconsin,T,F_avsResult_outside_-1_0_l_f,0.00019051976708
+Lake Michigan,Wisconsin,T,F_avsResult_outside_1_0_l_f,0.322773872946
+Lake Michigan,Wisconsin,T,F_avsResult_outside_1_-1_l_f,0.106901387219
+Lake Michigan,Wisconsin,T,F_avsResult_outside_1_1_l_f,0.106901387219
+Lake Michigan,Wisconsin,T,F_belowFigureCentroid_l_f,1.0
+Lake Michigan,Wisconsin,T,F_distBtwnCentroids_f_l,0.0744696690553
+Lake Michigan,Wisconsin,T,F_distBtwnCentroids_l_f,0.0744696690553
+Lake Michigan,Wisconsin,T,F_distHorizontalCentroid_f_l,-0.0732921292054
+Lake Michigan,Wisconsin,T,F_distHorizontalCentroid_l_f,0.0732921292054
+Lake Michigan,Wisconsin,T,F_distVerticalCentroid_f_l,0.0131907318121
+Lake Michigan,Wisconsin,T,F_distVerticalCentroid_l_f,-0.0131907318121
+Lake Michigan,Wisconsin,T,F_leftOfFigureCentroid_f_l,1.0
+Lake Michigan,Wisconsin,T,F_math2dFigureIntersectionArea_f_l,0.244713405411
+Lake Michigan,Wisconsin,T,F_math2dFigureIntersectionArea_l_f,0.0892645688915
+Lake Michigan,Wisconsin,T,F_math2dIntersectionArea_f_l,0.0699835807538
+Lake Michigan,Wisconsin,T,F_math2dIntersectionArea_l_f,0.0699835807538
+Lake Michigan,Wisconsin,T,F_math2dLandmarkIntersectionArea_f_l,0.0892645688915
+Lake Michigan,Wisconsin,T,F_math2dLandmarkIntersectionArea_l_f,0.244713405411
+Lake Michigan,Wisconsin,T,F_rightOfFigureCentroid_l_f,1.0
+Michigan,Detroit,T,arg1 and grew up in arg2,1
+Michigan,Detroit,T,arg1 and the city of arg2,1
+Michigan,Detroit,T,arg1 a suburb of arg2,1
+Michigan,Detroit,T,arg1 including arg2,1
+Michigan,Detroit,T,arg1 just outside of arg2,1
+Michigan,Detroit,T,arg1 outside arg2,1
+Michigan,Detroit,T,arg1 outside of arg2,1
+Michigan,Detroit,T,arg1 which includes arg2,1
+Michigan,Detroit,T,arg1 which is a suburb of arg2,1
+Michigan,Detroit,T,arg2 and across arg1,1
+Michigan,Detroit,T,arg2 and southeast arg1,1
+Michigan,Detroit,T,arg2 and southeastern arg1,1
+Michigan,Detroit,T,arg2 and the state of arg1,1
+Michigan,Detroit,T,arg2 and throughout arg1,1
+Michigan,Detroit,T,arg2 area and throughout arg1,1
+Michigan,Detroit,T,arg2 area of arg1,1
+Michigan,Detroit,T,arg2 is the largest city in arg1,1
+Michigan,Detroit,T,arg2 metro area of arg1,1
+Michigan,Detroit,T,bias,1.0
+Michigan,Detroit,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Michigan,Detroit,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Michigan,Detroit,T,F_aboveFigureCentroid_l_f,1.0
+Michigan,Detroit,T,F_avsResult_0_-1_f_l,0.019928539344
+Michigan,Detroit,T,F_avsResult_0_1_f_l,0.019928539344
+Michigan,Detroit,T,F_avsResult_0_-1_l_f,0.542123790727
+Michigan,Detroit,T,F_avsResult_0_1_l_f,0.542123790727
+Michigan,Detroit,T,F_avsResult_-1_0_f_l,0.0354021424672
+Michigan,Detroit,T,F_avsResult_1_0_f_l,0.239739303858
+Michigan,Detroit,T,F_avsResult_1_0_l_f,0.0505492474661
+Michigan,Detroit,T,F_avsResult_-1_0_l_f,0.588738220873
+Michigan,Detroit,T,F_avsResult_1_-1_l_f,0.197826498682
+Michigan,Detroit,T,F_avsResult_1_1_l_f,0.197826498682
+Michigan,Detroit,T,F_avsResult_inside_0_-1_f_l,0.019928539344
+Michigan,Detroit,T,F_avsResult_inside_0_1_f_l,0.019928539344
+Michigan,Detroit,T,F_avsResult_inside_-1_0_f_l,0.0354021424672
+Michigan,Detroit,T,F_avsResult_inside_1_0_f_l,0.239739303858
+Michigan,Detroit,T,F_avsResult_outside_0_-1_l_f,0.542123790727
+Michigan,Detroit,T,F_avsResult_outside_0_1_l_f,0.542123790727
+Michigan,Detroit,T,F_avsResult_outside_1_0_l_f,0.0505492474661
+Michigan,Detroit,T,F_avsResult_outside_-1_0_l_f,0.588738220873
+Michigan,Detroit,T,F_avsResult_outside_1_-1_l_f,0.197826498682
+Michigan,Detroit,T,F_avsResult_outside_1_1_l_f,0.197826498682
+Michigan,Detroit,T,F_belowFigureCentroid_f_l,1.0
+Michigan,Detroit,T,F_distBtwnCentroids_f_l,0.0735180938303
+Michigan,Detroit,T,F_distBtwnCentroids_l_f,0.0735180938303
+Michigan,Detroit,T,F_distHorizontalCentroid_f_l,0.055877563427
+Michigan,Detroit,T,F_distHorizontalCentroid_l_f,-0.055877563427
+Michigan,Detroit,T,F_distVerticalCentroid_f_l,-0.0477766472862
+Michigan,Detroit,T,F_distVerticalCentroid_l_f,0.0477766472862
+Michigan,Detroit,T,F_leftOfFigureCentroid_l_f,1.0
+Michigan,Detroit,T,F_math2dFigureIntersectionArea_f_l,0.00155583398692
+Michigan,Detroit,T,F_math2dFigureIntersectionArea_l_f,0.954864476728
+Michigan,Detroit,T,F_math2dIntersectionArea_f_l,0.00155571957499
+Michigan,Detroit,T,F_math2dIntersectionArea_l_f,0.00155571957499
+Michigan,Detroit,T,F_math2dLandmarkIntersectionArea_f_l,0.954864476728
+Michigan,Detroit,T,F_math2dLandmarkIntersectionArea_l_f,0.00155583398692
+Michigan,Detroit,T,F_rightOfFigureCentroid_f_l,1.0
+Michigan,Grand Rapids,T,arg1 cities like arg2,1
+Michigan,Grand Rapids,T,arg1 include arg2,1
+Michigan,Grand Rapids,T,arg1 including arg2,1
+Michigan,Grand Rapids,T,arg1 outside of arg2,1
+Michigan,Grand Rapids,T,arg1 with branches in arg2,1
+Michigan,Grand Rapids,T,arg2 and other locations in arg1,1
+Michigan,Grand Rapids,T,arg2 and throughout arg1,1
+Michigan,Grand Rapids,T,arg2 and western arg1,1
+Michigan,Grand Rapids,T,arg2 area in arg1,1
+Michigan,Grand Rapids,T,arg2 area of arg1,1
+Michigan,Grand Rapids,T,arg2 areas of arg1,1
+Michigan,Grand Rapids,T,arg2 escorts in arg1,1
+Michigan,Grand Rapids,T,arg2 in the state of arg1,1
+Michigan,Grand Rapids,T,arg2 our arg1,1
+Michigan,Grand Rapids,T,arg2 real estate agent in arg1,1
+Michigan,Grand Rapids,T,arg2 real estate listings include arg1,1
+Michigan,Grand Rapids,T,arg2 region of arg1,1
+Michigan,Grand Rapids,T,arg2 was the first city in arg1,1
+Michigan,Grand Rapids,T,bias,1.0
+Michigan,Grand Rapids,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Michigan,Grand Rapids,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Michigan,Grand Rapids,T,F_aboveFigureCentroid_l_f,1.0
+Michigan,Grand Rapids,T,F_avsResult_0_-1_f_l,0.000727675591994
+Michigan,Grand Rapids,T,F_avsResult_0_1_f_l,0.000727675591994
+Michigan,Grand Rapids,T,F_avsResult_0_-1_l_f,0.671195376088
+Michigan,Grand Rapids,T,F_avsResult_0_1_l_f,0.671195376088
+Michigan,Grand Rapids,T,F_avsResult_1_0_f_l,0.023735051963
+Michigan,Grand Rapids,T,F_avsResult_-1_0_f_l,0.145237133984
+Michigan,Grand Rapids,T,F_avsResult_1_0_l_f,0.199111208405
+Michigan,Grand Rapids,T,F_avsResult_-1_0_l_f,0.292674145134
+Michigan,Grand Rapids,T,F_avsResult_inside_0_-1_f_l,0.000727675591994
+Michigan,Grand Rapids,T,F_avsResult_inside_0_1_f_l,0.000727675591994
+Michigan,Grand Rapids,T,F_avsResult_inside_1_0_f_l,0.023735051963
+Michigan,Grand Rapids,T,F_avsResult_inside_-1_0_f_l,0.145237133984
+Michigan,Grand Rapids,T,F_avsResult_outside_0_-1_l_f,0.671195376088
+Michigan,Grand Rapids,T,F_avsResult_outside_0_1_l_f,0.671195376088
+Michigan,Grand Rapids,T,F_avsResult_outside_1_0_l_f,0.199111208405
+Michigan,Grand Rapids,T,F_avsResult_outside_-1_0_l_f,0.292674145134
+Michigan,Grand Rapids,T,F_belowFigureCentroid_f_l,1.0
+Michigan,Grand Rapids,T,F_distBtwnCentroids_f_l,0.0369816522916
+Michigan,Grand Rapids,T,F_distBtwnCentroids_l_f,0.0369816522916
+Michigan,Grand Rapids,T,F_distHorizontalCentroid_f_l,0.00597183306956
+Michigan,Grand Rapids,T,F_distHorizontalCentroid_l_f,-0.00597183306956
+Michigan,Grand Rapids,T,F_distVerticalCentroid_f_l,-0.0364962986618
+Michigan,Grand Rapids,T,F_distVerticalCentroid_l_f,0.0364962986618
+Michigan,Grand Rapids,T,F_leftOfFigureCentroid_l_f,1.0
+Michigan,Grand Rapids,T,F_math2dFigureIntersectionArea_f_l,0.000501168591178
+Michigan,Grand Rapids,T,F_math2dFigureIntersectionArea_l_f,1.0
+Michigan,Grand Rapids,T,F_math2dIntersectionArea_f_l,0.000501168591178
+Michigan,Grand Rapids,T,F_math2dIntersectionArea_l_f,0.000501168591178
+Michigan,Grand Rapids,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Michigan,Grand Rapids,T,F_math2dLandmarkIntersectionArea_l_f,0.000501168591178
+Michigan,Grand Rapids,T,F_rightOfFigureCentroid_f_l,1.0
+Michigan,Lake Huron,T,arg1 along the shores of arg2,1
+Michigan,Lake Huron,T,arg1 coastline in arg2,1
+Michigan,Lake Huron,T,arg1 is located on arg2,1
+Michigan,Lake Huron,T,arg1 on an arm of arg2,1
+Michigan,Lake Huron,T,arg1 on the shore of arg2,1
+Michigan,Lake Huron,T,arg1 on the shores of arg2,1
+Michigan,Lake Huron,T,arg1 side of arg2,1
+Michigan,Lake Huron,T,arg2 in northeast arg1,1
+Michigan,Lake Huron,T,arg2 in northeastern arg1,1
+Michigan,Lake Huron,T,arg2 in northern arg1,1
+Michigan,Lake Huron,T,arg2 is bordered by arg1,1
+Michigan,Lake Huron,T,arg2 shoreline in arg1,1
+Michigan,Lake Huron,T,arg2 shoreline of arg1,1
+Michigan,Lake Huron,T,arg2 that separates arg1,1
+Michigan,Lake Huron,T,bias,1.0
+Michigan,Lake Huron,T,F_aboveFigureCentroid_l_f,1.0
+Michigan,Lake Huron,T,F_avsResult_0_-1_f_l,0.101115980208
+Michigan,Lake Huron,T,F_avsResult_0_1_f_l,0.101115980208
+Michigan,Lake Huron,T,F_avsResult_0_-1_l_f,0.358201846005
+Michigan,Lake Huron,T,F_avsResult_0_1_l_f,0.358201846005
+Michigan,Lake Huron,T,F_avsResult_-1_0_f_l,0.00556590082585
+Michigan,Lake Huron,T,F_avsResult_1_0_f_l,0.556015665706
+Michigan,Lake Huron,T,F_avsResult_1_0_l_f,0.014020516697
+Michigan,Lake Huron,T,F_avsResult_-1_0_l_f,0.748252777528
+Michigan,Lake Huron,T,F_avsResult_outside_0_-1_f_l,0.101115980208
+Michigan,Lake Huron,T,F_avsResult_outside_0_1_f_l,0.101115980208
+Michigan,Lake Huron,T,F_avsResult_outside_0_-1_l_f,0.358201846005
+Michigan,Lake Huron,T,F_avsResult_outside_0_1_l_f,0.358201846005
+Michigan,Lake Huron,T,F_avsResult_outside_-1_0_f_l,0.00556590082585
+Michigan,Lake Huron,T,F_avsResult_outside_1_0_f_l,0.556015665706
+Michigan,Lake Huron,T,F_avsResult_outside_1_0_l_f,0.014020516697
+Michigan,Lake Huron,T,F_avsResult_outside_-1_0_l_f,0.748252777528
+Michigan,Lake Huron,T,F_belowFigureCentroid_f_l,1.0
+Michigan,Lake Huron,T,F_closeDistNormFigure_f_l,0.0411587396315
+Michigan,Lake Huron,T,F_closeDistNormFigure_l_f,1.0
+Michigan,Lake Huron,T,F_closeDistNormLandmark_f_l,1.0
+Michigan,Lake Huron,T,F_closeDistNormLandmark_l_f,0.0411587396315
+Michigan,Lake Huron,T,F_closeDistNormUnion_f_l,0.0411582364899
+Michigan,Lake Huron,T,F_closeDistNormUnion_l_f,0.0411582364899
+Michigan,Lake Huron,T,F_distBtwnCentroids_f_l,0.0767807381357
+Michigan,Lake Huron,T,F_distBtwnCentroids_l_f,0.0767807381357
+Michigan,Lake Huron,T,F_distHorizontalCentroid_f_l,0.0747795146855
+Michigan,Lake Huron,T,F_distHorizontalCentroid_l_f,-0.0747795146855
+Michigan,Lake Huron,T,F_distVerticalCentroid_f_l,-0.0174156806375
+Michigan,Lake Huron,T,F_distVerticalCentroid_l_f,0.0174156806375
+Michigan,Lake Huron,T,F_leftOfFigureCentroid_l_f,1.0
+Michigan,Lake Huron,T,F_rightOfFigureCentroid_f_l,1.0
+Michigan,Lake Michigan,T,arg1 along the shores of arg2,1
+Michigan,Lake Michigan,T,arg1 close to arg2,1
+Michigan,Lake Michigan,T,arg1 is named after arg2,1
+Michigan,Lake Michigan,T,arg1 on the shore of arg2,1
+Michigan,Lake Michigan,T,arg1 on the shores of arg2,1
+Michigan,Lake Michigan,T,arg1 overlooking arg2,1
+Michigan,Lake Michigan,T,arg1 shore of arg2,1
+Michigan,Lake Michigan,T,arg1 shores of arg2,1
+Michigan,Lake Michigan,T,arg1 side of arg2,1
+Michigan,Lake Michigan,T,arg1 that drains to arg2,1
+Michigan,Lake Michigan,T,arg1 waters of arg2,1
+Michigan,Lake Michigan,T,arg2 and the state of arg1,1
+Michigan,Lake Michigan,T,arg2 in southwest arg1,1
+Michigan,Lake Michigan,T,arg2 in southwestern arg1,1
+Michigan,Lake Michigan,T,arg2 in western arg1,1
+Michigan,Lake Michigan,T,arg2 to the state of arg1,1
+Michigan,Lake Michigan,T,arg2 toward arg1,1
+Michigan,Lake Michigan,T,bias,1.0
+Michigan,Lake Michigan,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Michigan,Lake Michigan,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Michigan,Lake Michigan,T,F_aboveFigureCentroid_l_f,1.0
+Michigan,Lake Michigan,T,F_avsResult_0_-1_f_l,0.00972461023916
+Michigan,Lake Michigan,T,F_avsResult_0_1_f_l,0.00972461023916
+Michigan,Lake Michigan,T,F_avsResult_0_-1_l_f,0.0334174835912
+Michigan,Lake Michigan,T,F_avsResult_0_1_l_f,0.0334174835912
+Michigan,Lake Michigan,T,F_avsResult_-1_0_f_l,0.0710909574302
+Michigan,Lake Michigan,T,F_avsResult_1_0_f_l,0.0839120049691
+Michigan,Lake Michigan,T,F_avsResult_1_0_l_f,0.176281507529
+Michigan,Lake Michigan,T,F_avsResult_-1_0_l_f,0.254374374267
+Michigan,Lake Michigan,T,F_avsResult_1_-1_l_f,0.0157874831878
+Michigan,Lake Michigan,T,F_avsResult_1_1_l_f,0.0157874831878
+Michigan,Lake Michigan,T,F_avsResult_inside_0_-1_f_l,0.00972461023916
+Michigan,Lake Michigan,T,F_avsResult_inside_0_1_f_l,0.00972461023916
+Michigan,Lake Michigan,T,F_avsResult_inside_-1_0_f_l,0.0710909574302
+Michigan,Lake Michigan,T,F_avsResult_inside_1_0_f_l,0.0839120049691
+Michigan,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.0334174835912
+Michigan,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.0334174835912
+Michigan,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.176281507529
+Michigan,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.254374374267
+Michigan,Lake Michigan,T,F_avsResult_outside_1_-1_l_f,0.0157874831878
+Michigan,Lake Michigan,T,F_avsResult_outside_1_1_l_f,0.0157874831878
+Michigan,Lake Michigan,T,F_belowFigureCentroid_f_l,1.0
+Michigan,Lake Michigan,T,F_distBtwnCentroids_f_l,0.0217290113946
+Michigan,Lake Michigan,T,F_distBtwnCentroids_l_f,0.0217290113946
+Michigan,Lake Michigan,T,F_distHorizontalCentroid_f_l,-0.0151845113342
+Michigan,Lake Michigan,T,F_distHorizontalCentroid_l_f,0.0151845113342
+Michigan,Lake Michigan,T,F_distVerticalCentroid_f_l,-0.0155428617612
+Michigan,Lake Michigan,T,F_distVerticalCentroid_l_f,0.0155428617612
+Michigan,Lake Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+Michigan,Lake Michigan,T,F_math2dFigureIntersectionArea_f_l,0.155819216929
+Michigan,Lake Michigan,T,F_math2dFigureIntersectionArea_l_f,0.613855618013
+Michigan,Lake Michigan,T,F_math2dIntersectionArea_f_l,0.141909567637
+Michigan,Lake Michigan,T,F_math2dIntersectionArea_l_f,0.141909567637
+Michigan,Lake Michigan,T,F_math2dLandmarkIntersectionArea_f_l,0.613855618013
+Michigan,Lake Michigan,T,F_math2dLandmarkIntersectionArea_l_f,0.155819216929
+Michigan,Lake Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+Michigan,Michigan,T,arg1 and northern arg2,1
+Michigan,Michigan,T,arg1 and serves arg2,1
+Michigan,Michigan,T,arg1 being arg2,1
+Michigan,Michigan,T,arg1 county below to find your arg2,1
+Michigan,Michigan,T,arg1 dollars in arg2,1
+Michigan,Michigan,T,arg1 is a city in arg2,1
+Michigan,Michigan,T,arg1 is still arg2,1
+Michigan,Michigan,T,arg1 kindergarten and arg2,1
+Michigan,Michigan,T,arg1 located in arg2,1
+Michigan,Michigan,T,arg1 media lists arg2,1
+Michigan,Michigan,T,arg1 moving companies arg2,1
+Michigan,Michigan,T,arg1 real estate license classes and arg2,1
+Michigan,Michigan,T,arg1 to southeast arg2,1
+Michigan,Michigan,T,arg1 to the citizens of arg2,1
+Michigan,Michigan,T,arg2 and northern arg1,1
+Michigan,Michigan,T,arg2 and serves arg1,1
+Michigan,Michigan,T,arg2 being arg1,1
+Michigan,Michigan,T,arg2 county below to find your arg1,1
+Michigan,Michigan,T,arg2 dollars in arg1,1
+Michigan,Michigan,T,arg2 is a city in arg1,1
+Michigan,Michigan,T,arg2 is still arg1,1
+Michigan,Michigan,T,arg2 kindergarten and arg1,1
+Michigan,Michigan,T,arg2 located in arg1,1
+Michigan,Michigan,T,arg2 media lists arg1,1
+Michigan,Michigan,T,arg2 moving companies arg1,1
+Michigan,Michigan,T,arg2 real estate license classes and arg1,1
+Michigan,Michigan,T,arg2 to southeast arg1,1
+Michigan,Michigan,T,arg2 to the citizens of arg1,1
+Michigan,Michigan,T,bias,1.0
+Michigan,Michigan,T,entity1=entity2,1
+Michigan,Michigan,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Michigan,Michigan,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Michigan,Michigan,T,F_avsResult_0_-1_f_l,0.0845850045074
+Michigan,Michigan,T,F_avsResult_0_1_f_l,0.0845850045074
+Michigan,Michigan,T,F_avsResult_0_-1_l_f,0.0845850045074
+Michigan,Michigan,T,F_avsResult_0_1_l_f,0.0845850045074
+Michigan,Michigan,T,F_avsResult_-1_0_f_l,0.0205037304763
+Michigan,Michigan,T,F_avsResult_1_0_f_l,0.111174458719
+Michigan,Michigan,T,F_avsResult_-1_0_l_f,0.0205037304763
+Michigan,Michigan,T,F_avsResult_1_0_l_f,0.111174458719
+Michigan,Michigan,T,F_avsResult_inside_0_-1_f_l,0.0845850045074
+Michigan,Michigan,T,F_avsResult_inside_0_1_f_l,0.0845850045074
+Michigan,Michigan,T,F_avsResult_inside_0_-1_l_f,0.0845850045074
+Michigan,Michigan,T,F_avsResult_inside_0_1_l_f,0.0845850045074
+Michigan,Michigan,T,F_avsResult_inside_-1_0_f_l,0.0205037304763
+Michigan,Michigan,T,F_avsResult_inside_1_0_f_l,0.111174458719
+Michigan,Michigan,T,F_avsResult_inside_-1_0_l_f,0.0205037304763
+Michigan,Michigan,T,F_avsResult_inside_1_0_l_f,0.111174458719
+Michigan,Michigan,T,F_math2dFigureIntersectionArea_f_l,1.0
+Michigan,Michigan,T,F_math2dFigureIntersectionArea_l_f,1.0
+Michigan,Michigan,T,F_math2dIntersectionArea_f_l,1.0
+Michigan,Michigan,T,F_math2dIntersectionArea_l_f,1.0
+Michigan,Michigan,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Michigan,Michigan,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Michigan,Milwaukee,T,arg1 and headed off to arg2,1
+Michigan,Milwaukee,T,arg1 but moved to arg2,1
+Michigan,Milwaukee,T,arg1 directly to arg2,1
+Michigan,Milwaukee,T,arg1 traveled to arg2,1
+Michigan,Milwaukee,T,arg2 and the state of arg1,1
+Michigan,Milwaukee,T,arg2 area from arg1,1
+Michigan,Milwaukee,T,bias,1.0
+Michigan,Milwaukee,T,F_aboveFigureCentroid_l_f,1.0
+Michigan,Milwaukee,T,F_avsResult_0_-1_f_l,0.0281194736406
+Michigan,Milwaukee,T,F_avsResult_0_1_f_l,0.0281194736406
+Michigan,Milwaukee,T,F_avsResult_0_-1_l_f,0.508060221454
+Michigan,Milwaukee,T,F_avsResult_0_1_l_f,0.508060221454
+Michigan,Milwaukee,T,F_avsResult_1_0_f_l,0.0168491945647
+Michigan,Milwaukee,T,F_avsResult_-1_0_f_l,0.244198581609
+Michigan,Milwaukee,T,F_avsResult_-1_0_l_f,0.0621527507864
+Michigan,Milwaukee,T,F_avsResult_1_0_l_f,0.550849972936
+Michigan,Milwaukee,T,F_avsResult_-1_-1_l_f,0.209538869625
+Michigan,Milwaukee,T,F_avsResult_-1_1_l_f,0.209538869625
+Michigan,Milwaukee,T,F_avsResult_outside_0_-1_f_l,0.0281194736406
+Michigan,Milwaukee,T,F_avsResult_outside_0_1_f_l,0.0281194736406
+Michigan,Milwaukee,T,F_avsResult_outside_0_-1_l_f,0.508060221454
+Michigan,Milwaukee,T,F_avsResult_outside_0_1_l_f,0.508060221454
+Michigan,Milwaukee,T,F_avsResult_outside_1_0_f_l,0.0168491945647
+Michigan,Milwaukee,T,F_avsResult_outside_-1_0_f_l,0.244198581609
+Michigan,Milwaukee,T,F_avsResult_outside_-1_0_l_f,0.0621527507864
+Michigan,Milwaukee,T,F_avsResult_outside_1_0_l_f,0.550849972936
+Michigan,Milwaukee,T,F_avsResult_outside_-1_-1_l_f,0.209538869625
+Michigan,Milwaukee,T,F_avsResult_outside_-1_1_l_f,0.209538869625
+Michigan,Milwaukee,T,F_belowFigureCentroid_f_l,1.0
+Michigan,Milwaukee,T,F_closeDistNormFigure_f_l,0.02581679077
+Michigan,Milwaukee,T,F_closeDistNormFigure_l_f,1.0
+Michigan,Milwaukee,T,F_closeDistNormLandmark_f_l,1.0
+Michigan,Milwaukee,T,F_closeDistNormLandmark_l_f,0.02581679077
+Michigan,Milwaukee,T,F_closeDistNormUnion_f_l,0.0257892038267
+Michigan,Milwaukee,T,F_closeDistNormUnion_l_f,0.0257892038267
+Michigan,Milwaukee,T,F_distBtwnCentroids_f_l,0.0522014200642
+Michigan,Milwaukee,T,F_distBtwnCentroids_l_f,0.0522014200642
+Michigan,Milwaukee,T,F_distHorizontalCentroid_f_l,-0.0391647857898
+Michigan,Milwaukee,T,F_distHorizontalCentroid_l_f,0.0391647857898
+Michigan,Milwaukee,T,F_distVerticalCentroid_f_l,-0.0345124298008
+Michigan,Milwaukee,T,F_distVerticalCentroid_l_f,0.0345124298008
+Michigan,Milwaukee,T,F_leftOfFigureCentroid_f_l,1.0
+Michigan,Milwaukee,T,F_rightOfFigureCentroid_l_f,1.0
+Michigan,Wisconsin,T,arg1 and eastern arg2,1
+Michigan,Wisconsin,T,arg1 and northeast arg2,1
+Michigan,Wisconsin,T,arg1 and northeastern arg2,1
+Michigan,Wisconsin,T,arg1 and northern arg2,1
+Michigan,Wisconsin,T,arg1 and raised in arg2,1
+Michigan,Wisconsin,T,arg1 beat arg2,1
+Michigan,Wisconsin,T,arg1 fell to arg2,1
+Michigan,Wisconsin,T,arg2 and lower arg1,1
+Michigan,Wisconsin,T,arg2 and northern arg1,1
+Michigan,Wisconsin,T,arg2 and parts of arg1,1
+Michigan,Wisconsin,T,arg2 and southern arg1,1
+Michigan,Wisconsin,T,arg2 and upper arg1,1
+Michigan,Wisconsin,T,arg2 and western arg1,1
+Michigan,Wisconsin,T,arg2 handed arg1,1
+Michigan,Wisconsin,T,arg2 lost to arg1,1
+Michigan,Wisconsin,T,arg2 out hit arg1,1
+Michigan,Wisconsin,T,arg2 traveled to arg1,1
+Michigan,Wisconsin,T,arg2 vs arg1,1
+Michigan,Wisconsin,T,arg2 won at arg1,1
+Michigan,Wisconsin,T,bias,1.0
+Michigan,Wisconsin,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Michigan,Wisconsin,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Michigan,Wisconsin,T,F_aboveFigureCentroid_l_f,1.0
+Michigan,Wisconsin,T,F_avsResult_0_-1_f_l,0.0304689304533
+Michigan,Wisconsin,T,F_avsResult_0_1_f_l,0.0304689304533
+Michigan,Wisconsin,T,F_avsResult_0_-1_l_f,0.144404355318
+Michigan,Wisconsin,T,F_avsResult_0_1_l_f,0.144404355318
+Michigan,Wisconsin,T,F_avsResult_1_0_f_l,0.0342199794665
+Michigan,Wisconsin,T,F_avsResult_-1_0_f_l,0.247910158963
+Michigan,Wisconsin,T,F_avsResult_-1_0_l_f,0.0108198616985
+Michigan,Wisconsin,T,F_avsResult_1_0_l_f,0.584350972577
+Michigan,Wisconsin,T,F_avsResult_-1_-1_f_l,0.0875668963309
+Michigan,Wisconsin,T,F_avsResult_-1_1_f_l,0.0875668963309
+Michigan,Wisconsin,T,F_avsResult_outside_0_-1_f_l,0.0304689304533
+Michigan,Wisconsin,T,F_avsResult_outside_0_1_f_l,0.0304689304533
+Michigan,Wisconsin,T,F_avsResult_outside_0_-1_l_f,0.144404355318
+Michigan,Wisconsin,T,F_avsResult_outside_0_1_l_f,0.144404355318
+Michigan,Wisconsin,T,F_avsResult_outside_1_0_f_l,0.0342199794665
+Michigan,Wisconsin,T,F_avsResult_outside_-1_0_f_l,0.247910158963
+Michigan,Wisconsin,T,F_avsResult_outside_-1_0_l_f,0.0108198616985
+Michigan,Wisconsin,T,F_avsResult_outside_1_0_l_f,0.584350972577
+Michigan,Wisconsin,T,F_avsResult_outside_-1_-1_f_l,0.0875668963309
+Michigan,Wisconsin,T,F_avsResult_outside_-1_1_f_l,0.0875668963309
+Michigan,Wisconsin,T,F_belowFigureCentroid_f_l,1.0
+Michigan,Wisconsin,T,F_distBtwnCentroids_f_l,0.056996820737
+Michigan,Wisconsin,T,F_distBtwnCentroids_l_f,0.056996820737
+Michigan,Wisconsin,T,F_distHorizontalCentroid_f_l,-0.0568602686034
+Michigan,Wisconsin,T,F_distHorizontalCentroid_l_f,0.0568602686034
+Michigan,Wisconsin,T,F_distVerticalCentroid_f_l,-0.00394302275838
+Michigan,Wisconsin,T,F_distVerticalCentroid_l_f,0.00394302275838
+Michigan,Wisconsin,T,F_leftOfFigureCentroid_f_l,1.0
+Michigan,Wisconsin,T,F_math2dFigureIntersectionArea_f_l,0.00274493686829
+Michigan,Wisconsin,T,F_math2dFigureIntersectionArea_l_f,0.00394456329333
+Michigan,Wisconsin,T,F_math2dIntersectionArea_f_l,0.00162121695237
+Michigan,Wisconsin,T,F_math2dIntersectionArea_l_f,0.00162121695237
+Michigan,Wisconsin,T,F_math2dLandmarkIntersectionArea_f_l,0.00394456329333
+Michigan,Wisconsin,T,F_math2dLandmarkIntersectionArea_l_f,0.00274493686829
+Michigan,Wisconsin,T,F_rightOfFigureCentroid_l_f,1.0
+Milwaukee,Detroit,T,arg1 is right up there with arg2,1
+Milwaukee,Detroit,T,arg1 was beaten by arg2,1
+Milwaukee,Detroit,T,arg2 against arg1,1
+Milwaukee,Detroit,T,arg2 and moved on to arg1,1
+Milwaukee,Detroit,T,arg2 and one from arg1,1
+Milwaukee,Detroit,T,arg2 and two years in arg1,1
+Milwaukee,Detroit,T,arg2 beating arg1,1
+Milwaukee,Detroit,T,arg2 beats arg1,1
+Milwaukee,Detroit,T,arg2 before moving to arg1,1
+Milwaukee,Detroit,T,arg2 handed arg1,1
+Milwaukee,Detroit,T,arg2 outscored arg1,1
+Milwaukee,Detroit,T,arg2 smashed arg1,1
+Milwaukee,Detroit,T,bias,1.0
+Milwaukee,Detroit,T,F_aboveFigureCentroid_l_f,1.0
+Milwaukee,Detroit,T,F_avsResult_0_-1_f_l,0.178648689639
+Milwaukee,Detroit,T,F_avsResult_0_1_f_l,0.178648689639
+Milwaukee,Detroit,T,F_avsResult_0_-1_l_f,0.318298602529
+Milwaukee,Detroit,T,F_avsResult_0_1_l_f,0.318298602529
+Milwaukee,Detroit,T,F_avsResult_-1_0_f_l,0.00750219375105
+Milwaukee,Detroit,T,F_avsResult_1_0_f_l,0.786053144023
+Milwaukee,Detroit,T,F_avsResult_1_0_l_f,0.00775887000687
+Milwaukee,Detroit,T,F_avsResult_-1_0_l_f,0.783036482735
+Milwaukee,Detroit,T,F_avsResult_outside_0_-1_f_l,0.178648689639
+Milwaukee,Detroit,T,F_avsResult_outside_0_1_f_l,0.178648689639
+Milwaukee,Detroit,T,F_avsResult_outside_0_-1_l_f,0.318298602529
+Milwaukee,Detroit,T,F_avsResult_outside_0_1_l_f,0.318298602529
+Milwaukee,Detroit,T,F_avsResult_outside_-1_0_f_l,0.00750219375105
+Milwaukee,Detroit,T,F_avsResult_outside_1_0_f_l,0.786053144023
+Milwaukee,Detroit,T,F_avsResult_outside_1_0_l_f,0.00775887000687
+Milwaukee,Detroit,T,F_avsResult_outside_-1_0_l_f,0.783036482735
+Milwaukee,Detroit,T,F_belowFigureCentroid_f_l,1.0
+Milwaukee,Detroit,T,F_closeDistNormFigure_f_l,1.0
+Milwaukee,Detroit,T,F_closeDistNormFigure_l_f,1.0
+Milwaukee,Detroit,T,F_closeDistNormLandmark_f_l,1.0
+Milwaukee,Detroit,T,F_closeDistNormLandmark_l_f,1.0
+Milwaukee,Detroit,T,F_closeDistNormUnion_f_l,1.0
+Milwaukee,Detroit,T,F_closeDistNormUnion_l_f,1.0
+Milwaukee,Detroit,T,F_distBtwnCentroids_f_l,1.01760868351
+Milwaukee,Detroit,T,F_distBtwnCentroids_l_f,1.01760868351
+Milwaukee,Detroit,T,F_distHorizontalCentroid_f_l,1.00784100113
+Milwaukee,Detroit,T,F_distHorizontalCentroid_l_f,-1.00784100113
+Milwaukee,Detroit,T,F_distVerticalCentroid_f_l,-0.140655427184
+Milwaukee,Detroit,T,F_distVerticalCentroid_l_f,0.140655427184
+Milwaukee,Detroit,T,F_leftOfFigureCentroid_l_f,1.0
+Milwaukee,Detroit,T,F_rightOfFigureCentroid_f_l,1.0
+Milwaukee,Grand Rapids,T,arg1 and raised in arg2,1
+Milwaukee,Grand Rapids,T,bias,1.0
+Milwaukee,Grand Rapids,T,F_aboveFigureCentroid_l_f,1.0
+Milwaukee,Grand Rapids,T,F_avsResult_0_-1_f_l,0.228325209602
+Milwaukee,Grand Rapids,T,F_avsResult_0_1_f_l,0.228325209602
+Milwaukee,Grand Rapids,T,F_avsResult_0_-1_l_f,0.25988071556
+Milwaukee,Grand Rapids,T,F_avsResult_0_1_l_f,0.25988071556
+Milwaukee,Grand Rapids,T,F_avsResult_-1_0_f_l,0.00284231264114
+Milwaukee,Grand Rapids,T,F_avsResult_1_0_f_l,0.727845328289
+Milwaukee,Grand Rapids,T,F_avsResult_1_0_l_f,0.00373098633612
+Milwaukee,Grand Rapids,T,F_avsResult_-1_0_l_f,0.725905948161
+Milwaukee,Grand Rapids,T,F_avsResult_outside_0_-1_f_l,0.228325209602
+Milwaukee,Grand Rapids,T,F_avsResult_outside_0_1_f_l,0.228325209602
+Milwaukee,Grand Rapids,T,F_avsResult_outside_0_-1_l_f,0.25988071556
+Milwaukee,Grand Rapids,T,F_avsResult_outside_0_1_l_f,0.25988071556
+Milwaukee,Grand Rapids,T,F_avsResult_outside_-1_0_f_l,0.00284231264114
+Milwaukee,Grand Rapids,T,F_avsResult_outside_1_0_f_l,0.727845328289
+Milwaukee,Grand Rapids,T,F_avsResult_outside_1_0_l_f,0.00373098633612
+Milwaukee,Grand Rapids,T,F_avsResult_outside_-1_0_l_f,0.725905948161
+Milwaukee,Grand Rapids,T,F_belowFigureCentroid_f_l,1.0
+Milwaukee,Grand Rapids,T,F_closeDistNormFigure_f_l,1.0
+Milwaukee,Grand Rapids,T,F_closeDistNormFigure_l_f,1.0
+Milwaukee,Grand Rapids,T,F_closeDistNormLandmark_f_l,1.0
+Milwaukee,Grand Rapids,T,F_closeDistNormLandmark_l_f,1.0
+Milwaukee,Grand Rapids,T,F_closeDistNormUnion_f_l,1.0
+Milwaukee,Grand Rapids,T,F_closeDistNormUnion_l_f,1.0
+Milwaukee,Grand Rapids,T,F_distBtwnCentroids_f_l,2.99339796928
+Milwaukee,Grand Rapids,T,F_distBtwnCentroids_l_f,2.99339796928
+Milwaukee,Grand Rapids,T,F_distHorizontalCentroid_f_l,2.99051079062
+Milwaukee,Grand Rapids,T,F_distHorizontalCentroid_l_f,-2.99051079062
+Milwaukee,Grand Rapids,T,F_distVerticalCentroid_f_l,-0.131440532896
+Milwaukee,Grand Rapids,T,F_distVerticalCentroid_l_f,0.131440532896
+Milwaukee,Grand Rapids,T,F_leftOfFigureCentroid_l_f,1.0
+Milwaukee,Grand Rapids,T,F_rightOfFigureCentroid_f_l,1.0
+Milwaukee,Lake Huron,T,bias,1.0
+Milwaukee,Lake Huron,T,F_aboveFigureCentroid_f_l,1.0
+Milwaukee,Lake Huron,T,F_avsResult_0_-1_f_l,0.322275081979
+Milwaukee,Lake Huron,T,F_avsResult_0_1_f_l,0.322275081979
+Milwaukee,Lake Huron,T,F_avsResult_0_-1_l_f,0.178108739745
+Milwaukee,Lake Huron,T,F_avsResult_0_1_l_f,0.178108739745
+Milwaukee,Lake Huron,T,F_avsResult_-1_0_f_l,0.00665771216067
+Milwaukee,Lake Huron,T,F_avsResult_1_0_f_l,0.805967013671
+Milwaukee,Lake Huron,T,F_avsResult_1_0_l_f,0.00658815871187
+Milwaukee,Lake Huron,T,F_avsResult_-1_0_l_f,0.807991834455
+Milwaukee,Lake Huron,T,F_avsResult_outside_0_-1_f_l,0.322275081979
+Milwaukee,Lake Huron,T,F_avsResult_outside_0_1_f_l,0.322275081979
+Milwaukee,Lake Huron,T,F_avsResult_outside_0_-1_l_f,0.178108739745
+Milwaukee,Lake Huron,T,F_avsResult_outside_0_1_l_f,0.178108739745
+Milwaukee,Lake Huron,T,F_avsResult_outside_-1_0_f_l,0.00665771216067
+Milwaukee,Lake Huron,T,F_avsResult_outside_1_0_f_l,0.805967013671
+Milwaukee,Lake Huron,T,F_avsResult_outside_1_0_l_f,0.00658815871187
+Milwaukee,Lake Huron,T,F_avsResult_outside_-1_0_l_f,0.807991834455
+Milwaukee,Lake Huron,T,F_belowFigureCentroid_l_f,1.0
+Milwaukee,Lake Huron,T,F_closeDistNormFigure_f_l,1.0
+Milwaukee,Lake Huron,T,F_closeDistNormFigure_l_f,1.0
+Milwaukee,Lake Huron,T,F_closeDistNormLandmark_f_l,1.0
+Milwaukee,Lake Huron,T,F_closeDistNormLandmark_l_f,1.0
+Milwaukee,Lake Huron,T,F_closeDistNormUnion_f_l,1.0
+Milwaukee,Lake Huron,T,F_closeDistNormUnion_l_f,1.0
+Milwaukee,Lake Huron,T,F_distBtwnCentroids_f_l,1.02909697734
+Milwaukee,Lake Huron,T,F_distBtwnCentroids_l_f,1.02909697734
+Milwaukee,Lake Huron,T,F_distHorizontalCentroid_f_l,1.02006447261
+Milwaukee,Lake Huron,T,F_distHorizontalCentroid_l_f,-1.02006447261
+Milwaukee,Lake Huron,T,F_distVerticalCentroid_f_l,0.136048008049
+Milwaukee,Lake Huron,T,F_distVerticalCentroid_l_f,-0.136048008049
+Milwaukee,Lake Huron,T,F_leftOfFigureCentroid_l_f,1.0
+Milwaukee,Lake Huron,T,F_rightOfFigureCentroid_f_l,1.0
+Milwaukee,Lake Michigan,T,arg1 along arg2,1
+Milwaukee,Lake Michigan,T,arg1 next to arg2,1
+Milwaukee,Lake Michigan,T,arg1 on the shore of arg2,1
+Milwaukee,Lake Michigan,T,arg1 on the shores of arg2,1
+Milwaukee,Lake Michigan,T,arg1 on the shores of beautiful arg2,1
+Milwaukee,Lake Michigan,T,arg1 overlooking arg2,1
+Milwaukee,Lake Michigan,T,arg2 and downtown arg1,1
+Milwaukee,Lake Michigan,T,arg2 in downtown arg1,1
+Milwaukee,Lake Michigan,T,arg2 just north of arg1,1
+Milwaukee,Lake Michigan,T,arg2 north of arg1,1
+Milwaukee,Lake Michigan,T,arg2 off arg1,1
+Milwaukee,Lake Michigan,T,arg2 shore in arg1,1
+Milwaukee,Lake Michigan,T,arg2 shoreline in arg1,1
+Milwaukee,Lake Michigan,T,arg2 to connect arg1,1
+Milwaukee,Lake Michigan,T,arg2 with easy access to arg1,1
+Milwaukee,Lake Michigan,T,bias,1.0
+Milwaukee,Lake Michigan,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Milwaukee,Lake Michigan,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Milwaukee,Lake Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Milwaukee,Lake Michigan,T,F_avsResult_0_-1_f_l,0.436912878552
+Milwaukee,Lake Michigan,T,F_avsResult_0_1_f_l,0.436912878552
+Milwaukee,Lake Michigan,T,F_avsResult_0_-1_l_f,0.0331480409656
+Milwaukee,Lake Michigan,T,F_avsResult_0_1_l_f,0.0331480409656
+Milwaukee,Lake Michigan,T,F_avsResult_-1_0_f_l,0.0711955112014
+Milwaukee,Lake Michigan,T,F_avsResult_1_0_f_l,0.506471796829
+Milwaukee,Lake Michigan,T,F_avsResult_1_0_l_f,0.0503808447676
+Milwaukee,Lake Michigan,T,F_avsResult_-1_0_l_f,0.327508368696
+Milwaukee,Lake Michigan,T,F_avsResult_-1_-1_f_l,0.19361146187
+Milwaukee,Lake Michigan,T,F_avsResult_-1_1_f_l,0.19361146187
+Milwaukee,Lake Michigan,T,F_avsResult_-1_-1_l_f,0.112364032873
+Milwaukee,Lake Michigan,T,F_avsResult_-1_1_l_f,0.112364032873
+Milwaukee,Lake Michigan,T,F_avsResult_outside_0_-1_f_l,0.436912878552
+Milwaukee,Lake Michigan,T,F_avsResult_outside_0_1_f_l,0.436912878552
+Milwaukee,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.0331480409656
+Milwaukee,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.0331480409656
+Milwaukee,Lake Michigan,T,F_avsResult_outside_-1_0_f_l,0.0711955112014
+Milwaukee,Lake Michigan,T,F_avsResult_outside_1_0_f_l,0.506471796829
+Milwaukee,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.0503808447676
+Milwaukee,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.327508368696
+Milwaukee,Lake Michigan,T,F_avsResult_outside_-1_-1_f_l,0.19361146187
+Milwaukee,Lake Michigan,T,F_avsResult_outside_-1_1_f_l,0.19361146187
+Milwaukee,Lake Michigan,T,F_avsResult_outside_-1_-1_l_f,0.112364032873
+Milwaukee,Lake Michigan,T,F_avsResult_outside_-1_1_l_f,0.112364032873
+Milwaukee,Lake Michigan,T,F_belowFigureCentroid_l_f,1.0
+Milwaukee,Lake Michigan,T,F_distBtwnCentroids_f_l,0.105936360121
+Milwaukee,Lake Michigan,T,F_distBtwnCentroids_l_f,0.105936360121
+Milwaukee,Lake Michigan,T,F_distHorizontalCentroid_f_l,0.0831740634367
+Milwaukee,Lake Michigan,T,F_distHorizontalCentroid_l_f,-0.0831740634367
+Milwaukee,Lake Michigan,T,F_distVerticalCentroid_f_l,0.0656093557892
+Milwaukee,Lake Michigan,T,F_distVerticalCentroid_l_f,-0.0656093557892
+Milwaukee,Lake Michigan,T,F_leftOfFigureCentroid_l_f,1.0
+Milwaukee,Lake Michigan,T,F_math2dFigureIntersectionArea_f_l,0.000911011900867
+Milwaukee,Lake Michigan,T,F_math2dFigureIntersectionArea_l_f,3.83914853817e-06
+Milwaukee,Lake Michigan,T,F_math2dIntersectionArea_f_l,3.82305226726e-06
+Milwaukee,Lake Michigan,T,F_math2dIntersectionArea_l_f,3.82305226726e-06
+Milwaukee,Lake Michigan,T,F_math2dLandmarkIntersectionArea_f_l,3.83914853817e-06
+Milwaukee,Lake Michigan,T,F_math2dLandmarkIntersectionArea_l_f,0.000911011900867
+Milwaukee,Lake Michigan,T,F_rightOfFigureCentroid_f_l,1.0
+Milwaukee,Michigan,T,arg1 and the state of arg2,1
+Milwaukee,Michigan,T,arg1 area from arg2,1
+Milwaukee,Michigan,T,arg2 and headed off to arg1,1
+Milwaukee,Michigan,T,arg2 but moved to arg1,1
+Milwaukee,Michigan,T,arg2 directly to arg1,1
+Milwaukee,Michigan,T,arg2 traveled to arg1,1
+Milwaukee,Michigan,T,bias,1.0
+Milwaukee,Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Milwaukee,Michigan,T,F_avsResult_0_-1_f_l,0.508060221454
+Milwaukee,Michigan,T,F_avsResult_0_1_f_l,0.508060221454
+Milwaukee,Michigan,T,F_avsResult_0_-1_l_f,0.0281194736406
+Milwaukee,Michigan,T,F_avsResult_0_1_l_f,0.0281194736406
+Milwaukee,Michigan,T,F_avsResult_-1_0_f_l,0.0621527507864
+Milwaukee,Michigan,T,F_avsResult_1_0_f_l,0.550849972936
+Milwaukee,Michigan,T,F_avsResult_1_0_l_f,0.0168491945647
+Milwaukee,Michigan,T,F_avsResult_-1_0_l_f,0.244198581609
+Milwaukee,Michigan,T,F_avsResult_-1_-1_f_l,0.209538869625
+Milwaukee,Michigan,T,F_avsResult_-1_1_f_l,0.209538869625
+Milwaukee,Michigan,T,F_avsResult_outside_0_-1_f_l,0.508060221454
+Milwaukee,Michigan,T,F_avsResult_outside_0_1_f_l,0.508060221454
+Milwaukee,Michigan,T,F_avsResult_outside_0_-1_l_f,0.0281194736406
+Milwaukee,Michigan,T,F_avsResult_outside_0_1_l_f,0.0281194736406
+Milwaukee,Michigan,T,F_avsResult_outside_-1_0_f_l,0.0621527507864
+Milwaukee,Michigan,T,F_avsResult_outside_1_0_f_l,0.550849972936
+Milwaukee,Michigan,T,F_avsResult_outside_1_0_l_f,0.0168491945647
+Milwaukee,Michigan,T,F_avsResult_outside_-1_0_l_f,0.244198581609
+Milwaukee,Michigan,T,F_avsResult_outside_-1_-1_f_l,0.209538869625
+Milwaukee,Michigan,T,F_avsResult_outside_-1_1_f_l,0.209538869625
+Milwaukee,Michigan,T,F_belowFigureCentroid_l_f,1.0
+Milwaukee,Michigan,T,F_closeDistNormFigure_f_l,1.0
+Milwaukee,Michigan,T,F_closeDistNormFigure_l_f,0.02581679077
+Milwaukee,Michigan,T,F_closeDistNormLandmark_f_l,0.02581679077
+Milwaukee,Michigan,T,F_closeDistNormLandmark_l_f,1.0
+Milwaukee,Michigan,T,F_closeDistNormUnion_f_l,0.0257892038267
+Milwaukee,Michigan,T,F_closeDistNormUnion_l_f,0.0257892038267
+Milwaukee,Michigan,T,F_distBtwnCentroids_f_l,0.0522014200642
+Milwaukee,Michigan,T,F_distBtwnCentroids_l_f,0.0522014200642
+Milwaukee,Michigan,T,F_distHorizontalCentroid_f_l,0.0391647857898
+Milwaukee,Michigan,T,F_distHorizontalCentroid_l_f,-0.0391647857898
+Milwaukee,Michigan,T,F_distVerticalCentroid_f_l,0.0345124298008
+Milwaukee,Michigan,T,F_distVerticalCentroid_l_f,-0.0345124298008
+Milwaukee,Michigan,T,F_leftOfFigureCentroid_l_f,1.0
+Milwaukee,Michigan,T,F_rightOfFigureCentroid_f_l,1.0
+Milwaukee,Milwaukee,T,arg1 condos and arg2,1
+Milwaukee,Milwaukee,T,arg1 foreclosures and arg2,1
+Milwaukee,Milwaukee,T,arg1 new car dealer and arg2,1
+Milwaukee,Milwaukee,T,arg1 search arg2,1
+Milwaukee,Milwaukee,T,arg1 single men and arg2,1
+Milwaukee,Milwaukee,T,arg1 singles groups and arg2,1
+Milwaukee,Milwaukee,T,arg1 to help you move within arg2,1
+Milwaukee,Milwaukee,T,arg1 to take on arg2,1
+Milwaukee,Milwaukee,T,arg1 totally explained arg2,1
+Milwaukee,Milwaukee,T,arg1 tournaments and other arg2,1
+Milwaukee,Milwaukee,T,arg1 used car inventory search arg2,1
+Milwaukee,Milwaukee,T,arg1 used cars arg2,1
+Milwaukee,Milwaukee,T,arg2 condos and arg1,1
+Milwaukee,Milwaukee,T,arg2 foreclosures and arg1,1
+Milwaukee,Milwaukee,T,arg2 new car dealer and arg1,1
+Milwaukee,Milwaukee,T,arg2 search arg1,1
+Milwaukee,Milwaukee,T,arg2 single men and arg1,1
+Milwaukee,Milwaukee,T,arg2 singles groups and arg1,1
+Milwaukee,Milwaukee,T,arg2 to help you move within arg1,1
+Milwaukee,Milwaukee,T,arg2 to take on arg1,1
+Milwaukee,Milwaukee,T,arg2 totally explained arg1,1
+Milwaukee,Milwaukee,T,arg2 tournaments and other arg1,1
+Milwaukee,Milwaukee,T,arg2 used car inventory search arg1,1
+Milwaukee,Milwaukee,T,arg2 used cars arg1,1
+Milwaukee,Milwaukee,T,bias,1.0
+Milwaukee,Milwaukee,T,entity1=entity2,1
+Milwaukee,Milwaukee,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Milwaukee,Milwaukee,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Milwaukee,Milwaukee,T,F_avsResult_0_-1_f_l,0.0310539493998
+Milwaukee,Milwaukee,T,F_avsResult_0_1_f_l,0.0310539493998
+Milwaukee,Milwaukee,T,F_avsResult_0_-1_l_f,0.0310539493998
+Milwaukee,Milwaukee,T,F_avsResult_0_1_l_f,0.0310539493998
+Milwaukee,Milwaukee,T,F_avsResult_-1_0_f_l,0.0548911002754
+Milwaukee,Milwaukee,T,F_avsResult_1_0_f_l,0.148924893633
+Milwaukee,Milwaukee,T,F_avsResult_-1_0_l_f,0.0548911002754
+Milwaukee,Milwaukee,T,F_avsResult_1_0_l_f,0.148924893633
+Milwaukee,Milwaukee,T,F_avsResult_inside_0_-1_f_l,0.0310539493998
+Milwaukee,Milwaukee,T,F_avsResult_inside_0_1_f_l,0.0310539493998
+Milwaukee,Milwaukee,T,F_avsResult_inside_0_-1_l_f,0.0310539493998
+Milwaukee,Milwaukee,T,F_avsResult_inside_0_1_l_f,0.0310539493998
+Milwaukee,Milwaukee,T,F_avsResult_inside_-1_0_f_l,0.0548911002754
+Milwaukee,Milwaukee,T,F_avsResult_inside_1_0_f_l,0.148924893633
+Milwaukee,Milwaukee,T,F_avsResult_inside_-1_0_l_f,0.0548911002754
+Milwaukee,Milwaukee,T,F_avsResult_inside_1_0_l_f,0.148924893633
+Milwaukee,Milwaukee,T,F_math2dFigureIntersectionArea_f_l,1.0
+Milwaukee,Milwaukee,T,F_math2dFigureIntersectionArea_l_f,1.0
+Milwaukee,Milwaukee,T,F_math2dIntersectionArea_f_l,1.0
+Milwaukee,Milwaukee,T,F_math2dIntersectionArea_l_f,1.0
+Milwaukee,Milwaukee,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Milwaukee,Milwaukee,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Milwaukee,Wisconsin,T,arg1 and southeast arg2,1
+Milwaukee,Wisconsin,T,arg1 and southeastern arg2,1
+Milwaukee,Wisconsin,T,arg1 and the state of arg2,1
+Milwaukee,Wisconsin,T,arg1 and throughout arg2,1
+Milwaukee,Wisconsin,T,arg1 area and arg2,1
+Milwaukee,Wisconsin,T,arg1 area and southeastern arg2,1
+Milwaukee,Wisconsin,T,arg1 area in arg2,1
+Milwaukee,Wisconsin,T,arg1 area of arg2,1
+Milwaukee,Wisconsin,T,arg1 areas of arg2,1
+Milwaukee,Wisconsin,T,arg1 community and the state of arg2,1
+Milwaukee,Wisconsin,T,arg1 escorts in arg2,1
+Milwaukee,Wisconsin,T,arg1 in southeastern arg2,1
+Milwaukee,Wisconsin,T,arg1 is the largest city in arg2,1
+Milwaukee,Wisconsin,T,arg2 behind arg1,1
+Milwaukee,Wisconsin,T,arg2 counties of arg1,1
+Milwaukee,Wisconsin,T,arg2 including arg1,1
+Milwaukee,Wisconsin,T,arg2 including but not limited to arg1,1
+Milwaukee,Wisconsin,T,arg2 outside of arg1,1
+Milwaukee,Wisconsin,T,arg2 which includes arg1,1
+Milwaukee,Wisconsin,T,bias,1.0
+Milwaukee,Wisconsin,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Milwaukee,Wisconsin,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Milwaukee,Wisconsin,T,F_aboveFigureCentroid_f_l,1.0
+Milwaukee,Wisconsin,T,F_avsResult_0_-1_f_l,0.485741054862
+Milwaukee,Wisconsin,T,F_avsResult_0_1_f_l,0.485741054862
+Milwaukee,Wisconsin,T,F_avsResult_0_-1_l_f,8.64484932498e-05
+Milwaukee,Wisconsin,T,F_avsResult_0_1_l_f,8.64484932498e-05
+Milwaukee,Wisconsin,T,F_avsResult_1_0_f_l,0.063379748898
+Milwaukee,Wisconsin,T,F_avsResult_-1_0_f_l,0.54389391815
+Milwaukee,Wisconsin,T,F_avsResult_-1_0_l_f,0.0404667165741
+Milwaukee,Wisconsin,T,F_avsResult_1_0_l_f,0.0776430673133
+Milwaukee,Wisconsin,T,F_avsResult_1_-1_f_l,0.204998786445
+Milwaukee,Wisconsin,T,F_avsResult_1_1_f_l,0.204998786445
+Milwaukee,Wisconsin,T,F_avsResult_inside_0_-1_l_f,8.64484932498e-05
+Milwaukee,Wisconsin,T,F_avsResult_inside_0_1_l_f,8.64484932498e-05
+Milwaukee,Wisconsin,T,F_avsResult_inside_-1_0_l_f,0.0404667165741
+Milwaukee,Wisconsin,T,F_avsResult_inside_1_0_l_f,0.0776430673133
+Milwaukee,Wisconsin,T,F_avsResult_outside_0_-1_f_l,0.485741054862
+Milwaukee,Wisconsin,T,F_avsResult_outside_0_1_f_l,0.485741054862
+Milwaukee,Wisconsin,T,F_avsResult_outside_1_0_f_l,0.063379748898
+Milwaukee,Wisconsin,T,F_avsResult_outside_-1_0_f_l,0.54389391815
+Milwaukee,Wisconsin,T,F_avsResult_outside_1_-1_f_l,0.204998786445
+Milwaukee,Wisconsin,T,F_avsResult_outside_1_1_f_l,0.204998786445
+Milwaukee,Wisconsin,T,F_belowFigureCentroid_l_f,1.0
+Milwaukee,Wisconsin,T,F_distBtwnCentroids_f_l,0.0900836875215
+Milwaukee,Wisconsin,T,F_distBtwnCentroids_l_f,0.0900836875215
+Milwaukee,Wisconsin,T,F_distHorizontalCentroid_f_l,-0.0692143260118
+Milwaukee,Wisconsin,T,F_distHorizontalCentroid_l_f,0.0692143260118
+Milwaukee,Wisconsin,T,F_distVerticalCentroid_f_l,0.0576580248726
+Milwaukee,Wisconsin,T,F_distVerticalCentroid_l_f,-0.0576580248726
+Milwaukee,Wisconsin,T,F_leftOfFigureCentroid_f_l,1.0
+Milwaukee,Wisconsin,T,F_math2dFigureIntersectionArea_f_l,1.0
+Milwaukee,Wisconsin,T,F_math2dFigureIntersectionArea_l_f,0.00153720651461
+Milwaukee,Wisconsin,T,F_math2dIntersectionArea_f_l,0.00153720651461
+Milwaukee,Wisconsin,T,F_math2dIntersectionArea_l_f,0.00153720651461
+Milwaukee,Wisconsin,T,F_math2dLandmarkIntersectionArea_f_l,0.00153720651461
+Milwaukee,Wisconsin,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Milwaukee,Wisconsin,T,F_rightOfFigureCentroid_l_f,1.0
+Wisconsin,Detroit,T,arg1 and inner city arg2,1
+Wisconsin,Detroit,T,arg1 and suburban arg2,1
+Wisconsin,Detroit,T,arg1 and urban arg2,1
+Wisconsin,Detroit,T,arg2 and arrived in arg1,1
+Wisconsin,Detroit,T,arg2 and rural arg1,1
+Wisconsin,Detroit,T,arg2 and southern arg1,1
+Wisconsin,Detroit,T,arg2 to rural arg1,1
+Wisconsin,Detroit,T,bias,1.0
+Wisconsin,Detroit,T,F_aboveFigureCentroid_l_f,1.0
+Wisconsin,Detroit,T,F_avsResult_0_-1_f_l,0.0710919734633
+Wisconsin,Detroit,T,F_avsResult_0_1_f_l,0.0710919734633
+Wisconsin,Detroit,T,F_avsResult_0_-1_l_f,0.439190235419
+Wisconsin,Detroit,T,F_avsResult_0_1_l_f,0.439190235419
+Wisconsin,Detroit,T,F_avsResult_-1_0_f_l,0.0103396804017
+Wisconsin,Detroit,T,F_avsResult_1_0_f_l,0.712819871736
+Wisconsin,Detroit,T,F_avsResult_1_0_l_f,0.0146840079945
+Wisconsin,Detroit,T,F_avsResult_-1_0_l_f,0.763538989646
+Wisconsin,Detroit,T,F_avsResult_1_-1_f_l,0.472142376966
+Wisconsin,Detroit,T,F_avsResult_1_1_f_l,0.472142376966
+Wisconsin,Detroit,T,F_avsResult_1_-1_l_f,0.0303875121441
+Wisconsin,Detroit,T,F_avsResult_1_1_l_f,0.0303875121441
+Wisconsin,Detroit,T,F_avsResult_outside_0_-1_f_l,0.0710919734633
+Wisconsin,Detroit,T,F_avsResult_outside_0_1_f_l,0.0710919734633
+Wisconsin,Detroit,T,F_avsResult_outside_0_-1_l_f,0.439190235419
+Wisconsin,Detroit,T,F_avsResult_outside_0_1_l_f,0.439190235419
+Wisconsin,Detroit,T,F_avsResult_outside_-1_0_f_l,0.0103396804017
+Wisconsin,Detroit,T,F_avsResult_outside_1_0_f_l,0.712819871736
+Wisconsin,Detroit,T,F_avsResult_outside_1_0_l_f,0.0146840079945
+Wisconsin,Detroit,T,F_avsResult_outside_-1_0_l_f,0.763538989646
+Wisconsin,Detroit,T,F_avsResult_outside_1_-1_f_l,0.472142376966
+Wisconsin,Detroit,T,F_avsResult_outside_1_1_f_l,0.472142376966
+Wisconsin,Detroit,T,F_avsResult_outside_1_-1_l_f,0.0303875121441
+Wisconsin,Detroit,T,F_avsResult_outside_1_1_l_f,0.0303875121441
+Wisconsin,Detroit,T,F_belowFigureCentroid_f_l,1.0
+Wisconsin,Detroit,T,F_closeDistNormFigure_f_l,0.858087435013
+Wisconsin,Detroit,T,F_closeDistNormFigure_l_f,1.0
+Wisconsin,Detroit,T,F_closeDistNormLandmark_f_l,1.0
+Wisconsin,Detroit,T,F_closeDistNormLandmark_l_f,0.858087435013
+Wisconsin,Detroit,T,F_closeDistNormUnion_f_l,0.856082944842
+Wisconsin,Detroit,T,F_closeDistNormUnion_l_f,0.856082944842
+Wisconsin,Detroit,T,F_distBtwnCentroids_f_l,0.157688304471
+Wisconsin,Detroit,T,F_distBtwnCentroids_l_f,0.157688304471
+Wisconsin,Detroit,T,F_distHorizontalCentroid_f_l,0.149873098026
+Wisconsin,Detroit,T,F_distHorizontalCentroid_l_f,-0.149873098026
+Wisconsin,Detroit,T,F_distVerticalCentroid_f_l,-0.049027093072
+Wisconsin,Detroit,T,F_distVerticalCentroid_l_f,0.049027093072
+Wisconsin,Detroit,T,F_leftOfFigureCentroid_l_f,1.0
+Wisconsin,Detroit,T,F_rightOfFigureCentroid_f_l,1.0
+Wisconsin,Grand Rapids,T,arg1 and has since lived in arg2,1
+Wisconsin,Grand Rapids,T,arg1 come to arg2,1
+Wisconsin,Grand Rapids,T,arg1 or fitness certification in arg2,1
+Wisconsin,Grand Rapids,T,arg1 process or arg2,1
+Wisconsin,Grand Rapids,T,bias,1.0
+Wisconsin,Grand Rapids,T,F_aboveFigureCentroid_l_f,1.0
+Wisconsin,Grand Rapids,T,F_avsResult_0_-1_f_l,0.0630281630726
+Wisconsin,Grand Rapids,T,F_avsResult_0_1_f_l,0.0630281630726
+Wisconsin,Grand Rapids,T,F_avsResult_0_-1_l_f,0.424712383324
+Wisconsin,Grand Rapids,T,F_avsResult_0_1_l_f,0.424712383324
+Wisconsin,Grand Rapids,T,F_avsResult_-1_0_f_l,0.0132935522405
+Wisconsin,Grand Rapids,T,F_avsResult_1_0_f_l,0.562785791648
+Wisconsin,Grand Rapids,T,F_avsResult_1_0_l_f,0.0225612693396
+Wisconsin,Grand Rapids,T,F_avsResult_-1_0_l_f,0.709964173213
+Wisconsin,Grand Rapids,T,F_avsResult_1_-1_f_l,0.293256825605
+Wisconsin,Grand Rapids,T,F_avsResult_1_1_f_l,0.293256825605
+Wisconsin,Grand Rapids,T,F_avsResult_1_-1_l_f,0.0585327668253
+Wisconsin,Grand Rapids,T,F_avsResult_1_1_l_f,0.0585327668253
+Wisconsin,Grand Rapids,T,F_avsResult_outside_0_-1_f_l,0.0630281630726
+Wisconsin,Grand Rapids,T,F_avsResult_outside_0_1_f_l,0.0630281630726
+Wisconsin,Grand Rapids,T,F_avsResult_outside_0_-1_l_f,0.424712383324
+Wisconsin,Grand Rapids,T,F_avsResult_outside_0_1_l_f,0.424712383324
+Wisconsin,Grand Rapids,T,F_avsResult_outside_-1_0_f_l,0.0132935522405
+Wisconsin,Grand Rapids,T,F_avsResult_outside_1_0_f_l,0.562785791648
+Wisconsin,Grand Rapids,T,F_avsResult_outside_1_0_l_f,0.0225612693396
+Wisconsin,Grand Rapids,T,F_avsResult_outside_-1_0_l_f,0.709964173213
+Wisconsin,Grand Rapids,T,F_avsResult_outside_1_-1_f_l,0.293256825605
+Wisconsin,Grand Rapids,T,F_avsResult_outside_1_1_f_l,0.293256825605
+Wisconsin,Grand Rapids,T,F_avsResult_outside_1_-1_l_f,0.0585327668253
+Wisconsin,Grand Rapids,T,F_avsResult_outside_1_1_l_f,0.0585327668253
+Wisconsin,Grand Rapids,T,F_belowFigureCentroid_f_l,1.0
+Wisconsin,Grand Rapids,T,F_closeDistNormFigure_f_l,0.109010648694
+Wisconsin,Grand Rapids,T,F_closeDistNormFigure_l_f,1.0
+Wisconsin,Grand Rapids,T,F_closeDistNormLandmark_f_l,1.0
+Wisconsin,Grand Rapids,T,F_closeDistNormLandmark_l_f,0.109010648694
+Wisconsin,Grand Rapids,T,F_closeDistNormUnion_f_l,0.108932196215
+Wisconsin,Grand Rapids,T,F_closeDistNormUnion_l_f,0.108932196215
+Wisconsin,Grand Rapids,T,F_distBtwnCentroids_f_l,0.142860580146
+Wisconsin,Grand Rapids,T,F_distBtwnCentroids_l_f,0.142860580146
+Wisconsin,Grand Rapids,T,F_distHorizontalCentroid_f_l,0.133101476647
+Wisconsin,Grand Rapids,T,F_distHorizontalCentroid_l_f,-0.133101476647
+Wisconsin,Grand Rapids,T,F_distVerticalCentroid_f_l,-0.0518954937724
+Wisconsin,Grand Rapids,T,F_distVerticalCentroid_l_f,0.0518954937724
+Wisconsin,Grand Rapids,T,F_leftOfFigureCentroid_l_f,1.0
+Wisconsin,Grand Rapids,T,F_rightOfFigureCentroid_f_l,1.0
+Wisconsin,Lake Huron,T,bias,1.0
+Wisconsin,Lake Huron,T,F_aboveFigureCentroid_l_f,1.0
+Wisconsin,Lake Huron,T,F_avsResult_0_-1_f_l,0.107719618797
+Wisconsin,Lake Huron,T,F_avsResult_0_1_f_l,0.107719618797
+Wisconsin,Lake Huron,T,F_avsResult_0_-1_l_f,0.3128691749
+Wisconsin,Lake Huron,T,F_avsResult_0_1_l_f,0.3128691749
+Wisconsin,Lake Huron,T,F_avsResult_-1_0_f_l,0.00190808280156
+Wisconsin,Lake Huron,T,F_avsResult_1_0_f_l,0.795814865607
+Wisconsin,Lake Huron,T,F_avsResult_1_0_l_f,0.00363054327347
+Wisconsin,Lake Huron,T,F_avsResult_-1_0_l_f,0.84458931204
+Wisconsin,Lake Huron,T,F_avsResult_outside_0_-1_f_l,0.107719618797
+Wisconsin,Lake Huron,T,F_avsResult_outside_0_1_f_l,0.107719618797
+Wisconsin,Lake Huron,T,F_avsResult_outside_0_-1_l_f,0.3128691749
+Wisconsin,Lake Huron,T,F_avsResult_outside_0_1_l_f,0.3128691749
+Wisconsin,Lake Huron,T,F_avsResult_outside_-1_0_f_l,0.00190808280156
+Wisconsin,Lake Huron,T,F_avsResult_outside_1_0_f_l,0.795814865607
+Wisconsin,Lake Huron,T,F_avsResult_outside_1_0_l_f,0.00363054327347
+Wisconsin,Lake Huron,T,F_avsResult_outside_-1_0_l_f,0.84458931204
+Wisconsin,Lake Huron,T,F_belowFigureCentroid_f_l,1.0
+Wisconsin,Lake Huron,T,F_closeDistNormFigure_f_l,1.0
+Wisconsin,Lake Huron,T,F_closeDistNormFigure_l_f,1.0
+Wisconsin,Lake Huron,T,F_closeDistNormLandmark_f_l,1.0
+Wisconsin,Lake Huron,T,F_closeDistNormLandmark_l_f,1.0
+Wisconsin,Lake Huron,T,F_closeDistNormUnion_f_l,1.0
+Wisconsin,Lake Huron,T,F_closeDistNormUnion_l_f,1.0
+Wisconsin,Lake Huron,T,F_distBtwnCentroids_f_l,0.170287613455
+Wisconsin,Lake Huron,T,F_distBtwnCentroids_l_f,0.170287613455
+Wisconsin,Lake Huron,T,F_distHorizontalCentroid_f_l,0.169643535675
+Wisconsin,Lake Huron,T,F_distHorizontalCentroid_l_f,-0.169643535675
+Wisconsin,Lake Huron,T,F_distVerticalCentroid_f_l,-0.0147966921982
+Wisconsin,Lake Huron,T,F_distVerticalCentroid_l_f,0.0147966921982
+Wisconsin,Lake Huron,T,F_leftOfFigureCentroid_l_f,1.0
+Wisconsin,Lake Huron,T,F_rightOfFigureCentroid_f_l,1.0
+Wisconsin,Lake Michigan,T,arg1 across arg2,1
+Wisconsin,Lake Michigan,T,arg1 along arg2,1
+Wisconsin,Lake Michigan,T,arg1 along the shores of arg2,1
+Wisconsin,Lake Michigan,T,arg1 coast of arg2,1
+Wisconsin,Lake Michigan,T,arg1 on the shores of arg2,1
+Wisconsin,Lake Michigan,T,arg1 shore of arg2,1
+Wisconsin,Lake Michigan,T,arg1 side of arg2,1
+Wisconsin,Lake Michigan,T,arg1 waters of arg2,1
+Wisconsin,Lake Michigan,T,arg2 coast in arg1,1
+Wisconsin,Lake Michigan,T,arg2 in eastern arg1,1
+Wisconsin,Lake Michigan,T,arg2 in northeast arg1,1
+Wisconsin,Lake Michigan,T,arg2 in southeastern arg1,1
+Wisconsin,Lake Michigan,T,arg2 in southern arg1,1
+Wisconsin,Lake Michigan,T,arg2 in the state of arg1,1
+Wisconsin,Lake Michigan,T,arg2 rivers in arg1,1
+Wisconsin,Lake Michigan,T,arg2 shore in arg1,1
+Wisconsin,Lake Michigan,T,arg2 shoreline of arg1,1
+Wisconsin,Lake Michigan,T,arg2 tributaries in arg1,1
+Wisconsin,Lake Michigan,T,bias,1.0
+Wisconsin,Lake Michigan,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Wisconsin,Lake Michigan,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Wisconsin,Lake Michigan,T,F_aboveFigureCentroid_l_f,1.0
+Wisconsin,Lake Michigan,T,F_avsResult_0_-1_f_l,0.0565169080155
+Wisconsin,Lake Michigan,T,F_avsResult_0_1_f_l,0.0565169080155
+Wisconsin,Lake Michigan,T,F_avsResult_0_-1_l_f,0.160693378589
+Wisconsin,Lake Michigan,T,F_avsResult_0_1_l_f,0.160693378589
+Wisconsin,Lake Michigan,T,F_avsResult_-1_0_f_l,0.00019051976708
+Wisconsin,Lake Michigan,T,F_avsResult_1_0_f_l,0.322773872946
+Wisconsin,Lake Michigan,T,F_avsResult_1_0_l_f,0.0029972303525
+Wisconsin,Lake Michigan,T,F_avsResult_-1_0_l_f,0.694520709059
+Wisconsin,Lake Michigan,T,F_avsResult_1_-1_f_l,0.106901387219
+Wisconsin,Lake Michigan,T,F_avsResult_1_1_f_l,0.106901387219
+Wisconsin,Lake Michigan,T,F_avsResult_outside_0_-1_f_l,0.0565169080155
+Wisconsin,Lake Michigan,T,F_avsResult_outside_0_1_f_l,0.0565169080155
+Wisconsin,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.160693378589
+Wisconsin,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.160693378589
+Wisconsin,Lake Michigan,T,F_avsResult_outside_-1_0_f_l,0.00019051976708
+Wisconsin,Lake Michigan,T,F_avsResult_outside_1_0_f_l,0.322773872946
+Wisconsin,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.0029972303525
+Wisconsin,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.694520709059
+Wisconsin,Lake Michigan,T,F_avsResult_outside_1_-1_f_l,0.106901387219
+Wisconsin,Lake Michigan,T,F_avsResult_outside_1_1_f_l,0.106901387219
+Wisconsin,Lake Michigan,T,F_belowFigureCentroid_f_l,1.0
+Wisconsin,Lake Michigan,T,F_distBtwnCentroids_f_l,0.0744696690553
+Wisconsin,Lake Michigan,T,F_distBtwnCentroids_l_f,0.0744696690553
+Wisconsin,Lake Michigan,T,F_distHorizontalCentroid_f_l,0.0732921292054
+Wisconsin,Lake Michigan,T,F_distHorizontalCentroid_l_f,-0.0732921292054
+Wisconsin,Lake Michigan,T,F_distVerticalCentroid_f_l,-0.0131907318121
+Wisconsin,Lake Michigan,T,F_distVerticalCentroid_l_f,0.0131907318121
+Wisconsin,Lake Michigan,T,F_leftOfFigureCentroid_l_f,1.0
+Wisconsin,Lake Michigan,T,F_math2dFigureIntersectionArea_f_l,0.0892645688915
+Wisconsin,Lake Michigan,T,F_math2dFigureIntersectionArea_l_f,0.244713405411
+Wisconsin,Lake Michigan,T,F_math2dIntersectionArea_f_l,0.0699835807538
+Wisconsin,Lake Michigan,T,F_math2dIntersectionArea_l_f,0.0699835807538
+Wisconsin,Lake Michigan,T,F_math2dLandmarkIntersectionArea_f_l,0.244713405411
+Wisconsin,Lake Michigan,T,F_math2dLandmarkIntersectionArea_l_f,0.0892645688915
+Wisconsin,Lake Michigan,T,F_rightOfFigureCentroid_f_l,1.0
+Wisconsin,Michigan,T,arg1 and lower arg2,1
+Wisconsin,Michigan,T,arg1 and northern arg2,1
+Wisconsin,Michigan,T,arg1 and parts of arg2,1
+Wisconsin,Michigan,T,arg1 and southern arg2,1
+Wisconsin,Michigan,T,arg1 and upper arg2,1
+Wisconsin,Michigan,T,arg1 and western arg2,1
+Wisconsin,Michigan,T,arg1 handed arg2,1
+Wisconsin,Michigan,T,arg1 lost to arg2,1
+Wisconsin,Michigan,T,arg1 won at arg2,1
+Wisconsin,Michigan,T,arg2 and eastern arg1,1
+Wisconsin,Michigan,T,arg2 and northeast arg1,1
+Wisconsin,Michigan,T,arg2 and northeastern arg1,1
+Wisconsin,Michigan,T,arg2 and northern arg1,1
+Wisconsin,Michigan,T,arg2 and raised in arg1,1
+Wisconsin,Michigan,T,arg2 beat arg1,1
+Wisconsin,Michigan,T,arg2 fell to arg1,1
+Wisconsin,Michigan,T,arg2 or northern arg1,1
+Wisconsin,Michigan,T,arg2 travels to arg1,1
+Wisconsin,Michigan,T,bias,1.0
+Wisconsin,Michigan,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Wisconsin,Michigan,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Wisconsin,Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Wisconsin,Michigan,T,F_avsResult_0_-1_f_l,0.144404355318
+Wisconsin,Michigan,T,F_avsResult_0_1_f_l,0.144404355318
+Wisconsin,Michigan,T,F_avsResult_0_-1_l_f,0.0304689304533
+Wisconsin,Michigan,T,F_avsResult_0_1_l_f,0.0304689304533
+Wisconsin,Michigan,T,F_avsResult_-1_0_f_l,0.0108198616985
+Wisconsin,Michigan,T,F_avsResult_1_0_f_l,0.584350972577
+Wisconsin,Michigan,T,F_avsResult_1_0_l_f,0.0342199794665
+Wisconsin,Michigan,T,F_avsResult_-1_0_l_f,0.247910158963
+Wisconsin,Michigan,T,F_avsResult_-1_-1_l_f,0.0875668963309
+Wisconsin,Michigan,T,F_avsResult_-1_1_l_f,0.0875668963309
+Wisconsin,Michigan,T,F_avsResult_outside_0_-1_f_l,0.144404355318
+Wisconsin,Michigan,T,F_avsResult_outside_0_1_f_l,0.144404355318
+Wisconsin,Michigan,T,F_avsResult_outside_0_-1_l_f,0.0304689304533
+Wisconsin,Michigan,T,F_avsResult_outside_0_1_l_f,0.0304689304533
+Wisconsin,Michigan,T,F_avsResult_outside_-1_0_f_l,0.0108198616985
+Wisconsin,Michigan,T,F_avsResult_outside_1_0_f_l,0.584350972577
+Wisconsin,Michigan,T,F_avsResult_outside_1_0_l_f,0.0342199794665
+Wisconsin,Michigan,T,F_avsResult_outside_-1_0_l_f,0.247910158963
+Wisconsin,Michigan,T,F_avsResult_outside_-1_-1_l_f,0.0875668963309
+Wisconsin,Michigan,T,F_avsResult_outside_-1_1_l_f,0.0875668963309
+Wisconsin,Michigan,T,F_belowFigureCentroid_l_f,1.0
+Wisconsin,Michigan,T,F_distBtwnCentroids_f_l,0.056996820737
+Wisconsin,Michigan,T,F_distBtwnCentroids_l_f,0.056996820737
+Wisconsin,Michigan,T,F_distHorizontalCentroid_f_l,0.0568602686034
+Wisconsin,Michigan,T,F_distHorizontalCentroid_l_f,-0.0568602686034
+Wisconsin,Michigan,T,F_distVerticalCentroid_f_l,0.00394302275838
+Wisconsin,Michigan,T,F_distVerticalCentroid_l_f,-0.00394302275838
+Wisconsin,Michigan,T,F_leftOfFigureCentroid_l_f,1.0
+Wisconsin,Michigan,T,F_math2dFigureIntersectionArea_f_l,0.00394456329333
+Wisconsin,Michigan,T,F_math2dFigureIntersectionArea_l_f,0.00274493686829
+Wisconsin,Michigan,T,F_math2dIntersectionArea_f_l,0.00162121695237
+Wisconsin,Michigan,T,F_math2dIntersectionArea_l_f,0.00162121695237
+Wisconsin,Michigan,T,F_math2dLandmarkIntersectionArea_f_l,0.00274493686829
+Wisconsin,Michigan,T,F_math2dLandmarkIntersectionArea_l_f,0.00394456329333
+Wisconsin,Michigan,T,F_rightOfFigureCentroid_f_l,1.0
+Wisconsin,Milwaukee,T,arg1 behind arg2,1
+Wisconsin,Milwaukee,T,arg1 including arg2,1
+Wisconsin,Milwaukee,T,arg1 including but not limited to arg2,1
+Wisconsin,Milwaukee,T,arg1 which includes arg2,1
+Wisconsin,Milwaukee,T,arg2 and northern arg1,1
+Wisconsin,Milwaukee,T,arg2 and southeast arg1,1
+Wisconsin,Milwaukee,T,arg2 and southeastern arg1,1
+Wisconsin,Milwaukee,T,arg2 and the state of arg1,1
+Wisconsin,Milwaukee,T,arg2 and throughout arg1,1
+Wisconsin,Milwaukee,T,arg2 area and arg1,1
+Wisconsin,Milwaukee,T,arg2 area and southeastern arg1,1
+Wisconsin,Milwaukee,T,arg2 area in arg1,1
+Wisconsin,Milwaukee,T,arg2 area of arg1,1
+Wisconsin,Milwaukee,T,arg2 areas of arg1,1
+Wisconsin,Milwaukee,T,arg2 community and the state of arg1,1
+Wisconsin,Milwaukee,T,arg2 escorts in arg1,1
+Wisconsin,Milwaukee,T,arg2 in southeastern arg1,1
+Wisconsin,Milwaukee,T,arg2 is the largest city in arg1,1
+Wisconsin,Milwaukee,T,bias,1.0
+Wisconsin,Milwaukee,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Wisconsin,Milwaukee,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Wisconsin,Milwaukee,T,F_aboveFigureCentroid_l_f,1.0
+Wisconsin,Milwaukee,T,F_avsResult_0_-1_f_l,8.64484932498e-05
+Wisconsin,Milwaukee,T,F_avsResult_0_1_f_l,8.64484932498e-05
+Wisconsin,Milwaukee,T,F_avsResult_0_-1_l_f,0.485741054862
+Wisconsin,Milwaukee,T,F_avsResult_0_1_l_f,0.485741054862
+Wisconsin,Milwaukee,T,F_avsResult_-1_0_f_l,0.0404667165741
+Wisconsin,Milwaukee,T,F_avsResult_1_0_f_l,0.0776430673133
+Wisconsin,Milwaukee,T,F_avsResult_1_0_l_f,0.063379748898
+Wisconsin,Milwaukee,T,F_avsResult_-1_0_l_f,0.54389391815
+Wisconsin,Milwaukee,T,F_avsResult_1_-1_l_f,0.204998786445
+Wisconsin,Milwaukee,T,F_avsResult_1_1_l_f,0.204998786445
+Wisconsin,Milwaukee,T,F_avsResult_inside_0_-1_f_l,8.64484932498e-05
+Wisconsin,Milwaukee,T,F_avsResult_inside_0_1_f_l,8.64484932498e-05
+Wisconsin,Milwaukee,T,F_avsResult_inside_-1_0_f_l,0.0404667165741
+Wisconsin,Milwaukee,T,F_avsResult_inside_1_0_f_l,0.0776430673133
+Wisconsin,Milwaukee,T,F_avsResult_outside_0_-1_l_f,0.485741054862
+Wisconsin,Milwaukee,T,F_avsResult_outside_0_1_l_f,0.485741054862
+Wisconsin,Milwaukee,T,F_avsResult_outside_1_0_l_f,0.063379748898
+Wisconsin,Milwaukee,T,F_avsResult_outside_-1_0_l_f,0.54389391815
+Wisconsin,Milwaukee,T,F_avsResult_outside_1_-1_l_f,0.204998786445
+Wisconsin,Milwaukee,T,F_avsResult_outside_1_1_l_f,0.204998786445
+Wisconsin,Milwaukee,T,F_belowFigureCentroid_f_l,1.0
+Wisconsin,Milwaukee,T,F_distBtwnCentroids_f_l,0.0900836875215
+Wisconsin,Milwaukee,T,F_distBtwnCentroids_l_f,0.0900836875215
+Wisconsin,Milwaukee,T,F_distHorizontalCentroid_f_l,0.0692143260118
+Wisconsin,Milwaukee,T,F_distHorizontalCentroid_l_f,-0.0692143260118
+Wisconsin,Milwaukee,T,F_distVerticalCentroid_f_l,-0.0576580248726
+Wisconsin,Milwaukee,T,F_distVerticalCentroid_l_f,0.0576580248726
+Wisconsin,Milwaukee,T,F_leftOfFigureCentroid_l_f,1.0
+Wisconsin,Milwaukee,T,F_math2dFigureIntersectionArea_f_l,0.00153720651461
+Wisconsin,Milwaukee,T,F_math2dFigureIntersectionArea_l_f,1.0
+Wisconsin,Milwaukee,T,F_math2dIntersectionArea_f_l,0.00153720651461
+Wisconsin,Milwaukee,T,F_math2dIntersectionArea_l_f,0.00153720651461
+Wisconsin,Milwaukee,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Wisconsin,Milwaukee,T,F_math2dLandmarkIntersectionArea_l_f,0.00153720651461
+Wisconsin,Milwaukee,T,F_rightOfFigureCentroid_f_l,1.0
+Wisconsin,Wisconsin,T,arg1 and the state of arg2,1
+Wisconsin,Wisconsin,T,arg1 as well as wineries from arg2,1
+Wisconsin,Wisconsin,T,arg1 is located on arg2,1
+Wisconsin,Wisconsin,T,arg1 kindergarten and arg2,1
+Wisconsin,Wisconsin,T,arg1 media lists arg2,1
+Wisconsin,Wisconsin,T,arg1 resident and arg2,1
+Wisconsin,Wisconsin,T,arg1 return address labels arg2,1
+Wisconsin,Wisconsin,T,arg1 to southern and eastern arg2,1
+Wisconsin,Wisconsin,T,arg1 with operations in arg2,1
+Wisconsin,Wisconsin,T,arg2 and the state of arg1,1
+Wisconsin,Wisconsin,T,arg2 as well as wineries from arg1,1
+Wisconsin,Wisconsin,T,arg2 is located on arg1,1
+Wisconsin,Wisconsin,T,arg2 kindergarten and arg1,1
+Wisconsin,Wisconsin,T,arg2 media lists arg1,1
+Wisconsin,Wisconsin,T,arg2 resident and arg1,1
+Wisconsin,Wisconsin,T,arg2 return address labels arg1,1
+Wisconsin,Wisconsin,T,arg2 to southern and eastern arg1,1
+Wisconsin,Wisconsin,T,arg2 with operations in arg1,1
+Wisconsin,Wisconsin,T,bias,1.0
+Wisconsin,Wisconsin,T,entity1=entity2,1
+Wisconsin,Wisconsin,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Wisconsin,Wisconsin,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Wisconsin,Wisconsin,T,F_avsResult_0_-1_f_l,0.00800140722705
+Wisconsin,Wisconsin,T,F_avsResult_0_1_f_l,0.00800140722705
+Wisconsin,Wisconsin,T,F_avsResult_0_-1_l_f,0.00800140722705
+Wisconsin,Wisconsin,T,F_avsResult_0_1_l_f,0.00800140722705
+Wisconsin,Wisconsin,T,F_avsResult_-1_0_f_l,0.048056860369
+Wisconsin,Wisconsin,T,F_avsResult_1_0_f_l,0.0947798169171
+Wisconsin,Wisconsin,T,F_avsResult_-1_0_l_f,0.048056860369
+Wisconsin,Wisconsin,T,F_avsResult_1_0_l_f,0.0947798169171
+Wisconsin,Wisconsin,T,F_avsResult_inside_0_-1_f_l,0.00800140722705
+Wisconsin,Wisconsin,T,F_avsResult_inside_0_1_f_l,0.00800140722705
+Wisconsin,Wisconsin,T,F_avsResult_inside_0_-1_l_f,0.00800140722705
+Wisconsin,Wisconsin,T,F_avsResult_inside_0_1_l_f,0.00800140722705
+Wisconsin,Wisconsin,T,F_avsResult_inside_-1_0_f_l,0.048056860369
+Wisconsin,Wisconsin,T,F_avsResult_inside_1_0_f_l,0.0947798169171
+Wisconsin,Wisconsin,T,F_avsResult_inside_-1_0_l_f,0.048056860369
+Wisconsin,Wisconsin,T,F_avsResult_inside_1_0_l_f,0.0947798169171
+Wisconsin,Wisconsin,T,F_math2dFigureIntersectionArea_f_l,1.0
+Wisconsin,Wisconsin,T,F_math2dFigureIntersectionArea_l_f,1.0
+Wisconsin,Wisconsin,T,F_math2dIntersectionArea_f_l,1.0
+Wisconsin,Wisconsin,T,F_math2dIntersectionArea_l_f,1.0
+Wisconsin,Wisconsin,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Wisconsin,Wisconsin,T,F_math2dLandmarkIntersectionArea_l_f,1.0

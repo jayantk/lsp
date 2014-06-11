@@ -1,0 +1,16 @@
+Florida,N,kb-Florida 0 0
+Florida,N/N,kb-Florida 0 0
+Tallahassee,N,kb-Tallahassee 0 0
+Tallahassee,N/N,kb-Tallahassee 0 0
+Miami,N,kb-Miami 0 0
+Miami,N/N,kb-Miami 0 0
+Everglades National Park,N,kb-Everglades_National_Park 0 0
+Everglades National Park,N/N,kb-Everglades_National_Park 0 0
+Key Largo,N,kb-Key_Largo 0 0
+Key Largo,N/N,kb-Key_Largo 0 0
+Daytona Beach,N,kb-Daytona_Beach 0 0
+Daytona Beach,N/N,kb-Daytona_Beach 0 0
+Georgia,N,kb-Georgia 0 0
+Georgia,N/N,kb-Georgia 0 0
+Atlanta,N,kb-Atlanta 0 0
+Atlanta,N/N,kb-Atlanta 0 0

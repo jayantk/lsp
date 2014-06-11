@@ -1,0 +1,24 @@
+Virginia,N,kb-Virginia 0 0
+Virginia,N/N,kb-Virginia 0 0
+Virginia,N,kb-ignore 0 0
+Virginia,N/N,kb-ignore 0 0
+Virginia Beach,N,kb-Virginia_Beach 0 0
+Virginia Beach,N/N,kb-Virginia_Beach 0 0
+Virginia Beach,N,kb-ignore 0 0
+Virginia Beach,N/N,kb-ignore 0 0
+Richmond,N,kb-Richmond 0 0
+Richmond,N/N,kb-Richmond 0 0
+Richmond,N,kb-ignore 0 0
+Richmond,N/N,kb-ignore 0 0
+Atlantic Ocean,N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N/N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N,kb-ignore 0 0
+Atlantic Ocean,N/N,kb-ignore 0 0
+West Virginia,N,kb-West_Virginia 0 0
+West Virginia,N/N,kb-West_Virginia 0 0
+West Virginia,N,kb-ignore 0 0
+West Virginia,N/N,kb-ignore 0 0
+North Carolina,N,kb-North_Carolina 0 0
+North Carolina,N/N,kb-North_Carolina 0 0
+North Carolina,N,kb-ignore 0 0
+North Carolina,N/N,kb-ignore 0 0

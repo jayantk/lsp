@@ -1,0 +1,44 @@
+cities,N,city 0 0
+cities,N/N,city 0 0
+west,N,west 0 0
+west,N/N,west 0 0
+is,N/N,kb-ignore 0 0
+is,N,kb-ignore 0 0
+in,N,in 0 0
+in,N,kb-ignore 0 0
+in,N/N,in 0 0
+in,N/N,kb-ignore 0 0
+lake,N,lake 0 0
+lake,N/N,lake 0 0
+#what state,N,#whatstate 0 0
+#what state,N/N,#whatstate 0 0
+#which,N,#which 0 0
+#which,N/N,#which 0 0
+#which,N,#which 0 0
+#which,N/N,#which 0 0
+state,N,state 0 0
+state,N/N,state 0 0
+stadium,N,stadium 0 0
+stadium,N/N,stadium 0 0
+of,N,of 0 0
+of,N,kb-ignore 0 0
+of,N/N,of 0 0
+of,N/N,kb-ignore 0 0
+#what,N,#what 0 0
+#what,N/N,#what 0 0
+are,N/N,kb-ignore 0 0
+are,N,kb-ignore 0 0
+#which stadium,N,#whichstadium 0 0
+#which stadium,N/N,#whichstadium 0 0
+there,N,kb-ignore 0 0
+there,N/N,kb-ignore 0 0
+#what stadiums,N,#whatstadium 0 0
+#what stadiums,N/N,#whatstadium 0 0
+#what,N,#what 0 0
+#what,N/N,#what 0 0
+#what cities,N,#whatcity 0 0
+#what cities,N/N,#whatcity 0 0
+stadiums,N,stadium 0 0
+stadiums,N/N,stadium 0 0
+a,N,kb-ignore 0 0
+a,N/N,kb-ignore 0 0

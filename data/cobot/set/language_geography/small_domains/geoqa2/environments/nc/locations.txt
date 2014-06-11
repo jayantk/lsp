@@ -1,0 +1,8 @@
+North Carolina;North Carolina;224045
+Raleigh;Raleigh;179052
+Charlotte;Charlotte;154074402
+Uwharrie National Forest;Uwharrie National Forest;33279724
+Greensboro;Greensboro;180261
+Atlantic Ocean;Atlantic Ocean;305640306
+South Carolina;South Carolina;224040
+Myrtle Beach;Myrtle Beach;193842

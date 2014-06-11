@@ -1,0 +1,140 @@
+Charleston,T,area of _,1
+Charleston,T,bias,1.0
+Charleston,T,brig in _,1
+Charleston,T,Charleston,1
+Charleston,T,city of _,1
+Charleston,T,fall of _,1
+Charleston,T,f_f__F_landmarkArea,3.14146473329e-05
+Charleston,T,f_f__F_landmarkPerimeter,0.00628312135213
+Charleston,T,heart of _,1
+Charleston,T,history of _,1
+Charleston,T,home in _,1
+Charleston,T,hotels in _,1
+Charleston,T,native of _,1
+Charleston,T,north of _,1
+Charleston,T,office in _,1
+Charleston,T,port of _,1
+Charleston,T,school in _,1
+Charleston,T,siege of _,1
+Charleston,T,streets of _,1
+Charleston,T,time in _,1
+Charleston,T,town of _,1
+Charleston,T,trip to _,1
+Charleston,T,visit to _,1
+Charleston,T,way to _,1
+Monongahela National Forest,T,adventure in _,1
+Monongahela National Forest,T,area of _,1
+Monongahela National Forest,T,areas in _,1
+Monongahela National Forest,T,areas of _,1
+Monongahela National Forest,T,area within _,1
+Monongahela National Forest,T,attractions include _,1
+Monongahela National Forest,T,bias,1.0
+Monongahela National Forest,T,edge of _,1
+Monongahela National Forest,T,expeditions into _,1
+Monongahela National Forest,T,f_f__F_landmarkArea,3.14146473556e-05
+Monongahela National Forest,T,f_f__F_landmarkPerimeter,0.00628312135213
+Monongahela National Forest,T,gateway to _,1
+Monongahela National Forest,T,heart of _,1
+Monongahela National Forest,T,Monongahela National Forest,1
+Monongahela National Forest,T,mountains of _,1
+Monongahela National Forest,T,mountain valley in _,1
+Monongahela National Forest,T,part of _,1
+Monongahela National Forest,T,portion of _,1
+Monongahela National Forest,T,trails in _,1
+Monongahela National Forest,T,valley in _,1
+Monongahela National Forest,T,wilderness areas in _,1
+Monongahela National Forest,T,wilderness in _,1
+Monongahela National Forest,T,you 're here at _,1
+Richmond,T,bias,1.0
+Richmond,T,capital of _,1
+Richmond,T,city of _,1
+Richmond,T,facility in _,1
+Richmond,T,fall of _,1
+Richmond,T,f_f__F_landmarkArea,3.14146474921e-05
+Richmond,T,f_f__F_landmarkPerimeter,0.00628312135213
+Richmond,T,headquarters in _,1
+Richmond,T,heart of _,1
+Richmond,T,home in _,1
+Richmond,T,house in _,1
+Richmond,T,north of _,1
+Richmond,T,office in _,1
+Richmond,T,offices in _,1
+Richmond,T,people of _,1
+Richmond,T,race at _,1
+Richmond,T,resident of _,1
+Richmond,T,Richmond,1
+Richmond,T,school in _,1
+Richmond,T,suburb of _,1
+Richmond,T,town of _,1
+Richmond,T,trip to _,1
+Richmond,T,way to _,1
+Richmond,T,west of _,1
+Tygart Lake,T,access to _,1
+Tygart Lake,T,accommodations at _,1
+Tygart Lake,T,area of _,1
+Tygart Lake,T,areas at _,1
+Tygart Lake,T,_ are sustained through,1
+Tygart Lake,T,beauty of _,1
+Tygart Lake,T,bias,1.0
+Tygart Lake,T,boat access to _,1
+Tygart Lake,T,breadth of _,1
+Tygart Lake,T,check out _,1
+Tygart Lake,T,clarity of _,1
+Tygart Lake,T,f_f__F_landmarkArea,3.14146474466e-05
+Tygart Lake,T,f_f__F_landmarkPerimeter,0.00628312135213
+Tygart Lake,T,fish found in _,1
+Tygart Lake,T,_ is located in,1
+Tygart Lake,T,_ offers anglers,1
+Tygart Lake,T,releases from _,1
+Tygart Lake,T,_ searching for,1
+Tygart Lake,T,shores of _,1
+Tygart Lake,T,song of _,1
+Tygart Lake,T,Tygart Lake,1
+Virginia,T,area of _,1
+Virginia,T,areas of _,1
+Virginia,T,bias,1.0
+Virginia,T,business in _,1
+Virginia,T,coast of _,1
+Virginia,T,colony of _,1
+Virginia,T,farm in _,1
+Virginia,T,f_f__F_landmarkArea,1.12124584087
+Virginia,T,f_f__F_landmarkPerimeter,2.40431592487
+Virginia,T,governor of _,1
+Virginia,T,home in _,1
+Virginia,T,law in _,1
+Virginia,T,mountains of _,1
+Virginia,T,native of _,1
+Virginia,T,part of _,1
+Virginia,T,parts of _,1
+Virginia,T,people of _,1
+Virginia,T,region of _,1
+Virginia,T,school in _,1
+Virginia,T,schools in _,1
+Virginia,T,state of _,1
+Virginia,T,states of _,1
+Virginia,T,trip to _,1
+Virginia,T,Virginia,1
+West Virginia,T,area of _,1
+West Virginia,T,areas of _,1
+West Virginia,T,bias,1.0
+West Virginia,T,business in _,1
+West Virginia,T,counties in _,1
+West Virginia,T,directory of _,1
+West Virginia,T,f_f__F_landmarkArea,0.649438947961
+West Virginia,T,f_f__F_landmarkPerimeter,2.01927486215
+West Virginia,T,governor of _,1
+West Virginia,T,hills of _,1
+West Virginia,T,home in _,1
+West Virginia,T,metropolitan areas of _,1
+West Virginia,T,mountains of _,1
+West Virginia,T,panhandle of _,1
+West Virginia,T,part of _,1
+West Virginia,T,parts of _,1
+West Virginia,T,people of _,1
+West Virginia,T,rest of _,1
+West Virginia,T,schools in _,1
+West Virginia,T,size of _,1
+West Virginia,T,state of _,1
+West Virginia,T,town in _,1
+West Virginia,T,trip to _,1
+West Virginia,T,West Virginia,1

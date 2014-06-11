@@ -1,0 +1,24 @@
+Pennsylvania,N,kb-Pennsylvania 0 0
+Pennsylvania,N/N,kb-Pennsylvania 0 0
+Pennsylvania,N,kb-ignore 0 0
+Pennsylvania,N/N,kb-ignore 0 0
+Ohio,N,kb-Ohio 0 0
+Ohio,N/N,kb-Ohio 0 0
+Ohio,N,kb-ignore 0 0
+Ohio,N/N,kb-ignore 0 0
+Cleveland,N,kb-Cleveland 0 0
+Cleveland,N/N,kb-Cleveland 0 0
+Cleveland,N,kb-ignore 0 0
+Cleveland,N/N,kb-ignore 0 0
+Cleveland Browns Stadium,N,kb-Cleveland_Browns_Stadium 0 0
+Cleveland Browns Stadium,N/N,kb-Cleveland_Browns_Stadium 0 0
+Cleveland Browns Stadium,N,kb-ignore 0 0
+Cleveland Browns Stadium,N/N,kb-ignore 0 0
+Lake Erie,N,kb-Lake_Erie 0 0
+Lake Erie,N/N,kb-Lake_Erie 0 0
+Lake Erie,N,kb-ignore 0 0
+Lake Erie,N/N,kb-ignore 0 0
+Pittsburgh,N,kb-Pittsburgh 0 0
+Pittsburgh,N/N,kb-Pittsburgh 0 0
+Pittsburgh,N,kb-ignore 0 0
+Pittsburgh,N/N,kb-ignore 0 0

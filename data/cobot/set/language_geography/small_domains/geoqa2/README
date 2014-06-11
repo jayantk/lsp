@@ -1,0 +1,28 @@
+This directory contains the GeoQA data set. The environments/ folder
+contains the training data, with each environment in its own
+subdirectory. Each environment directory contains the following files:
+
+- locations.txt -- The names of the location entities in the
+  environment, along with an OpenStreetMap ID which can be used to
+  obtain the entity's polygon.
+
+- training.txt -- Questions with annotated denotations and logical
+  forms. This file is semicolon delimited, in the form (question,
+  comma-separated denotation, difficulty level, logical form). Logical
+  forms are expressed in LISP-like notation. Predicates of the form
+  "kb-XXX" uniquely select entity "XXX".
+
+- world.txt -- Annotated sets of entities for each predicate. Only
+  predicates which occur in at least one logical form are included.
+
+- cat_features.txt -- Features of the category classifier (i.e., of
+  each entity). One feature per line in a comma-separated format.
+
+- rel_features.txt -- Features of the relation classifier (i.e., of
+  each entity pair). One feature per line in comma-separated format.
+
+Additionally, the poylgons/ directory contains the original polygons
+from which the category and relation features were computed. These
+polygons were obtained from OpenStreetMap (openstreetmap.org), and are
+represented in their XML format (see
+http://wiki.openstreetmap.org/wiki/Nominatim).

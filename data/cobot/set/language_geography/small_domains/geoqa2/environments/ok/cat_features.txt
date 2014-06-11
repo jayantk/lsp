@@ -1,0 +1,120 @@
+Arkansas,T,area of _,1
+Arkansas,T,areas of _,1
+Arkansas,T,Arkansas,1
+Arkansas,T,bias,1.0
+Arkansas,T,budget web hosting plans for _,1
+Arkansas,T,directory of _,1
+Arkansas,T,f_f__F_landmarkArea,1.35846369484
+Arkansas,T,f_f__F_landmarkPerimeter,2.16675936725
+Arkansas,T,governor of _,1
+Arkansas,T,home in _,1
+Arkansas,T,home state of _,1
+Arkansas,T,hosting plans for _,1
+Arkansas,T,metropolitan areas of _,1
+Arkansas,T,part of _,1
+Arkansas,T,parts of _,1
+Arkansas,T,people of _,1
+Arkansas,T,places in _,1
+Arkansas,T,plans for _,1
+Arkansas,T,schools in _,1
+Arkansas,T,state of _,1
+Arkansas,T,states of _,1
+Arkansas,T,town in _,1
+Arkansas,T,trip to _,1
+Arkansas,T,web hosting plans for _,1
+Louisiana,T,area of _,1
+Louisiana,T,areas of _,1
+Louisiana,T,bias,1.0
+Louisiana,T,citizens of _,1
+Louisiana,T,city in _,1
+Louisiana,T,coast of _,1
+Louisiana,T,directory of _,1
+Louisiana,T,f_f__F_landmarkArea,1.15851682214
+Louisiana,T,f_f__F_landmarkPerimeter,3.05977214007
+Louisiana,T,governor of _,1
+Louisiana,T,home in _,1
+Louisiana,T,home state of _,1
+Louisiana,T,industry in _,1
+Louisiana,T,Louisiana,1
+Louisiana,T,part of _,1
+Louisiana,T,parts of _,1
+Louisiana,T,people in _,1
+Louisiana,T,people of _,1
+Louisiana,T,school in _,1
+Louisiana,T,schools in _,1
+Louisiana,T,state of _,1
+Louisiana,T,states of _,1
+Louisiana,T,swamps of _,1
+Louisiana,T,trip to _,1
+Mississippi,T,area of _,1
+Mississippi,T,areas of _,1
+Mississippi,T,bank of _,1
+Mississippi,T,banks of _,1
+Mississippi,T,bias,1.0
+Mississippi,T,directory of _,1
+Mississippi,T,east of _,1
+Mississippi,T,f_f__F_landmarkArea,1.20664940795
+Mississippi,T,f_f__F_landmarkPerimeter,2.29648559215
+Mississippi,T,governor of _,1
+Mississippi,T,home in _,1
+Mississippi,T,Mississippi,1
+Mississippi,T,mouth of _,1
+Mississippi,T,part of _,1
+Mississippi,T,parts of _,1
+Mississippi,T,people in _,1
+Mississippi,T,people of _,1
+Mississippi,T,_ 's capital,1
+Mississippi,T,side of _,1
+Mississippi,T,state of _,1
+Mississippi,T,town in _,1
+Mississippi,T,trip to _,1
+Mississippi,T,waters of _,1
+Mississippi,T,west of _,1
+Oklahoma,T,areas of _,1
+Oklahoma,T,bias,1.0
+Oklahoma,T,business in _,1
+Oklahoma,T,citizens of _,1
+Oklahoma,T,city in _,1
+Oklahoma,T,directory of _,1
+Oklahoma,T,f_f__F_landmarkArea,1.79981650601
+Oklahoma,T,f_f__F_landmarkPerimeter,2.60732182965
+Oklahoma,T,home in _,1
+Oklahoma,T,metropolitan areas of _,1
+Oklahoma,T,Oklahoma,1
+Oklahoma,T,part of _,1
+Oklahoma,T,parts of _,1
+Oklahoma,T,people in _,1
+Oklahoma,T,people of _,1
+Oklahoma,T,places in _,1
+Oklahoma,T,reservation in _,1
+Oklahoma,T,school in _,1
+Oklahoma,T,schools in _,1
+Oklahoma,T,small town in _,1
+Oklahoma,T,state of _,1
+Oklahoma,T,states of _,1
+Oklahoma,T,town in _,1
+Oklahoma,T,trip to _,1
+Texas,T,area of _,1
+Texas,T,areas of _,1
+Texas,T,bias,1.0
+Texas,T,cities in _,1
+Texas,T,city in _,1
+Texas,T,f_f__F_landmarkArea,6.51952922866
+Texas,T,f_f__F_landmarkPerimeter,5.99911026515
+Texas,T,governor of _,1
+Texas,T,great state of _,1
+Texas,T,heart of _,1
+Texas,T,home in _,1
+Texas,T,home to _,1
+Texas,T,law in _,1
+Texas,T,part of _,1
+Texas,T,parts of _,1
+Texas,T,people of _,1
+Texas,T,ranch in _,1
+Texas,T,school in _,1
+Texas,T,schools in _,1
+Texas,T,size of _,1
+Texas,T,state of _,1
+Texas,T,Texas,1
+Texas,T,town in _,1
+Texas,T,trip to _,1

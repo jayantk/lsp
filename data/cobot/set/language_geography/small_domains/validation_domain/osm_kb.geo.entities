@@ -1,0 +1,132 @@
+Pennsylvania,T,f_f__F_landmarkPerimeter,1.78235545953
+Pennsylvania,T,bias,1.0
+Pennsylvania,T,f_f__F_landmarkArea,1.27458757961
+New Jersey,T,f_f__F_landmarkPerimeter,0.850243310524
+New Jersey,T,bias,1.0
+New Jersey,T,f_f__F_landmarkArea,0.234422941947
+Ohio,T,f_f__F_landmarkPerimeter,1.63113717179
+Ohio,T,bias,1.0
+Ohio,T,f_f__F_landmarkArea,1.23116401835
+New York,T,f_f__F_landmarkPerimeter,0.00628312135213
+New York,T,bias,1.0
+New York,T,f_f__F_landmarkArea,3.14146476285e-05
+Connecticut,T,f_f__F_landmarkPerimeter,0.620330991044
+Connecticut,T,bias,1.0
+Connecticut,T,f_f__F_landmarkArea,0.139535528748
+Rhode Island,T,f_f__F_landmarkPerimeter,0.31296379164
+Rhode Island,T,bias,1.0
+Rhode Island,T,f_f__F_landmarkArea,0.0520732460438
+Massachusetts,T,f_f__F_landmarkPerimeter,1.24593888098
+Massachusetts,T,bias,1.0
+Massachusetts,T,f_f__F_landmarkArea,0.28526933405
+Maine,T,f_f__F_landmarkPerimeter,2.22903333218
+Maine,T,bias,1.0
+Maine,T,f_f__F_landmarkArea,0.97854666259
+Vermont,T,f_f__F_landmarkPerimeter,0.984244948755
+Vermont,T,bias,1.0
+Vermont,T,f_f__F_landmarkArea,0.27976806254
+New Hampshire,T,f_f__F_landmarkPerimeter,1.02922966476
+New Hampshire,T,bias,1.0
+New Hampshire,T,f_f__F_landmarkArea,0.270585274478
+Ontario,T,f_f__F_landmarkPerimeter,6.9310000919
+Ontario,T,bias,1.0
+Ontario,T,f_f__F_landmarkArea,10
+Michigan,T,f_f__F_landmarkPerimeter,2.89376665218
+Michigan,T,bias,1.0
+Michigan,T,f_f__F_landmarkArea,2.85298377062
+Pittsburgh,T,f_f__F_landmarkPerimeter,0.117551425805
+Pittsburgh,T,bias,1.0
+Pittsburgh,T,f_f__F_landmarkArea,0.00161929361525
+Harrisburg,T,f_f__F_landmarkPerimeter,0.0355625240383
+Harrisburg,T,bias,1.0
+Harrisburg,T,f_f__F_landmarkArea,0.000322202916345
+Newark,T,f_f__F_landmarkPerimeter,0.0542169700196
+Newark,T,bias,1.0
+Newark,T,f_f__F_landmarkArea,0.000720821728487
+Trenton,T,f_f__F_landmarkPerimeter,0.0299769144338
+Trenton,T,bias,1.0
+Trenton,T,f_f__F_landmarkArea,0.000223490372514
+Cleveland,T,f_f__F_landmarkPerimeter,0.155146423102
+Cleveland,T,bias,1.0
+Cleveland,T,f_f__F_landmarkArea,0.00230220570618
+Philadelphia,T,f_f__F_landmarkPerimeter,0.125503232993
+Philadelphia,T,bias,1.0
+Philadelphia,T,f_f__F_landmarkArea,0.00389792413548
+Buffalo,T,f_f__F_landmarkPerimeter,0.0559294475435
+Buffalo,T,bias,1.0
+Buffalo,T,f_f__F_landmarkArea,0.0014689963052
+Rochester,T,f_f__F_landmarkPerimeter,0.067244720459
+Rochester,T,bias,1.0
+Rochester,T,f_f__F_landmarkArea,0.0028255974903
+Albany,T,f_f__F_landmarkPerimeter,0.0576324738086
+Albany,T,bias,1.0
+Albany,T,f_f__F_landmarkArea,0.000621902985608
+Nashua,T,f_f__F_landmarkPerimeter,0.0486161041485
+Nashua,T,bias,1.0
+Nashua,T,f_f__F_landmarkArea,0.000904441697776
+New York City,T,f_f__F_landmarkPerimeter,0.00628312135213
+New York City,T,bias,1.0
+New York City,T,f_f__F_landmarkArea,3.14146476285e-05
+Altoona,T,f_f__F_landmarkPerimeter,0.0408866577216
+Altoona,T,bias,1.0
+Altoona,T,f_f__F_landmarkArea,0.000276359533405
+London,T,f_f__F_landmarkPerimeter,0.00628312135213
+London,T,bias,1.0
+London,T,f_f__F_landmarkArea,3.14146473784e-05
+Markham,T,f_f__F_landmarkPerimeter,0.0729283915262
+Markham,T,bias,1.0
+Markham,T,f_f__F_landmarkArea,0.00239732425605
+Toronto,T,f_f__F_landmarkPerimeter,0.137642516717
+Toronto,T,bias,1.0
+Toronto,T,f_f__F_landmarkArea,0.00742129135322
+Kingston,T,f_f__F_landmarkPerimeter,0.00628312135213
+Kingston,T,bias,1.0
+Kingston,T,f_f__F_landmarkArea,3.14146474466e-05
+Lake Huron,T,f_f__F_landmarkPerimeter,3.20434570398e-05
+Lake Huron,T,bias,1.0
+Lake Huron,T,f_f__F_landmarkArea,3.95812094212e-10
+Lake Erie,T,f_f__F_landmarkPerimeter,0.00628312135213
+Lake Erie,T,bias,1.0
+Lake Erie,T,f_f__F_landmarkArea,3.14146475603e-05
+Utica,T,f_f__F_landmarkPerimeter,0.0444385033472
+Utica,T,bias,1.0
+Utica,T,f_f__F_landmarkArea,0.000476159389632
+Detroit,T,f_f__F_landmarkPerimeter,0.121522204859
+Detroit,T,bias,1.0
+Detroit,T,f_f__F_landmarkArea,0.00418817703853
+Burlington,T,f_f__F_landmarkPerimeter,0.0394069792029
+Burlington,T,bias,1.0
+Burlington,T,f_f__F_landmarkArea,0.000453478364716
+Columbus,T,f_f__F_landmarkPerimeter,0.157509613037
+Columbus,T,bias,1.0
+Columbus,T,f_f__F_landmarkArea,0.0153021292062
+Richmond,T,f_f__F_landmarkPerimeter,0.00628312135213
+Richmond,T,bias,1.0
+Richmond,T,f_f__F_landmarkArea,3.14146474921e-05
+Lake Superior,T,f_f__F_landmarkPerimeter,0.00628312135213
+Lake Superior,T,bias,1.0
+Lake Superior,T,f_f__F_landmarkArea,3.14146478104e-05
+Atlantic Ocean,T,f_f__F_landmarkPerimeter,0.00628312135213
+Atlantic Ocean,T,bias,1.0
+Atlantic Ocean,T,f_f__F_landmarkArea,3.14146474381e-05
+Montreal,T,f_f__F_landmarkPerimeter,0.00628312135213
+Montreal,T,bias,1.0
+Montreal,T,f_f__F_landmarkArea,3.14146475603e-05
+Lake Ontario,T,f_f__F_landmarkPerimeter,0.00628312135213
+Lake Ontario,T,bias,1.0
+Lake Ontario,T,f_f__F_landmarkArea,3.14146473784e-05
+Manchester,T,f_f__F_landmarkPerimeter,0.0533871396626
+Manchester,T,bias,1.0
+Manchester,T,f_f__F_landmarkArea,0.000999960318336
+Canton,T,f_f__F_landmarkPerimeter,0.133781461423
+Canton,T,bias,1.0
+Canton,T,f_f__F_landmarkArea,0.000725599406496
+Mansfield,T,f_f__F_landmarkPerimeter,0.0574714660644
+Mansfield,T,bias,1.0
+Mansfield,T,f_f__F_landmarkArea,0.00205276308989
+Allentown,T,f_f__F_landmarkPerimeter,0.0428367614746
+Allentown,T,bias,1.0
+Allentown,T,f_f__F_landmarkArea,0.00110158251487
+New Haven,T,f_f__F_landmarkPerimeter,0.0544323207879
+New Haven,T,bias,1.0
+New Haven,T,f_f__F_landmarkArea,0.000536524433528

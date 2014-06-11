@@ -1,0 +1,28 @@
+Tennessee,N,kb-Tennessee 0 0
+Tennessee,N/N,kb-Tennessee 0 0
+Tennessee,N,kb-ignore 0 0
+Tennessee,N/N,kb-ignore 0 0
+Nashville,N,kb-Nashville 0 0
+Nashville,N/N,kb-Nashville 0 0
+Nashville,N,kb-ignore 0 0
+Nashville,N/N,kb-ignore 0 0
+Memphis,N,kb-Memphis 0 0
+Memphis,N/N,kb-Memphis 0 0
+Memphis,N,kb-ignore 0 0
+Memphis,N/N,kb-ignore 0 0
+Great Smoky Mountains National Park,N,kb-Great_Smoky_Mountains_National_Park 0 0
+Great Smoky Mountains National Park,N/N,kb-Great_Smoky_Mountains_National_Park 0 0
+Great Smoky Mountains National Park,N,kb-ignore 0 0
+Great Smoky Mountains National Park,N/N,kb-ignore 0 0
+Knoxville,N,kb-Knoxville 0 0
+Knoxville,N/N,kb-Knoxville 0 0
+Knoxville,N,kb-ignore 0 0
+Knoxville,N/N,kb-ignore 0 0
+Alabama,N,kb-Alabama 0 0
+Alabama,N/N,kb-Alabama 0 0
+Alabama,N,kb-ignore 0 0
+Alabama,N/N,kb-ignore 0 0
+Birmingham,N,kb-Birmingham 0 0
+Birmingham,N/N,kb-Birmingham 0 0
+Birmingham,N,kb-ignore 0 0
+Birmingham,N/N,kb-ignore 0 0

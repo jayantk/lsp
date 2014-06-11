@@ -1,0 +1,1283 @@
+Anaheim,T,Anaheim,1
+Anaheim,T,bias,1.0
+Anaheim,T,cities of _,1
+Anaheim,T,city of _,1
+Anaheim,T,computer reservation system in _,1
+Anaheim,T,conference in _,1
+Anaheim,T,convention in _,1
+Anaheim,T,facility in _,1
+Anaheim,T,f_f__F_landmarkArea,3.14146472419e-05
+Anaheim,T,f_f__F_landmarkPerimeter,0.00628312135221
+Anaheim,T,game in _,1
+Anaheim,T,home in _,1
+Anaheim,T,hotel in _,1
+Anaheim,T,hotels in _,1
+Anaheim,T,meeting in _,1
+Anaheim,T,night in _,1
+Anaheim,T,park in _,1
+Anaheim,T,reservation system in _,1
+Anaheim,T,show in _,1
+Anaheim,T,system in _,1
+Anaheim,T,theme park in _,1
+Anaheim,T,time in _,1
+Anaheim,T,trade show in _,1
+Anaheim,T,trip to _,1
+Arizona,T,area of _,1
+Arizona,T,areas of _,1
+Arizona,T,Arizona,1
+Arizona,T,bias,1.0
+Arizona,T,business in _,1
+Arizona,T,city in _,1
+Arizona,T,desert of _,1
+Arizona,T,deserts of _,1
+Arizona,T,f_f__F_landmarkArea,2.89167383987
+Arizona,T,f_f__F_landmarkPerimeter,2.37648977227
+Arizona,T,home in _,1
+Arizona,T,home state of _,1
+Arizona,T,part of _,1
+Arizona,T,parts of _,1
+Arizona,T,people in _,1
+Arizona,T,people of _,1
+Arizona,T,school in _,1
+Arizona,T,schools in _,1
+Arizona,T,senator from _,1
+Arizona,T,shop in _,1
+Arizona,T,state of _,1
+Arizona,T,states of _,1
+Arizona,T,time in _,1
+Arizona,T,trip to _,1
+Bakersfield,T,Bakersfield,1
+Bakersfield,T,bias,1.0
+Bakersfield,T,city of _,1
+Bakersfield,T,f_f__F_landmarkArea,5.84012317177e-05
+Bakersfield,T,f_f__F_landmarkPerimeter,0.0129293050947
+Bakersfield,T,flights from _,1
+Bakersfield,T,home in _,1
+Bakersfield,T,hometown of _,1
+Bakersfield,T,hotels in _,1
+Bakersfield,T,jobs in _,1
+Bakersfield,T,north of _,1
+Bakersfield,T,office in _,1
+Bakersfield,T,offices in _,1
+Bakersfield,T,people in _,1
+Bakersfield,T,people of _,1
+Bakersfield,T,residents of _,1
+Bakersfield,T,school in _,1
+Bakersfield,T,show in _,1
+Bakersfield,T,system in _,1
+Bakersfield,T,town of _,1
+Bakersfield,T,trip to _,1
+Bakersfield,T,way to _,1
+Bakersfield,T,west of _,1
+California,T,area of _,1
+California,T,areas of _,1
+California,T,bias,1.0
+California,T,business in _,1
+California,T,California,1
+California,T,coast of _,1
+California,T,company in _,1
+California,T,f_f__F_landmarkArea,4.26517664475
+California,T,f_f__F_landmarkPerimeter,3.55046379039
+California,T,governor of _,1
+California,T,home in _,1
+California,T,law in _,1
+California,T,part of _,1
+California,T,parts of _,1
+California,T,people in _,1
+California,T,people of _,1
+California,T,school in _,1
+California,T,schools in _,1
+California,T,state of _,1
+California,T,states like _,1
+California,T,states of _,1
+California,T,trip to _,1
+California,T,way to _,1
+California,T,you live in _,1
+Columbia River,T,bank of _,1
+Columbia River,T,banks of _,1
+Columbia River,T,bias,1.0
+Columbia River,T,bridge over _,1
+Columbia River,T,Columbia River,1
+Columbia River,T,confluence with _,1
+Columbia River,T,dam on _,1
+Columbia River,T,dams on _,1
+Columbia River,T,f_f__F_landmarkArea,9.242918577e-06
+Columbia River,T,f_f__F_landmarkPerimeter,0.00559913880299
+Columbia River,T,fishing on _,1
+Columbia River,T,mouth of _,1
+Columbia River,T,north bank of _,1
+Columbia River,T,north of _,1
+Columbia River,T,salmon in _,1
+Columbia River,T,shore of _,1
+Columbia River,T,side of _,1
+Columbia River,T,sides of _,1
+Columbia River,T,stretch of _,1
+Columbia River,T,tributary of _,1
+Columbia River,T,view of _,1
+Columbia River,T,views of _,1
+Columbia River,T,water from _,1
+Columbia River,T,waters of _,1
+Concord,T,bias,1.0
+Concord,T,center in _,1
+Concord,T,cities of _,1
+Concord,T,city of _,1
+Concord,T,Concord,1
+Concord,T,facility in _,1
+Concord,T,f_f__F_landmarkArea,0.00081829499868
+Concord,T,f_f__F_landmarkPerimeter,0.0526700914166
+Concord,T,headquarters in _,1
+Concord,T,home in _,1
+Concord,T,hotels in _,1
+Concord,T,house in _,1
+Concord,T,jobs in _,1
+Concord,T,native of _,1
+Concord,T,office in _,1
+Concord,T,offices in _,1
+Concord,T,practice in _,1
+Concord,T,resident of _,1
+Concord,T,residents of _,1
+Concord,T,school in _,1
+Concord,T,shop in _,1
+Concord,T,town of _,1
+Concord,T,village of _,1
+Concord,T,way to _,1
+Death Valley National Park,T,area of _,1
+Death Valley National Park,T,bias,1.0
+Death Valley National Park,T,border of _,1
+Death Valley National Park,T,boundaries of _,1
+Death Valley National Park,T,boundary of _,1
+Death Valley National Park,T,corner of _,1
+Death Valley National Park,T,courses offered in _,1
+Death Valley National Park,T,Death Valley National Park,1
+Death Valley National Park,T,dunes in _,1
+Death Valley National Park,T,edge of _,1
+Death Valley National Park,T,end of _,1
+Death Valley National Park,T,entrance to _,1
+Death Valley National Park,T,f_f__F_landmarkArea,2.20214133151e-07
+Death Valley National Park,T,f_f__F_landmarkPerimeter,0.000594329833939
+Death Valley National Park,T,gateway to _,1
+Death Valley National Park,T,heart of _,1
+Death Valley National Park,T,part of _,1
+Death Valley National Park,T,point in _,1
+Death Valley National Park,T,portion of _,1
+Death Valley National Park,T,sand dunes in _,1
+Death Valley National Park,T,section of _,1
+Death Valley National Park,T,side of _,1
+Death Valley National Park,T,trip to _,1
+Death Valley National Park,T,visit to _,1
+Elko,T,bias,1.0
+Elko,T,businesses in _,1
+Elko,T,car in _,1
+Elko,T,certification in _,1
+Elko,T,city of _,1
+Elko,T,clubs in _,1
+Elko,T,community of _,1
+Elko,T,companies in _,1
+Elko,T,Elko,1
+Elko,T,f_f__F_landmarkArea,3.14146469009e-05
+Elko,T,f_f__F_landmarkPerimeter,0.00628312135221
+Elko,T,gathering in _,1
+Elko,T,home in _,1
+Elko,T,hotels in _,1
+Elko,T,_ is home,1
+Elko,T,jobs in _,1
+Elko,T,movers in _,1
+Elko,T,_ moving companies,1
+Elko,T,north of _,1
+Elko,T,office in _,1
+Elko,T,offices in _,1
+Elko,T,town of _,1
+Elko,T,trip to _,1
+Elko,T,way to _,1
+Eugene,T,bias,1.0
+Eugene,T,campus in _,1
+Eugene,T,cities of _,1
+Eugene,T,city of _,1
+Eugene,T,Eugene,1
+Eugene,T,f_f__F_landmarkArea,3.14146469009e-05
+Eugene,T,f_f__F_landmarkPerimeter,0.00628312135221
+Eugene,T,heart of _,1
+Eugene,T,home in _,1
+Eugene,T,name is _,1
+Eugene,T,office in _,1
+Eugene,T,offices in _,1
+Eugene,T,people in _,1
+Eugene,T,people of _,1
+Eugene,T,place in _,1
+Eugene,T,practice in _,1
+Eugene,T,school in _,1
+Eugene,T,station in _,1
+Eugene,T,store in _,1
+Eugene,T,time in _,1
+Eugene,T,town of _,1
+Eugene,T,trials in _,1
+Eugene,T,trip to _,1
+Eugene,T,way to _,1
+Fern Ridge Lake,T,bias,1.0
+Fern Ridge Lake,T,descend to _,1
+Fern Ridge Lake,T,excellent view of _,1
+Fern Ridge Lake,T,Fern Ridge Lake,1
+Fern Ridge Lake,T,f_f__F_landmarkArea,3.14146476285e-05
+Fern Ridge Lake,T,f_f__F_landmarkPerimeter,0.00628312135221
+Fern Ridge Lake,T,head over to _,1
+Fern Ridge Lake,T,home on _,1
+Fern Ridge Lake,T,_ is also great,1
+Fern Ridge Lake,T,majority of _,1
+Fern Ridge Lake,T,minutes from _,1
+Fern Ridge Lake,T,road past _,1
+Fern Ridge Lake,T,sailing at _,1
+Fern Ridge Lake,T,shape of _,1
+Fern Ridge Lake,T,shores of _,1
+Fern Ridge Lake,T,short walk to _,1
+Fern Ridge Lake,T,tips of _,1
+Fern Ridge Lake,T,town at _,1
+Fern Ridge Lake,T,view of _,1
+Fern Ridge Lake,T,walk to _,1
+Flagstaff,T,bias,1.0
+Flagstaff,T,campus in _,1
+Flagstaff,T,city of _,1
+Flagstaff,T,community of _,1
+Flagstaff,T,drive from _,1
+Flagstaff,T,drive to _,1
+Flagstaff,T,f_f__F_landmarkArea,0.00166381824954
+Flagstaff,T,f_f__F_landmarkPerimeter,0.111114998181
+Flagstaff,T,Flagstaff,1
+Flagstaff,T,home in _,1
+Flagstaff,T,hotel in _,1
+Flagstaff,T,hotels in _,1
+Flagstaff,T,_ is home,1
+Flagstaff,T,jobs in _,1
+Flagstaff,T,night in _,1
+Flagstaff,T,north of _,1
+Flagstaff,T,observatory in _,1
+Flagstaff,T,office in _,1
+Flagstaff,T,school in _,1
+Flagstaff,T,side of _,1
+Flagstaff,T,town of _,1
+Flagstaff,T,trip to _,1
+Flagstaff,T,way to _,1
+Flagstaff,T,west of _,1
+Fremont,T,area of _,1
+Fremont,T,bias,1.0
+Fremont,T,center in _,1
+Fremont,T,cities of _,1
+Fremont,T,city of _,1
+Fremont,T,company in _,1
+Fremont,T,company is headquartered in _,1
+Fremont,T,corner of _,1
+Fremont,T,facility in _,1
+Fremont,T,f_f__F_landmarkArea,0.00268536942062
+Fremont,T,f_f__F_landmarkPerimeter,0.0840063582511
+Fremont,T,Fremont,1
+Fremont,T,headquarters in _,1
+Fremont,T,heart of _,1
+Fremont,T,home in _,1
+Fremont,T,hotels in _,1
+Fremont,T,office in _,1
+Fremont,T,offices in _,1
+Fremont,T,part of _,1
+Fremont,T,plant in _,1
+Fremont,T,resident of _,1
+Fremont,T,school in _,1
+Fremont,T,store in _,1
+Fremont,T,town of _,1
+Fresno,T,bias,1.0
+Fresno,T,business in _,1
+Fresno,T,cities of _,1
+Fresno,T,city of _,1
+Fresno,T,community in _,1
+Fresno,T,family in _,1
+Fresno,T,f_f__F_landmarkArea,1.1068056665e-06
+Fresno,T,f_f__F_landmarkPerimeter,0.00210066391492
+Fresno,T,Fresno,1
+Fresno,T,home in _,1
+Fresno,T,hotels in _,1
+Fresno,T,jobs in _,1
+Fresno,T,life in _,1
+Fresno,T,office in _,1
+Fresno,T,offices in _,1
+Fresno,T,people in _,1
+Fresno,T,practice in _,1
+Fresno,T,program in _,1
+Fresno,T,school in _,1
+Fresno,T,service in _,1
+Fresno,T,station in _,1
+Fresno,T,store in _,1
+Fresno,T,trip to _,1
+Fresno,T,way to _,1
+Grand Canyon National Park,T,access to _,1
+Grand Canyon National Park,T,areas of _,1
+Grand Canyon National Park,T,bias,1.0
+Grand Canyon National Park,T,boundary of _,1
+Grand Canyon National Park,T,entrance of _,1
+Grand Canyon National Park,T,entrance to _,1
+Grand Canyon National Park,T,f_f__F_landmarkArea,0.049111088759
+Grand Canyon National Park,T,f_f__F_landmarkPerimeter,1.59048587441
+Grand Canyon National Park,T,gateway to _,1
+Grand Canyon National Park,T,Grand Canyon National Park,1
+Grand Canyon National Park,T,heart of _,1
+Grand Canyon National Park,T,home of _,1
+Grand Canyon National Park,T,part of _,1
+Grand Canyon National Park,T,rim of _,1
+Grand Canyon National Park,T,services at _,1
+Grand Canyon National Park,T,south entrance of _,1
+Grand Canyon National Park,T,south rim of _,1
+Grand Canyon National Park,T,superintendent of _,1
+Grand Canyon National Park,T,tours to _,1
+Grand Canyon National Park,T,trip to _,1
+Grand Canyon National Park,T,visitors to _,1
+Grand Canyon National Park,T,visit to _,1
+Grand Canyon National Park,T,way to _,1
+Grand Staircase-Escalante National Monument,T,area of _,1
+Grand Staircase-Escalante National Monument,T,bias,1.0
+Grand Staircase-Escalante National Monument,T,creation of _,1
+Grand Staircase-Escalante National Monument,T,designation of _,1
+Grand Staircase-Escalante National Monument,T,edge of _,1
+Grand Staircase-Escalante National Monument,T,entrance to _,1
+Grand Staircase-Escalante National Monument,T,establishment of _,1
+Grand Staircase-Escalante National Monument,T,f_f__F_landmarkArea,3.14146486289e-05
+Grand Staircase-Escalante National Monument,T,f_f__F_landmarkPerimeter,0.00628312135221
+Grand Staircase-Escalante National Monument,T,Grand Staircase-Escalante National Monument,1
+Grand Staircase-Escalante National Monument,T,heart of _,1
+Grand Staircase-Escalante National Monument,T,_ is only minutes,1
+Grand Staircase-Escalante National Monument,T,landscape of _,1
+Grand Staircase-Escalante National Monument,T,minutes from _,1
+Grand Staircase-Escalante National Monument,T,part of _,1
+Grand Staircase-Escalante National Monument,T,plan for _,1
+Grand Staircase-Escalante National Monument,T,ride to _,1
+Grand Staircase-Escalante National Monument,T,road in _,1
+Grand Staircase-Escalante National Monument,T,roads in _,1
+Grand Staircase-Escalante National Monument,T,sandstone at _,1
+Grand Staircase-Escalante National Monument,T,section of _,1
+Grand Staircase-Escalante National Monument,T,_ 's vast,1
+Grand Staircase-Escalante National Monument,T,tour including _,1
+Great Basin National Park,T,bias,1.0
+Great Basin National Park,T,centerpiece of _,1
+Great Basin National Park,T,county is _,1
+Great Basin National Park,T,creation of _,1
+Great Basin National Park,T,entrance to _,1
+Great Basin National Park,T,establishment of _,1
+Great Basin National Park,T,f_f__F_landmarkArea,0.00324521846555
+Great Basin National Park,T,f_f__F_landmarkPerimeter,0.104217985981
+Great Basin National Park,T,gateway to _,1
+Great Basin National Park,T,Great Basin National Park,1
+Great Basin National Park,T,home to _,1
+Great Basin National Park,T,_ is home,1
+Great Basin National Park,T,_ is located in,1
+Great Basin National Park,T,_ is on,1
+Great Basin National Park,T,mountains of _,1
+Great Basin National Park,T,part of _,1
+Great Basin National Park,T,pine in _,1
+Great Basin National Park,T,trip to _,1
+Great Basin National Park,T,visit to _,1
+Great Basin National Park,T,way to _,1
+Great Basin National Park,T,west of _,1
+Great Basin National Park,T,we visited _,1
+Great Basin National Park,T,wild section of _,1
+Great Salt Lake,T,arm of _,1
+Great Salt Lake,T,bias,1.0
+Great Salt Lake,T,eastern shore of _,1
+Great Salt Lake,T,edge of _,1
+Great Salt Lake,T,end of _,1
+Great Salt Lake,T,f_f__F_landmarkArea,0.0490556360498
+Great Salt Lake,T,f_f__F_landmarkPerimeter,0.729699731347
+Great Salt Lake,T,Great Salt Lake,1
+Great Salt Lake,T,_ is a remnant,1
+Great Salt Lake,T,island in _,1
+Great Salt Lake,T,level of _,1
+Great Salt Lake,T,middle of _,1
+Great Salt Lake,T,north end of _,1
+Great Salt Lake,T,north of _,1
+Great Salt Lake,T,part of _,1
+Great Salt Lake,T,shore of _,1
+Great Salt Lake,T,shores of _,1
+Great Salt Lake,T,side of _,1
+Great Salt Lake,T,south shore of _,1
+Great Salt Lake,T,sunset over _,1
+Great Salt Lake,T,valley of _,1
+Great Salt Lake,T,views of _,1
+Great Salt Lake,T,waters of _,1
+Great Salt Lake,T,west of _,1
+Henderson,T,bias,1.0
+Henderson,T,certification in _,1
+Henderson,T,city of _,1
+Henderson,T,f_f__F_landmarkArea,3.14146473556e-05
+Henderson,T,f_f__F_landmarkPerimeter,0.00628312135221
+Henderson,T,Henderson,1
+Henderson,T,home in _,1
+Henderson,T,homes in _,1
+Henderson,T,hotels in _,1
+Henderson,T,house in _,1
+Henderson,T,_ is in,1
+Henderson,T,office in _,1
+Henderson,T,part of _,1
+Henderson,T,resident of _,1
+Henderson,T,sale in _,1
+Henderson,T,_ 's book,1
+Henderson,T,school in _,1
+Henderson,T,_ served as,1
+Henderson,T,suburb of _,1
+Henderson,T,_ 's work,1
+Henderson,T,town of _,1
+Henderson,T,_ was able,1
+Henderson,T,_ was born in,1
+Henderson,T,_ was in,1
+Huntington Beach,T,beach in _,1
+Huntington Beach,T,bias,1.0
+Huntington Beach,T,center in _,1
+Huntington Beach,T,city of _,1
+Huntington Beach,T,community of _,1
+Huntington Beach,T,companies in _,1
+Huntington Beach,T,facility in _,1
+Huntington Beach,T,f_f__F_landmarkArea,0.000799164621912
+Huntington Beach,T,f_f__F_landmarkPerimeter,0.0745767853437
+Huntington Beach,T,headquarters in _,1
+Huntington Beach,T,home in _,1
+Huntington Beach,T,hotels in _,1
+Huntington Beach,T,house in _,1
+Huntington Beach,T,Huntington Beach,1
+Huntington Beach,T,location in _,1
+Huntington Beach,T,offerings from _,1
+Huntington Beach,T,office in _,1
+Huntington Beach,T,plant in _,1
+Huntington Beach,T,prescription in _,1
+Huntington Beach,T,rate offerings from _,1
+Huntington Beach,T,resident of _,1
+Huntington Beach,T,residents of _,1
+Huntington Beach,T,school in _,1
+Huntington Beach,T,shop in _,1
+Lake Tahoe,T,area of _,1
+Lake Tahoe,T,beauty of _,1
+Lake Tahoe,T,bias,1.0
+Lake Tahoe,T,blue waters of _,1
+Lake Tahoe,T,end of _,1
+Lake Tahoe,T,f_f__F_landmarkArea,0.00516512410231
+Lake Tahoe,T,f_f__F_landmarkPerimeter,0.119007971158
+Lake Tahoe,T,home in _,1
+Lake Tahoe,T,Lake Tahoe,1
+Lake Tahoe,T,north shore of _,1
+Lake Tahoe,T,rentals in _,1
+Lake Tahoe,T,shore of _,1
+Lake Tahoe,T,shores of _,1
+Lake Tahoe,T,side of _,1
+Lake Tahoe,T,south shore of _,1
+Lake Tahoe,T,spectacular views of _,1
+Lake Tahoe,T,trip to _,1
+Lake Tahoe,T,vacation in _,1
+Lake Tahoe,T,view of _,1
+Lake Tahoe,T,views of _,1
+Lake Tahoe,T,visit to _,1
+Lake Tahoe,T,waters of _,1
+Lake Tahoe,T,way to _,1
+Lake Tahoe,T,west shore of _,1
+Las Vegas,T,bias,1.0
+Las Vegas,T,casino in _,1
+Las Vegas,T,casinos in _,1
+Las Vegas,T,city of _,1
+Las Vegas,T,conference in _,1
+Las Vegas,T,convention in _,1
+Las Vegas,T,event in _,1
+Las Vegas,T,f_f__F_landmarkArea,3.14146482197e-05
+Las Vegas,T,f_f__F_landmarkPerimeter,0.00628312135221
+Las Vegas,T,flights to _,1
+Las Vegas,T,home in _,1
+Las Vegas,T,hotel in _,1
+Las Vegas,T,hotels in _,1
+Las Vegas,T,Las Vegas,1
+Las Vegas,T,place in _,1
+Las Vegas,T,professional wedding vendor in _,1
+Las Vegas,T,show in _,1
+Las Vegas,T,shows in _,1
+Las Vegas,T,time in _,1
+Las Vegas,T,trip to _,1
+Las Vegas,T,vendor in _,1
+Las Vegas,T,way to _,1
+Las Vegas,T,wedding vendor in _,1
+Las Vegas,T,week in _,1
+Long Beach,T,area of _,1
+Long Beach,T,bias,1.0
+Long Beach,T,city of _,1
+Long Beach,T,conference in _,1
+Long Beach,T,convention in _,1
+Long Beach,T,facility in _,1
+Long Beach,T,f_f__F_landmarkArea,0.00209208320034
+Long Beach,T,f_f__F_landmarkPerimeter,0.0806595221128
+Long Beach,T,home in _,1
+Long Beach,T,hotels in _,1
+Long Beach,T,house in _,1
+Long Beach,T,Long Beach,1
+Long Beach,T,meeting in _,1
+Long Beach,T,place in _,1
+Long Beach,T,port of _,1
+Long Beach,T,ports of _,1
+Long Beach,T,prescription in _,1
+Long Beach,T,school in _,1
+Long Beach,T,shop in _,1
+Long Beach,T,show in _,1
+Long Beach,T,streets of _,1
+Long Beach,T,town of _,1
+Long Beach,T,trip to _,1
+Long Beach,T,way to _,1
+Los Angeles,T,area of _,1
+Los Angeles,T,bias,1.0
+Los Angeles,T,city of _,1
+Los Angeles,T,company in _,1
+Los Angeles,T,f_f__F_landmarkArea,3.14146474466e-05
+Los Angeles,T,f_f__F_landmarkPerimeter,0.00628312135221
+Los Angeles,T,flight from _,1
+Los Angeles,T,he moved to _,1
+Los Angeles,T,home in _,1
+Los Angeles,T,lives in _,1
+Los Angeles,T,Los Angeles,1
+Los Angeles,T,move to _,1
+Los Angeles,T,native of _,1
+Los Angeles,T,neighborhoods of _,1
+Los Angeles,T,office in _,1
+Los Angeles,T,offices in _,1
+Los Angeles,T,place in _,1
+Los Angeles,T,school in _,1
+Los Angeles,T,she moved to _,1
+Los Angeles,T,show in _,1
+Los Angeles,T,streets of _,1
+Los Angeles,T,suburb of _,1
+Los Angeles,T,time in _,1
+Los Angeles,T,trip to _,1
+Mount Whitney,T,ascent of _,1
+Mount Whitney,T,base of _,1
+Mount Whitney,T,bias,1.0
+Mount Whitney,T,face of _,1
+Mount Whitney,T,f_f__F_landmarkArea,3.14146471737e-05
+Mount Whitney,T,f_f__F_landmarkPerimeter,0.00628312135221
+Mount Whitney,T,foot of _,1
+Mount Whitney,T,gateway to _,1
+Mount Whitney,T,hike up _,1
+Mount Whitney,T,home to _,1
+Mount Whitney,T,Mount Whitney,1
+Mount Whitney,T,peak at _,1
+Mount Whitney,T,peak of _,1
+Mount Whitney,T,side of _,1
+Mount Whitney,T,slope of _,1
+Mount Whitney,T,summit of _,1
+Mount Whitney,T,top of _,1
+Mount Whitney,T,trail to _,1
+Mount Whitney,T,trip to _,1
+Mount Whitney,T,view of _,1
+Mount Whitney,T,views of _,1
+Mount Whitney,T,way to _,1
+Nevada,T,area of _,1
+Nevada,T,areas of _,1
+Nevada,T,bias,1.0
+Nevada,T,business in _,1
+Nevada,T,casinos in _,1
+Nevada,T,city in _,1
+Nevada,T,desert of _,1
+Nevada,T,deserts of _,1
+Nevada,T,directory of _,1
+Nevada,T,f_f__F_landmarkArea,2.99382099506
+Nevada,T,f_f__F_landmarkPerimeter,2.37688345179
+Nevada,T,home in _,1
+Nevada,T,medications in _,1
+Nevada,T,metropolitan areas of _,1
+Nevada,T,Nevada,1
+Nevada,T,part of _,1
+Nevada,T,parts of _,1
+Nevada,T,people of _,1
+Nevada,T,site in _,1
+Nevada,T,state of _,1
+Nevada,T,states like _,1
+Nevada,T,states of _,1
+Nevada,T,trip to _,1
+Oregon,T,area of _,1
+Oregon,T,areas of _,1
+Oregon,T,bias,1.0
+Oregon,T,bias,1.0
+Oregon,T,business in _,1
+Oregon,T,city in _,1
+Oregon,T,coast of _,1
+Oregon,T,f_f__F_landmarkArea,2.85686293162
+Oregon,T,f_f__F_landmarkArea,2.85686293162
+Oregon,T,f_f__F_landmarkPerimeter,2.57598162666
+Oregon,T,f_f__F_landmarkPerimeter,2.57598162666
+Oregon,T,home in _,1
+Oregon,T,notaries public in _,1
+Oregon,T,Oregon,1
+Oregon,T,part of _,1
+Oregon,T,parts of _,1
+Oregon,T,people in _,1
+Oregon,T,people of _,1
+Oregon,T,school in _,1
+Oregon,T,schools in _,1
+Oregon,T,_ 's economy,1
+Oregon,T,_ 's law,1
+Oregon,T,state of _,1
+Oregon,T,states of _,1
+Oregon,T,town in _,1
+Oregon,T,trip to _,1
+Oregon,T,way to _,1
+Oswego Lake,T,bias,1.0
+Oswego Lake,T,end of _,1
+Oswego Lake,T,f_f__F_landmarkArea,1.93033129108e-05
+Oswego Lake,T,f_f__F_landmarkPerimeter,0.0200633532338
+Oswego Lake,T,hills surrounding _,1
+Oswego Lake,T,input for _,1
+Oswego Lake,T,Oswego Lake,1
+Oswego Lake,T,sky makes _,1
+Oswego Lake,T,south end of _,1
+Oswego Lake,T,south side of _,1
+Oswego Lake,T,staff at _,1
+Oswego Lake,T,sun set on _,1
+Oswego Lake,T,surface of _,1
+Oswego Lake,T,susceptibility of _,1
+Oswego Lake,T,system COMMA located in _,1
+Oswego Lake,T,views of _,1
+Oswego Lake,T,water levels in _,1
+Oswego Lake,T,waters of _,1
+Oswego Lake,T,west end of _,1
+Oswego Lake,T,western end of _,1
+Oswego Lake,T,work inside _,1
+Oswego Lake,T,you 're here at _,1
+Oxnard,T,bias,1.0
+Oxnard,T,camp in _,1
+Oxnard,T,center in _,1
+Oxnard,T,cities of _,1
+Oxnard,T,city of _,1
+Oxnard,T,community of _,1
+Oxnard,T,company in _,1
+Oxnard,T,facility in _,1
+Oxnard,T,f_f__F_landmarkArea,0.000983817593146
+Oxnard,T,f_f__F_landmarkPerimeter,0.101378723375
+Oxnard,T,home in _,1
+Oxnard,T,hotels in _,1
+Oxnard,T,house in _,1
+Oxnard,T,_ is home,1
+Oxnard,T,office in _,1
+Oxnard,T,Oxnard,1
+Oxnard,T,prescription in _,1
+Oxnard,T,responsibility for _,1
+Oxnard,T,school in _,1
+Oxnard,T,store in _,1
+Oxnard,T,town of _,1
+Oxnard,T,trip to _,1
+Oxnard,T,way to _,1
+Oxnard,T,you looking for _,1
+Pacific Ocean,T,access to _,1
+Pacific Ocean,T,bias,1.0
+Pacific Ocean,T,blue waters of _,1
+Pacific Ocean,T,breathtaking views of _,1
+Pacific Ocean,T,coast of _,1
+Pacific Ocean,T,edge of _,1
+Pacific Ocean,T,f_f__F_landmarkArea,3.14146473784e-05
+Pacific Ocean,T,f_f__F_landmarkPerimeter,0.00628312135221
+Pacific Ocean,T,island in _,1
+Pacific Ocean,T,islands in _,1
+Pacific Ocean,T,middle of _,1
+Pacific Ocean,T,Pacific Ocean,1
+Pacific Ocean,T,panoramic views of _,1
+Pacific Ocean,T,part of _,1
+Pacific Ocean,T,proximity to _,1
+Pacific Ocean,T,route to _,1
+Pacific Ocean,T,shores of _,1
+Pacific Ocean,T,spectacular views of _,1
+Pacific Ocean,T,view of _,1
+Pacific Ocean,T,views of _,1
+Pacific Ocean,T,waters of _,1
+Pacific Ocean,T,waves of _,1
+Pacific Ocean,T,way to _,1
+Pacific Ocean,T,west by _,1
+Phoenix,T,bias,1.0
+Phoenix,T,city of _,1
+Phoenix,T,company in _,1
+Phoenix,T,conference in _,1
+Phoenix,T,drive from _,1
+Phoenix,T,f_f__F_landmarkArea,3.14146470828e-05
+Phoenix,T,f_f__F_landmarkPerimeter,0.00628312135221
+Phoenix,T,flight to _,1
+Phoenix,T,home in _,1
+Phoenix,T,homes in _,1
+Phoenix,T,meeting in _,1
+Phoenix,T,office in _,1
+Phoenix,T,offices in _,1
+Phoenix,T,part of _,1
+Phoenix,T,Phoenix,1
+Phoenix,T,professional wedding vendor in _,1
+Phoenix,T,_ rising from,1
+Phoenix,T,sale in _,1
+Phoenix,T,school in _,1
+Phoenix,T,suburb of _,1
+Phoenix,T,trip to _,1
+Phoenix,T,vendor in _,1
+Phoenix,T,wedding vendor in _,1
+Portland,T,bias,1.0
+Portland,T,city of _,1
+Portland,T,company in _,1
+Portland,T,conference in _,1
+Portland,T,drive from _,1
+Portland,T,f_f__F_landmarkArea,3.14146477194e-05
+Portland,T,f_f__F_landmarkPerimeter,0.00628312135221
+Portland,T,home in _,1
+Portland,T,meeting in _,1
+Portland,T,office in _,1
+Portland,T,offices in _,1
+Portland,T,part of _,1
+Portland,T,people in _,1
+Portland,T,place in _,1
+Portland,T,Portland,1
+Portland,T,professional wedding vendor in _,1
+Portland,T,school in _,1
+Portland,T,show in _,1
+Portland,T,store in _,1
+Portland,T,time in _,1
+Portland,T,trip to _,1
+Portland,T,vendor in _,1
+Portland,T,way to _,1
+Portland,T,wedding vendor in _,1
+Provo,T,bias,1.0
+Provo,T,campus in _,1
+Provo,T,center in _,1
+Provo,T,citizens of _,1
+Provo,T,city of _,1
+Provo,T,company based in _,1
+Provo,T,company in _,1
+Provo,T,f_f__F_landmarkArea,0.00121060851498
+Provo,T,f_f__F_landmarkPerimeter,0.0924499321846
+Provo,T,home in _,1
+Provo,T,hotels in _,1
+Provo,T,house in _,1
+Provo,T,_ is home,1
+Provo,T,island of _,1
+Provo,T,office in _,1
+Provo,T,offices in _,1
+Provo,T,people of _,1
+Provo,T,place in _,1
+Provo,T,Provo,1
+Provo,T,residents of _,1
+Provo,T,school in _,1
+Provo,T,side of _,1
+Provo,T,trip to _,1
+Provo,T,way to _,1
+Red Bluff,T,bias,1.0
+Red Bluff,T,cities of _,1
+Red Bluff,T,citizens of _,1
+Red Bluff,T,city of _,1
+Red Bluff,T,corporation in _,1
+Red Bluff,T,family in _,1
+Red Bluff,T,f_f__F_landmarkArea,0.000209456413177
+Red Bluff,T,f_f__F_landmarkPerimeter,0.0549920417624
+Red Bluff,T,home in _,1
+Red Bluff,T,hotels in _,1
+Red Bluff,T,music for _,1
+Red Bluff,T,north of _,1
+Red Bluff,T,office in _,1
+Red Bluff,T,Red Bluff,1
+Red Bluff,T,sale in _,1
+Red Bluff,T,school in _,1
+Red Bluff,T,show in _,1
+Red Bluff,T,side of _,1
+Red Bluff,T,south of _,1
+Red Bluff,T,store in _,1
+Red Bluff,T,town of _,1
+Red Bluff,T,way to _,1
+Red Bluff,T,west of _,1
+Redding,T,bias,1.0
+Redding,T,citizens of _,1
+Redding,T,city of _,1
+Redding,T,companies in _,1
+Redding,T,drive from _,1
+Redding,T,f_f__F_landmarkArea,1.36128624945e-05
+Redding,T,f_f__F_landmarkPerimeter,0.00533131835039
+Redding,T,home in _,1
+Redding,T,hotels in _,1
+Redding,T,jobs in _,1
+Redding,T,north of _,1
+Redding,T,offerings from _,1
+Redding,T,office in _,1
+Redding,T,part of _,1
+Redding,T,people of _,1
+Redding,T,rate offerings from _,1
+Redding,T,Redding,1
+Redding,T,resident of _,1
+Redding,T,school in _,1
+Redding,T,store in _,1
+Redding,T,town of _,1
+Redding,T,trip to _,1
+Redding,T,west of _,1
+Redding,T,you familiarize with _,1
+Redondo Beach,T,bias,1.0
+Redondo Beach,T,center in _,1
+Redondo Beach,T,cities of _,1
+Redondo Beach,T,city of _,1
+Redondo Beach,T,contractors in _,1
+Redondo Beach,T,facility in _,1
+Redondo Beach,T,family in _,1
+Redondo Beach,T,f_f__F_landmarkArea,3.14146473556e-05
+Redondo Beach,T,f_f__F_landmarkPerimeter,0.00628312135221
+Redondo Beach,T,home in _,1
+Redondo Beach,T,hotel in _,1
+Redondo Beach,T,house in _,1
+Redondo Beach,T,location in _,1
+Redondo Beach,T,office in _,1
+Redondo Beach,T,pageant in _,1
+Redondo Beach,T,practice in _,1
+Redondo Beach,T,Redondo Beach,1
+Redondo Beach,T,resident of _,1
+Redondo Beach,T,restaurant in _,1
+Redondo Beach,T,school in _,1
+Redondo Beach,T,shop in _,1
+Redondo Beach,T,store in _,1
+Redondo Beach,T,system in _,1
+Redondo Beach,T,way to _,1
+Reno,T,bias,1.0
+Reno,T,casino in _,1
+Reno,T,casinos in _,1
+Reno,T,city of _,1
+Reno,T,conference in _,1
+Reno,T,convention in _,1
+Reno,T,f_f__F_landmarkArea,3.1414647583e-05
+Reno,T,f_f__F_landmarkPerimeter,0.00628312135221
+Reno,T,home in _,1
+Reno,T,hotel in _,1
+Reno,T,hotels in _,1
+Reno,T,man in _,1
+Reno,T,meeting in _,1
+Reno,T,north of _,1
+Reno,T,office in _,1
+Reno,T,offices in _,1
+Reno,T,professional wedding vendor in _,1
+Reno,T,Reno,1
+Reno,T,show in _,1
+Reno,T,trip to _,1
+Reno,T,vendor in _,1
+Reno,T,way to _,1
+Reno,T,wedding vendor in _,1
+Reno,T,year in _,1
+Sacramento,T,area of _,1
+Sacramento,T,bias,1.0
+Sacramento,T,city of _,1
+Sacramento,T,conference in _,1
+Sacramento,T,f_f__F_landmarkArea,3.14146475375e-05
+Sacramento,T,f_f__F_landmarkPerimeter,0.00628312135221
+Sacramento,T,headquarters in _,1
+Sacramento,T,home in _,1
+Sacramento,T,homes in _,1
+Sacramento,T,meeting in _,1
+Sacramento,T,north of _,1
+Sacramento,T,office in _,1
+Sacramento,T,offices in _,1
+Sacramento,T,place in _,1
+Sacramento,T,practice in _,1
+Sacramento,T,professional wedding vendor in _,1
+Sacramento,T,Sacramento,1
+Sacramento,T,school in _,1
+Sacramento,T,store in _,1
+Sacramento,T,suburb of _,1
+Sacramento,T,trip to _,1
+Sacramento,T,vendor in _,1
+Sacramento,T,way to _,1
+Sacramento,T,wedding vendor in _,1
+Salem,T,bias,1.0
+Salem,T,citizens of _,1
+Salem,T,city of _,1
+Salem,T,community of _,1
+Salem,T,f_f__F_landmarkArea,0.00140259034656
+Salem,T,f_f__F_landmarkPerimeter,0.174029548134
+Salem,T,home in _,1
+Salem,T,house in _,1
+Salem,T,king of _,1
+Salem,T,office in _,1
+Salem,T,part of _,1
+Salem,T,people of _,1
+Salem,T,place in _,1
+Salem,T,professional wedding vendor in _,1
+Salem,T,resident of _,1
+Salem,T,Salem,1
+Salem,T,school in _,1
+Salem,T,store in _,1
+Salem,T,town of _,1
+Salem,T,trials in _,1
+Salem,T,trip to _,1
+Salem,T,vendor in _,1
+Salem,T,village of _,1
+Salem,T,wedding vendor in _,1
+Salt Lake City,T,bias,1.0
+Salt Lake City,T,center in _,1
+Salt Lake City,T,company in _,1
+Salt Lake City,T,conference in _,1
+Salt Lake City,T,drive from _,1
+Salt Lake City,T,f_f__F_landmarkArea,3.14146474466e-05
+Salt Lake City,T,f_f__F_landmarkPerimeter,0.00628312135221
+Salt Lake City,T,flight to _,1
+Salt Lake City,T,headquarters in _,1
+Salt Lake City,T,home in _,1
+Salt Lake City,T,living in _,1
+Salt Lake City,T,mayor of _,1
+Salt Lake City,T,meeting in _,1
+Salt Lake City,T,native of _,1
+Salt Lake City,T,north of _,1
+Salt Lake City,T,office in _,1
+Salt Lake City,T,offices in _,1
+Salt Lake City,T,photographer living in _,1
+Salt Lake City,T,place in _,1
+Salt Lake City,T,Salt Lake City,1
+Salt Lake City,T,suburb of _,1
+Salt Lake City,T,trip to _,1
+Salt Lake City,T,way to _,1
+Salt Lake City,T,west of _,1
+San Diego,T,area of _,1
+San Diego,T,bias,1.0
+San Diego,T,city of _,1
+San Diego,T,company in _,1
+San Diego,T,conference in _,1
+San Diego,T,convention in _,1
+San Diego,T,f_f__F_landmarkArea,3.86318759865e-05
+San Diego,T,f_f__F_landmarkPerimeter,0.0114110286778
+San Diego,T,heart of _,1
+San Diego,T,home in _,1
+San Diego,T,hotels in _,1
+San Diego,T,meeting in _,1
+San Diego,T,north of _,1
+San Diego,T,office in _,1
+San Diego,T,offices in _,1
+San Diego,T,place in _,1
+San Diego,T,professional wedding vendor in _,1
+San Diego,T,San Diego,1
+San Diego,T,school in _,1
+San Diego,T,time in _,1
+San Diego,T,trip to _,1
+San Diego,T,vendor in _,1
+San Diego,T,way to _,1
+San Diego,T,wedding vendor in _,1
+San Francisco Bay,T,bias,1.0
+San Francisco Bay,T,eastern shore of _,1
+San Francisco Bay,T,east side of _,1
+San Francisco Bay,T,edge of _,1
+San Francisco Bay,T,end of _,1
+San Francisco Bay,T,entrance to _,1
+San Francisco Bay,T,f_f__F_landmarkArea,3.14146477194e-05
+San Francisco Bay,T,f_f__F_landmarkPerimeter,0.00628312135221
+San Francisco Bay,T,island in _,1
+San Francisco Bay,T,middle of _,1
+San Francisco Bay,T,mouth of _,1
+San Francisco Bay,T,north of _,1
+San Francisco Bay,T,oil spill in _,1
+San Francisco Bay,T,part of _,1
+San Francisco Bay,T,San Francisco Bay,1
+San Francisco Bay,T,shore of _,1
+San Francisco Bay,T,shores of _,1
+San Francisco Bay,T,side of _,1
+San Francisco Bay,T,southern end of _,1
+San Francisco Bay,T,spectacular views of _,1
+San Francisco Bay,T,spill in _,1
+San Francisco Bay,T,view of _,1
+San Francisco Bay,T,views of _,1
+San Francisco Bay,T,waters of _,1
+San Francisco,T,area of _,1
+San Francisco,T,bias,1.0
+San Francisco,T,city of _,1
+San Francisco,T,company in _,1
+San Francisco,T,conference in _,1
+San Francisco,T,district of _,1
+San Francisco,T,event in _,1
+San Francisco,T,f_f__F_landmarkArea,3.14146472192e-05
+San Francisco,T,f_f__F_landmarkPerimeter,0.00628312135221
+San Francisco,T,heart of _,1
+San Francisco,T,home in _,1
+San Francisco,T,meeting in _,1
+San Francisco,T,north of _,1
+San Francisco,T,office in _,1
+San Francisco,T,offices in _,1
+San Francisco,T,place in _,1
+San Francisco,T,restaurant in _,1
+San Francisco,T,San Francisco,1
+San Francisco,T,school in _,1
+San Francisco,T,streets of _,1
+San Francisco,T,time in _,1
+San Francisco,T,trip to _,1
+San Francisco,T,way to _,1
+San Jose,T,airport in _,1
+San Jose,T,area of _,1
+San Jose,T,bias,1.0
+San Jose,T,capital city of _,1
+San Jose,T,capital of _,1
+San Jose,T,city of _,1
+San Jose,T,conference in _,1
+San Jose,T,drive from _,1
+San Jose,T,f_f__F_landmarkArea,3.14146474466e-05
+San Jose,T,f_f__F_landmarkPerimeter,0.00628312135221
+San Jose,T,flight to _,1
+San Jose,T,headquarters in _,1
+San Jose,T,heart of _,1
+San Jose,T,home in _,1
+San Jose,T,hotel in _,1
+San Jose,T,hotels in _,1
+San Jose,T,office in _,1
+San Jose,T,offices in _,1
+San Jose,T,place in _,1
+San Jose,T,San Jose,1
+San Jose,T,school in _,1
+San Jose,T,town of _,1
+San Jose,T,trip to _,1
+San Jose,T,way to _,1
+Santa Rosa,T,area of _,1
+Santa Rosa,T,bias,1.0
+Santa Rosa,T,cities of _,1
+Santa Rosa,T,city of _,1
+Santa Rosa,T,facility in _,1
+Santa Rosa,T,f_f__F_landmarkArea,5.64366018807e-06
+Santa Rosa,T,f_f__F_landmarkPerimeter,0.00395831606814
+Santa Rosa,T,great selection of _,1
+Santa Rosa,T,home in _,1
+Santa Rosa,T,location in _,1
+Santa Rosa,T,north of _,1
+Santa Rosa,T,office in _,1
+Santa Rosa,T,offices in _,1
+Santa Rosa,T,practice in _,1
+Santa Rosa,T,private practice in _,1
+Santa Rosa,T,responsibility for _,1
+Santa Rosa,T,Santa Rosa,1
+Santa Rosa,T,school in _,1
+Santa Rosa,T,selection of _,1
+Santa Rosa,T,store in _,1
+Santa Rosa,T,town of _,1
+Santa Rosa,T,trip to _,1
+Santa Rosa,T,village of _,1
+Santa Rosa,T,west of _,1
+Sierra Nevada Mountains,T,backdrop of _,1
+Sierra Nevada Mountains,T,base of _,1
+Sierra Nevada Mountains,T,beauty of _,1
+Sierra Nevada Mountains,T,bias,1.0
+Sierra Nevada Mountains,T,crest of _,1
+Sierra Nevada Mountains,T,eastern slope of _,1
+Sierra Nevada Mountains,T,eastern slopes of _,1
+Sierra Nevada Mountains,T,east side of _,1
+Sierra Nevada Mountains,T,f_f__F_landmarkArea,0.00664298076249
+Sierra Nevada Mountains,T,f_f__F_landmarkPerimeter,0.21244173326
+Sierra Nevada Mountains,T,foothills of _,1
+Sierra Nevada Mountains,T,foot of _,1
+Sierra Nevada Mountains,T,heart of _,1
+Sierra Nevada Mountains,T,jewelry made in _,1
+Sierra Nevada Mountains,T,part of _,1
+Sierra Nevada Mountains,T,peaks of _,1
+Sierra Nevada Mountains,T,side of _,1
+Sierra Nevada Mountains,T,Sierra Nevada Mountains,1
+Sierra Nevada Mountains,T,slope of _,1
+Sierra Nevada Mountains,T,slopes of _,1
+Sierra Nevada Mountains,T,view of _,1
+Sierra Nevada Mountains,T,views of _,1
+Sierra Nevada Mountains,T,western slope of _,1
+Sierra Nevada Mountains,T,western slopes of _,1
+Staples Center,T,bias,1.0
+Staples Center,T,concert at _,1
+Staples Center,T,crowd at _,1
+Staples Center,T,event at _,1
+Staples Center,T,events at _,1
+Staples Center,T,fans at _,1
+Staples Center,T,f_f__F_landmarkArea,3.14146475603e-05
+Staples Center,T,f_f__F_landmarkPerimeter,0.00628312135221
+Staples Center,T,fight at _,1
+Staples Center,T,front of _,1
+Staples Center,T,game at _,1
+Staples Center,T,games at _,1
+Staples Center,T,home games at _,1
+Staples Center,T,_ is home,1
+Staples Center,T,last night at _,1
+Staples Center,T,night at _,1
+Staples Center,T,place at _,1
+Staples Center,T,season at _,1
+Staples Center,T,show at _,1
+Staples Center,T,Staples Center,1
+Staples Center,T,street from _,1
+Staples Center,T,tickets at _,1
+Staples Center,T,tonight at _,1
+Staples Center,T,visit to _,1
+St. George,T,bias,1.0
+St. George,T,f_f__F_landmarkArea,0.00185406529113
+St. George,T,f_f__F_landmarkPerimeter,0.104039510565
+Stockton,T,area of _,1
+Stockton,T,bias,1.0
+Stockton,T,cities of _,1
+Stockton,T,city of _,1
+Stockton,T,corner of _,1
+Stockton,T,f_f__F_landmarkArea,0.00171639276591
+Stockton,T,f_f__F_landmarkPerimeter,0.144567202163
+Stockton,T,home in _,1
+Stockton,T,hometown of _,1
+Stockton,T,house in _,1
+Stockton,T,office in _,1
+Stockton,T,people in _,1
+Stockton,T,people of _,1
+Stockton,T,plant in _,1
+Stockton,T,prescription in _,1
+Stockton,T,resident of _,1
+Stockton,T,residents of _,1
+Stockton,T,responsibility for _,1
+Stockton,T,school in _,1
+Stockton,T,Stockton,1
+Stockton,T,town of _,1
+Stockton,T,trip to _,1
+Stockton,T,way to _,1
+Truckee River,T,bank of _,1
+Truckee River,T,banks of _,1
+Truckee River,T,bias,1.0
+Truckee River,T,bridge across _,1
+Truckee River,T,bridge over _,1
+Truckee River,T,f_f__F_landmarkArea,0.00310524606912
+Truckee River,T,f_f__F_landmarkPerimeter,0.0705039978028
+Truckee River,T,flow of _,1
+Truckee River,T,paddling on _,1
+Truckee River,T,portion of _,1
+Truckee River,T,rapids of _,1
+Truckee River,T,_ runs through,1
+Truckee River,T,section of _,1
+Truckee River,T,segment of _,1
+Truckee River,T,side of _,1
+Truckee River,T,stretch of _,1
+Truckee River,T,trip down _,1
+Truckee River,T,Truckee River,1
+Truckee River,T,views of _,1
+Truckee River,T,water from _,1
+Truckee River,T,waters of _,1
+Truckee River,T,whitewater on _,1
+Tucson,T,bias,1.0
+Tucson,T,city of _,1
+Tucson,T,company in _,1
+Tucson,T,facility in _,1
+Tucson,T,f_f__F_landmarkArea,3.1414647674e-05
+Tucson,T,f_f__F_landmarkPerimeter,0.00628312135221
+Tucson,T,gospel to _,1
+Tucson,T,home in _,1
+Tucson,T,lives in _,1
+Tucson,T,north of _,1
+Tucson,T,occupation of _,1
+Tucson,T,office in _,1
+Tucson,T,offices in _,1
+Tucson,T,place in _,1
+Tucson,T,practice in _,1
+Tucson,T,school in _,1
+Tucson,T,show in _,1
+Tucson,T,side of _,1
+Tucson,T,south of _,1
+Tucson,T,time in _,1
+Tucson,T,trip to _,1
+Tucson,T,Tucson,1
+Tucson,T,way to _,1
+Tucson,T,west of _,1
+Twin Peaks,T,base of _,1
+Twin Peaks,T,bias,1.0
+Twin Peaks,T,community of _,1
+Twin Peaks,T,episode of _,1
+Twin Peaks,T,episodes of _,1
+Twin Peaks,T,fan of _,1
+Twin Peaks,T,f_f__F_landmarkArea,3.14146471283e-05
+Twin Peaks,T,f_f__F_landmarkPerimeter,0.00628312135221
+Twin Peaks,T,fictional town of _,1
+Twin Peaks,T,first season of _,1
+Twin Peaks,T,season of _,1
+Twin Peaks,T,second season of _,1
+Twin Peaks,T,side of _,1
+Twin Peaks,T,slope of _,1
+Twin Peaks,T,summit of _,1
+Twin Peaks,T,top of _,1
+Twin Peaks,T,town of _,1
+Twin Peaks,T,Twin Peaks,1
+Twin Peaks,T,version of _,1
+Twin Peaks,T,view from _,1
+Twin Peaks,T,view of _,1
+Twin Peaks,T,views of _,1
+Twin Peaks,T,west of _,1
+Twin Peaks,T,world of _,1
+Utah Lake,T,bed of _,1
+Utah Lake,T,bias,1.0
+Utah Lake,T,eastern shore of _,1
+Utah Lake,T,end of _,1
+Utah Lake,T,f_f__F_landmarkArea,0.00381271960673
+Utah Lake,T,f_f__F_landmarkPerimeter,0.130535742301
+Utah Lake,T,fish in _,1
+Utah Lake,T,north end of _,1
+Utah Lake,T,outlet of _,1
+Utah Lake,T,rights in _,1
+Utah Lake,T,shore of _,1
+Utah Lake,T,shores of _,1
+Utah Lake,T,side of _,1
+Utah Lake,T,south end of _,1
+Utah Lake,T,storage in _,1
+Utah Lake,T,Utah Lake,1
+Utah Lake,T,view of _,1
+Utah Lake,T,views of _,1
+Utah Lake,T,water from _,1
+Utah Lake,T,water in _,1
+Utah Lake,T,waters of _,1
+Utah Lake,T,way to _,1
+Utah Lake,T,west of _,1
+Utah Lake,T,west side of _,1
+Utah,T,area of _,1
+Utah,T,areas of _,1
+Utah,T,bias,1.0
+Utah,T,business in _,1
+Utah,T,citizens of _,1
+Utah,T,companies in _,1
+Utah,T,corner of _,1
+Utah,T,directory of _,1
+Utah,T,f_f__F_landmarkArea,2.29742257057
+Utah,T,f_f__F_landmarkPerimeter,2.00043789041
+Utah,T,governor of _,1
+Utah,T,home in _,1
+Utah,T,_ is located in,1
+Utah,T,mountains of _,1
+Utah,T,part of _,1
+Utah,T,parts of _,1
+Utah,T,people in _,1
+Utah,T,people of _,1
+Utah,T,school in _,1
+Utah,T,schools in _,1
+Utah,T,state of _,1
+Utah,T,trip to _,1
+Utah,T,Utah,1
+Utah,T,way to _,1
+Willamette River,T,bank of _,1
+Willamette River,T,banks of _,1
+Willamette River,T,bias,1.0
+Willamette River,T,bridge across _,1
+Willamette River,T,bridge over _,1
+Willamette River,T,confluence with _,1
+Willamette River,T,east bank of _,1
+Willamette River,T,east side of _,1
+Willamette River,T,f_f__F_landmarkArea,1.37008341881e-06
+Willamette River,T,f_f__F_landmarkPerimeter,0.00262791073318
+Willamette River,T,mouth of _,1
+Willamette River,T,_ runs through,1
+Willamette River,T,section of _,1
+Willamette River,T,shore of _,1
+Willamette River,T,side of _,1
+Willamette River,T,sides of _,1
+Willamette River,T,tributary of _,1
+Willamette River,T,view of _,1
+Willamette River,T,views of _,1
+Willamette River,T,waters of _,1
+Willamette River,T,west bank of _,1
+Willamette River,T,west of _,1
+Willamette River,T,west side of _,1
+Willamette River,T,Willamette River,1
+Yosemite National Park,T,area of _,1
+Yosemite National Park,T,beauty of _,1
+Yosemite National Park,T,bias,1.0
+Yosemite National Park,T,boundaries of _,1
+Yosemite National Park,T,boundary of _,1
+Yosemite National Park,T,creation of _,1
+Yosemite National Park,T,eastern entrance to _,1
+Yosemite National Park,T,edge of _,1
+Yosemite National Park,T,entrance of _,1
+Yosemite National Park,T,entrance to _,1
+Yosemite National Park,T,f_f__F_landmarkArea,0.0309596344294
+Yosemite National Park,T,f_f__F_landmarkPerimeter,0.305196084821
+Yosemite National Park,T,gateway to _,1
+Yosemite National Park,T,_ is located in,1
+Yosemite National Park,T,map of _,1
+Yosemite National Park,T,part of _,1
+Yosemite National Park,T,picture of _,1
+Yosemite National Park,T,size of _,1
+Yosemite National Park,T,southern entrance to _,1
+Yosemite National Park,T,trip to _,1
+Yosemite National Park,T,vacation in _,1
+Yosemite National Park,T,visit to _,1
+Yosemite National Park,T,way to _,1
+Yosemite National Park,T,Yosemite National Park,1

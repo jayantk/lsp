@@ -1,0 +1,21 @@
+Tennessee,T,f_f__F_landmarkPerimeter,2.22247727758
+Tennessee,T,bias,1.0
+Tennessee,T,f_f__F_landmarkArea,1.08896057567
+Nashville,T,f_f__F_landmarkPerimeter,0.00628312135213
+Nashville,T,bias,1.0
+Nashville,T,f_f__F_landmarkArea,3.14146472192e-05
+Memphis,T,f_f__F_landmarkPerimeter,0.243909838327
+Memphis,T,bias,1.0
+Memphis,T,f_f__F_landmarkArea,0.00839077996918
+Great Smoky Mountains National Park,T,f_f__F_landmarkPerimeter,0.00443490887849
+Great Smoky Mountains National Park,T,bias,1.0
+Great Smoky Mountains National Park,T,f_f__F_landmarkArea,8.16521535398e-06
+Knoxville,T,f_f__F_landmarkPerimeter,0.138204956055
+Knoxville,T,bias,1.0
+Knoxville,T,f_f__F_landmarkArea,0.0103102478024
+Alabama,T,f_f__F_landmarkPerimeter,1.7374270411
+Alabama,T,bias,1.0
+Alabama,T,f_f__F_landmarkArea,1.30646713647
+Birmingham,T,f_f__F_landmarkPerimeter,0.00703565167392
+Birmingham,T,bias,1.0
+Birmingham,T,f_f__F_landmarkArea,8.6046620936e-06

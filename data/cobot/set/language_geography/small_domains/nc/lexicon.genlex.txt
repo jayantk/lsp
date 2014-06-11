@@ -1,0 +1,140 @@
+ocean,N/P,ocean-rel 0 1
+ocean,N,ocean 0 0
+ocean,N/N,ocean 0 0
+to,N\N/N,to-rel 0 0 1
+to,N\N/N,kb-equal 0 0 1
+to,A/N,to-rel 0 1
+to,A\N,to-rel 1 0
+to,P/N,kb-ignore 0 0
+to,P/P,kb-ignore 0 0
+to,P\N,kb-ignore 0 0
+to,P\P,kb-ignore 0 0
+cities,N/P,city-rel 0 1
+cities,N,city 0 0
+cities,N/N,city 0 0
+Myrtle Beach,N/P,MyrtleBeach-rel 0 1
+Myrtle Beach,N,MyrtleBeach 0 0
+Myrtle Beach,N/N,MyrtleBeach 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+west,N/P,west-rel 0 1
+west,N,west 0 0
+west,N/N,west 0 0
+capital,N/P,capital-rel 0 1
+capital,N,capital 0 0
+capital,N/N,capital 0 0
+North Carolina city,N/P,NorthCarolinacity-rel 0 1
+North Carolina city,N,NorthCarolinacity 0 0
+North Carolina city,N/N,NorthCarolinacity 0 0
+northernmost,N/N,northernmost 0 0
+northernmost,N/N,kb-ignore 0 0
+northernmost,N/P,northernmost-rel 0 1
+northernmost,N,northernmost 0 0
+is,S\N/N,kb-equal 0 0 1
+is,S\N/A,kb-equal 0 0 1
+is,S\N/P,kb-equal 0 0 1
+is,S\A/N,kb-equal 0 0 1
+is,S\P/N,kb-equal 0 0 1
+is,S/N/N,kb-equal 0 1 0
+is,S/A/N,kb-equal 0 1 0
+is,S/P/N,kb-equal 0 1 0
+in,N\N/N,in-rel 0 0 1
+in,N\N/N,kb-equal 0 0 1
+in,A/N,in-rel 0 1
+in,A\N,in-rel 1 0
+in,P/N,kb-ignore 0 0
+in,P/P,kb-ignore 0 0
+in,P\N,kb-ignore 0 0
+in,P\P,kb-ignore 0 0
+larger,N/N,larger 0 0
+larger,N/N,kb-ignore 0 0
+larger,N/P,larger-rel 0 1
+larger,N,larger 0 0
+further,N/N,further 0 0
+further,N/N,kb-ignore 0 0
+further,N/P,further-rel 0 1
+further,N,further 0 0
+city,N/P,city-rel 0 1
+city,N,city 0 0
+city,N/N,city 0 0
+state,N/P,state-rel 0 1
+state,N,state 0 0
+state,N/N,state 0 0
+which,N/N,kb-ignore 0 0
+which,N,kb-ignore 0 0
+which,N,which 0 0
+of,N\N/N,of-rel 0 0 1
+of,N\N/N,kb-equal 0 0 1
+of,A/N,of-rel 0 1
+of,A\N,of-rel 1 0
+of,P/N,kb-ignore 0 0
+of,P/P,kb-ignore 0 0
+of,P\N,kb-ignore 0 0
+of,P\P,kb-ignore 0 0
+south,P/P,kb-ignore 0 0
+south,N/N,kb-ignore 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+are,S\N/N,kb-equal 0 0 1
+are,S\N/A,kb-equal 0 0 1
+are,S\N/P,kb-equal 0 0 1
+are,S\A/N,kb-equal 0 0 1
+are,S\P/N,kb-equal 0 0 1
+are,S/N/N,kb-equal 0 1 0
+are,S/A/N,kb-equal 0 1 0
+are,S/P/N,kb-equal 0 1 0
+further north,N/P,furthernorth-rel 0 1
+further north,N,furthernorth 0 0
+further north,N/N,furthernorth 0 0
+north,N/P,north-rel 0 1
+north,N,north 0 0
+north,N/N,north 0 0
+South Carolina,N/P,SouthCarolina-rel 0 1
+South Carolina,N,SouthCarolina 0 0
+South Carolina,N/N,SouthCarolina 0 0
+the,N,kb-ignore 0 0
+the,N/N,kb-ignore 0 0
+near,N\N/N,near-rel 0 0 1
+near,N\N/N,kb-equal 0 0 1
+near,A/N,near-rel 0 1
+near,A\N,near-rel 1 0
+near,P/N,kb-ignore 0 0
+near,P/P,kb-ignore 0 0
+near,P\N,kb-ignore 0 0
+near,P\P,kb-ignore 0 0
+Uwharrie National Forest,N/P,UwharrieNationalForest-rel 0 1
+Uwharrie National Forest,N,UwharrieNationalForest 0 0
+Uwharrie National Forest,N/N,UwharrieNationalForest 0 0
+northernmost city,N/P,northernmostcity-rel 0 1
+northernmost city,N,northernmostcity 0 0
+northernmost city,N/N,northernmostcity 0 0
+forest,N/P,forest-rel 0 1
+forest,N,forest 0 0
+forest,N/N,forest 0 0
+on,N\N/N,on-rel 0 0 1
+on,N\N/N,kb-equal 0 0 1
+on,A/N,on-rel 0 1
+on,A\N,on-rel 1 0
+on,P/N,kb-ignore 0 0
+on,P/P,kb-ignore 0 0
+on,P\N,kb-ignore 0 0
+on,P\P,kb-ignore 0 0
+close,N/N,close 0 0
+close,N/N,kb-ignore 0 0
+close,N/P,close-rel 0 1
+close,N,close 0 0
+north,P/P,kb-ignore 0 0
+north,N/N,kb-ignore 0 0
+North Carolina,N/P,NorthCarolina-rel 0 1
+North Carolina,N,NorthCarolina 0 0
+North Carolina,N/N,NorthCarolina 0 0
+east,N/N,east 0 0
+east,N/N,kb-ignore 0 0
+east,N/P,east-rel 0 1
+east,N,east 0 0
+closest,N/N,closest 0 0
+closest,N/N,kb-ignore 0 0
+closest,N/P,closest-rel 0 1
+closest,N,closest 0 0

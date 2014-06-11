@@ -1,0 +1,5 @@
+Oklahoma;Oklahoma;161645
+Texas;Texas;114690
+Arkansas;Arkansas;161646
+Louisiana;Louisiana;224922
+Mississippi;Mississippi;161943

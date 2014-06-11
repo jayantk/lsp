@@ -1,0 +1,9 @@
+*state;Georgia,Alabama
+*city;Atlanta,Macon,Montgomery,Birmingham
+
+*west-rel;Atlanta#Macon,Alabama#Georgia,Alabama#Atlanta,Alabama#Macon,Montgomery#Georgia,Montgomery#Atlanta,Montgomery#Macon,Birmingham#Georgia,Birmingham#Atlanta,Birmingham#Macon,Birmingham#Montgomery
+*east-rel;Macon#Atlanta,Georgia#Alabama,Atlanta#Alabama,Macon#Alabama,Georgia#Montgomery,Atlanta#Montgomery,Macon#Montgomery,Georgia#Birmingham,Atlanta#Birmingham,Macon#Birmingham,Montgomery#Birmingham
+*south-rel;Macon#Atlanta,Montgomery#Birmingham
+*north-rel;Atlanta#Macon,Birmingham#Montgomery
+*border-rel;Alabama#Georgia,Georgia#Alabama
+*in-rel;Atlanta#Georgia,Macon#Georgia,Montgomery#Alabama,Birmingham#Alabama

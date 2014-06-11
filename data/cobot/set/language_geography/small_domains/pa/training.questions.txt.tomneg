@@ -1,0 +1,17 @@
+Pittsburgh is a city;Pittsburgh;1
+Harrisburg is a city;Harrisburg;1
+Newark is a city;Newark;1
+New Jersey is a state;New Jersey;1
+Pittsburgh is a state;;1
+Newark is a state;Newark;1
+Pennsylvania is a state;Pennsylvania;1
+Pennsylvania is a city;;1
+Pittsburgh is inside Pennsylvania;Pittsburgh;1
+Pittsburgh is in Pennsylvania;Pittsburgh;1
+Harrisburg is in Pennsylvania;Harrisburg;1
+Harrisburg is east of Pittsburgh;Harrisburg;1
+Pittsburgh is east of Harrisburg;;1
+New Jersey is a state;New Jersey;1
+Newark is in New Jersey;Newark;1
+New Jersey is east of Pennsylvania;New Jersey;1
+New Jersey is east of Harrisburg;New Jersey;1

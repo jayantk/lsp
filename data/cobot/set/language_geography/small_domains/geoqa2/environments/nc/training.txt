@@ -1,0 +1,19 @@
+which city is closest to the ocean ?;Myrtle Beach;4
+what is the capital of North Carolina ?;Raleigh;1;(lambda $x (exists $y (and (capital-rel $x $y) (kb-North_Carolina $y))))
+which state is further north ?;North Carolina;4
+which state is larger ?;North Carolina;4
+which are cities ?;Raleigh,Charlotte,Greensboro,Myrtle Beach;0;(lambda $x (and (city $x)))
+which forest is in North Carolina ?;Uwharrie National Forest;1;(lambda $x (exists $y (and (forest $x) (in-rel $x $y) (kb-North_Carolina $y))))
+what is the northernmost city in North Carolina ?;Greensboro;4
+what cities are in North Carolina ?;Raleigh,Charlotte,Greensboro;1;(lambda $x (exists $y (and (city $x) (in-rel $x $y) (kb-North_Carolina $y))))
+what city is east of Greensboro in North Carolina ?;Raleigh;3;(lambda $x (exists $y $z (and (city $x) (east-rel $x $y) (kb-Greensboro $y) (in-rel $x $z) (kb-North_Carolina $z))))
+what city is north east of Charlotte in North Carolina ?;Greensboro;3;(lambda $x (exists $y $z (and (city $x) (northeast-rel $x $y) (kb-Charlotte $y) (in-rel $x $z) (kb-North_Carolina $z))))
+what state is south of North Carolina ?;South Carolina;1;(lambda $x (exists $y (and (state $x) (south-rel $x $y) (kb-North_Carolina $y))))
+what city is west of Raleigh ?;Greensboro,Charlotte;1;(lambda $x (exists $y (and (city $x) (west-rel $x $y) (kb-Raleigh $y))))
+is Myrtle Beach near North Carolina ?;Myrtle Beach;1;(lambda $x (exists $y (and (kb-Myrtle_Beach $x) (near-rel $x $y) (kb-North_Carolina $y))))
+what cities are on the ocean ?;Myrtle Beach;1;(lambda $x (exists $y (and (city $x) (on-rel $x $y) (ocean $y))))
+what North Carolina city is near South Carolina ?;Charlotte;3;(lambda $x (exists $y $z (and (kb-North_Carolina $z) (in-rel $x $z) (city $x) (near-rel $x $y) (kb-South_Carolina $y))))
+what forest is close to Charlotte ?;Uwharrie National Forest;1;(lambda $x (exists $y (and (forest $x) (close-rel $x $y) (kb-Charlotte $y))))
+what is south of Greensboro ?;Uwharrie National Forest,South Carolina;1;(lambda $x (exists $y (and (south-rel $x $y) (kb-Greensboro $y))))
+what is north of Uwharrie National Forest ?;Greensboro;1;(lambda $x (exists $y (and (north-rel $x $y) (kb-Uwharrie_National_Forest $y))))
+what is north east of Uwharrie National Forest ?;Raleigh;1;(lambda $x (exists $y (and (northeast-rel $x $y) (kb-Uwharrie_National_Forest $y))))

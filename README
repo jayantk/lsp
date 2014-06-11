@@ -1,0 +1,13 @@
+Code for the paper 
+
+
+
+Building the project:
+
+ant jar
+
+
+
+Training the geography domain with cross validation:
+
+./src/scripts/language_geo/train_cv.sh

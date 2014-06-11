@@ -1,0 +1,56 @@
+Alabama;Alabama;161950
+Arkansas;Arkansas;161646
+Atlanta;Atlanta;119557
+Atlantic Ocean;Atlantic Ocean;305640306
+Birmingham;Birmingham;111031
+Charleston;Charleston;36967884
+Charlotte;Charlotte;154074402
+Daytona Beach;Daytona Beach;117945
+Detroit;Detroit;134591
+Everglades National Park;Everglades National Park;2163707
+Florida;Florida;162050
+Francis Marion National Forest;Francis Marion National Forest;357123876
+Georgia;Georgia;161957
+George Washington National Forest;George Washington National Forest;34393844
+Grand Rapids;Grand Rapids;134444
+Great Smoky Mountains National Park;Great Smoky Mountains National Park;159226673
+Greensboro;Greensboro;180261
+Greenville;Greenville;193989
+Hilton Head Island;Hilton Head Island;194043
+Indiana;Indiana;161816
+Indianapolis;Indianapolis;153353016
+Kentucky;Kentucky;161655
+Key Largo;Key Largo;153891314
+Knoxville;Knoxville;197353
+Lake Huron;Lake Huron;498152859
+Lake Michigan;Lake Michigan;1205149
+Lake Moultrie;Lake Moultrie;269608
+Louisiana;Louisiana;224922
+Louisville;Louisville;1804307
+Macon;Macon;119694
+Memphis;Memphis;197239
+Miami;Miami;1216769
+Michigan;Michigan;165789
+Milwaukee;Milwaukee;251075
+Mississippi;Mississippi;161943
+Monongahela National Forest;Monongahela National Forest;356538404
+Montgomery;Montgomery, Alabama;153806548
+Morgantown;Morgantown;240034
+Myrtle Beach;Myrtle Beach;193842
+Nashville;Nashville;38451000
+North Carolina;North Carolina;224045
+Oklahoma;Oklahoma;161645
+Raleigh;Raleigh;179052
+Richmond;Richmond;40821929
+Shenandoah National Park;Shenandoah National Park;947692
+South Bend;South Bend;127646
+South Carolina;South Carolina;224040
+Tallahassee;Tallahassee;154051410
+Tennessee;Tennessee;161838
+Texas;Texas;114690
+Tygart Lake;Tygart Lake;356522234
+Uwharrie National Forest;Uwharrie National Forest;33279724
+Virginia Beach;Virginia Beach;206670
+Virginia;Virginia;224042
+West Virginia;West Virginia;162068
+Wisconsin;Wisconsin;165466

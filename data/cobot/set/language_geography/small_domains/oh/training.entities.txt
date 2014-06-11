@@ -1,0 +1,6 @@
+Pennsylvania;Pennsylvania
+Ohio;Ohio
+Cleveland;Cleveland
+Cleveland Browns Stadium;Cleveland Browns Stadium
+Lake Erie;Lake Erie
+Pittsburgh;Pittsburgh

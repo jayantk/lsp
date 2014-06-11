@@ -1,0 +1,34 @@
+which of these are lakes ?;Lake Michigan,Lake Huron;0;(lambda $x (and (lake $x)))
+name the cities;Detroit,Grand Rapids,Milwaukee;0;(lambda $x (and (city $x)))
+name the states;Michigan,Wisconsin;0;(lambda $x (and (state $x)))
+what cities are in Michigan;Detroit,Grand Rapids;1;(lambda $x (exists $y (and (city $x) (in-rel $x $y) (kb-Michigan $y))))
+what lakes are near Michigan;Lake Michigan,Lake Huron;1;(lambda $x (exists $y (and (lake $x) (near-rel $x $y) (kb-Michigan $y))))
+what lakes are near Wisconsin;Lake Michigan;1;(lambda $x (exists $y (and (lake $x) (near-rel $x $y) (kb-Wisconsin $y))))
+what lake is west of Michigan;Lake Michigan;1;(lambda $x (exists $y (and (lake $x) (west-rel $x $y) (kb-Michigan $y))))
+what states border west of Michigan ?;Wisconsin;1;(lambda $x (exists $y (and (state $x) (west-rel $x $y) (border-rel $x $y) (kb-Michigan $y))))
+what state is east of Wisconsin;Michigan;1;(lambda $x (exists $y (and (state $x) (east-rel $x $y) (kb-Wisconsin $y))))
+what cities are on Lake Michigan;Milwaukee;1;(lambda $x (exists $y (and (city $x) (on-rel $x $y) (kb-Lake_Michigan $y))))
+what is the largest city in Michigan ?;Detroit;4
+what is the second largest city in Michigan ?;Grand Rapids;4
+what is the largest city in Wisconsin ?;Milwaukee;4
+name the lakes bordering Michigan ?;Lake Michigan,Lake Huron;1;(lambda $x (exists $y (and (lake $x) (border-rel $x $y) (kb-Michigan $y))))
+what city is east of Grand Rapids ?;Detroit;1;(lambda $x (exists $y (and (city $x) (east-rel $x $y) (kb-Grand_Rapids $y))))
+what city is west of Detroit ?;Milwaukee,Grand Rapids;1;(lambda $x (exists $y (and (city $x) (west-rel $x $y) (kb-Detroit $y))))
+what city is west of Grand Rapids ?;Milwaukee;1;(lambda $x (exists $y (and (city $x) (west-rel $x $y) (kb-Grand_Rapids $y))))
+what lake borders Wisconsin ?;Lake Michigan;1;(lambda $x (exists $y (and (lake $x) (border-rel $x $y) (kb-Wisconsin $y))))
+what lake is east of Lake Michigan ?;Lake Huron;1;(lambda $x (exists $y (and (lake $x) (east-rel $x $y) (kb-Lake_Michigan $y))))
+what states are on Lake Michigan;Michigan,Wisconsin;1;(lambda $x (exists $y (and (state $x) (on-rel $x $y) (kb-Lake_Michigan $y))))
+what borders Michigan ?;Lake Huron,Lake Michigan,Wisconsin;1;(lambda $x (exists $y (and (border-rel $x $y) (kb-Michigan $y))))
+
+#what is the capital of Michigan ?;Lansing
+#what national parks are in Michigan ?;Isle Royale National Park
+#which state borders with Michigan in the middle of Lake Superior ?;Minnesota
+#what islands are in Lake Michigan ?;Manitou,Beaver,Fox
+#what islands are in Lake Superior ?;Isle Royale,Grande Isle
+#what islands are in Lake Huron ?;Drummond,Marquette,Bois Blanc,Mackinac
+#what islands are in St. Mary's River ?;Neebish,Sugar
+#what rivers flow into Lake Huron in Michigan ?;Au Sable,Thunder Bay,Cheboygan,Saginaw
+#what rivers flow into Lake Superior in Michigan ?;Ontonagon,Tahquamenon
+#what rivers flow into Lake Michigan in Michigan ?;St. Joseph,Kalamazoo,Grand,Muskegon,Manistee,Escanaba
+#what city in Michigan closest to Indiana ?;Kalamazoo
+#what city in Michigan closest to Ohio ?;Ann Arbor

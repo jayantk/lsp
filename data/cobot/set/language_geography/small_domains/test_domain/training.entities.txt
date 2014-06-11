@@ -1,0 +1,56 @@
+Anaheim;Anaheim
+Arizona;Arizona
+Bakersfield;Bakersfield
+California;California
+Columbia River;Columbia River
+Concord;Concord
+Death Valley National Park;Death Valley National Park
+Dodger Stadium;Dodger Stadium
+Elko;Elko
+Eugene;Eugene
+Fern Ridge Lake;Fern Ridge Lake
+Flagstaff;Flagstaff
+Fremont;Fremont
+Fresno;Fresno
+Grand Canyon National Park;Grand Canyon National Park
+Grand Staircase-Escalante National Monument;Grand Staircase-Escalante National Monument
+Great Salt Lake;Great Salt Lake
+Henderson;Henderson
+Huntington Beach;Huntington Beach
+Lake Tahoe;Lake Tahoe
+Las Vegas;Las Vegas
+Long Beach;Long Beach
+Los Angeles International Airport;Los Angeles International Airport
+Los Angeles;Los Angeles
+McCarran International Airport;McCarran International Airport
+Nevada;Nevada
+Oregon;Oregon
+Oswego Lake;Oswego Lake
+Oxnard;Oxnard
+Pacific Ocean;Pacific Ocean
+Phoenix;Phoenix
+Phoenix Sky Harbor International Airport;Phoenix Sky Harbor International Airport
+Portland International Airport;Portland International Airport
+Portland;Portland
+Provo;Provo
+Red Bluff;Red Bluff
+Redding;Redding
+Reno;Reno
+Sacramento International Airport;Sacramento International Airport
+Sacramento;Sacramento
+Salem;Salem
+Salt Lake City International Airport;Salt Lake City International Airport
+Salt Lake City;Salt Lake City
+San Diego;San Diego
+San Francisco Bay;San Francisco Bay
+San Francisco International Airport;San Francisco International Airport
+San Francisco;San Francisco
+San Jose;San Jose
+Santa Rosa;Santa Rosa
+Sierra Nevada Mountains;Sierra Nevada Mountains
+Staples Center;Staples Center
+Stockton;Stockton
+Tucson;Tucson
+Utah Lake;Utah Lake
+Utah;Utah
+Willamette River;Willamette River

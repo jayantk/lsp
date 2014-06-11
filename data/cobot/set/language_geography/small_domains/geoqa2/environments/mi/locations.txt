@@ -1,0 +1,7 @@
+Michigan;Michigan;165789
+Detroit;Detroit;134591
+Grand Rapids;Grand Rapids;134444
+Lake Michigan;Lake Michigan;1205149
+Lake Huron;Lake Huron;498152859
+Wisconsin;Wisconsin;165466
+Milwaukee;Milwaukee;251075

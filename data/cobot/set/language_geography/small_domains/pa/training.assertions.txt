@@ -1,0 +1,23 @@
+these are cities;Pittsburgh,Harrisburg,Newark;1
+these are states;Pennsylvania,New Jersey;1
+this is the city Pittsburgh;Pittsburgh;1
+this is the city Harrisburg;Harrisburg;1
+this is the city of Pittsburgh;Pittsburgh;1
+this is the city of Harrisburg;Harrisburg;1
+this is a city in New Jersey;Newark;1
+these are in Pennsylvania;Pittsburgh,Harrisburg;1
+city in Pennsylvania;Pittsburgh,Harrisburg;1
+
+Pittsburgh is east of Harrisburg;Pittsburgh;1
+city east of Harrisburg;Pittsburgh;1
+city east of Newark;Pittsburgh,Harrisburg;1
+
+Newark is west of Harrisburg;Newark;1
+Newark is west of Pittsburgh;Newark;1
+New Jersey is west of Pennsylvania;New Jersey;1
+state west of Pennsylvania;New Jersey;1
+
+Newark is the largest city in in U.S. State of New Jersey;Newark;1
+New Jersey is one of the 50 states of the United States of America;New Jersey;1
+New Jersey is bordered on the west by Pennsylvania;New Jersey;1
+The largest city in New Jersey is Newark;Newark;1

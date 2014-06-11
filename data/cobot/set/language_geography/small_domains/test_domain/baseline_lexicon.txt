@@ -1,0 +1,224 @@
+Anaheim,N,kb-Anaheim 0 0
+Anaheim,N/N,kb-Anaheim 0 0
+Anaheim,N,kb-ignore 0 0
+Anaheim,N/N,kb-ignore 0 0
+Arizona,N,kb-Arizona 0 0
+Arizona,N/N,kb-Arizona 0 0
+Arizona,N,kb-ignore 0 0
+Arizona,N/N,kb-ignore 0 0
+Bakersfield,N,kb-Bakersfield 0 0
+Bakersfield,N/N,kb-Bakersfield 0 0
+Bakersfield,N,kb-ignore 0 0
+Bakersfield,N/N,kb-ignore 0 0
+California,N,kb-California 0 0
+California,N/N,kb-California 0 0
+California,N,kb-ignore 0 0
+California,N/N,kb-ignore 0 0
+Columbia River,N,kb-Columbia_River 0 0
+Columbia River,N/N,kb-Columbia_River 0 0
+Columbia River,N,kb-ignore 0 0
+Columbia River,N/N,kb-ignore 0 0
+Concord,N,kb-Concord 0 0
+Concord,N/N,kb-Concord 0 0
+Concord,N,kb-ignore 0 0
+Concord,N/N,kb-ignore 0 0
+Death Valley National Park,N,kb-Death_Valley_National_Park 0 0
+Death Valley National Park,N/N,kb-Death_Valley_National_Park 0 0
+Death Valley National Park,N,kb-ignore 0 0
+Death Valley National Park,N/N,kb-ignore 0 0
+Elko,N,kb-Elko 0 0
+Elko,N/N,kb-Elko 0 0
+Elko,N,kb-ignore 0 0
+Elko,N/N,kb-ignore 0 0
+Eugene,N,kb-Eugene 0 0
+Eugene,N/N,kb-Eugene 0 0
+Eugene,N,kb-ignore 0 0
+Eugene,N/N,kb-ignore 0 0
+Fern Ridge Lake,N,kb-Fern_Ridge_Lake 0 0
+Fern Ridge Lake,N/N,kb-Fern_Ridge_Lake 0 0
+Fern Ridge Lake,N,kb-ignore 0 0
+Fern Ridge Lake,N/N,kb-ignore 0 0
+Flagstaff,N,kb-Flagstaff 0 0
+Flagstaff,N/N,kb-Flagstaff 0 0
+Flagstaff,N,kb-ignore 0 0
+Flagstaff,N/N,kb-ignore 0 0
+Fremont,N,kb-Fremont 0 0
+Fremont,N/N,kb-Fremont 0 0
+Fremont,N,kb-ignore 0 0
+Fremont,N/N,kb-ignore 0 0
+Fresno,N,kb-Fresno 0 0
+Fresno,N/N,kb-Fresno 0 0
+Fresno,N,kb-ignore 0 0
+Fresno,N/N,kb-ignore 0 0
+Grand Canyon National Park,N,kb-Grand_Canyon_National_Park 0 0
+Grand Canyon National Park,N/N,kb-Grand_Canyon_National_Park 0 0
+Grand Canyon National Park,N,kb-ignore 0 0
+Grand Canyon National Park,N/N,kb-ignore 0 0
+Grand Staircase-Escalante National Monument,N,kb-Grand_Staircase-Escalante_National_Monument 0 0
+Grand Staircase-Escalante National Monument,N/N,kb-Grand_Staircase-Escalante_National_Monument 0 0
+Grand Staircase-Escalante National Monument,N,kb-ignore 0 0
+Grand Staircase-Escalante National Monument,N/N,kb-ignore 0 0
+Great Salt Lake,N,kb-Great_Salt_Lake 0 0
+Great Salt Lake,N/N,kb-Great_Salt_Lake 0 0
+Great Salt Lake,N,kb-ignore 0 0
+Great Salt Lake,N/N,kb-ignore 0 0
+Henderson,N,kb-Henderson 0 0
+Henderson,N/N,kb-Henderson 0 0
+Henderson,N,kb-ignore 0 0
+Henderson,N/N,kb-ignore 0 0
+Huntington Beach,N,kb-Huntington_Beach 0 0
+Huntington Beach,N/N,kb-Huntington_Beach 0 0
+Huntington Beach,N,kb-ignore 0 0
+Huntington Beach,N/N,kb-ignore 0 0
+Lake Tahoe,N,kb-Lake_Tahoe 0 0
+Lake Tahoe,N/N,kb-Lake_Tahoe 0 0
+Lake Tahoe,N,kb-ignore 0 0
+Lake Tahoe,N/N,kb-ignore 0 0
+Las Vegas,N,kb-Las_Vegas 0 0
+Las Vegas,N/N,kb-Las_Vegas 0 0
+Las Vegas,N,kb-ignore 0 0
+Las Vegas,N/N,kb-ignore 0 0
+Long Beach,N,kb-Long_Beach 0 0
+Long Beach,N/N,kb-Long_Beach 0 0
+Long Beach,N,kb-ignore 0 0
+Long Beach,N/N,kb-ignore 0 0
+Los Angeles,N,kb-Los_Angeles 0 0
+Los Angeles,N/N,kb-Los_Angeles 0 0
+Los Angeles,N,kb-ignore 0 0
+Los Angeles,N/N,kb-ignore 0 0
+Nevada,N,kb-Nevada 0 0
+Nevada,N/N,kb-Nevada 0 0
+Nevada,N,kb-ignore 0 0
+Nevada,N/N,kb-ignore 0 0
+Oregon,N,kb-Oregon 0 0
+Oregon,N/N,kb-Oregon 0 0
+Oregon,N,kb-ignore 0 0
+Oregon,N/N,kb-ignore 0 0
+Oswego Lake,N,kb-Oswego_Lake 0 0
+Oswego Lake,N/N,kb-Oswego_Lake 0 0
+Oswego Lake,N,kb-ignore 0 0
+Oswego Lake,N/N,kb-ignore 0 0
+Oxnard,N,kb-Oxnard 0 0
+Oxnard,N/N,kb-Oxnard 0 0
+Oxnard,N,kb-ignore 0 0
+Oxnard,N/N,kb-ignore 0 0
+Pacific Ocean,N,kb-Pacific_Ocean 0 0
+Pacific Ocean,N/N,kb-Pacific_Ocean 0 0
+Pacific Ocean,N,kb-ignore 0 0
+Pacific Ocean,N/N,kb-ignore 0 0
+Phoenix,N,kb-Phoenix 0 0
+Phoenix,N/N,kb-Phoenix 0 0
+Phoenix,N,kb-ignore 0 0
+Phoenix,N/N,kb-ignore 0 0
+Portland,N,kb-Portland 0 0
+Portland,N/N,kb-Portland 0 0
+Portland,N,kb-ignore 0 0
+Portland,N/N,kb-ignore 0 0
+Provo,N,kb-Provo 0 0
+Provo,N/N,kb-Provo 0 0
+Provo,N,kb-ignore 0 0
+Provo,N/N,kb-ignore 0 0
+Red Bluff,N,kb-Red_Bluff 0 0
+Red Bluff,N/N,kb-Red_Bluff 0 0
+Red Bluff,N,kb-ignore 0 0
+Red Bluff,N/N,kb-ignore 0 0
+Redding,N,kb-Redding 0 0
+Redding,N/N,kb-Redding 0 0
+Redding,N,kb-ignore 0 0
+Redding,N/N,kb-ignore 0 0
+Reno,N,kb-Reno 0 0
+Reno,N/N,kb-Reno 0 0
+Reno,N,kb-ignore 0 0
+Reno,N/N,kb-ignore 0 0
+Sacramento,N,kb-Sacramento 0 0
+Sacramento,N/N,kb-Sacramento 0 0
+Sacramento,N,kb-ignore 0 0
+Sacramento,N/N,kb-ignore 0 0
+Salem,N,kb-Salem 0 0
+Salem,N/N,kb-Salem 0 0
+Salem,N,kb-ignore 0 0
+Salem,N/N,kb-ignore 0 0
+Salt Lake City,N,kb-Salt_Lake_City 0 0
+Salt Lake City,N/N,kb-Salt_Lake_City 0 0
+Salt Lake City,N,kb-ignore 0 0
+Salt Lake City,N/N,kb-ignore 0 0
+San Diego,N,kb-San_Diego 0 0
+San Diego,N/N,kb-San_Diego 0 0
+San Diego,N,kb-ignore 0 0
+San Diego,N/N,kb-ignore 0 0
+San Francisco Bay,N,kb-San_Francisco_Bay 0 0
+San Francisco Bay,N/N,kb-San_Francisco_Bay 0 0
+San Francisco Bay,N,kb-ignore 0 0
+San Francisco Bay,N/N,kb-ignore 0 0
+San Francisco,N,kb-San_Francisco 0 0
+San Francisco,N/N,kb-San_Francisco 0 0
+San Francisco,N,kb-ignore 0 0
+San Francisco,N/N,kb-ignore 0 0
+San Jose,N,kb-San_Jose 0 0
+San Jose,N/N,kb-San_Jose 0 0
+San Jose,N,kb-ignore 0 0
+San Jose,N/N,kb-ignore 0 0
+Santa Rosa,N,kb-Santa_Rosa 0 0
+Santa Rosa,N/N,kb-Santa_Rosa 0 0
+Santa Rosa,N,kb-ignore 0 0
+Santa Rosa,N/N,kb-ignore 0 0
+Sierra Nevada Mountains,N,kb-Sierra_Nevada_Mountains 0 0
+Sierra Nevada Mountains,N/N,kb-Sierra_Nevada_Mountains 0 0
+Sierra Nevada Mountains,N,kb-ignore 0 0
+Sierra Nevada Mountains,N/N,kb-ignore 0 0
+Staples Center,N,kb-Staples_Center 0 0
+Staples Center,N/N,kb-Staples_Center 0 0
+Staples Center,N,kb-ignore 0 0
+Staples Center,N/N,kb-ignore 0 0
+Stockton,N,kb-Stockton 0 0
+Stockton,N/N,kb-Stockton 0 0
+Stockton,N,kb-ignore 0 0
+Stockton,N/N,kb-ignore 0 0
+Tucson,N,kb-Tucson 0 0
+Tucson,N/N,kb-Tucson 0 0
+Tucson,N,kb-ignore 0 0
+Tucson,N/N,kb-ignore 0 0
+Utah Lake,N,kb-Utah_Lake 0 0
+Utah Lake,N/N,kb-Utah_Lake 0 0
+Utah Lake,N,kb-ignore 0 0
+Utah Lake,N/N,kb-ignore 0 0
+Utah,N,kb-Utah 0 0
+Utah,N/N,kb-Utah 0 0
+Utah,N,kb-ignore 0 0
+Utah,N/N,kb-ignore 0 0
+Willamette River,N,kb-Willamette_River 0 0
+Willamette River,N/N,kb-Willamette_River 0 0
+Willamette River,N,kb-ignore 0 0
+Willamette River,N/N,kb-ignore 0 0
+St. George,N,kb-St._George 0 0
+St. George,N/N,kb-St._George 0 0
+St. George,N,kb-ignore 0 0
+St. George,N/N,kb-ignore 0 0
+Great Basin National Park,N,kb-Great_Basin_National_Park 0 0
+Great Basin National Park,N/N,kb-Great_Basin_National_Park 0 0
+Great Basin National Park,N,kb-ignore 0 0
+Great Basin National Park,N/N,kb-ignore 0 0
+Yosemite National Park,N,kb-Yosemite_National_Park 0 0
+Yosemite National Park,N/N,kb-Yosemite_National_Park 0 0
+Yosemite National Park,N,kb-ignore 0 0
+Yosemite National Park,N/N,kb-ignore 0 0
+Oregon,N,kb-Oregon 0 0
+Oregon,N/N,kb-Oregon 0 0
+Oregon,N,kb-ignore 0 0
+Oregon,N/N,kb-ignore 0 0
+Mount Whitney,N,kb-Mount_Whitney 0 0
+Mount Whitney,N/N,kb-Mount_Whitney 0 0
+Mount Whitney,N,kb-ignore 0 0
+Mount Whitney,N/N,kb-ignore 0 0
+Twin Peaks,N,kb-Twin_Peaks 0 0
+Twin Peaks,N/N,kb-Twin_Peaks 0 0
+Twin Peaks,N,kb-ignore 0 0
+Twin Peaks,N/N,kb-ignore 0 0
+Truckee River,N,kb-Truckee_River 0 0
+Truckee River,N/N,kb-Truckee_River 0 0
+Truckee River,N,kb-ignore 0 0
+Truckee River,N/N,kb-ignore 0 0
+Redondo Beach,N,kb-Redondo_Beach 0 0
+Redondo Beach,N/N,kb-Redondo_Beach 0 0
+Redondo Beach,N,kb-ignore 0 0
+Redondo Beach,N/N,kb-ignore 0 0

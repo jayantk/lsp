@@ -1,0 +1,216 @@
+ocean,N/P,ocean-rel 0 1
+ocean,N,ocean 0 0
+ocean,N/N,ocean 0 0
+to,N\N/N,to-rel 0 0 1
+to,N\N/N,kb-equal 0 0 1
+to,A/N,to-rel 0 1
+to,A\N,to-rel 1 0
+to,P/N,kb-ignore 0 0
+to,P/P,kb-ignore 0 0
+to,P\N,kb-ignore 0 0
+to,P\P,kb-ignore 0 0
+'s,S\N/N,kb-equal 0 0 1
+'s,S\N/A,kb-equal 0 0 1
+'s,S\N/P,kb-equal 0 0 1
+'s,S\A/N,kb-equal 0 0 1
+'s,S\P/N,kb-equal 0 0 1
+'s,S/N/N,kb-equal 0 1 0
+'s,S/A/N,kb-equal 0 1 0
+'s,S/P/N,kb-equal 0 1 0
+fresh water,N/P,freshwater-rel 0 1
+fresh water,N,freshwater 0 0
+fresh water,N/N,freshwater 0 0
+bodies,N/P,body-rel 0 1
+bodies,N,body 0 0
+bodies,N/N,body 0 0
+cities,N/P,city-rel 0 1
+cities,N,city 0 0
+cities,N/N,city 0 0
+Myrtle Beach,N/P,MyrtleBeach-rel 0 1
+Myrtle Beach,N,MyrtleBeach 0 0
+Myrtle Beach,N/N,MyrtleBeach 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+oceans,N/P,ocean-rel 0 1
+oceans,N,ocean 0 0
+oceans,N/N,ocean 0 0
+north,P/P,kb-ignore 0 0
+north,N/N,kb-ignore 0 0
+state,N/P,state-rel 0 1
+state,N,state 0 0
+state,N/N,state 0 0
+state borders South Carolina,N/P,stateborderSouthCarolina-rel 0 1
+state borders South Carolina,N,stateborderSouthCarolina 0 0
+state borders South Carolina,N/N,stateborderSouthCarolina 0 0
+is,S\N/N,kb-equal 0 0 1
+is,S\N/A,kb-equal 0 0 1
+is,S\N/P,kb-equal 0 0 1
+is,S\A/N,kb-equal 0 0 1
+is,S\P/N,kb-equal 0 0 1
+is,S/N/N,kb-equal 0 1 0
+is,S/A/N,kb-equal 0 1 0
+is,S/P/N,kb-equal 0 1 0
+Hilton Head Island,N/P,HiltonHeadIsland-rel 0 1
+Hilton Head Island,N,HiltonHeadIsland 0 0
+Hilton Head Island,N/N,HiltonHeadIsland 0 0
+in,N\N/N,in-rel 0 0 1
+in,N\N/N,kb-equal 0 0 1
+in,A/N,in-rel 0 1
+in,A\N,in-rel 1 0
+in,P/N,kb-ignore 0 0
+in,P/P,kb-ignore 0 0
+in,P\N,kb-ignore 0 0
+in,P\P,kb-ignore 0 0
+fresh,N/N,fresh 0 0
+fresh,N/N,kb-ignore 0 0
+fresh,N/P,fresh-rel 0 1
+fresh,N,fresh 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+lake,N/P,lake-rel 0 1
+lake,N,lake 0 0
+lake,N/N,lake 0 0
+there,N,kb-ignore 0 0
+southeast,N/P,southeast-rel 0 1
+southeast,N,southeast 0 0
+southeast,N/N,southeast 0 0
+city,N/P,city-rel 0 1
+city,N,city 0 0
+city,N/N,city 0 0
+beach city,N/P,beachcity-rel 0 1
+beach city,N,beachcity 0 0
+beach city,N/N,beachcity 0 0
+beach,N/P,beach-rel 0 1
+beach,N,beach 0 0
+beach,N/N,beach 0 0
+surrounded,N,surround 0 0
+surrounded,N/P,surround-rel 0 1
+surrounded,N\N/P,surround-rel 0 0 1
+surrounded,N\N/N,surround-rel 0 0 1
+by,N\N/N,by-rel 0 0 1
+by,N\N/N,kb-equal 0 0 1
+by,A/N,by-rel 0 1
+by,A\N,by-rel 1 0
+by,P/N,kb-ignore 0 0
+by,P/P,kb-ignore 0 0
+by,P\N,kb-ignore 0 0
+by,P\P,kb-ignore 0 0
+which,N/N,kb-ignore 0 0
+which,N,kb-ignore 0 0
+which,N,which 0 0
+borders,N/P,border-rel 0 1
+borders,N,border 0 0
+borders,N/N,border 0 0
+of,N\N/N,of-rel 0 0 1
+of,N\N/N,kb-equal 0 0 1
+of,A/N,of-rel 0 1
+of,A\N,of-rel 1 0
+of,P/N,kb-ignore 0 0
+of,P/P,kb-ignore 0 0
+of,P\N,kb-ignore 0 0
+of,P\P,kb-ignore 0 0
+national parks,N/P,nationalpark-rel 0 1
+national parks,N,nationalpark 0 0
+national parks,N/N,nationalpark 0 0
+are,S\N/N,kb-equal 0 0 1
+are,S\N/A,kb-equal 0 0 1
+are,S\N/P,kb-equal 0 0 1
+are,S\A/N,kb-equal 0 0 1
+are,S\P/N,kb-equal 0 0 1
+are,S/N/N,kb-equal 0 1 0
+are,S/A/N,kb-equal 0 1 0
+are,S/P/N,kb-equal 0 1 0
+major city,N/P,majorcity-rel 0 1
+major city,N,majorcity 0 0
+major city,N/N,majorcity 0 0
+parks,N/P,park-rel 0 1
+parks,N,park 0 0
+parks,N/N,park 0 0
+major,N/N,major 0 0
+major,N/N,kb-ignore 0 0
+major,N/P,major-rel 0 1
+major,N,major 0 0
+close,N/N,close 0 0
+close,N/N,kb-ignore 0 0
+close,N/P,close-rel 0 1
+close,N,close 0 0
+national,N/N,national 0 0
+national,N/N,kb-ignore 0 0
+national,N/P,national-rel 0 1
+national,N,national 0 0
+Atlantic Ocean,N/P,AtlanticOcean-rel 0 1
+Atlantic Ocean,N,AtlanticOcean 0 0
+Atlantic Ocean,N/N,AtlanticOcean 0 0
+South Carolina,N/P,SouthCarolina-rel 0 1
+South Carolina,N,SouthCarolina 0 0
+South Carolina,N/N,SouthCarolina 0 0
+island,N/P,island-rel 0 1
+island,N,island 0 0
+island,N/N,island 0 0
+the,N,kb-ignore 0 0
+the,N/N,kb-ignore 0 0
+salt water,N/P,saltwater-rel 0 1
+salt water,N,saltwater 0 0
+salt water,N/N,saltwater 0 0
+ocean borders South Carolina,N/P,oceanborderSouthCarolina-rel 0 1
+ocean borders South Carolina,N,oceanborderSouthCarolina 0 0
+ocean borders South Carolina,N/N,oceanborderSouthCarolina 0 0
+beaches,N/P,beach-rel 0 1
+beaches,N,beach 0 0
+beaches,N/N,beach 0 0
+North Carolina,N/P,NorthCarolina-rel 0 1
+North Carolina,N,NorthCarolina 0 0
+North Carolina,N/N,NorthCarolina 0 0
+places,N/P,place-rel 0 1
+places,N,place 0 0
+places,N/N,place 0 0
+state borders North Carolina,N/P,stateborderNorthCarolina-rel 0 1
+state borders North Carolina,N,stateborderNorthCarolina 0 0
+state borders North Carolina,N/N,stateborderNorthCarolina 0 0
+Francis Marion National Forest,N/P,FrancisMarionNationalForest-rel 0 1
+Francis Marion National Forest,N,FrancisMarionNationalForest 0 0
+Francis Marion National Forest,N/N,FrancisMarionNationalForest 0 0
+on,N\N/N,on-rel 0 0 1
+on,N\N/N,kb-equal 0 0 1
+on,A/N,on-rel 0 1
+on,A\N,on-rel 1 0
+on,P/N,kb-ignore 0 0
+on,P/P,kb-ignore 0 0
+on,P\N,kb-ignore 0 0
+on,P\P,kb-ignore 0 0
+water,N/P,water-rel 0 1
+water,N,water 0 0
+water,N/N,water 0 0
+southwest,N/P,southwest-rel 0 1
+southwest,N,southwest 0 0
+southwest,N/N,southwest 0 0
+salt,N/P,salt-rel 0 1
+salt,N,salt 0 0
+salt,N/N,salt 0 0
+capital,N/P,capital-rel 0 1
+capital,N,capital 0 0
+capital,N/N,capital 0 0
+near,N\N/N,near-rel 0 0 1
+near,N\N/N,kb-equal 0 0 1
+near,A/N,near-rel 0 1
+near,A\N,near-rel 1 0
+near,P/N,kb-ignore 0 0
+near,P/P,kb-ignore 0 0
+near,P\N,kb-ignore 0 0
+near,P\P,kb-ignore 0 0
+lakes,N/P,lake-rel 0 1
+lakes,N,lake 0 0
+lakes,N/N,lake 0 0
+northeast,N/P,northeast-rel 0 1
+northeast,N,northeast 0 0
+northeast,N/N,northeast 0 0
+forests,N/P,forest-rel 0 1
+forests,N,forest 0 0
+forests,N/N,forest 0 0
+northwest,P/P,kb-ignore 0 0
+northwest,N/N,kb-ignore 0 0
+states,N/P,state-rel 0 1
+states,N,state 0 0
+states,N/N,state 0 0

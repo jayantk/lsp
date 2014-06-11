@@ -1,0 +1,2953 @@
+Atlanta,Atlanta,T,arg1 and visit arg2,1
+Atlanta,Atlanta,T,arg1 foreclosures and arg2,1
+Atlanta,Atlanta,T,arg1 has been one of arg2,1
+Atlanta,Atlanta,T,arg1 is located in arg2,1
+Atlanta,Atlanta,T,arg1 jobs from employers in arg2,1
+Atlanta,Atlanta,T,arg1 or outside of arg2,1
+Atlanta,Atlanta,T,arg1 or relocating outside arg2,1
+Atlanta,Atlanta,T,arg1 or sending flowers to arg2,1
+Atlanta,Atlanta,T,arg1 or south of arg2,1
+Atlanta,Atlanta,T,arg1 vacation homes and arg2,1
+Atlanta,Atlanta,T,arg2 and visit arg1,1
+Atlanta,Atlanta,T,arg2 foreclosures and arg1,1
+Atlanta,Atlanta,T,arg2 has been one of arg1,1
+Atlanta,Atlanta,T,arg2 is located in arg1,1
+Atlanta,Atlanta,T,arg2 jobs from employers in arg1,1
+Atlanta,Atlanta,T,arg2 or outside of arg1,1
+Atlanta,Atlanta,T,arg2 or relocating outside arg1,1
+Atlanta,Atlanta,T,arg2 or sending flowers to arg1,1
+Atlanta,Atlanta,T,arg2 or south of arg1,1
+Atlanta,Atlanta,T,arg2 vacation homes and arg1,1
+Atlanta,Atlanta,T,bias,1.0
+Atlanta,Atlanta,T,entity1=entity2,1
+Atlanta,Atlanta,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Atlanta,Atlanta,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Atlanta,Atlanta,T,F_avsResult_0_-1_f_l,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_0_1_f_l,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_0_-1_l_f,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_0_1_l_f,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_1_0_f_l,0.000565623796278
+Atlanta,Atlanta,T,F_avsResult_-1_0_f_l,0.000565623797893
+Atlanta,Atlanta,T,F_avsResult_1_0_l_f,0.000565623796278
+Atlanta,Atlanta,T,F_avsResult_-1_0_l_f,0.000565623797893
+Atlanta,Atlanta,T,F_avsResult_inside_0_-1_f_l,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_inside_0_1_f_l,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_inside_0_-1_l_f,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_inside_0_1_l_f,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_inside_1_0_f_l,0.000565623796278
+Atlanta,Atlanta,T,F_avsResult_inside_-1_0_f_l,0.000565623797893
+Atlanta,Atlanta,T,F_avsResult_inside_1_0_l_f,0.000565623796278
+Atlanta,Atlanta,T,F_avsResult_inside_-1_0_l_f,0.000565623797893
+Atlanta,Atlanta,T,F_math2dFigureIntersectionArea_f_l,1.0
+Atlanta,Atlanta,T,F_math2dFigureIntersectionArea_l_f,1.0
+Atlanta,Atlanta,T,F_math2dIntersectionArea_f_l,1.0
+Atlanta,Atlanta,T,F_math2dIntersectionArea_l_f,1.0
+Atlanta,Atlanta,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Atlanta,Atlanta,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Atlanta,Daytona Beach,T,arg1 as well as from arg2,1
+Atlanta,Daytona Beach,T,arg2 through arg1,1
+Atlanta,Daytona Beach,T,bias,1.0
+Atlanta,Daytona Beach,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Daytona Beach,T,F_avsResult_0_-1_f_l,0.0360955241814
+Atlanta,Daytona Beach,T,F_avsResult_0_1_f_l,0.0360955241814
+Atlanta,Daytona Beach,T,F_avsResult_0_-1_l_f,0.652344169332
+Atlanta,Daytona Beach,T,F_avsResult_0_1_l_f,0.652344169332
+Atlanta,Daytona Beach,T,F_avsResult_-1_0_f_l,0.0626953175779
+Atlanta,Daytona Beach,T,F_avsResult_1_0_f_l,0.547859886426
+Atlanta,Daytona Beach,T,F_avsResult_1_0_l_f,0.0629995155841
+Atlanta,Daytona Beach,T,F_avsResult_-1_0_l_f,0.547892326388
+Atlanta,Daytona Beach,T,F_avsResult_1_-1_f_l,0.144772900043
+Atlanta,Daytona Beach,T,F_avsResult_1_1_f_l,0.144772900043
+Atlanta,Daytona Beach,T,F_avsResult_1_-1_l_f,0.362855950936
+Atlanta,Daytona Beach,T,F_avsResult_1_1_l_f,0.362855950936
+Atlanta,Daytona Beach,T,F_avsResult_outside_0_-1_f_l,0.0360955241814
+Atlanta,Daytona Beach,T,F_avsResult_outside_0_1_f_l,0.0360955241814
+Atlanta,Daytona Beach,T,F_avsResult_outside_0_-1_l_f,0.652344169332
+Atlanta,Daytona Beach,T,F_avsResult_outside_0_1_l_f,0.652344169332
+Atlanta,Daytona Beach,T,F_avsResult_outside_-1_0_f_l,0.0626953175779
+Atlanta,Daytona Beach,T,F_avsResult_outside_1_0_f_l,0.547859886426
+Atlanta,Daytona Beach,T,F_avsResult_outside_1_0_l_f,0.0629995155841
+Atlanta,Daytona Beach,T,F_avsResult_outside_-1_0_l_f,0.547892326388
+Atlanta,Daytona Beach,T,F_avsResult_outside_1_-1_f_l,0.144772900043
+Atlanta,Daytona Beach,T,F_avsResult_outside_1_1_f_l,0.144772900043
+Atlanta,Daytona Beach,T,F_avsResult_outside_1_-1_l_f,0.362855950936
+Atlanta,Daytona Beach,T,F_avsResult_outside_1_1_l_f,0.362855950936
+Atlanta,Daytona Beach,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Daytona Beach,T,F_closeDistNormFigure_f_l,1.0
+Atlanta,Daytona Beach,T,F_closeDistNormFigure_l_f,1.0
+Atlanta,Daytona Beach,T,F_closeDistNormLandmark_f_l,1.0
+Atlanta,Daytona Beach,T,F_closeDistNormLandmark_l_f,1.0
+Atlanta,Daytona Beach,T,F_closeDistNormUnion_f_l,1.0
+Atlanta,Daytona Beach,T,F_closeDistNormUnion_l_f,1.0
+Atlanta,Daytona Beach,T,F_distBtwnCentroids_f_l,0.33295073652
+Atlanta,Daytona Beach,T,F_distBtwnCentroids_l_f,0.33295073652
+Atlanta,Daytona Beach,T,F_distHorizontalCentroid_f_l,0.196161911887
+Atlanta,Daytona Beach,T,F_distHorizontalCentroid_l_f,-0.196161911887
+Atlanta,Daytona Beach,T,F_distVerticalCentroid_f_l,-0.269029175507
+Atlanta,Daytona Beach,T,F_distVerticalCentroid_l_f,0.269029175507
+Atlanta,Daytona Beach,T,F_leftOfFigureCentroid_l_f,1.0
+Atlanta,Daytona Beach,T,F_rightOfFigureCentroid_f_l,1.0
+Atlanta,Everglades National Park,T,bias,1.0
+Atlanta,Everglades National Park,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Everglades National Park,T,F_avsResult_0_-1_f_l,0.0156783412213
+Atlanta,Everglades National Park,T,F_avsResult_0_1_f_l,0.0156783412213
+Atlanta,Everglades National Park,T,F_avsResult_0_-1_l_f,0.760174846177
+Atlanta,Everglades National Park,T,F_avsResult_0_1_l_f,0.760174846177
+Atlanta,Everglades National Park,T,F_avsResult_-1_0_f_l,0.0758930949899
+Atlanta,Everglades National Park,T,F_avsResult_1_0_f_l,0.494564669767
+Atlanta,Everglades National Park,T,F_avsResult_1_0_l_f,0.0728785193503
+Atlanta,Everglades National Park,T,F_avsResult_-1_0_l_f,0.481525213151
+Atlanta,Everglades National Park,T,F_avsResult_1_-1_f_l,0.0467776432293
+Atlanta,Everglades National Park,T,F_avsResult_1_1_f_l,0.0467776432293
+Atlanta,Everglades National Park,T,F_avsResult_1_-1_l_f,0.599658727758
+Atlanta,Everglades National Park,T,F_avsResult_1_1_l_f,0.599658727758
+Atlanta,Everglades National Park,T,F_avsResult_outside_0_-1_f_l,0.0156783412213
+Atlanta,Everglades National Park,T,F_avsResult_outside_0_1_f_l,0.0156783412213
+Atlanta,Everglades National Park,T,F_avsResult_outside_0_-1_l_f,0.760174846177
+Atlanta,Everglades National Park,T,F_avsResult_outside_0_1_l_f,0.760174846177
+Atlanta,Everglades National Park,T,F_avsResult_outside_-1_0_f_l,0.0758930949899
+Atlanta,Everglades National Park,T,F_avsResult_outside_1_0_f_l,0.494564669767
+Atlanta,Everglades National Park,T,F_avsResult_outside_1_0_l_f,0.0728785193503
+Atlanta,Everglades National Park,T,F_avsResult_outside_-1_0_l_f,0.481525213151
+Atlanta,Everglades National Park,T,F_avsResult_outside_1_-1_f_l,0.0467776432293
+Atlanta,Everglades National Park,T,F_avsResult_outside_1_1_f_l,0.0467776432293
+Atlanta,Everglades National Park,T,F_avsResult_outside_1_-1_l_f,0.599658727758
+Atlanta,Everglades National Park,T,F_avsResult_outside_1_1_l_f,0.599658727758
+Atlanta,Everglades National Park,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Everglades National Park,T,F_closeDistNormFigure_f_l,1.0
+Atlanta,Everglades National Park,T,F_closeDistNormFigure_l_f,1.0
+Atlanta,Everglades National Park,T,F_closeDistNormLandmark_f_l,1.0
+Atlanta,Everglades National Park,T,F_closeDistNormLandmark_l_f,1.0
+Atlanta,Everglades National Park,T,F_closeDistNormUnion_f_l,1.0
+Atlanta,Everglades National Park,T,F_closeDistNormUnion_l_f,1.0
+Atlanta,Everglades National Park,T,F_distBtwnCentroids_f_l,0.242139198174
+Atlanta,Everglades National Park,T,F_distBtwnCentroids_l_f,0.242139198174
+Atlanta,Everglades National Park,T,F_distHorizontalCentroid_f_l,0.0940419593973
+Atlanta,Everglades National Park,T,F_distHorizontalCentroid_l_f,-0.0940419593973
+Atlanta,Everglades National Park,T,F_distVerticalCentroid_f_l,-0.223131129977
+Atlanta,Everglades National Park,T,F_distVerticalCentroid_l_f,0.223131129977
+Atlanta,Everglades National Park,T,F_leftOfFigureCentroid_l_f,1.0
+Atlanta,Everglades National Park,T,F_rightOfFigureCentroid_f_l,1.0
+Atlanta,Florida,T,arg1 and several cities in arg2,1
+Atlanta,Florida,T,arg1 and south arg2,1
+Atlanta,Florida,T,arg1 and southern arg2,1
+Atlanta,Florida,T,arg1 area and in arg2,1
+Atlanta,Florida,T,arg1 through arg2,1
+Atlanta,Florida,T,arg2 and currently resides in arg1,1
+Atlanta,Florida,T,arg2 and metro arg1,1
+Atlanta,Florida,T,arg2 and moved to arg1,1
+Atlanta,Florida,T,arg2 and one in arg1,1
+Atlanta,Florida,T,arg2 and people in arg1,1
+Atlanta,Florida,T,arg2 and returned to arg1,1
+Atlanta,Florida,T,arg2 as well as in arg1,1
+Atlanta,Florida,T,arg2 back to arg1,1
+Atlanta,Florida,T,arg2 with an office in arg1,1
+Atlanta,Florida,T,bias,1.0
+Atlanta,Florida,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Florida,T,F_avsResult_0_-1_f_l,0.00497591168733
+Atlanta,Florida,T,F_avsResult_0_1_f_l,0.00497591168733
+Atlanta,Florida,T,F_avsResult_0_-1_l_f,0.763646169261
+Atlanta,Florida,T,F_avsResult_0_1_l_f,0.763646169261
+Atlanta,Florida,T,F_avsResult_-1_0_f_l,0.186380382493
+Atlanta,Florida,T,F_avsResult_1_0_f_l,0.301923043437
+Atlanta,Florida,T,F_avsResult_1_0_l_f,0.0705398904144
+Atlanta,Florida,T,F_avsResult_-1_0_l_f,0.0931203533676
+Atlanta,Florida,T,F_avsResult_outside_0_-1_f_l,0.00497591168733
+Atlanta,Florida,T,F_avsResult_outside_0_1_f_l,0.00497591168733
+Atlanta,Florida,T,F_avsResult_outside_0_-1_l_f,0.763646169261
+Atlanta,Florida,T,F_avsResult_outside_0_1_l_f,0.763646169261
+Atlanta,Florida,T,F_avsResult_outside_-1_0_f_l,0.186380382493
+Atlanta,Florida,T,F_avsResult_outside_1_0_f_l,0.301923043437
+Atlanta,Florida,T,F_avsResult_outside_1_0_l_f,0.0705398904144
+Atlanta,Florida,T,F_avsResult_outside_-1_0_l_f,0.0931203533676
+Atlanta,Florida,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Florida,T,F_closeDistNormFigure_f_l,1.0
+Atlanta,Florida,T,F_closeDistNormFigure_l_f,0.326334238269
+Atlanta,Florida,T,F_closeDistNormLandmark_f_l,0.326334238269
+Atlanta,Florida,T,F_closeDistNormLandmark_l_f,1.0
+Atlanta,Florida,T,F_closeDistNormUnion_f_l,0.325928803275
+Atlanta,Florida,T,F_closeDistNormUnion_l_f,0.325928803275
+Atlanta,Florida,T,F_distBtwnCentroids_f_l,0.0838994342709
+Atlanta,Florida,T,F_distBtwnCentroids_l_f,0.0838994342709
+Atlanta,Florida,T,F_distHorizontalCentroid_f_l,0.00847212864362
+Atlanta,Florida,T,F_distHorizontalCentroid_l_f,-0.00847212864362
+Atlanta,Florida,T,F_distVerticalCentroid_f_l,-0.0834705822864
+Atlanta,Florida,T,F_distVerticalCentroid_l_f,0.0834705822864
+Atlanta,Florida,T,F_leftOfFigureCentroid_l_f,1.0
+Atlanta,Florida,T,F_rightOfFigureCentroid_f_l,1.0
+Atlanta,Georgia,T,arg1 and across arg2,1
+Atlanta,Georgia,T,arg1 and north arg2,1
+Atlanta,Georgia,T,arg1 and other parts of arg2,1
+Atlanta,Georgia,T,arg1 and the state of arg2,1
+Atlanta,Georgia,T,arg1 and throughout arg2,1
+Atlanta,Georgia,T,arg1 and throughout the state of arg2,1
+Atlanta,Georgia,T,arg1 area and throughout arg2,1
+Atlanta,Georgia,T,arg1 area of arg2,1
+Atlanta,Georgia,T,arg1 escorts in arg2,1
+Atlanta,Georgia,T,arg1 is a beautiful city in arg2,1
+Atlanta,Georgia,T,arg1 is the capital of arg2,1
+Atlanta,Georgia,T,arg1 or anywhere in arg2,1
+Atlanta,Georgia,T,arg2 and metro arg1,1
+Atlanta,Georgia,T,arg2 a suburb of arg1,1
+Atlanta,Georgia,T,arg2 including arg1,1
+Atlanta,Georgia,T,arg2 north of arg1,1
+Atlanta,Georgia,T,arg2 outside arg1,1
+Atlanta,Georgia,T,arg2 outside of arg1,1
+Atlanta,Georgia,T,arg2 which includes arg1,1
+Atlanta,Georgia,T,bias,1.0
+Atlanta,Georgia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Atlanta,Georgia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Atlanta,Georgia,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Georgia,T,F_avsResult_0_-1_f_l,0.0772841518464
+Atlanta,Georgia,T,F_avsResult_0_1_f_l,0.0772841518464
+Atlanta,Georgia,T,F_avsResult_0_-1_l_f,0.0034089560146
+Atlanta,Georgia,T,F_avsResult_0_1_l_f,0.0034089560146
+Atlanta,Georgia,T,F_avsResult_-1_0_f_l,0.0963588192763
+Atlanta,Georgia,T,F_avsResult_1_0_f_l,0.446421103784
+Atlanta,Georgia,T,F_avsResult_-1_0_l_f,0.0128323904794
+Atlanta,Georgia,T,F_avsResult_1_0_l_f,0.0836044404074
+Atlanta,Georgia,T,F_avsResult_1_-1_f_l,0.209464967708
+Atlanta,Georgia,T,F_avsResult_1_1_f_l,0.209464967708
+Atlanta,Georgia,T,F_avsResult_-1_-1_l_f,0.176830637264
+Atlanta,Georgia,T,F_avsResult_-1_1_l_f,0.176830637264
+Atlanta,Georgia,T,F_avsResult_inside_0_-1_l_f,0.0034089560146
+Atlanta,Georgia,T,F_avsResult_inside_0_1_l_f,0.0034089560146
+Atlanta,Georgia,T,F_avsResult_inside_-1_0_l_f,0.0128323904794
+Atlanta,Georgia,T,F_avsResult_inside_1_0_l_f,0.0836044404074
+Atlanta,Georgia,T,F_avsResult_inside_-1_-1_l_f,0.176830637264
+Atlanta,Georgia,T,F_avsResult_inside_-1_1_l_f,0.176830637264
+Atlanta,Georgia,T,F_avsResult_outside_0_-1_f_l,0.0772841518464
+Atlanta,Georgia,T,F_avsResult_outside_0_1_f_l,0.0772841518464
+Atlanta,Georgia,T,F_avsResult_outside_-1_0_f_l,0.0963588192763
+Atlanta,Georgia,T,F_avsResult_outside_1_0_f_l,0.446421103784
+Atlanta,Georgia,T,F_avsResult_outside_1_-1_f_l,0.209464967708
+Atlanta,Georgia,T,F_avsResult_outside_1_1_f_l,0.209464967708
+Atlanta,Georgia,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Georgia,T,F_distBtwnCentroids_f_l,0.0674925953042
+Atlanta,Georgia,T,F_distBtwnCentroids_l_f,0.0674925953042
+Atlanta,Georgia,T,F_distHorizontalCentroid_f_l,0.0442921598795
+Atlanta,Georgia,T,F_distHorizontalCentroid_l_f,-0.0442921598795
+Atlanta,Georgia,T,F_distVerticalCentroid_f_l,-0.0509259756323
+Atlanta,Georgia,T,F_distVerticalCentroid_l_f,0.0509259756323
+Atlanta,Georgia,T,F_leftOfFigureCentroid_l_f,1.0
+Atlanta,Georgia,T,F_math2dFigureIntersectionArea_f_l,1.0
+Atlanta,Georgia,T,F_math2dFigureIntersectionArea_l_f,0.00429922626838
+Atlanta,Georgia,T,F_math2dIntersectionArea_f_l,0.00429922626838
+Atlanta,Georgia,T,F_math2dIntersectionArea_l_f,0.00429922626838
+Atlanta,Georgia,T,F_math2dLandmarkIntersectionArea_f_l,0.00429922626838
+Atlanta,Georgia,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Atlanta,Georgia,T,F_rightOfFigureCentroid_f_l,1.0
+Atlanta,Key Largo,T,bias,1.0
+Atlanta,Key Largo,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Key Largo,T,F_avsResult_0_-1_f_l,0.0163980374564
+Atlanta,Key Largo,T,F_avsResult_0_1_f_l,0.0163980374564
+Atlanta,Key Largo,T,F_avsResult_0_-1_l_f,0.758356398022
+Atlanta,Key Largo,T,F_avsResult_0_1_l_f,0.758356398022
+Atlanta,Key Largo,T,F_avsResult_-1_0_f_l,0.0699334574423
+Atlanta,Key Largo,T,F_avsResult_1_0_f_l,0.510003719984
+Atlanta,Key Largo,T,F_avsResult_1_0_l_f,0.0709839961104
+Atlanta,Key Largo,T,F_avsResult_-1_0_l_f,0.511960013495
+Atlanta,Key Largo,T,F_avsResult_1_-1_f_l,0.0529310775344
+Atlanta,Key Largo,T,F_avsResult_1_1_f_l,0.0529310775344
+Atlanta,Key Largo,T,F_avsResult_1_-1_l_f,0.586083823279
+Atlanta,Key Largo,T,F_avsResult_1_1_l_f,0.586083823279
+Atlanta,Key Largo,T,F_avsResult_outside_0_-1_f_l,0.0163980374564
+Atlanta,Key Largo,T,F_avsResult_outside_0_1_f_l,0.0163980374564
+Atlanta,Key Largo,T,F_avsResult_outside_0_-1_l_f,0.758356398022
+Atlanta,Key Largo,T,F_avsResult_outside_0_1_l_f,0.758356398022
+Atlanta,Key Largo,T,F_avsResult_outside_-1_0_f_l,0.0699334574423
+Atlanta,Key Largo,T,F_avsResult_outside_1_0_f_l,0.510003719984
+Atlanta,Key Largo,T,F_avsResult_outside_1_0_l_f,0.0709839961104
+Atlanta,Key Largo,T,F_avsResult_outside_-1_0_l_f,0.511960013495
+Atlanta,Key Largo,T,F_avsResult_outside_1_-1_f_l,0.0529310775344
+Atlanta,Key Largo,T,F_avsResult_outside_1_1_f_l,0.0529310775344
+Atlanta,Key Largo,T,F_avsResult_outside_1_-1_l_f,0.586083823279
+Atlanta,Key Largo,T,F_avsResult_outside_1_1_l_f,0.586083823279
+Atlanta,Key Largo,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Key Largo,T,F_closeDistNormFigure_f_l,1.0
+Atlanta,Key Largo,T,F_closeDistNormFigure_l_f,1.0
+Atlanta,Key Largo,T,F_closeDistNormLandmark_f_l,1.0
+Atlanta,Key Largo,T,F_closeDistNormLandmark_l_f,1.0
+Atlanta,Key Largo,T,F_closeDistNormUnion_f_l,1.0
+Atlanta,Key Largo,T,F_closeDistNormUnion_l_f,1.0
+Atlanta,Key Largo,T,F_distBtwnCentroids_f_l,0.263346349411
+Atlanta,Key Largo,T,F_distBtwnCentroids_l_f,0.263346349411
+Atlanta,Key Largo,T,F_distHorizontalCentroid_f_l,0.109597806286
+Atlanta,Key Largo,T,F_distHorizontalCentroid_l_f,-0.109597806286
+Atlanta,Key Largo,T,F_distVerticalCentroid_f_l,-0.239456928497
+Atlanta,Key Largo,T,F_distVerticalCentroid_l_f,0.239456928497
+Atlanta,Key Largo,T,F_leftOfFigureCentroid_l_f,1.0
+Atlanta,Key Largo,T,F_rightOfFigureCentroid_f_l,1.0
+Atlanta,Miami,T,arg1 and one in arg2,1
+Atlanta,Miami,T,arg1 and will be in arg2,1
+Atlanta,Miami,T,arg2 and one in arg1,1
+Atlanta,Miami,T,arg2 heads to arg1,1
+Atlanta,Miami,T,arg2 held arg1,1
+Atlanta,Miami,T,arg2 makes arg1,1
+Atlanta,Miami,T,arg2 must beat arg1,1
+Atlanta,Miami,T,arg2 passes arg1,1
+Atlanta,Miami,T,arg2 plays arg1,1
+Atlanta,Miami,T,arg2 pounded arg1,1
+Atlanta,Miami,T,arg2 put the clamps on arg1,1
+Atlanta,Miami,T,arg2 servicing arg1,1
+Atlanta,Miami,T,arg2 such as arg1,1
+Atlanta,Miami,T,arg2 visits arg1,1
+Atlanta,Miami,T,bias,1.0
+Atlanta,Miami,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Miami,T,F_avsResult_0_-1_f_l,0.0198363475592
+Atlanta,Miami,T,F_avsResult_0_1_f_l,0.0198363475592
+Atlanta,Miami,T,F_avsResult_0_-1_l_f,0.735174262116
+Atlanta,Miami,T,F_avsResult_0_1_l_f,0.735174262116
+Atlanta,Miami,T,F_avsResult_-1_0_f_l,0.0646851891885
+Atlanta,Miami,T,F_avsResult_1_0_f_l,0.528023164404
+Atlanta,Miami,T,F_avsResult_1_0_l_f,0.0652349429308
+Atlanta,Miami,T,F_avsResult_-1_0_l_f,0.527986990183
+Atlanta,Miami,T,F_avsResult_1_-1_f_l,0.068958423814
+Atlanta,Miami,T,F_avsResult_1_1_f_l,0.068958423814
+Atlanta,Miami,T,F_avsResult_1_-1_l_f,0.531975489723
+Atlanta,Miami,T,F_avsResult_1_1_l_f,0.531975489723
+Atlanta,Miami,T,F_avsResult_outside_0_-1_f_l,0.0198363475592
+Atlanta,Miami,T,F_avsResult_outside_0_1_f_l,0.0198363475592
+Atlanta,Miami,T,F_avsResult_outside_0_-1_l_f,0.735174262116
+Atlanta,Miami,T,F_avsResult_outside_0_1_l_f,0.735174262116
+Atlanta,Miami,T,F_avsResult_outside_-1_0_f_l,0.0646851891885
+Atlanta,Miami,T,F_avsResult_outside_1_0_f_l,0.528023164404
+Atlanta,Miami,T,F_avsResult_outside_1_0_l_f,0.0652349429308
+Atlanta,Miami,T,F_avsResult_outside_-1_0_l_f,0.527986990183
+Atlanta,Miami,T,F_avsResult_outside_1_-1_f_l,0.068958423814
+Atlanta,Miami,T,F_avsResult_outside_1_1_f_l,0.068958423814
+Atlanta,Miami,T,F_avsResult_outside_1_-1_l_f,0.531975489723
+Atlanta,Miami,T,F_avsResult_outside_1_1_l_f,0.531975489723
+Atlanta,Miami,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Miami,T,F_closeDistNormFigure_f_l,1.0
+Atlanta,Miami,T,F_closeDistNormFigure_l_f,1.0
+Atlanta,Miami,T,F_closeDistNormLandmark_f_l,1.0
+Atlanta,Miami,T,F_closeDistNormLandmark_l_f,1.0
+Atlanta,Miami,T,F_closeDistNormUnion_f_l,1.0
+Atlanta,Miami,T,F_closeDistNormUnion_l_f,1.0
+Atlanta,Miami,T,F_distBtwnCentroids_f_l,0.250334950909
+Atlanta,Miami,T,F_distBtwnCentroids_l_f,0.250334950909
+Atlanta,Miami,T,F_distHorizontalCentroid_f_l,0.116693433958
+Atlanta,Miami,T,F_distHorizontalCentroid_l_f,-0.116693433958
+Atlanta,Miami,T,F_distVerticalCentroid_f_l,-0.22147286542
+Atlanta,Miami,T,F_distVerticalCentroid_l_f,0.22147286542
+Atlanta,Miami,T,F_leftOfFigureCentroid_l_f,1.0
+Atlanta,Miami,T,F_rightOfFigureCentroid_f_l,1.0
+Atlanta,Tallahassee,T,arg1 before heading to arg2,1
+Atlanta,Tallahassee,T,arg2 and north to arg1,1
+Atlanta,Tallahassee,T,arg2 as well as arg1,1
+Atlanta,Tallahassee,T,bias,1.0
+Atlanta,Tallahassee,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Tallahassee,T,F_avsResult_0_-1_f_l,0.00275348461805
+Atlanta,Tallahassee,T,F_avsResult_0_1_f_l,0.00275348461805
+Atlanta,Tallahassee,T,F_avsResult_0_-1_l_f,0.775576389411
+Atlanta,Tallahassee,T,F_avsResult_0_1_l_f,0.775576389411
+Atlanta,Tallahassee,T,F_avsResult_-1_0_f_l,0.224663457682
+Atlanta,Tallahassee,T,F_avsResult_1_0_f_l,0.257184640084
+Atlanta,Tallahassee,T,F_avsResult_1_0_l_f,0.233046945391
+Atlanta,Tallahassee,T,F_avsResult_-1_0_l_f,0.26607148798
+Atlanta,Tallahassee,T,F_avsResult_outside_0_-1_f_l,0.00275348461805
+Atlanta,Tallahassee,T,F_avsResult_outside_0_1_f_l,0.00275348461805
+Atlanta,Tallahassee,T,F_avsResult_outside_0_-1_l_f,0.775576389411
+Atlanta,Tallahassee,T,F_avsResult_outside_0_1_l_f,0.775576389411
+Atlanta,Tallahassee,T,F_avsResult_outside_-1_0_f_l,0.224663457682
+Atlanta,Tallahassee,T,F_avsResult_outside_1_0_f_l,0.257184640084
+Atlanta,Tallahassee,T,F_avsResult_outside_1_0_l_f,0.233046945391
+Atlanta,Tallahassee,T,F_avsResult_outside_-1_0_l_f,0.26607148798
+Atlanta,Tallahassee,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Tallahassee,T,F_closeDistNormFigure_f_l,1.0
+Atlanta,Tallahassee,T,F_closeDistNormFigure_l_f,1.0
+Atlanta,Tallahassee,T,F_closeDistNormLandmark_f_l,1.0
+Atlanta,Tallahassee,T,F_closeDistNormLandmark_l_f,1.0
+Atlanta,Tallahassee,T,F_closeDistNormUnion_f_l,1.0
+Atlanta,Tallahassee,T,F_closeDistNormUnion_l_f,1.0
+Atlanta,Tallahassee,T,F_distBtwnCentroids_f_l,3.4294066571
+Atlanta,Tallahassee,T,F_distBtwnCentroids_l_f,3.4294066571
+Atlanta,Tallahassee,T,F_distHorizontalCentroid_f_l,0.143730601427
+Atlanta,Tallahassee,T,F_distHorizontalCentroid_l_f,-0.143730601427
+Atlanta,Tallahassee,T,F_distVerticalCentroid_f_l,-3.42639337116
+Atlanta,Tallahassee,T,F_distVerticalCentroid_l_f,3.42639337116
+Atlanta,Tallahassee,T,F_leftOfFigureCentroid_l_f,1.0
+Atlanta,Tallahassee,T,F_rightOfFigureCentroid_f_l,1.0
+Daytona Beach,Atlanta,T,arg1 through arg2,1
+Daytona Beach,Atlanta,T,arg2 as well as from arg1,1
+Daytona Beach,Atlanta,T,bias,1.0
+Daytona Beach,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Daytona Beach,Atlanta,T,F_avsResult_0_-1_f_l,0.652344169332
+Daytona Beach,Atlanta,T,F_avsResult_0_1_f_l,0.652344169332
+Daytona Beach,Atlanta,T,F_avsResult_0_-1_l_f,0.0360955241814
+Daytona Beach,Atlanta,T,F_avsResult_0_1_l_f,0.0360955241814
+Daytona Beach,Atlanta,T,F_avsResult_1_0_f_l,0.0629995155841
+Daytona Beach,Atlanta,T,F_avsResult_-1_0_f_l,0.547892326388
+Daytona Beach,Atlanta,T,F_avsResult_-1_0_l_f,0.0626953175779
+Daytona Beach,Atlanta,T,F_avsResult_1_0_l_f,0.547859886426
+Daytona Beach,Atlanta,T,F_avsResult_1_-1_f_l,0.362855950936
+Daytona Beach,Atlanta,T,F_avsResult_1_1_f_l,0.362855950936
+Daytona Beach,Atlanta,T,F_avsResult_1_-1_l_f,0.144772900043
+Daytona Beach,Atlanta,T,F_avsResult_1_1_l_f,0.144772900043
+Daytona Beach,Atlanta,T,F_avsResult_outside_0_-1_f_l,0.652344169332
+Daytona Beach,Atlanta,T,F_avsResult_outside_0_1_f_l,0.652344169332
+Daytona Beach,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.0360955241814
+Daytona Beach,Atlanta,T,F_avsResult_outside_0_1_l_f,0.0360955241814
+Daytona Beach,Atlanta,T,F_avsResult_outside_1_0_f_l,0.0629995155841
+Daytona Beach,Atlanta,T,F_avsResult_outside_-1_0_f_l,0.547892326388
+Daytona Beach,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.0626953175779
+Daytona Beach,Atlanta,T,F_avsResult_outside_1_0_l_f,0.547859886426
+Daytona Beach,Atlanta,T,F_avsResult_outside_1_-1_f_l,0.362855950936
+Daytona Beach,Atlanta,T,F_avsResult_outside_1_1_f_l,0.362855950936
+Daytona Beach,Atlanta,T,F_avsResult_outside_1_-1_l_f,0.144772900043
+Daytona Beach,Atlanta,T,F_avsResult_outside_1_1_l_f,0.144772900043
+Daytona Beach,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Daytona Beach,Atlanta,T,F_closeDistNormFigure_f_l,1.0
+Daytona Beach,Atlanta,T,F_closeDistNormFigure_l_f,1.0
+Daytona Beach,Atlanta,T,F_closeDistNormLandmark_f_l,1.0
+Daytona Beach,Atlanta,T,F_closeDistNormLandmark_l_f,1.0
+Daytona Beach,Atlanta,T,F_closeDistNormUnion_f_l,1.0
+Daytona Beach,Atlanta,T,F_closeDistNormUnion_l_f,1.0
+Daytona Beach,Atlanta,T,F_distBtwnCentroids_f_l,0.33295073652
+Daytona Beach,Atlanta,T,F_distBtwnCentroids_l_f,0.33295073652
+Daytona Beach,Atlanta,T,F_distHorizontalCentroid_f_l,-0.196161911887
+Daytona Beach,Atlanta,T,F_distHorizontalCentroid_l_f,0.196161911887
+Daytona Beach,Atlanta,T,F_distVerticalCentroid_f_l,0.269029175507
+Daytona Beach,Atlanta,T,F_distVerticalCentroid_l_f,-0.269029175507
+Daytona Beach,Atlanta,T,F_leftOfFigureCentroid_f_l,1.0
+Daytona Beach,Atlanta,T,F_rightOfFigureCentroid_l_f,1.0
+Daytona Beach,Daytona Beach,T,arg1 beach arg2,1
+Daytona Beach,Daytona Beach,T,arg1 boardwalk in arg2,1
+Daytona Beach,Daytona Beach,T,arg1 dealers and arg2,1
+Daytona Beach,Daytona Beach,T,arg1 homes value through arg2,1
+Daytona Beach,Daytona Beach,T,arg1 hotels arg2,1
+Daytona Beach,Daytona Beach,T,arg1 is part of arg2,1
+Daytona Beach,Daytona Beach,T,arg1 ocean front condo rentals in arg2,1
+Daytona Beach,Daytona Beach,T,arg1 office serves arg2,1
+Daytona Beach,Daytona Beach,T,arg1 or add new placemark for arg2,1
+Daytona Beach,Daytona Beach,T,arg1 or sending flowers to arg2,1
+Daytona Beach,Daytona Beach,T,arg1 provides detailed information on arg2,1
+Daytona Beach,Daytona Beach,T,arg1 say arg2,1
+Daytona Beach,Daytona Beach,T,arg1 to help you move within arg2,1
+Daytona Beach,Daytona Beach,T,arg1 used and arg2,1
+Daytona Beach,Daytona Beach,T,arg1 used car inventory search arg2,1
+Daytona Beach,Daytona Beach,T,arg2 beach arg1,1
+Daytona Beach,Daytona Beach,T,arg2 boardwalk in arg1,1
+Daytona Beach,Daytona Beach,T,arg2 dealers and arg1,1
+Daytona Beach,Daytona Beach,T,arg2 homes value through arg1,1
+Daytona Beach,Daytona Beach,T,arg2 hotels arg1,1
+Daytona Beach,Daytona Beach,T,arg2 is part of arg1,1
+Daytona Beach,Daytona Beach,T,arg2 ocean front condo rentals in arg1,1
+Daytona Beach,Daytona Beach,T,arg2 office serves arg1,1
+Daytona Beach,Daytona Beach,T,arg2 or add new placemark for arg1,1
+Daytona Beach,Daytona Beach,T,arg2 or sending flowers to arg1,1
+Daytona Beach,Daytona Beach,T,arg2 provides detailed information on arg1,1
+Daytona Beach,Daytona Beach,T,arg2 say arg1,1
+Daytona Beach,Daytona Beach,T,arg2 to help you move within arg1,1
+Daytona Beach,Daytona Beach,T,arg2 used and arg1,1
+Daytona Beach,Daytona Beach,T,arg2 used car inventory search arg1,1
+Daytona Beach,Daytona Beach,T,bias,1.0
+Daytona Beach,Daytona Beach,T,entity1=entity2,1
+Daytona Beach,Daytona Beach,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Daytona Beach,Daytona Beach,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Daytona Beach,Daytona Beach,T,F_avsResult_0_-1_f_l,0.450686832474
+Daytona Beach,Daytona Beach,T,F_avsResult_0_1_f_l,0.450686832474
+Daytona Beach,Daytona Beach,T,F_avsResult_0_-1_l_f,0.450686832474
+Daytona Beach,Daytona Beach,T,F_avsResult_0_1_l_f,0.450686832474
+Daytona Beach,Daytona Beach,T,F_avsResult_1_0_f_l,0.0951630223279
+Daytona Beach,Daytona Beach,T,F_avsResult_-1_0_f_l,0.477409607946
+Daytona Beach,Daytona Beach,T,F_avsResult_1_0_l_f,0.0951630223279
+Daytona Beach,Daytona Beach,T,F_avsResult_-1_0_l_f,0.477409607946
+Daytona Beach,Daytona Beach,T,F_avsResult_inside_0_-1_f_l,0.450686832474
+Daytona Beach,Daytona Beach,T,F_avsResult_inside_0_1_f_l,0.450686832474
+Daytona Beach,Daytona Beach,T,F_avsResult_inside_0_-1_l_f,0.450686832474
+Daytona Beach,Daytona Beach,T,F_avsResult_inside_0_1_l_f,0.450686832474
+Daytona Beach,Daytona Beach,T,F_avsResult_inside_1_0_f_l,0.0951630223279
+Daytona Beach,Daytona Beach,T,F_avsResult_inside_-1_0_f_l,0.477409607946
+Daytona Beach,Daytona Beach,T,F_avsResult_inside_1_0_l_f,0.0951630223279
+Daytona Beach,Daytona Beach,T,F_avsResult_inside_-1_0_l_f,0.477409607946
+Daytona Beach,Daytona Beach,T,F_math2dFigureIntersectionArea_f_l,1.0
+Daytona Beach,Daytona Beach,T,F_math2dFigureIntersectionArea_l_f,1.0
+Daytona Beach,Daytona Beach,T,F_math2dIntersectionArea_f_l,1.0
+Daytona Beach,Daytona Beach,T,F_math2dIntersectionArea_l_f,1.0
+Daytona Beach,Daytona Beach,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Daytona Beach,Daytona Beach,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Daytona Beach,Everglades National Park,T,bias,1.0
+Daytona Beach,Everglades National Park,T,F_aboveFigureCentroid_l_f,1.0
+Daytona Beach,Everglades National Park,T,F_avsResult_0_-1_f_l,0.00341746749894
+Daytona Beach,Everglades National Park,T,F_avsResult_0_1_f_l,0.00341746749894
+Daytona Beach,Everglades National Park,T,F_avsResult_0_-1_l_f,0.782420446791
+Daytona Beach,Everglades National Park,T,F_avsResult_0_1_l_f,0.782420446791
+Daytona Beach,Everglades National Park,T,F_avsResult_-1_0_f_l,0.219090526313
+Daytona Beach,Everglades National Park,T,F_avsResult_1_0_f_l,0.266107105978
+Daytona Beach,Everglades National Park,T,F_avsResult_1_0_l_f,0.200564271834
+Daytona Beach,Everglades National Park,T,F_avsResult_-1_0_l_f,0.221693780356
+Daytona Beach,Everglades National Park,T,F_avsResult_outside_0_-1_f_l,0.00341746749894
+Daytona Beach,Everglades National Park,T,F_avsResult_outside_0_1_f_l,0.00341746749894
+Daytona Beach,Everglades National Park,T,F_avsResult_outside_0_-1_l_f,0.782420446791
+Daytona Beach,Everglades National Park,T,F_avsResult_outside_0_1_l_f,0.782420446791
+Daytona Beach,Everglades National Park,T,F_avsResult_outside_-1_0_f_l,0.219090526313
+Daytona Beach,Everglades National Park,T,F_avsResult_outside_1_0_f_l,0.266107105978
+Daytona Beach,Everglades National Park,T,F_avsResult_outside_1_0_l_f,0.200564271834
+Daytona Beach,Everglades National Park,T,F_avsResult_outside_-1_0_l_f,0.221693780356
+Daytona Beach,Everglades National Park,T,F_belowFigureCentroid_f_l,1.0
+Daytona Beach,Everglades National Park,T,F_closeDistNormFigure_f_l,1.0
+Daytona Beach,Everglades National Park,T,F_closeDistNormFigure_l_f,1.0
+Daytona Beach,Everglades National Park,T,F_closeDistNormLandmark_f_l,1.0
+Daytona Beach,Everglades National Park,T,F_closeDistNormLandmark_l_f,1.0
+Daytona Beach,Everglades National Park,T,F_closeDistNormUnion_f_l,1.0
+Daytona Beach,Everglades National Park,T,F_closeDistNormUnion_l_f,1.0
+Daytona Beach,Everglades National Park,T,F_distBtwnCentroids_f_l,0.762533530705
+Daytona Beach,Everglades National Park,T,F_distBtwnCentroids_l_f,0.762533530705
+Daytona Beach,Everglades National Park,T,F_distHorizontalCentroid_f_l,0.0410883264923
+Daytona Beach,Everglades National Park,T,F_distHorizontalCentroid_l_f,-0.0410883264923
+Daytona Beach,Everglades National Park,T,F_distVerticalCentroid_f_l,-0.76142572512
+Daytona Beach,Everglades National Park,T,F_distVerticalCentroid_l_f,0.76142572512
+Daytona Beach,Everglades National Park,T,F_leftOfFigureCentroid_l_f,1.0
+Daytona Beach,Everglades National Park,T,F_rightOfFigureCentroid_f_l,1.0
+Daytona Beach,Florida,T,arg1 and throughout arg2,1
+Daytona Beach,Florida,T,arg1 area in arg2,1
+Daytona Beach,Florida,T,arg1 area of arg2,1
+Daytona Beach,Florida,T,arg1 condo rentals in arg2,1
+Daytona Beach,Florida,T,arg1 in central arg2,1
+Daytona Beach,Florida,T,arg1 in the state of arg2,1
+Daytona Beach,Florida,T,arg1 is located on arg2,1
+Daytona Beach,Florida,T,arg1 is one of arg2,1
+Daytona Beach,Florida,T,arg2 including arg1,1
+Daytona Beach,Florida,T,arg2 to the city of arg1,1
+Daytona Beach,Florida,T,arg2 town near arg1,1
+Daytona Beach,Florida,T,arg2 vacation rentals in arg1,1
+Daytona Beach,Florida,T,arg2 which is north of arg1,1
+Daytona Beach,Florida,T,bias,1.0
+Daytona Beach,Florida,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Daytona Beach,Florida,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Daytona Beach,Florida,T,F_aboveFigureCentroid_l_f,1.0
+Daytona Beach,Florida,T,F_avsResult_0_-1_f_l,0.104764445273
+Daytona Beach,Florida,T,F_avsResult_0_1_f_l,0.104764445273
+Daytona Beach,Florida,T,F_avsResult_0_-1_l_f,0.00454596983307
+Daytona Beach,Florida,T,F_avsResult_0_1_l_f,0.00454596983307
+Daytona Beach,Florida,T,F_avsResult_1_0_f_l,0.0372995357552
+Daytona Beach,Florida,T,F_avsResult_-1_0_f_l,0.635674615598
+Daytona Beach,Florida,T,F_avsResult_-1_0_l_f,0.0140425584617
+Daytona Beach,Florida,T,F_avsResult_1_0_l_f,0.0319974222787
+Daytona Beach,Florida,T,F_avsResult_-1_-1_f_l,0.414849477387
+Daytona Beach,Florida,T,F_avsResult_-1_1_f_l,0.414849477387
+Daytona Beach,Florida,T,F_avsResult_1_-1_l_f,0.0236309358754
+Daytona Beach,Florida,T,F_avsResult_1_1_l_f,0.0236309358754
+Daytona Beach,Florida,T,F_avsResult_inside_0_-1_l_f,0.00454596983307
+Daytona Beach,Florida,T,F_avsResult_inside_0_1_l_f,0.00454596983307
+Daytona Beach,Florida,T,F_avsResult_inside_-1_0_l_f,0.0140425584617
+Daytona Beach,Florida,T,F_avsResult_inside_1_0_l_f,0.0319974222787
+Daytona Beach,Florida,T,F_avsResult_inside_1_-1_l_f,0.0236309358754
+Daytona Beach,Florida,T,F_avsResult_inside_1_1_l_f,0.0236309358754
+Daytona Beach,Florida,T,F_avsResult_outside_0_-1_f_l,0.104764445273
+Daytona Beach,Florida,T,F_avsResult_outside_0_1_f_l,0.104764445273
+Daytona Beach,Florida,T,F_avsResult_outside_1_0_f_l,0.0372995357552
+Daytona Beach,Florida,T,F_avsResult_outside_-1_0_f_l,0.635674615598
+Daytona Beach,Florida,T,F_avsResult_outside_-1_-1_f_l,0.414849477387
+Daytona Beach,Florida,T,F_avsResult_outside_-1_1_f_l,0.414849477387
+Daytona Beach,Florida,T,F_belowFigureCentroid_f_l,1.0
+Daytona Beach,Florida,T,F_distBtwnCentroids_f_l,0.0613164315732
+Daytona Beach,Florida,T,F_distBtwnCentroids_l_f,0.0613164315732
+Daytona Beach,Florida,T,F_distHorizontalCentroid_f_l,-0.0536780711825
+Daytona Beach,Florida,T,F_distHorizontalCentroid_l_f,0.0536780711825
+Daytona Beach,Florida,T,F_distVerticalCentroid_f_l,-0.0296372983754
+Daytona Beach,Florida,T,F_distVerticalCentroid_l_f,0.0296372983754
+Daytona Beach,Florida,T,F_leftOfFigureCentroid_f_l,1.0
+Daytona Beach,Florida,T,F_math2dFigureIntersectionArea_f_l,1.0
+Daytona Beach,Florida,T,F_math2dFigureIntersectionArea_l_f,0.000302410677787
+Daytona Beach,Florida,T,F_math2dIntersectionArea_f_l,0.000302410677787
+Daytona Beach,Florida,T,F_math2dIntersectionArea_l_f,0.000302410677787
+Daytona Beach,Florida,T,F_math2dLandmarkIntersectionArea_f_l,0.000302410677787
+Daytona Beach,Florida,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Daytona Beach,Florida,T,F_rightOfFigureCentroid_l_f,1.0
+Daytona Beach,Georgia,T,bias,1.0
+Daytona Beach,Georgia,T,F_aboveFigureCentroid_f_l,1.0
+Daytona Beach,Georgia,T,F_avsResult_0_-1_f_l,0.637333775251
+Daytona Beach,Georgia,T,F_avsResult_0_1_f_l,0.637333775251
+Daytona Beach,Georgia,T,F_avsResult_0_-1_l_f,0.0219904323693
+Daytona Beach,Georgia,T,F_avsResult_0_1_l_f,0.0219904323693
+Daytona Beach,Georgia,T,F_avsResult_1_0_f_l,0.0771812009494
+Daytona Beach,Georgia,T,F_avsResult_-1_0_f_l,0.509463583764
+Daytona Beach,Georgia,T,F_avsResult_-1_0_l_f,0.0574226379574
+Daytona Beach,Georgia,T,F_avsResult_1_0_l_f,0.317034096071
+Daytona Beach,Georgia,T,F_avsResult_1_-1_f_l,0.367203172409
+Daytona Beach,Georgia,T,F_avsResult_1_1_f_l,0.367203172409
+Daytona Beach,Georgia,T,F_avsResult_1_-1_l_f,0.0730143974727
+Daytona Beach,Georgia,T,F_avsResult_1_1_l_f,0.0730143974727
+Daytona Beach,Georgia,T,F_avsResult_outside_0_-1_f_l,0.637333775251
+Daytona Beach,Georgia,T,F_avsResult_outside_0_1_f_l,0.637333775251
+Daytona Beach,Georgia,T,F_avsResult_outside_0_-1_l_f,0.0219904323693
+Daytona Beach,Georgia,T,F_avsResult_outside_0_1_l_f,0.0219904323693
+Daytona Beach,Georgia,T,F_avsResult_outside_1_0_f_l,0.0771812009494
+Daytona Beach,Georgia,T,F_avsResult_outside_-1_0_f_l,0.509463583764
+Daytona Beach,Georgia,T,F_avsResult_outside_-1_0_l_f,0.0574226379574
+Daytona Beach,Georgia,T,F_avsResult_outside_1_0_l_f,0.317034096071
+Daytona Beach,Georgia,T,F_avsResult_outside_1_-1_f_l,0.367203172409
+Daytona Beach,Georgia,T,F_avsResult_outside_1_1_f_l,0.367203172409
+Daytona Beach,Georgia,T,F_avsResult_outside_1_-1_l_f,0.0730143974727
+Daytona Beach,Georgia,T,F_avsResult_outside_1_1_l_f,0.0730143974727
+Daytona Beach,Georgia,T,F_belowFigureCentroid_l_f,1.0
+Daytona Beach,Georgia,T,F_closeDistNormFigure_f_l,1.0
+Daytona Beach,Georgia,T,F_closeDistNormFigure_l_f,0.13840099842
+Daytona Beach,Georgia,T,F_closeDistNormLandmark_f_l,0.13840099842
+Daytona Beach,Georgia,T,F_closeDistNormLandmark_l_f,1.0
+Daytona Beach,Georgia,T,F_closeDistNormUnion_f_l,0.138256496212
+Daytona Beach,Georgia,T,F_closeDistNormUnion_l_f,0.138256496212
+Daytona Beach,Georgia,T,F_distBtwnCentroids_f_l,0.149531330095
+Daytona Beach,Georgia,T,F_distBtwnCentroids_l_f,0.149531330095
+Daytona Beach,Georgia,T,F_distHorizontalCentroid_f_l,-0.0843643799316
+Daytona Beach,Georgia,T,F_distHorizontalCentroid_l_f,0.0843643799316
+Daytona Beach,Georgia,T,F_distVerticalCentroid_f_l,0.123459588849
+Daytona Beach,Georgia,T,F_distVerticalCentroid_l_f,-0.123459588849
+Daytona Beach,Georgia,T,F_leftOfFigureCentroid_f_l,1.0
+Daytona Beach,Georgia,T,F_rightOfFigureCentroid_l_f,1.0
+Daytona Beach,Key Largo,T,bias,1.0
+Daytona Beach,Key Largo,T,F_aboveFigureCentroid_l_f,1.0
+Daytona Beach,Key Largo,T,F_avsResult_0_-1_f_l,0.0094076987608
+Daytona Beach,Key Largo,T,F_avsResult_0_1_f_l,0.0094076987608
+Daytona Beach,Key Largo,T,F_avsResult_0_-1_l_f,0.767670476717
+Daytona Beach,Key Largo,T,F_avsResult_0_1_l_f,0.767670476717
+Daytona Beach,Key Largo,T,F_avsResult_-1_0_f_l,0.178624746874
+Daytona Beach,Key Largo,T,F_avsResult_1_0_f_l,0.315551411228
+Daytona Beach,Key Largo,T,F_avsResult_1_0_l_f,0.185100656697
+Daytona Beach,Key Largo,T,F_avsResult_-1_0_l_f,0.322281610319
+Daytona Beach,Key Largo,T,F_avsResult_outside_0_-1_f_l,0.0094076987608
+Daytona Beach,Key Largo,T,F_avsResult_outside_0_1_f_l,0.0094076987608
+Daytona Beach,Key Largo,T,F_avsResult_outside_0_-1_l_f,0.767670476717
+Daytona Beach,Key Largo,T,F_avsResult_outside_0_1_l_f,0.767670476717
+Daytona Beach,Key Largo,T,F_avsResult_outside_-1_0_f_l,0.178624746874
+Daytona Beach,Key Largo,T,F_avsResult_outside_1_0_f_l,0.315551411228
+Daytona Beach,Key Largo,T,F_avsResult_outside_1_0_l_f,0.185100656697
+Daytona Beach,Key Largo,T,F_avsResult_outside_-1_0_l_f,0.322281610319
+Daytona Beach,Key Largo,T,F_belowFigureCentroid_f_l,1.0
+Daytona Beach,Key Largo,T,F_closeDistNormFigure_f_l,1.0
+Daytona Beach,Key Largo,T,F_closeDistNormFigure_l_f,1.0
+Daytona Beach,Key Largo,T,F_closeDistNormLandmark_f_l,1.0
+Daytona Beach,Key Largo,T,F_closeDistNormLandmark_l_f,1.0
+Daytona Beach,Key Largo,T,F_closeDistNormUnion_f_l,1.0
+Daytona Beach,Key Largo,T,F_closeDistNormUnion_l_f,1.0
+Daytona Beach,Key Largo,T,F_distBtwnCentroids_f_l,1.27786516821
+Daytona Beach,Key Largo,T,F_distBtwnCentroids_l_f,1.27786516821
+Daytona Beach,Key Largo,T,F_distHorizontalCentroid_f_l,0.196973589294
+Daytona Beach,Key Largo,T,F_distHorizontalCentroid_l_f,-0.196973589294
+Daytona Beach,Key Largo,T,F_distVerticalCentroid_f_l,-1.26259288499
+Daytona Beach,Key Largo,T,F_distVerticalCentroid_l_f,1.26259288499
+Daytona Beach,Key Largo,T,F_leftOfFigureCentroid_l_f,1.0
+Daytona Beach,Key Largo,T,F_rightOfFigureCentroid_f_l,1.0
+Daytona Beach,Miami,T,arg1 and south to arg2,1
+Daytona Beach,Miami,T,arg1 before moving to arg2,1
+Daytona Beach,Miami,T,arg1 south to arg2,1
+Daytona Beach,Miami,T,arg2 and raised in arg1,1
+Daytona Beach,Miami,T,bias,1.0
+Daytona Beach,Miami,T,F_aboveFigureCentroid_l_f,1.0
+Daytona Beach,Miami,T,F_avsResult_0_-1_f_l,0.0166869094554
+Daytona Beach,Miami,T,F_avsResult_0_1_f_l,0.0166869094554
+Daytona Beach,Miami,T,F_avsResult_0_-1_l_f,0.724796066545
+Daytona Beach,Miami,T,F_avsResult_0_1_l_f,0.724796066545
+Daytona Beach,Miami,T,F_avsResult_-1_0_f_l,0.154437910298
+Daytona Beach,Miami,T,F_avsResult_1_0_f_l,0.35103288191
+Daytona Beach,Miami,T,F_avsResult_1_0_l_f,0.157500454347
+Daytona Beach,Miami,T,F_avsResult_-1_0_l_f,0.34973545208
+Daytona Beach,Miami,T,F_avsResult_outside_0_-1_f_l,0.0166869094554
+Daytona Beach,Miami,T,F_avsResult_outside_0_1_f_l,0.0166869094554
+Daytona Beach,Miami,T,F_avsResult_outside_0_-1_l_f,0.724796066545
+Daytona Beach,Miami,T,F_avsResult_outside_0_1_l_f,0.724796066545
+Daytona Beach,Miami,T,F_avsResult_outside_-1_0_f_l,0.154437910298
+Daytona Beach,Miami,T,F_avsResult_outside_1_0_f_l,0.35103288191
+Daytona Beach,Miami,T,F_avsResult_outside_1_0_l_f,0.157500454347
+Daytona Beach,Miami,T,F_avsResult_outside_-1_0_l_f,0.34973545208
+Daytona Beach,Miami,T,F_belowFigureCentroid_f_l,1.0
+Daytona Beach,Miami,T,F_closeDistNormFigure_f_l,1.0
+Daytona Beach,Miami,T,F_closeDistNormFigure_l_f,1.0
+Daytona Beach,Miami,T,F_closeDistNormLandmark_f_l,1.0
+Daytona Beach,Miami,T,F_closeDistNormLandmark_l_f,1.0
+Daytona Beach,Miami,T,F_closeDistNormUnion_f_l,1.0
+Daytona Beach,Miami,T,F_closeDistNormUnion_l_f,1.0
+Daytona Beach,Miami,T,F_distBtwnCentroids_f_l,0.921657566643
+Daytona Beach,Miami,T,F_distBtwnCentroids_l_f,0.921657566643
+Daytona Beach,Miami,T,F_distHorizontalCentroid_f_l,0.22933179052
+Daytona Beach,Miami,T,F_distHorizontalCentroid_l_f,-0.22933179052
+Daytona Beach,Miami,T,F_distVerticalCentroid_f_l,-0.892669927805
+Daytona Beach,Miami,T,F_distVerticalCentroid_l_f,0.892669927805
+Daytona Beach,Miami,T,F_leftOfFigureCentroid_l_f,1.0
+Daytona Beach,Miami,T,F_rightOfFigureCentroid_f_l,1.0
+Daytona Beach,Tallahassee,T,bias,1.0
+Daytona Beach,Tallahassee,T,F_aboveFigureCentroid_f_l,1.0
+Daytona Beach,Tallahassee,T,F_avsResult_0_-1_f_l,0.400976999664
+Daytona Beach,Tallahassee,T,F_avsResult_0_1_f_l,0.400976999664
+Daytona Beach,Tallahassee,T,F_avsResult_0_-1_l_f,0.130260749791
+Daytona Beach,Tallahassee,T,F_avsResult_0_1_l_f,0.130260749791
+Daytona Beach,Tallahassee,T,F_avsResult_1_0_f_l,0.0253790085292
+Daytona Beach,Tallahassee,T,F_avsResult_-1_0_f_l,0.685414434372
+Daytona Beach,Tallahassee,T,F_avsResult_-1_0_l_f,0.0256919922511
+Daytona Beach,Tallahassee,T,F_avsResult_1_0_l_f,0.689290911047
+Daytona Beach,Tallahassee,T,F_avsResult_1_-1_f_l,0.0644512057302
+Daytona Beach,Tallahassee,T,F_avsResult_1_1_f_l,0.0644512057302
+Daytona Beach,Tallahassee,T,F_avsResult_1_-1_l_f,0.535873742268
+Daytona Beach,Tallahassee,T,F_avsResult_1_1_l_f,0.535873742268
+Daytona Beach,Tallahassee,T,F_avsResult_outside_0_-1_f_l,0.400976999664
+Daytona Beach,Tallahassee,T,F_avsResult_outside_0_1_f_l,0.400976999664
+Daytona Beach,Tallahassee,T,F_avsResult_outside_0_-1_l_f,0.130260749791
+Daytona Beach,Tallahassee,T,F_avsResult_outside_0_1_l_f,0.130260749791
+Daytona Beach,Tallahassee,T,F_avsResult_outside_1_0_f_l,0.0253790085292
+Daytona Beach,Tallahassee,T,F_avsResult_outside_-1_0_f_l,0.685414434372
+Daytona Beach,Tallahassee,T,F_avsResult_outside_-1_0_l_f,0.0256919922511
+Daytona Beach,Tallahassee,T,F_avsResult_outside_1_0_l_f,0.689290911047
+Daytona Beach,Tallahassee,T,F_avsResult_outside_1_-1_f_l,0.0644512057302
+Daytona Beach,Tallahassee,T,F_avsResult_outside_1_1_f_l,0.0644512057302
+Daytona Beach,Tallahassee,T,F_avsResult_outside_1_-1_l_f,0.535873742268
+Daytona Beach,Tallahassee,T,F_avsResult_outside_1_1_l_f,0.535873742268
+Daytona Beach,Tallahassee,T,F_belowFigureCentroid_l_f,1.0
+Daytona Beach,Tallahassee,T,F_closeDistNormFigure_f_l,1.0
+Daytona Beach,Tallahassee,T,F_closeDistNormFigure_l_f,1.0
+Daytona Beach,Tallahassee,T,F_closeDistNormLandmark_f_l,1.0
+Daytona Beach,Tallahassee,T,F_closeDistNormLandmark_l_f,1.0
+Daytona Beach,Tallahassee,T,F_closeDistNormUnion_f_l,1.0
+Daytona Beach,Tallahassee,T,F_closeDistNormUnion_l_f,1.0
+Daytona Beach,Tallahassee,T,F_distBtwnCentroids_f_l,0.784083730419
+Daytona Beach,Tallahassee,T,F_distBtwnCentroids_l_f,0.784083730419
+Daytona Beach,Tallahassee,T,F_distHorizontalCentroid_f_l,-0.7308846907
+Daytona Beach,Tallahassee,T,F_distHorizontalCentroid_l_f,0.7308846907
+Daytona Beach,Tallahassee,T,F_distVerticalCentroid_f_l,0.283892347921
+Daytona Beach,Tallahassee,T,F_distVerticalCentroid_l_f,-0.283892347921
+Daytona Beach,Tallahassee,T,F_leftOfFigureCentroid_f_l,1.0
+Daytona Beach,Tallahassee,T,F_rightOfFigureCentroid_l_f,1.0
+Everglades National Park,Atlanta,T,bias,1.0
+Everglades National Park,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Everglades National Park,Atlanta,T,F_avsResult_0_-1_f_l,0.760174846177
+Everglades National Park,Atlanta,T,F_avsResult_0_1_f_l,0.760174846177
+Everglades National Park,Atlanta,T,F_avsResult_0_-1_l_f,0.0156783412213
+Everglades National Park,Atlanta,T,F_avsResult_0_1_l_f,0.0156783412213
+Everglades National Park,Atlanta,T,F_avsResult_1_0_f_l,0.0728785193503
+Everglades National Park,Atlanta,T,F_avsResult_-1_0_f_l,0.481525213151
+Everglades National Park,Atlanta,T,F_avsResult_-1_0_l_f,0.0758930949899
+Everglades National Park,Atlanta,T,F_avsResult_1_0_l_f,0.494564669767
+Everglades National Park,Atlanta,T,F_avsResult_1_-1_f_l,0.599658727758
+Everglades National Park,Atlanta,T,F_avsResult_1_1_f_l,0.599658727758
+Everglades National Park,Atlanta,T,F_avsResult_1_-1_l_f,0.0467776432293
+Everglades National Park,Atlanta,T,F_avsResult_1_1_l_f,0.0467776432293
+Everglades National Park,Atlanta,T,F_avsResult_outside_0_-1_f_l,0.760174846177
+Everglades National Park,Atlanta,T,F_avsResult_outside_0_1_f_l,0.760174846177
+Everglades National Park,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.0156783412213
+Everglades National Park,Atlanta,T,F_avsResult_outside_0_1_l_f,0.0156783412213
+Everglades National Park,Atlanta,T,F_avsResult_outside_1_0_f_l,0.0728785193503
+Everglades National Park,Atlanta,T,F_avsResult_outside_-1_0_f_l,0.481525213151
+Everglades National Park,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.0758930949899
+Everglades National Park,Atlanta,T,F_avsResult_outside_1_0_l_f,0.494564669767
+Everglades National Park,Atlanta,T,F_avsResult_outside_1_-1_f_l,0.599658727758
+Everglades National Park,Atlanta,T,F_avsResult_outside_1_1_f_l,0.599658727758
+Everglades National Park,Atlanta,T,F_avsResult_outside_1_-1_l_f,0.0467776432293
+Everglades National Park,Atlanta,T,F_avsResult_outside_1_1_l_f,0.0467776432293
+Everglades National Park,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Everglades National Park,Atlanta,T,F_closeDistNormFigure_f_l,1.0
+Everglades National Park,Atlanta,T,F_closeDistNormFigure_l_f,1.0
+Everglades National Park,Atlanta,T,F_closeDistNormLandmark_f_l,1.0
+Everglades National Park,Atlanta,T,F_closeDistNormLandmark_l_f,1.0
+Everglades National Park,Atlanta,T,F_closeDistNormUnion_f_l,1.0
+Everglades National Park,Atlanta,T,F_closeDistNormUnion_l_f,1.0
+Everglades National Park,Atlanta,T,F_distBtwnCentroids_f_l,0.242139198174
+Everglades National Park,Atlanta,T,F_distBtwnCentroids_l_f,0.242139198174
+Everglades National Park,Atlanta,T,F_distHorizontalCentroid_f_l,-0.0940419593973
+Everglades National Park,Atlanta,T,F_distHorizontalCentroid_l_f,0.0940419593973
+Everglades National Park,Atlanta,T,F_distVerticalCentroid_f_l,0.223131129977
+Everglades National Park,Atlanta,T,F_distVerticalCentroid_l_f,-0.223131129977
+Everglades National Park,Atlanta,T,F_leftOfFigureCentroid_f_l,1.0
+Everglades National Park,Atlanta,T,F_rightOfFigureCentroid_l_f,1.0
+Everglades National Park,Daytona Beach,T,bias,1.0
+Everglades National Park,Daytona Beach,T,F_aboveFigureCentroid_f_l,1.0
+Everglades National Park,Daytona Beach,T,F_avsResult_0_-1_f_l,0.782420446791
+Everglades National Park,Daytona Beach,T,F_avsResult_0_1_f_l,0.782420446791
+Everglades National Park,Daytona Beach,T,F_avsResult_0_-1_l_f,0.00341746749894
+Everglades National Park,Daytona Beach,T,F_avsResult_0_1_l_f,0.00341746749894
+Everglades National Park,Daytona Beach,T,F_avsResult_1_0_f_l,0.200564271834
+Everglades National Park,Daytona Beach,T,F_avsResult_-1_0_f_l,0.221693780356
+Everglades National Park,Daytona Beach,T,F_avsResult_-1_0_l_f,0.219090526313
+Everglades National Park,Daytona Beach,T,F_avsResult_1_0_l_f,0.266107105978
+Everglades National Park,Daytona Beach,T,F_avsResult_outside_0_-1_f_l,0.782420446791
+Everglades National Park,Daytona Beach,T,F_avsResult_outside_0_1_f_l,0.782420446791
+Everglades National Park,Daytona Beach,T,F_avsResult_outside_0_-1_l_f,0.00341746749894
+Everglades National Park,Daytona Beach,T,F_avsResult_outside_0_1_l_f,0.00341746749894
+Everglades National Park,Daytona Beach,T,F_avsResult_outside_1_0_f_l,0.200564271834
+Everglades National Park,Daytona Beach,T,F_avsResult_outside_-1_0_f_l,0.221693780356
+Everglades National Park,Daytona Beach,T,F_avsResult_outside_-1_0_l_f,0.219090526313
+Everglades National Park,Daytona Beach,T,F_avsResult_outside_1_0_l_f,0.266107105978
+Everglades National Park,Daytona Beach,T,F_belowFigureCentroid_l_f,1.0
+Everglades National Park,Daytona Beach,T,F_closeDistNormFigure_f_l,1.0
+Everglades National Park,Daytona Beach,T,F_closeDistNormFigure_l_f,1.0
+Everglades National Park,Daytona Beach,T,F_closeDistNormLandmark_f_l,1.0
+Everglades National Park,Daytona Beach,T,F_closeDistNormLandmark_l_f,1.0
+Everglades National Park,Daytona Beach,T,F_closeDistNormUnion_f_l,1.0
+Everglades National Park,Daytona Beach,T,F_closeDistNormUnion_l_f,1.0
+Everglades National Park,Daytona Beach,T,F_distBtwnCentroids_f_l,0.762533530705
+Everglades National Park,Daytona Beach,T,F_distBtwnCentroids_l_f,0.762533530705
+Everglades National Park,Daytona Beach,T,F_distHorizontalCentroid_f_l,-0.0410883264923
+Everglades National Park,Daytona Beach,T,F_distHorizontalCentroid_l_f,0.0410883264923
+Everglades National Park,Daytona Beach,T,F_distVerticalCentroid_f_l,0.76142572512
+Everglades National Park,Daytona Beach,T,F_distVerticalCentroid_l_f,-0.76142572512
+Everglades National Park,Daytona Beach,T,F_leftOfFigureCentroid_f_l,1.0
+Everglades National Park,Daytona Beach,T,F_rightOfFigureCentroid_l_f,1.0
+Everglades National Park,Everglades National Park,T,bias,1.0
+Everglades National Park,Everglades National Park,T,entity1=entity2,1
+Everglades National Park,Everglades National Park,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Everglades National Park,Everglades National Park,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Everglades National Park,Everglades National Park,T,F_avsResult_0_-1_f_l,0.0326792393318
+Everglades National Park,Everglades National Park,T,F_avsResult_0_1_f_l,0.0326792393318
+Everglades National Park,Everglades National Park,T,F_avsResult_0_-1_l_f,0.0326792393318
+Everglades National Park,Everglades National Park,T,F_avsResult_0_1_l_f,0.0326792393318
+Everglades National Park,Everglades National Park,T,F_avsResult_-1_0_f_l,0.0119295171957
+Everglades National Park,Everglades National Park,T,F_avsResult_1_0_f_l,0.0228051226286
+Everglades National Park,Everglades National Park,T,F_avsResult_-1_0_l_f,0.0119295171957
+Everglades National Park,Everglades National Park,T,F_avsResult_1_0_l_f,0.0228051226286
+Everglades National Park,Everglades National Park,T,F_avsResult_inside_0_-1_f_l,0.0326792393318
+Everglades National Park,Everglades National Park,T,F_avsResult_inside_0_1_f_l,0.0326792393318
+Everglades National Park,Everglades National Park,T,F_avsResult_inside_0_-1_l_f,0.0326792393318
+Everglades National Park,Everglades National Park,T,F_avsResult_inside_0_1_l_f,0.0326792393318
+Everglades National Park,Everglades National Park,T,F_avsResult_inside_-1_0_f_l,0.0119295171957
+Everglades National Park,Everglades National Park,T,F_avsResult_inside_1_0_f_l,0.0228051226286
+Everglades National Park,Everglades National Park,T,F_avsResult_inside_-1_0_l_f,0.0119295171957
+Everglades National Park,Everglades National Park,T,F_avsResult_inside_1_0_l_f,0.0228051226286
+Everglades National Park,Everglades National Park,T,F_math2dFigureIntersectionArea_f_l,1.0
+Everglades National Park,Everglades National Park,T,F_math2dFigureIntersectionArea_l_f,1.0
+Everglades National Park,Everglades National Park,T,F_math2dIntersectionArea_f_l,1.0
+Everglades National Park,Everglades National Park,T,F_math2dIntersectionArea_l_f,1.0
+Everglades National Park,Everglades National Park,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Everglades National Park,Everglades National Park,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Everglades National Park,Florida,T,arg1 florist shop in arg2,1
+Everglades National Park,Florida,T,arg1 in south arg2,1
+Everglades National Park,Florida,T,arg1 in southern arg2,1
+Everglades National Park,Florida,T,arg2 as well as arg1,1
+Everglades National Park,Florida,T,arg2 coast in arg1,1
+Everglades National Park,Florida,T,arg2 including arg1,1
+Everglades National Park,Florida,T,arg2 is also home to arg1,1
+Everglades National Park,Florida,T,arg2 is home to arg1,1
+Everglades National Park,Florida,T,arg2 is the location of arg1,1
+Everglades National Park,Florida,T,arg2 such as arg1,1
+Everglades National Park,Florida,T,arg2 that includes arg1,1
+Everglades National Park,Florida,T,arg2 through arg1,1
+Everglades National Park,Florida,T,arg2 would be arg1,1
+Everglades National Park,Florida,T,bias,1.0
+Everglades National Park,Florida,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Everglades National Park,Florida,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Everglades National Park,Florida,T,F_aboveFigureCentroid_f_l,1.0
+Everglades National Park,Florida,T,F_avsResult_0_-1_f_l,0.504425221759
+Everglades National Park,Florida,T,F_avsResult_0_1_f_l,0.504425221759
+Everglades National Park,Florida,T,F_avsResult_0_-1_l_f,0.0245685144153
+Everglades National Park,Florida,T,F_avsResult_0_1_l_f,0.0245685144153
+Everglades National Park,Florida,T,F_avsResult_1_0_f_l,0.0445382178117
+Everglades National Park,Florida,T,F_avsResult_-1_0_f_l,0.58420049998
+Everglades National Park,Florida,T,F_avsResult_-1_0_l_f,0.0114173309051
+Everglades National Park,Florida,T,F_avsResult_1_0_l_f,0.0130110250593
+Everglades National Park,Florida,T,F_avsResult_1_-1_f_l,0.156964649003
+Everglades National Park,Florida,T,F_avsResult_1_1_f_l,0.156964649003
+Everglades National Park,Florida,T,F_avsResult_inside_0_-1_l_f,0.0245685144153
+Everglades National Park,Florida,T,F_avsResult_inside_0_1_l_f,0.0245685144153
+Everglades National Park,Florida,T,F_avsResult_inside_-1_0_l_f,0.0114173309051
+Everglades National Park,Florida,T,F_avsResult_inside_1_0_l_f,0.0130110250593
+Everglades National Park,Florida,T,F_avsResult_outside_0_-1_f_l,0.504425221759
+Everglades National Park,Florida,T,F_avsResult_outside_0_1_f_l,0.504425221759
+Everglades National Park,Florida,T,F_avsResult_outside_1_0_f_l,0.0445382178117
+Everglades National Park,Florida,T,F_avsResult_outside_-1_0_f_l,0.58420049998
+Everglades National Park,Florida,T,F_avsResult_outside_1_-1_f_l,0.156964649003
+Everglades National Park,Florida,T,F_avsResult_outside_1_1_f_l,0.156964649003
+Everglades National Park,Florida,T,F_belowFigureCentroid_l_f,1.0
+Everglades National Park,Florida,T,F_distBtwnCentroids_f_l,0.0738234150929
+Everglades National Park,Florida,T,F_distBtwnCentroids_l_f,0.0738234150929
+Everglades National Park,Florida,T,F_distHorizontalCentroid_f_l,-0.0577583857429
+Everglades National Park,Florida,T,F_distHorizontalCentroid_l_f,0.0577583857429
+Everglades National Park,Florida,T,F_distVerticalCentroid_f_l,0.045976792976
+Everglades National Park,Florida,T,F_distVerticalCentroid_l_f,-0.045976792976
+Everglades National Park,Florida,T,F_leftOfFigureCentroid_f_l,1.0
+Everglades National Park,Florida,T,F_math2dFigureIntersectionArea_f_l,1.0
+Everglades National Park,Florida,T,F_math2dFigureIntersectionArea_l_f,0.0110443146606
+Everglades National Park,Florida,T,F_math2dIntersectionArea_f_l,0.0110443146606
+Everglades National Park,Florida,T,F_math2dIntersectionArea_l_f,0.0110443146606
+Everglades National Park,Florida,T,F_math2dLandmarkIntersectionArea_f_l,0.0110443146606
+Everglades National Park,Florida,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Everglades National Park,Florida,T,F_rightOfFigureCentroid_l_f,1.0
+Everglades National Park,Georgia,T,bias,1.0
+Everglades National Park,Georgia,T,F_aboveFigureCentroid_f_l,1.0
+Everglades National Park,Georgia,T,F_avsResult_0_-1_f_l,0.764152077489
+Everglades National Park,Georgia,T,F_avsResult_0_1_f_l,0.764152077489
+Everglades National Park,Georgia,T,F_avsResult_0_-1_l_f,0.010527697316
+Everglades National Park,Georgia,T,F_avsResult_0_1_l_f,0.010527697316
+Everglades National Park,Georgia,T,F_avsResult_1_0_f_l,0.0882396037146
+Everglades National Park,Georgia,T,F_avsResult_-1_0_f_l,0.433768427219
+Everglades National Park,Georgia,T,F_avsResult_-1_0_l_f,0.0716109638578
+Everglades National Park,Georgia,T,F_avsResult_1_0_l_f,0.296638764276
+Everglades National Park,Georgia,T,F_avsResult_1_-1_f_l,0.646783130539
+Everglades National Park,Georgia,T,F_avsResult_1_1_f_l,0.646783130539
+Everglades National Park,Georgia,T,F_avsResult_1_-1_l_f,0.0214802495706
+Everglades National Park,Georgia,T,F_avsResult_1_1_l_f,0.0214802495706
+Everglades National Park,Georgia,T,F_avsResult_outside_0_-1_f_l,0.764152077489
+Everglades National Park,Georgia,T,F_avsResult_outside_0_1_f_l,0.764152077489
+Everglades National Park,Georgia,T,F_avsResult_outside_0_-1_l_f,0.010527697316
+Everglades National Park,Georgia,T,F_avsResult_outside_0_1_l_f,0.010527697316
+Everglades National Park,Georgia,T,F_avsResult_outside_1_0_f_l,0.0882396037146
+Everglades National Park,Georgia,T,F_avsResult_outside_-1_0_f_l,0.433768427219
+Everglades National Park,Georgia,T,F_avsResult_outside_-1_0_l_f,0.0716109638578
+Everglades National Park,Georgia,T,F_avsResult_outside_1_0_l_f,0.296638764276
+Everglades National Park,Georgia,T,F_avsResult_outside_1_-1_f_l,0.646783130539
+Everglades National Park,Georgia,T,F_avsResult_outside_1_1_f_l,0.646783130539
+Everglades National Park,Georgia,T,F_avsResult_outside_1_-1_l_f,0.0214802495706
+Everglades National Park,Georgia,T,F_avsResult_outside_1_1_l_f,0.0214802495706
+Everglades National Park,Georgia,T,F_belowFigureCentroid_l_f,1.0
+Everglades National Park,Georgia,T,F_closeDistNormFigure_f_l,1.0
+Everglades National Park,Georgia,T,F_closeDistNormFigure_l_f,1.0
+Everglades National Park,Georgia,T,F_closeDistNormLandmark_f_l,1.0
+Everglades National Park,Georgia,T,F_closeDistNormLandmark_l_f,1.0
+Everglades National Park,Georgia,T,F_closeDistNormUnion_f_l,1.0
+Everglades National Park,Georgia,T,F_closeDistNormUnion_l_f,1.0
+Everglades National Park,Georgia,T,F_distBtwnCentroids_f_l,0.145799684781
+Everglades National Park,Georgia,T,F_distBtwnCentroids_l_f,0.145799684781
+Everglades National Park,Georgia,T,F_distHorizontalCentroid_f_l,-0.0484391141322
+Everglades National Park,Georgia,T,F_distHorizontalCentroid_l_f,0.0484391141322
+Everglades National Park,Georgia,T,F_distVerticalCentroid_f_l,0.137517999928
+Everglades National Park,Georgia,T,F_distVerticalCentroid_l_f,-0.137517999928
+Everglades National Park,Georgia,T,F_leftOfFigureCentroid_f_l,1.0
+Everglades National Park,Georgia,T,F_rightOfFigureCentroid_l_f,1.0
+Everglades National Park,Key Largo,T,arg2 area and arg1,1
+Everglades National Park,Key Largo,T,bias,1.0
+Everglades National Park,Key Largo,T,F_aboveFigureCentroid_l_f,1.0
+Everglades National Park,Key Largo,T,F_avsResult_0_-1_f_l,0.115083201015
+Everglades National Park,Key Largo,T,F_avsResult_0_1_f_l,0.115083201015
+Everglades National Park,Key Largo,T,F_avsResult_0_-1_l_f,0.368857404999
+Everglades National Park,Key Largo,T,F_avsResult_0_1_l_f,0.368857404999
+Everglades National Park,Key Largo,T,F_avsResult_-1_0_f_l,0.0314238606282
+Everglades National Park,Key Largo,T,F_avsResult_1_0_f_l,0.414157244973
+Everglades National Park,Key Largo,T,F_avsResult_1_0_l_f,0.0808347677107
+Everglades National Park,Key Largo,T,F_avsResult_-1_0_l_f,0.4560473292
+Everglades National Park,Key Largo,T,F_avsResult_1_-1_f_l,0.304240761657
+Everglades National Park,Key Largo,T,F_avsResult_1_1_f_l,0.304240761657
+Everglades National Park,Key Largo,T,F_avsResult_1_-1_l_f,0.177119693456
+Everglades National Park,Key Largo,T,F_avsResult_1_1_l_f,0.177119693456
+Everglades National Park,Key Largo,T,F_avsResult_outside_0_-1_f_l,0.115083201015
+Everglades National Park,Key Largo,T,F_avsResult_outside_0_1_f_l,0.115083201015
+Everglades National Park,Key Largo,T,F_avsResult_outside_0_-1_l_f,0.368857404999
+Everglades National Park,Key Largo,T,F_avsResult_outside_0_1_l_f,0.368857404999
+Everglades National Park,Key Largo,T,F_avsResult_outside_-1_0_f_l,0.0314238606282
+Everglades National Park,Key Largo,T,F_avsResult_outside_1_0_f_l,0.414157244973
+Everglades National Park,Key Largo,T,F_avsResult_outside_1_0_l_f,0.0808347677107
+Everglades National Park,Key Largo,T,F_avsResult_outside_-1_0_l_f,0.4560473292
+Everglades National Park,Key Largo,T,F_avsResult_outside_1_-1_f_l,0.304240761657
+Everglades National Park,Key Largo,T,F_avsResult_outside_1_1_f_l,0.304240761657
+Everglades National Park,Key Largo,T,F_avsResult_outside_1_-1_l_f,0.177119693456
+Everglades National Park,Key Largo,T,F_avsResult_outside_1_1_l_f,0.177119693456
+Everglades National Park,Key Largo,T,F_belowFigureCentroid_f_l,1.0
+Everglades National Park,Key Largo,T,F_closeDistNormFigure_f_l,0.000212064546997
+Everglades National Park,Key Largo,T,F_closeDistNormFigure_l_f,0.377262508146
+Everglades National Park,Key Largo,T,F_closeDistNormLandmark_f_l,0.377262508146
+Everglades National Park,Key Largo,T,F_closeDistNormLandmark_l_f,0.000212064546997
+Everglades National Park,Key Largo,T,F_closeDistNormUnion_f_l,0.00021194540951
+Everglades National Park,Key Largo,T,F_closeDistNormUnion_l_f,0.00021194540951
+Everglades National Park,Key Largo,T,F_distBtwnCentroids_f_l,0.441565630812
+Everglades National Park,Key Largo,T,F_distBtwnCentroids_l_f,0.441565630812
+Everglades National Park,Key Largo,T,F_distHorizontalCentroid_f_l,0.36900338112
+Everglades National Park,Key Largo,T,F_distHorizontalCentroid_l_f,-0.36900338112
+Everglades National Park,Key Largo,T,F_distVerticalCentroid_f_l,-0.242521568188
+Everglades National Park,Key Largo,T,F_distVerticalCentroid_l_f,0.242521568188
+Everglades National Park,Key Largo,T,F_leftOfFigureCentroid_l_f,1.0
+Everglades National Park,Key Largo,T,F_rightOfFigureCentroid_f_l,1.0
+Everglades National Park,Miami,T,arg1 and the city of arg2,1
+Everglades National Park,Miami,T,arg1 west of arg2,1
+Everglades National Park,Miami,T,arg2 and east of arg1,1
+Everglades National Park,Miami,T,arg2 brings you to arg1,1
+Everglades National Park,Miami,T,arg2 is located in arg1,1
+Everglades National Park,Miami,T,bias,1.0
+Everglades National Park,Miami,T,F_aboveFigureCentroid_f_l,1.0
+Everglades National Park,Miami,T,F_avsResult_0_-1_f_l,0.299357183818
+Everglades National Park,Miami,T,F_avsResult_0_1_f_l,0.299357183818
+Everglades National Park,Miami,T,F_avsResult_0_-1_l_f,0.140461572508
+Everglades National Park,Miami,T,F_avsResult_0_1_l_f,0.140461572508
+Everglades National Park,Miami,T,F_avsResult_-1_0_f_l,0.043040964388
+Everglades National Park,Miami,T,F_avsResult_1_0_f_l,0.462750606247
+Everglades National Park,Miami,T,F_avsResult_1_0_l_f,0.0695469816708
+Everglades National Park,Miami,T,F_avsResult_-1_0_l_f,0.476341680613
+Everglades National Park,Miami,T,F_avsResult_-1_-1_f_l,0.0762292077719
+Everglades National Park,Miami,T,F_avsResult_-1_1_f_l,0.0762292077719
+Everglades National Park,Miami,T,F_avsResult_-1_-1_l_f,0.337795455693
+Everglades National Park,Miami,T,F_avsResult_-1_1_l_f,0.337795455693
+Everglades National Park,Miami,T,F_avsResult_outside_0_-1_f_l,0.299357183818
+Everglades National Park,Miami,T,F_avsResult_outside_0_1_f_l,0.299357183818
+Everglades National Park,Miami,T,F_avsResult_outside_0_-1_l_f,0.140461572508
+Everglades National Park,Miami,T,F_avsResult_outside_0_1_l_f,0.140461572508
+Everglades National Park,Miami,T,F_avsResult_outside_-1_0_f_l,0.043040964388
+Everglades National Park,Miami,T,F_avsResult_outside_1_0_f_l,0.462750606247
+Everglades National Park,Miami,T,F_avsResult_outside_1_0_l_f,0.0695469816708
+Everglades National Park,Miami,T,F_avsResult_outside_-1_0_l_f,0.476341680613
+Everglades National Park,Miami,T,F_avsResult_outside_-1_-1_f_l,0.0762292077719
+Everglades National Park,Miami,T,F_avsResult_outside_-1_1_f_l,0.0762292077719
+Everglades National Park,Miami,T,F_avsResult_outside_-1_-1_l_f,0.337795455693
+Everglades National Park,Miami,T,F_avsResult_outside_-1_1_l_f,0.337795455693
+Everglades National Park,Miami,T,F_belowFigureCentroid_l_f,1.0
+Everglades National Park,Miami,T,F_closeDistNormFigure_f_l,0.0572040505331
+Everglades National Park,Miami,T,F_closeDistNormFigure_l_f,1.0
+Everglades National Park,Miami,T,F_closeDistNormLandmark_f_l,1.0
+Everglades National Park,Miami,T,F_closeDistNormLandmark_l_f,0.0572040505331
+Everglades National Park,Miami,T,F_closeDistNormUnion_f_l,0.0559006393889
+Everglades National Park,Miami,T,F_closeDistNormUnion_l_f,0.0559006393889
+Everglades National Park,Miami,T,F_distBtwnCentroids_f_l,0.545091536415
+Everglades National Park,Miami,T,F_distBtwnCentroids_l_f,0.545091536415
+Everglades National Park,Miami,T,F_distHorizontalCentroid_f_l,0.467739448977
+Everglades National Park,Miami,T,F_distHorizontalCentroid_l_f,-0.467739448977
+Everglades National Park,Miami,T,F_distVerticalCentroid_f_l,0.279901037765
+Everglades National Park,Miami,T,F_distVerticalCentroid_l_f,-0.279901037765
+Everglades National Park,Miami,T,F_leftOfFigureCentroid_l_f,1.0
+Everglades National Park,Miami,T,F_rightOfFigureCentroid_f_l,1.0
+Everglades National Park,Tallahassee,T,bias,1.0
+Everglades National Park,Tallahassee,T,F_aboveFigureCentroid_f_l,1.0
+Everglades National Park,Tallahassee,T,F_avsResult_0_-1_f_l,0.664928203807
+Everglades National Park,Tallahassee,T,F_avsResult_0_1_f_l,0.664928203807
+Everglades National Park,Tallahassee,T,F_avsResult_0_-1_l_f,0.0325270347714
+Everglades National Park,Tallahassee,T,F_avsResult_0_1_l_f,0.0325270347714
+Everglades National Park,Tallahassee,T,F_avsResult_1_0_f_l,0.0619942520974
+Everglades National Park,Tallahassee,T,F_avsResult_-1_0_f_l,0.524928371157
+Everglades National Park,Tallahassee,T,F_avsResult_-1_0_l_f,0.0658433645517
+Everglades National Park,Tallahassee,T,F_avsResult_1_0_l_f,0.542410050401
+Everglades National Park,Tallahassee,T,F_avsResult_1_-1_f_l,0.369946516944
+Everglades National Park,Tallahassee,T,F_avsResult_1_1_f_l,0.369946516944
+Everglades National Park,Tallahassee,T,F_avsResult_1_-1_l_f,0.129789167845
+Everglades National Park,Tallahassee,T,F_avsResult_1_1_l_f,0.129789167845
+Everglades National Park,Tallahassee,T,F_avsResult_outside_0_-1_f_l,0.664928203807
+Everglades National Park,Tallahassee,T,F_avsResult_outside_0_1_f_l,0.664928203807
+Everglades National Park,Tallahassee,T,F_avsResult_outside_0_-1_l_f,0.0325270347714
+Everglades National Park,Tallahassee,T,F_avsResult_outside_0_1_l_f,0.0325270347714
+Everglades National Park,Tallahassee,T,F_avsResult_outside_1_0_f_l,0.0619942520974
+Everglades National Park,Tallahassee,T,F_avsResult_outside_-1_0_f_l,0.524928371157
+Everglades National Park,Tallahassee,T,F_avsResult_outside_-1_0_l_f,0.0658433645517
+Everglades National Park,Tallahassee,T,F_avsResult_outside_1_0_l_f,0.542410050401
+Everglades National Park,Tallahassee,T,F_avsResult_outside_1_-1_f_l,0.369946516944
+Everglades National Park,Tallahassee,T,F_avsResult_outside_1_1_f_l,0.369946516944
+Everglades National Park,Tallahassee,T,F_avsResult_outside_1_-1_l_f,0.129789167845
+Everglades National Park,Tallahassee,T,F_avsResult_outside_1_1_l_f,0.129789167845
+Everglades National Park,Tallahassee,T,F_belowFigureCentroid_l_f,1.0
+Everglades National Park,Tallahassee,T,F_closeDistNormFigure_f_l,1.0
+Everglades National Park,Tallahassee,T,F_closeDistNormFigure_l_f,1.0
+Everglades National Park,Tallahassee,T,F_closeDistNormLandmark_f_l,1.0
+Everglades National Park,Tallahassee,T,F_closeDistNormLandmark_l_f,1.0
+Everglades National Park,Tallahassee,T,F_closeDistNormUnion_f_l,1.0
+Everglades National Park,Tallahassee,T,F_closeDistNormUnion_l_f,1.0
+Everglades National Park,Tallahassee,T,F_distBtwnCentroids_f_l,0.279244949257
+Everglades National Park,Tallahassee,T,F_distBtwnCentroids_l_f,0.279244949257
+Everglades National Park,Tallahassee,T,F_distHorizontalCentroid_f_l,-0.15557916846
+Everglades National Park,Tallahassee,T,F_distHorizontalCentroid_l_f,0.15557916846
+Everglades National Park,Tallahassee,T,F_distVerticalCentroid_f_l,0.231889766973
+Everglades National Park,Tallahassee,T,F_distVerticalCentroid_l_f,-0.231889766973
+Everglades National Park,Tallahassee,T,F_leftOfFigureCentroid_f_l,1.0
+Everglades National Park,Tallahassee,T,F_rightOfFigureCentroid_l_f,1.0
+Florida,Atlanta,T,arg1 and currently resides in arg2,1
+Florida,Atlanta,T,arg1 and metro arg2,1
+Florida,Atlanta,T,arg1 and moved to arg2,1
+Florida,Atlanta,T,arg1 and one in arg2,1
+Florida,Atlanta,T,arg1 and people in arg2,1
+Florida,Atlanta,T,arg1 and returned to arg2,1
+Florida,Atlanta,T,arg1 as well as in arg2,1
+Florida,Atlanta,T,arg1 back to arg2,1
+Florida,Atlanta,T,arg2 and several cities in arg1,1
+Florida,Atlanta,T,arg2 and south arg1,1
+Florida,Atlanta,T,arg2 and southern arg1,1
+Florida,Atlanta,T,arg2 area and in arg1,1
+Florida,Atlanta,T,arg2 through arg1,1
+Florida,Atlanta,T,bias,1.0
+Florida,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Florida,Atlanta,T,F_avsResult_0_-1_f_l,0.763646169261
+Florida,Atlanta,T,F_avsResult_0_1_f_l,0.763646169261
+Florida,Atlanta,T,F_avsResult_0_-1_l_f,0.00497591168733
+Florida,Atlanta,T,F_avsResult_0_1_l_f,0.00497591168733
+Florida,Atlanta,T,F_avsResult_1_0_f_l,0.0705398904144
+Florida,Atlanta,T,F_avsResult_-1_0_f_l,0.0931203533676
+Florida,Atlanta,T,F_avsResult_-1_0_l_f,0.186380382493
+Florida,Atlanta,T,F_avsResult_1_0_l_f,0.301923043437
+Florida,Atlanta,T,F_avsResult_outside_0_-1_f_l,0.763646169261
+Florida,Atlanta,T,F_avsResult_outside_0_1_f_l,0.763646169261
+Florida,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.00497591168733
+Florida,Atlanta,T,F_avsResult_outside_0_1_l_f,0.00497591168733
+Florida,Atlanta,T,F_avsResult_outside_1_0_f_l,0.0705398904144
+Florida,Atlanta,T,F_avsResult_outside_-1_0_f_l,0.0931203533676
+Florida,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.186380382493
+Florida,Atlanta,T,F_avsResult_outside_1_0_l_f,0.301923043437
+Florida,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Florida,Atlanta,T,F_closeDistNormFigure_f_l,0.326334238269
+Florida,Atlanta,T,F_closeDistNormFigure_l_f,1.0
+Florida,Atlanta,T,F_closeDistNormLandmark_f_l,1.0
+Florida,Atlanta,T,F_closeDistNormLandmark_l_f,0.326334238269
+Florida,Atlanta,T,F_closeDistNormUnion_f_l,0.325928803275
+Florida,Atlanta,T,F_closeDistNormUnion_l_f,0.325928803275
+Florida,Atlanta,T,F_distBtwnCentroids_f_l,0.0838994342709
+Florida,Atlanta,T,F_distBtwnCentroids_l_f,0.0838994342709
+Florida,Atlanta,T,F_distHorizontalCentroid_f_l,-0.00847212864362
+Florida,Atlanta,T,F_distHorizontalCentroid_l_f,0.00847212864362
+Florida,Atlanta,T,F_distVerticalCentroid_f_l,0.0834705822864
+Florida,Atlanta,T,F_distVerticalCentroid_l_f,-0.0834705822864
+Florida,Atlanta,T,F_leftOfFigureCentroid_f_l,1.0
+Florida,Atlanta,T,F_rightOfFigureCentroid_l_f,1.0
+Florida,Daytona Beach,T,arg1 including arg2,1
+Florida,Daytona Beach,T,arg2 and throughout arg1,1
+Florida,Daytona Beach,T,arg2 area in arg1,1
+Florida,Daytona Beach,T,arg2 area of arg1,1
+Florida,Daytona Beach,T,arg2 condo rentals in arg1,1
+Florida,Daytona Beach,T,arg2 in central arg1,1
+Florida,Daytona Beach,T,arg2 in the state of arg1,1
+Florida,Daytona Beach,T,arg2 is located on arg1,1
+Florida,Daytona Beach,T,arg2 is one of arg1,1
+Florida,Daytona Beach,T,arg2 moving company in arg1,1
+Florida,Daytona Beach,T,arg2 or other arg1,1
+Florida,Daytona Beach,T,arg2 other or arg1,1
+Florida,Daytona Beach,T,arg2 since the state of arg1,1
+Florida,Daytona Beach,T,bias,1.0
+Florida,Daytona Beach,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Florida,Daytona Beach,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Florida,Daytona Beach,T,F_aboveFigureCentroid_f_l,1.0
+Florida,Daytona Beach,T,F_avsResult_0_-1_f_l,0.00454596983307
+Florida,Daytona Beach,T,F_avsResult_0_1_f_l,0.00454596983307
+Florida,Daytona Beach,T,F_avsResult_0_-1_l_f,0.104764445273
+Florida,Daytona Beach,T,F_avsResult_0_1_l_f,0.104764445273
+Florida,Daytona Beach,T,F_avsResult_-1_0_f_l,0.0140425584617
+Florida,Daytona Beach,T,F_avsResult_1_0_f_l,0.0319974222787
+Florida,Daytona Beach,T,F_avsResult_1_0_l_f,0.0372995357552
+Florida,Daytona Beach,T,F_avsResult_-1_0_l_f,0.635674615598
+Florida,Daytona Beach,T,F_avsResult_1_-1_f_l,0.0236309358754
+Florida,Daytona Beach,T,F_avsResult_1_1_f_l,0.0236309358754
+Florida,Daytona Beach,T,F_avsResult_-1_-1_l_f,0.414849477387
+Florida,Daytona Beach,T,F_avsResult_-1_1_l_f,0.414849477387
+Florida,Daytona Beach,T,F_avsResult_inside_0_-1_f_l,0.00454596983307
+Florida,Daytona Beach,T,F_avsResult_inside_0_1_f_l,0.00454596983307
+Florida,Daytona Beach,T,F_avsResult_inside_-1_0_f_l,0.0140425584617
+Florida,Daytona Beach,T,F_avsResult_inside_1_0_f_l,0.0319974222787
+Florida,Daytona Beach,T,F_avsResult_inside_1_-1_f_l,0.0236309358754
+Florida,Daytona Beach,T,F_avsResult_inside_1_1_f_l,0.0236309358754
+Florida,Daytona Beach,T,F_avsResult_outside_0_-1_l_f,0.104764445273
+Florida,Daytona Beach,T,F_avsResult_outside_0_1_l_f,0.104764445273
+Florida,Daytona Beach,T,F_avsResult_outside_1_0_l_f,0.0372995357552
+Florida,Daytona Beach,T,F_avsResult_outside_-1_0_l_f,0.635674615598
+Florida,Daytona Beach,T,F_avsResult_outside_-1_-1_l_f,0.414849477387
+Florida,Daytona Beach,T,F_avsResult_outside_-1_1_l_f,0.414849477387
+Florida,Daytona Beach,T,F_belowFigureCentroid_l_f,1.0
+Florida,Daytona Beach,T,F_distBtwnCentroids_f_l,0.0613164315732
+Florida,Daytona Beach,T,F_distBtwnCentroids_l_f,0.0613164315732
+Florida,Daytona Beach,T,F_distHorizontalCentroid_f_l,0.0536780711825
+Florida,Daytona Beach,T,F_distHorizontalCentroid_l_f,-0.0536780711825
+Florida,Daytona Beach,T,F_distVerticalCentroid_f_l,0.0296372983754
+Florida,Daytona Beach,T,F_distVerticalCentroid_l_f,-0.0296372983754
+Florida,Daytona Beach,T,F_leftOfFigureCentroid_l_f,1.0
+Florida,Daytona Beach,T,F_math2dFigureIntersectionArea_f_l,0.000302410677787
+Florida,Daytona Beach,T,F_math2dFigureIntersectionArea_l_f,1.0
+Florida,Daytona Beach,T,F_math2dIntersectionArea_f_l,0.000302410677787
+Florida,Daytona Beach,T,F_math2dIntersectionArea_l_f,0.000302410677787
+Florida,Daytona Beach,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Florida,Daytona Beach,T,F_math2dLandmarkIntersectionArea_l_f,0.000302410677787
+Florida,Daytona Beach,T,F_rightOfFigureCentroid_f_l,1.0
+Florida,Everglades National Park,T,arg1 including arg2,1
+Florida,Everglades National Park,T,arg1 through arg2,1
+Florida,Everglades National Park,T,arg1 would be arg2,1
+Florida,Everglades National Park,T,arg2 and other parts of south arg1,1
+Florida,Everglades National Park,T,arg2 florist shop in arg1,1
+Florida,Everglades National Park,T,arg2 in her home state of arg1,1
+Florida,Everglades National Park,T,arg2 in south arg1,1
+Florida,Everglades National Park,T,arg2 in southern arg1,1
+Florida,Everglades National Park,T,arg2 in the southern state of arg1,1
+Florida,Everglades National Park,T,arg2 is located in arg1,1
+Florida,Everglades National Park,T,arg2 is located in southern arg1,1
+Florida,Everglades National Park,T,arg2 is one of arg1,1
+Florida,Everglades National Park,T,arg2 makes arg1,1
+Florida,Everglades National Park,T,arg2 take arg1,1
+Florida,Everglades National Park,T,bias,1.0
+Florida,Everglades National Park,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Florida,Everglades National Park,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Florida,Everglades National Park,T,F_aboveFigureCentroid_l_f,1.0
+Florida,Everglades National Park,T,F_avsResult_0_-1_f_l,0.0245685144153
+Florida,Everglades National Park,T,F_avsResult_0_1_f_l,0.0245685144153
+Florida,Everglades National Park,T,F_avsResult_0_-1_l_f,0.504425221759
+Florida,Everglades National Park,T,F_avsResult_0_1_l_f,0.504425221759
+Florida,Everglades National Park,T,F_avsResult_-1_0_f_l,0.0114173309051
+Florida,Everglades National Park,T,F_avsResult_1_0_f_l,0.0130110250593
+Florida,Everglades National Park,T,F_avsResult_1_0_l_f,0.0445382178117
+Florida,Everglades National Park,T,F_avsResult_-1_0_l_f,0.58420049998
+Florida,Everglades National Park,T,F_avsResult_1_-1_l_f,0.156964649003
+Florida,Everglades National Park,T,F_avsResult_1_1_l_f,0.156964649003
+Florida,Everglades National Park,T,F_avsResult_inside_0_-1_f_l,0.0245685144153
+Florida,Everglades National Park,T,F_avsResult_inside_0_1_f_l,0.0245685144153
+Florida,Everglades National Park,T,F_avsResult_inside_-1_0_f_l,0.0114173309051
+Florida,Everglades National Park,T,F_avsResult_inside_1_0_f_l,0.0130110250593
+Florida,Everglades National Park,T,F_avsResult_outside_0_-1_l_f,0.504425221759
+Florida,Everglades National Park,T,F_avsResult_outside_0_1_l_f,0.504425221759
+Florida,Everglades National Park,T,F_avsResult_outside_1_0_l_f,0.0445382178117
+Florida,Everglades National Park,T,F_avsResult_outside_-1_0_l_f,0.58420049998
+Florida,Everglades National Park,T,F_avsResult_outside_1_-1_l_f,0.156964649003
+Florida,Everglades National Park,T,F_avsResult_outside_1_1_l_f,0.156964649003
+Florida,Everglades National Park,T,F_belowFigureCentroid_f_l,1.0
+Florida,Everglades National Park,T,F_distBtwnCentroids_f_l,0.0738234150929
+Florida,Everglades National Park,T,F_distBtwnCentroids_l_f,0.0738234150929
+Florida,Everglades National Park,T,F_distHorizontalCentroid_f_l,0.0577583857429
+Florida,Everglades National Park,T,F_distHorizontalCentroid_l_f,-0.0577583857429
+Florida,Everglades National Park,T,F_distVerticalCentroid_f_l,-0.045976792976
+Florida,Everglades National Park,T,F_distVerticalCentroid_l_f,0.045976792976
+Florida,Everglades National Park,T,F_leftOfFigureCentroid_l_f,1.0
+Florida,Everglades National Park,T,F_math2dFigureIntersectionArea_f_l,0.0110443146606
+Florida,Everglades National Park,T,F_math2dFigureIntersectionArea_l_f,1.0
+Florida,Everglades National Park,T,F_math2dIntersectionArea_f_l,0.0110443146606
+Florida,Everglades National Park,T,F_math2dIntersectionArea_l_f,0.0110443146606
+Florida,Everglades National Park,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Florida,Everglades National Park,T,F_math2dLandmarkIntersectionArea_l_f,0.0110443146606
+Florida,Everglades National Park,T,F_rightOfFigureCentroid_f_l,1.0
+Florida,Florida,T,arg1 and enjoy adventurous activities in arg2,1
+Florida,Florida,T,arg1 and south arg2,1
+Florida,Florida,T,arg1 and the state of arg2,1
+Florida,Florida,T,arg1 and throughout arg2,1
+Florida,Florida,T,arg1 is a city of arg2,1
+Florida,Florida,T,arg1 is a leader in arg2,1
+Florida,Florida,T,arg1 legal resources and other arg2,1
+Florida,Florida,T,arg1 panther and arg2,1
+Florida,Florida,T,arg1 real estate license classes and arg2,1
+Florida,Florida,T,arg1 than in north arg2,1
+Florida,Florida,T,arg1 to central arg2,1
+Florida,Florida,T,arg1 to south arg2,1
+Florida,Florida,T,arg1 to take advantage of arg2,1
+Florida,Florida,T,arg2 and enjoy adventurous activities in arg1,1
+Florida,Florida,T,arg2 and south arg1,1
+Florida,Florida,T,arg2 and the state of arg1,1
+Florida,Florida,T,arg2 and throughout arg1,1
+Florida,Florida,T,arg2 is a city of arg1,1
+Florida,Florida,T,arg2 is a leader in arg1,1
+Florida,Florida,T,arg2 legal resources and other arg1,1
+Florida,Florida,T,arg2 panther and arg1,1
+Florida,Florida,T,arg2 real estate license classes and arg1,1
+Florida,Florida,T,arg2 than in north arg1,1
+Florida,Florida,T,arg2 to central arg1,1
+Florida,Florida,T,arg2 to south arg1,1
+Florida,Florida,T,arg2 to take advantage of arg1,1
+Florida,Florida,T,bias,1.0
+Florida,Florida,T,entity1=entity2,1
+Florida,Florida,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Florida,Florida,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Florida,Florida,T,F_avsResult_0_-1_f_l,0.00421867323674
+Florida,Florida,T,F_avsResult_0_1_f_l,0.00421867323674
+Florida,Florida,T,F_avsResult_0_-1_l_f,0.00421867323674
+Florida,Florida,T,F_avsResult_0_1_l_f,0.00421867323674
+Florida,Florida,T,F_avsResult_1_0_f_l,0.00318850804652
+Florida,Florida,T,F_avsResult_-1_0_f_l,0.00995964416101
+Florida,Florida,T,F_avsResult_1_0_l_f,0.00318850804652
+Florida,Florida,T,F_avsResult_-1_0_l_f,0.00995964416101
+Florida,Florida,T,F_avsResult_inside_0_-1_f_l,0.00421867323674
+Florida,Florida,T,F_avsResult_inside_0_1_f_l,0.00421867323674
+Florida,Florida,T,F_avsResult_inside_0_-1_l_f,0.00421867323674
+Florida,Florida,T,F_avsResult_inside_0_1_l_f,0.00421867323674
+Florida,Florida,T,F_avsResult_inside_1_0_f_l,0.00318850804652
+Florida,Florida,T,F_avsResult_inside_-1_0_f_l,0.00995964416101
+Florida,Florida,T,F_avsResult_inside_1_0_l_f,0.00318850804652
+Florida,Florida,T,F_avsResult_inside_-1_0_l_f,0.00995964416101
+Florida,Florida,T,F_math2dFigureIntersectionArea_f_l,1.0
+Florida,Florida,T,F_math2dFigureIntersectionArea_l_f,1.0
+Florida,Florida,T,F_math2dIntersectionArea_f_l,1.0
+Florida,Florida,T,F_math2dIntersectionArea_l_f,1.0
+Florida,Florida,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Florida,Florida,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Florida,Georgia,T,arg1 and one in arg2,1
+Florida,Georgia,T,arg1 and parts of arg2,1
+Florida,Georgia,T,arg1 and south arg2,1
+Florida,Georgia,T,arg1 and southeast arg2,1
+Florida,Georgia,T,arg1 and southeastern arg2,1
+Florida,Georgia,T,arg1 and southern arg2,1
+Florida,Georgia,T,arg1 as well as arg2,1
+Florida,Georgia,T,arg1 is bordered by arg2,1
+Florida,Georgia,T,arg2 and east arg1,1
+Florida,Georgia,T,arg2 and north arg1,1
+Florida,Georgia,T,arg2 and northeast arg1,1
+Florida,Georgia,T,arg2 and northeastern arg1,1
+Florida,Georgia,T,arg2 and northern arg1,1
+Florida,Georgia,T,arg2 and northwest arg1,1
+Florida,Georgia,T,arg2 and northwestern arg1,1
+Florida,Georgia,T,arg2 and parts of arg1,1
+Florida,Georgia,T,arg2 and the panhandle of arg1,1
+Florida,Georgia,T,arg2 as well as arg1,1
+Florida,Georgia,T,arg2 beat arg1,1
+Florida,Georgia,T,arg2 vs arg1,1
+Florida,Georgia,T,bias,1.0
+Florida,Georgia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Florida,Georgia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Florida,Georgia,T,F_aboveFigureCentroid_f_l,1.0
+Florida,Georgia,T,F_avsResult_0_-1_f_l,0.674161700316
+Florida,Georgia,T,F_avsResult_0_1_f_l,0.674161700316
+Florida,Georgia,T,F_avsResult_0_-1_l_f,0.00743075943135
+Florida,Georgia,T,F_avsResult_0_1_l_f,0.00743075943135
+Florida,Georgia,T,F_avsResult_-1_0_f_l,0.0671796764849
+Florida,Georgia,T,F_avsResult_1_0_f_l,0.0746372321623
+Florida,Georgia,T,F_avsResult_1_0_l_f,0.0983934110854
+Florida,Georgia,T,F_avsResult_-1_0_l_f,0.154828152301
+Florida,Georgia,T,F_avsResult_outside_0_-1_f_l,0.674161700316
+Florida,Georgia,T,F_avsResult_outside_0_1_f_l,0.674161700316
+Florida,Georgia,T,F_avsResult_outside_0_-1_l_f,0.00743075943135
+Florida,Georgia,T,F_avsResult_outside_0_1_l_f,0.00743075943135
+Florida,Georgia,T,F_avsResult_outside_-1_0_f_l,0.0671796764849
+Florida,Georgia,T,F_avsResult_outside_1_0_f_l,0.0746372321623
+Florida,Georgia,T,F_avsResult_outside_1_0_l_f,0.0983934110854
+Florida,Georgia,T,F_avsResult_outside_-1_0_l_f,0.154828152301
+Florida,Georgia,T,F_belowFigureCentroid_l_f,1.0
+Florida,Georgia,T,F_distBtwnCentroids_f_l,0.0611224650357
+Florida,Georgia,T,F_distBtwnCentroids_l_f,0.0611224650357
+Florida,Georgia,T,F_distHorizontalCentroid_f_l,0.00444643106966
+Florida,Georgia,T,F_distHorizontalCentroid_l_f,-0.00444643106966
+Florida,Georgia,T,F_distVerticalCentroid_f_l,0.0609605198697
+Florida,Georgia,T,F_distVerticalCentroid_l_f,-0.0609605198697
+Florida,Georgia,T,F_leftOfFigureCentroid_l_f,1.0
+Florida,Georgia,T,F_math2dFigureIntersectionArea_f_l,0.0240795255785
+Florida,Georgia,T,F_math2dFigureIntersectionArea_l_f,0.083222304956
+Florida,Georgia,T,F_math2dIntersectionArea_f_l,0.0190312822977
+Florida,Georgia,T,F_math2dIntersectionArea_l_f,0.0190312822977
+Florida,Georgia,T,F_math2dLandmarkIntersectionArea_f_l,0.083222304956
+Florida,Georgia,T,F_math2dLandmarkIntersectionArea_l_f,0.0240795255785
+Florida,Georgia,T,F_rightOfFigureCentroid_f_l,1.0
+Florida,Key Largo,T,arg1 including arg2,1
+Florida,Key Largo,T,arg1 panhandle and arg2,1
+Florida,Key Largo,T,arg1 then consider arg2,1
+Florida,Key Largo,T,arg1 using an interactive map of arg2,1
+Florida,Key Largo,T,arg1 working in arg2,1
+Florida,Key Largo,T,arg2 area of arg1,1
+Florida,Key Largo,T,arg2 can be found within arg1,1
+Florida,Key Largo,T,arg2 real estate agent in arg1,1
+Florida,Key Largo,T,arg2 since the state of arg1,1
+Florida,Key Largo,T,bias,1.0
+Florida,Key Largo,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Florida,Key Largo,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Florida,Key Largo,T,F_aboveFigureCentroid_l_f,1.0
+Florida,Key Largo,T,F_avsResult_0_-1_f_l,0.0250492628753
+Florida,Key Largo,T,F_avsResult_0_1_f_l,0.0250492628753
+Florida,Key Largo,T,F_avsResult_0_-1_l_f,0.538281524563
+Florida,Key Largo,T,F_avsResult_0_1_l_f,0.538281524563
+Florida,Key Largo,T,F_avsResult_-1_0_f_l,0.0148100825142
+Florida,Key Largo,T,F_avsResult_1_0_f_l,0.0575798060213
+Florida,Key Largo,T,F_avsResult_1_0_l_f,0.0446925403289
+Florida,Key Largo,T,F_avsResult_-1_0_l_f,0.621371893603
+Florida,Key Largo,T,F_avsResult_1_-1_l_f,0.178862338409
+Florida,Key Largo,T,F_avsResult_1_1_l_f,0.178862338409
+Florida,Key Largo,T,F_avsResult_inside_0_-1_f_l,0.0250492628753
+Florida,Key Largo,T,F_avsResult_inside_0_1_f_l,0.0250492628753
+Florida,Key Largo,T,F_avsResult_inside_-1_0_f_l,0.0148100825142
+Florida,Key Largo,T,F_avsResult_inside_1_0_f_l,0.0575798060213
+Florida,Key Largo,T,F_avsResult_outside_0_-1_l_f,0.538281524563
+Florida,Key Largo,T,F_avsResult_outside_0_1_l_f,0.538281524563
+Florida,Key Largo,T,F_avsResult_outside_1_0_l_f,0.0446925403289
+Florida,Key Largo,T,F_avsResult_outside_-1_0_l_f,0.621371893603
+Florida,Key Largo,T,F_avsResult_outside_1_-1_l_f,0.178862338409
+Florida,Key Largo,T,F_avsResult_outside_1_1_l_f,0.178862338409
+Florida,Key Largo,T,F_belowFigureCentroid_f_l,1.0
+Florida,Key Largo,T,F_distBtwnCentroids_f_l,0.0840743784283
+Florida,Key Largo,T,F_distBtwnCentroids_l_f,0.0840743784283
+Florida,Key Largo,T,F_distHorizontalCentroid_f_l,0.0663559505481
+Florida,Key Largo,T,F_distHorizontalCentroid_l_f,-0.0663559505481
+Florida,Key Largo,T,F_distVerticalCentroid_f_l,-0.0516274048832
+Florida,Key Largo,T,F_distVerticalCentroid_l_f,0.0516274048832
+Florida,Key Largo,T,F_leftOfFigureCentroid_l_f,1.0
+Florida,Key Largo,T,F_math2dFigureIntersectionArea_f_l,6.20816416902e-06
+Florida,Key Largo,T,F_math2dFigureIntersectionArea_l_f,0.999999999999
+Florida,Key Largo,T,F_math2dIntersectionArea_f_l,6.20816416902e-06
+Florida,Key Largo,T,F_math2dIntersectionArea_l_f,6.20816416902e-06
+Florida,Key Largo,T,F_math2dLandmarkIntersectionArea_f_l,0.999999999999
+Florida,Key Largo,T,F_math2dLandmarkIntersectionArea_l_f,6.20816416902e-06
+Florida,Key Largo,T,F_rightOfFigureCentroid_f_l,1.0
+Florida,Miami,T,arg1 cities of arg2,1
+Florida,Miami,T,arg1 including arg2,1
+Florida,Miami,T,arg1 offices in arg2,1
+Florida,Miami,T,arg1 southwest of arg2,1
+Florida,Miami,T,arg1 such as arg2,1
+Florida,Miami,T,arg2 airport in arg1,1
+Florida,Miami,T,arg2 and other parts of arg1,1
+Florida,Miami,T,arg2 and south arg1,1
+Florida,Miami,T,arg2 and southern arg1,1
+Florida,Miami,T,arg2 and the state of arg1,1
+Florida,Miami,T,arg2 and throughout arg1,1
+Florida,Miami,T,arg2 area in arg1,1
+Florida,Miami,T,arg2 area of arg1,1
+Florida,Miami,T,arg2 beach arg1,1
+Florida,Miami,T,arg2 defeated arg1,1
+Florida,Miami,T,arg2 escorts in arg1,1
+Florida,Miami,T,arg2 in south arg1,1
+Florida,Miami,T,arg2 in the state of arg1,1
+Florida,Miami,T,arg2 real estate agent in arg1,1
+Florida,Miami,T,bias,1.0
+Florida,Miami,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Florida,Miami,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Florida,Miami,T,F_aboveFigureCentroid_l_f,1.0
+Florida,Miami,T,F_avsResult_0_-1_f_l,0.0344984421184
+Florida,Miami,T,F_avsResult_0_1_f_l,0.0344984421184
+Florida,Miami,T,F_avsResult_0_-1_l_f,0.467575348608
+Florida,Miami,T,F_avsResult_0_1_l_f,0.467575348608
+Florida,Miami,T,F_avsResult_-1_0_f_l,0.00660070775243
+Florida,Miami,T,F_avsResult_1_0_f_l,0.165832195887
+Florida,Miami,T,F_avsResult_1_0_l_f,0.0319622280126
+Florida,Miami,T,F_avsResult_-1_0_l_f,0.667001596875
+Florida,Miami,T,F_avsResult_1_-1_f_l,0.143780273075
+Florida,Miami,T,F_avsResult_1_1_f_l,0.143780273075
+Florida,Miami,T,F_avsResult_1_-1_l_f,0.103283821296
+Florida,Miami,T,F_avsResult_1_1_l_f,0.103283821296
+Florida,Miami,T,F_avsResult_inside_0_-1_f_l,0.0344984421184
+Florida,Miami,T,F_avsResult_inside_0_1_f_l,0.0344984421184
+Florida,Miami,T,F_avsResult_inside_-1_0_f_l,0.00660070775243
+Florida,Miami,T,F_avsResult_inside_1_0_f_l,0.165832195887
+Florida,Miami,T,F_avsResult_inside_1_-1_f_l,0.143780273075
+Florida,Miami,T,F_avsResult_inside_1_1_f_l,0.143780273075
+Florida,Miami,T,F_avsResult_outside_0_-1_l_f,0.467575348608
+Florida,Miami,T,F_avsResult_outside_0_1_l_f,0.467575348608
+Florida,Miami,T,F_avsResult_outside_1_0_l_f,0.0319622280126
+Florida,Miami,T,F_avsResult_outside_-1_0_l_f,0.667001596875
+Florida,Miami,T,F_avsResult_outside_1_-1_l_f,0.103283821296
+Florida,Miami,T,F_avsResult_outside_1_1_l_f,0.103283821296
+Florida,Miami,T,F_belowFigureCentroid_f_l,1.0
+Florida,Miami,T,F_distBtwnCentroids_f_l,0.0805897788381
+Florida,Miami,T,F_distBtwnCentroids_l_f,0.0805897788381
+Florida,Miami,T,F_distHorizontalCentroid_f_l,0.0710589739537
+Florida,Miami,T,F_distHorizontalCentroid_l_f,-0.0710589739537
+Florida,Miami,T,F_distVerticalCentroid_f_l,-0.0380175574417
+Florida,Miami,T,F_distVerticalCentroid_l_f,0.0380175574417
+Florida,Miami,T,F_leftOfFigureCentroid_l_f,1.0
+Florida,Miami,T,F_math2dFigureIntersectionArea_f_l,0.000257515530513
+Florida,Miami,T,F_math2dFigureIntersectionArea_l_f,1.0
+Florida,Miami,T,F_math2dIntersectionArea_f_l,0.000257515530513
+Florida,Miami,T,F_math2dIntersectionArea_l_f,0.000257515530513
+Florida,Miami,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Florida,Miami,T,F_math2dLandmarkIntersectionArea_l_f,0.000257515530513
+Florida,Miami,T,F_rightOfFigureCentroid_f_l,1.0
+Florida,Tallahassee,T,arg1 capital city of arg2,1
+Florida,Tallahassee,T,arg1 east of arg2,1
+Florida,Tallahassee,T,arg1 include arg2,1
+Florida,Tallahassee,T,arg1 including arg2,1
+Florida,Tallahassee,T,arg1 panhandle from arg2,1
+Florida,Tallahassee,T,arg2 and across arg1,1
+Florida,Tallahassee,T,arg2 and the state of arg1,1
+Florida,Tallahassee,T,arg2 and throughout arg1,1
+Florida,Tallahassee,T,arg2 became the capital of arg1,1
+Florida,Tallahassee,T,arg2 during arg1,1
+Florida,Tallahassee,T,arg2 in northern arg1,1
+Florida,Tallahassee,T,arg2 is also the capital of arg1,1
+Florida,Tallahassee,T,arg2 is the capital city of arg1,1
+Florida,Tallahassee,T,arg2 is the capital of arg1,1
+Florida,Tallahassee,T,arg2 is the state capital of arg1,1
+Florida,Tallahassee,T,arg2 or anywhere else in arg1,1
+Florida,Tallahassee,T,bias,1.0
+Florida,Tallahassee,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Florida,Tallahassee,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Florida,Tallahassee,T,F_aboveFigureCentroid_f_l,1.0
+Florida,Tallahassee,T,F_avsResult_0_-1_f_l,0.01915729271
+Florida,Tallahassee,T,F_avsResult_0_1_f_l,0.01915729271
+Florida,Tallahassee,T,F_avsResult_0_-1_l_f,0.0129057516467
+Florida,Tallahassee,T,F_avsResult_0_1_l_f,0.0129057516467
+Florida,Tallahassee,T,F_avsResult_1_0_f_l,0.0288599561617
+Florida,Tallahassee,T,F_avsResult_-1_0_f_l,0.02972132472
+Florida,Tallahassee,T,F_avsResult_-1_0_l_f,0.192512782471
+Florida,Tallahassee,T,F_avsResult_1_0_l_f,0.313401036983
+Florida,Tallahassee,T,F_avsResult_inside_0_-1_f_l,0.01915729271
+Florida,Tallahassee,T,F_avsResult_inside_0_1_f_l,0.01915729271
+Florida,Tallahassee,T,F_avsResult_inside_1_0_f_l,0.0288599561617
+Florida,Tallahassee,T,F_avsResult_inside_-1_0_f_l,0.02972132472
+Florida,Tallahassee,T,F_avsResult_outside_0_-1_l_f,0.0129057516467
+Florida,Tallahassee,T,F_avsResult_outside_0_1_l_f,0.0129057516467
+Florida,Tallahassee,T,F_avsResult_outside_-1_0_l_f,0.192512782471
+Florida,Tallahassee,T,F_avsResult_outside_1_0_l_f,0.313401036983
+Florida,Tallahassee,T,F_belowFigureCentroid_l_f,1.0
+Florida,Tallahassee,T,F_distBtwnCentroids_f_l,0.054956260177
+Florida,Tallahassee,T,F_distBtwnCentroids_l_f,0.054956260177
+Florida,Tallahassee,T,F_distHorizontalCentroid_f_l,-0.00941443560187
+Florida,Tallahassee,T,F_distHorizontalCentroid_l_f,0.00941443560187
+Florida,Tallahassee,T,F_distVerticalCentroid_f_l,0.0541438725521
+Florida,Tallahassee,T,F_distVerticalCentroid_l_f,-0.0541438725521
+Florida,Tallahassee,T,F_leftOfFigureCentroid_f_l,1.0
+Florida,Tallahassee,T,F_math2dFigureIntersectionArea_f_l,6.20816416902e-06
+Florida,Tallahassee,T,F_math2dFigureIntersectionArea_l_f,1.0
+Florida,Tallahassee,T,F_math2dIntersectionArea_f_l,6.20816416902e-06
+Florida,Tallahassee,T,F_math2dIntersectionArea_l_f,6.20816416902e-06
+Florida,Tallahassee,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Florida,Tallahassee,T,F_math2dLandmarkIntersectionArea_l_f,6.20816416902e-06
+Florida,Tallahassee,T,F_rightOfFigureCentroid_l_f,1.0
+Georgia,Atlanta,T,arg1 and metro arg2,1
+Georgia,Atlanta,T,arg1 a suburb of arg2,1
+Georgia,Atlanta,T,arg1 including arg2,1
+Georgia,Atlanta,T,arg1 north of arg2,1
+Georgia,Atlanta,T,arg1 outside arg2,1
+Georgia,Atlanta,T,arg1 outside of arg2,1
+Georgia,Atlanta,T,arg1 which includes arg2,1
+Georgia,Atlanta,T,arg2 and across arg1,1
+Georgia,Atlanta,T,arg2 and north arg1,1
+Georgia,Atlanta,T,arg2 and other parts of arg1,1
+Georgia,Atlanta,T,arg2 and the state of arg1,1
+Georgia,Atlanta,T,arg2 and throughout arg1,1
+Georgia,Atlanta,T,arg2 and throughout the state of arg1,1
+Georgia,Atlanta,T,arg2 area and throughout arg1,1
+Georgia,Atlanta,T,arg2 area of arg1,1
+Georgia,Atlanta,T,arg2 escorts in arg1,1
+Georgia,Atlanta,T,arg2 is a beautiful city in arg1,1
+Georgia,Atlanta,T,arg2 is the capital of arg1,1
+Georgia,Atlanta,T,arg2 or anywhere in arg1,1
+Georgia,Atlanta,T,bias,1.0
+Georgia,Atlanta,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Georgia,Atlanta,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Georgia,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Georgia,Atlanta,T,F_avsResult_0_-1_f_l,0.0034089560146
+Georgia,Atlanta,T,F_avsResult_0_1_f_l,0.0034089560146
+Georgia,Atlanta,T,F_avsResult_0_-1_l_f,0.0772841518464
+Georgia,Atlanta,T,F_avsResult_0_1_l_f,0.0772841518464
+Georgia,Atlanta,T,F_avsResult_-1_0_f_l,0.0128323904794
+Georgia,Atlanta,T,F_avsResult_1_0_f_l,0.0836044404074
+Georgia,Atlanta,T,F_avsResult_-1_0_l_f,0.0963588192763
+Georgia,Atlanta,T,F_avsResult_1_0_l_f,0.446421103784
+Georgia,Atlanta,T,F_avsResult_-1_-1_f_l,0.176830637264
+Georgia,Atlanta,T,F_avsResult_-1_1_f_l,0.176830637264
+Georgia,Atlanta,T,F_avsResult_1_-1_l_f,0.209464967708
+Georgia,Atlanta,T,F_avsResult_1_1_l_f,0.209464967708
+Georgia,Atlanta,T,F_avsResult_inside_0_-1_f_l,0.0034089560146
+Georgia,Atlanta,T,F_avsResult_inside_0_1_f_l,0.0034089560146
+Georgia,Atlanta,T,F_avsResult_inside_-1_0_f_l,0.0128323904794
+Georgia,Atlanta,T,F_avsResult_inside_1_0_f_l,0.0836044404074
+Georgia,Atlanta,T,F_avsResult_inside_-1_-1_f_l,0.176830637264
+Georgia,Atlanta,T,F_avsResult_inside_-1_1_f_l,0.176830637264
+Georgia,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.0772841518464
+Georgia,Atlanta,T,F_avsResult_outside_0_1_l_f,0.0772841518464
+Georgia,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.0963588192763
+Georgia,Atlanta,T,F_avsResult_outside_1_0_l_f,0.446421103784
+Georgia,Atlanta,T,F_avsResult_outside_1_-1_l_f,0.209464967708
+Georgia,Atlanta,T,F_avsResult_outside_1_1_l_f,0.209464967708
+Georgia,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Georgia,Atlanta,T,F_distBtwnCentroids_f_l,0.0674925953042
+Georgia,Atlanta,T,F_distBtwnCentroids_l_f,0.0674925953042
+Georgia,Atlanta,T,F_distHorizontalCentroid_f_l,-0.0442921598795
+Georgia,Atlanta,T,F_distHorizontalCentroid_l_f,0.0442921598795
+Georgia,Atlanta,T,F_distVerticalCentroid_f_l,0.0509259756323
+Georgia,Atlanta,T,F_distVerticalCentroid_l_f,-0.0509259756323
+Georgia,Atlanta,T,F_leftOfFigureCentroid_f_l,1.0
+Georgia,Atlanta,T,F_math2dFigureIntersectionArea_f_l,0.00429922626838
+Georgia,Atlanta,T,F_math2dFigureIntersectionArea_l_f,1.0
+Georgia,Atlanta,T,F_math2dIntersectionArea_f_l,0.00429922626838
+Georgia,Atlanta,T,F_math2dIntersectionArea_l_f,0.00429922626838
+Georgia,Atlanta,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Georgia,Atlanta,T,F_math2dLandmarkIntersectionArea_l_f,0.00429922626838
+Georgia,Atlanta,T,F_rightOfFigureCentroid_l_f,1.0
+Georgia,Daytona Beach,T,bias,1.0
+Georgia,Daytona Beach,T,F_aboveFigureCentroid_l_f,1.0
+Georgia,Daytona Beach,T,F_avsResult_0_-1_f_l,0.0219904323693
+Georgia,Daytona Beach,T,F_avsResult_0_1_f_l,0.0219904323693
+Georgia,Daytona Beach,T,F_avsResult_0_-1_l_f,0.637333775251
+Georgia,Daytona Beach,T,F_avsResult_0_1_l_f,0.637333775251
+Georgia,Daytona Beach,T,F_avsResult_-1_0_f_l,0.0574226379574
+Georgia,Daytona Beach,T,F_avsResult_1_0_f_l,0.317034096071
+Georgia,Daytona Beach,T,F_avsResult_1_0_l_f,0.0771812009494
+Georgia,Daytona Beach,T,F_avsResult_-1_0_l_f,0.509463583764
+Georgia,Daytona Beach,T,F_avsResult_1_-1_f_l,0.0730143974727
+Georgia,Daytona Beach,T,F_avsResult_1_1_f_l,0.0730143974727
+Georgia,Daytona Beach,T,F_avsResult_1_-1_l_f,0.367203172409
+Georgia,Daytona Beach,T,F_avsResult_1_1_l_f,0.367203172409
+Georgia,Daytona Beach,T,F_avsResult_outside_0_-1_f_l,0.0219904323693
+Georgia,Daytona Beach,T,F_avsResult_outside_0_1_f_l,0.0219904323693
+Georgia,Daytona Beach,T,F_avsResult_outside_0_-1_l_f,0.637333775251
+Georgia,Daytona Beach,T,F_avsResult_outside_0_1_l_f,0.637333775251
+Georgia,Daytona Beach,T,F_avsResult_outside_-1_0_f_l,0.0574226379574
+Georgia,Daytona Beach,T,F_avsResult_outside_1_0_f_l,0.317034096071
+Georgia,Daytona Beach,T,F_avsResult_outside_1_0_l_f,0.0771812009494
+Georgia,Daytona Beach,T,F_avsResult_outside_-1_0_l_f,0.509463583764
+Georgia,Daytona Beach,T,F_avsResult_outside_1_-1_f_l,0.0730143974727
+Georgia,Daytona Beach,T,F_avsResult_outside_1_1_f_l,0.0730143974727
+Georgia,Daytona Beach,T,F_avsResult_outside_1_-1_l_f,0.367203172409
+Georgia,Daytona Beach,T,F_avsResult_outside_1_1_l_f,0.367203172409
+Georgia,Daytona Beach,T,F_belowFigureCentroid_f_l,1.0
+Georgia,Daytona Beach,T,F_closeDistNormFigure_f_l,0.13840099842
+Georgia,Daytona Beach,T,F_closeDistNormFigure_l_f,1.0
+Georgia,Daytona Beach,T,F_closeDistNormLandmark_f_l,1.0
+Georgia,Daytona Beach,T,F_closeDistNormLandmark_l_f,0.13840099842
+Georgia,Daytona Beach,T,F_closeDistNormUnion_f_l,0.138256496212
+Georgia,Daytona Beach,T,F_closeDistNormUnion_l_f,0.138256496212
+Georgia,Daytona Beach,T,F_distBtwnCentroids_f_l,0.149531330095
+Georgia,Daytona Beach,T,F_distBtwnCentroids_l_f,0.149531330095
+Georgia,Daytona Beach,T,F_distHorizontalCentroid_f_l,0.0843643799316
+Georgia,Daytona Beach,T,F_distHorizontalCentroid_l_f,-0.0843643799316
+Georgia,Daytona Beach,T,F_distVerticalCentroid_f_l,-0.123459588849
+Georgia,Daytona Beach,T,F_distVerticalCentroid_l_f,0.123459588849
+Georgia,Daytona Beach,T,F_leftOfFigureCentroid_l_f,1.0
+Georgia,Daytona Beach,T,F_rightOfFigureCentroid_f_l,1.0
+Georgia,Everglades National Park,T,bias,1.0
+Georgia,Everglades National Park,T,F_aboveFigureCentroid_l_f,1.0
+Georgia,Everglades National Park,T,F_avsResult_0_-1_f_l,0.010527697316
+Georgia,Everglades National Park,T,F_avsResult_0_1_f_l,0.010527697316
+Georgia,Everglades National Park,T,F_avsResult_0_-1_l_f,0.764152077489
+Georgia,Everglades National Park,T,F_avsResult_0_1_l_f,0.764152077489
+Georgia,Everglades National Park,T,F_avsResult_-1_0_f_l,0.0716109638578
+Georgia,Everglades National Park,T,F_avsResult_1_0_f_l,0.296638764276
+Georgia,Everglades National Park,T,F_avsResult_1_0_l_f,0.0882396037146
+Georgia,Everglades National Park,T,F_avsResult_-1_0_l_f,0.433768427219
+Georgia,Everglades National Park,T,F_avsResult_1_-1_f_l,0.0214802495706
+Georgia,Everglades National Park,T,F_avsResult_1_1_f_l,0.0214802495706
+Georgia,Everglades National Park,T,F_avsResult_1_-1_l_f,0.646783130539
+Georgia,Everglades National Park,T,F_avsResult_1_1_l_f,0.646783130539
+Georgia,Everglades National Park,T,F_avsResult_outside_0_-1_f_l,0.010527697316
+Georgia,Everglades National Park,T,F_avsResult_outside_0_1_f_l,0.010527697316
+Georgia,Everglades National Park,T,F_avsResult_outside_0_-1_l_f,0.764152077489
+Georgia,Everglades National Park,T,F_avsResult_outside_0_1_l_f,0.764152077489
+Georgia,Everglades National Park,T,F_avsResult_outside_-1_0_f_l,0.0716109638578
+Georgia,Everglades National Park,T,F_avsResult_outside_1_0_f_l,0.296638764276
+Georgia,Everglades National Park,T,F_avsResult_outside_1_0_l_f,0.0882396037146
+Georgia,Everglades National Park,T,F_avsResult_outside_-1_0_l_f,0.433768427219
+Georgia,Everglades National Park,T,F_avsResult_outside_1_-1_f_l,0.0214802495706
+Georgia,Everglades National Park,T,F_avsResult_outside_1_1_f_l,0.0214802495706
+Georgia,Everglades National Park,T,F_avsResult_outside_1_-1_l_f,0.646783130539
+Georgia,Everglades National Park,T,F_avsResult_outside_1_1_l_f,0.646783130539
+Georgia,Everglades National Park,T,F_belowFigureCentroid_f_l,1.0
+Georgia,Everglades National Park,T,F_closeDistNormFigure_f_l,1.0
+Georgia,Everglades National Park,T,F_closeDistNormFigure_l_f,1.0
+Georgia,Everglades National Park,T,F_closeDistNormLandmark_f_l,1.0
+Georgia,Everglades National Park,T,F_closeDistNormLandmark_l_f,1.0
+Georgia,Everglades National Park,T,F_closeDistNormUnion_f_l,1.0
+Georgia,Everglades National Park,T,F_closeDistNormUnion_l_f,1.0
+Georgia,Everglades National Park,T,F_distBtwnCentroids_f_l,0.145799684781
+Georgia,Everglades National Park,T,F_distBtwnCentroids_l_f,0.145799684781
+Georgia,Everglades National Park,T,F_distHorizontalCentroid_f_l,0.0484391141322
+Georgia,Everglades National Park,T,F_distHorizontalCentroid_l_f,-0.0484391141322
+Georgia,Everglades National Park,T,F_distVerticalCentroid_f_l,-0.137517999928
+Georgia,Everglades National Park,T,F_distVerticalCentroid_l_f,0.137517999928
+Georgia,Everglades National Park,T,F_leftOfFigureCentroid_l_f,1.0
+Georgia,Everglades National Park,T,F_rightOfFigureCentroid_f_l,1.0
+Georgia,Florida,T,arg1 and east arg2,1
+Georgia,Florida,T,arg1 and north arg2,1
+Georgia,Florida,T,arg1 and northeast arg2,1
+Georgia,Florida,T,arg1 and northeastern arg2,1
+Georgia,Florida,T,arg1 and northern arg2,1
+Georgia,Florida,T,arg1 and northwest arg2,1
+Georgia,Florida,T,arg1 and northwestern arg2,1
+Georgia,Florida,T,arg1 and parts of arg2,1
+Georgia,Florida,T,arg1 and the panhandle of arg2,1
+Georgia,Florida,T,arg1 as well as arg2,1
+Georgia,Florida,T,arg1 beat arg2,1
+Georgia,Florida,T,arg2 and one in arg1,1
+Georgia,Florida,T,arg2 and parts of arg1,1
+Georgia,Florida,T,arg2 and south arg1,1
+Georgia,Florida,T,arg2 and southeast arg1,1
+Georgia,Florida,T,arg2 and southeastern arg1,1
+Georgia,Florida,T,arg2 and southern arg1,1
+Georgia,Florida,T,arg2 as well as arg1,1
+Georgia,Florida,T,arg2 beat arg1,1
+Georgia,Florida,T,arg2 is bordered by arg1,1
+Georgia,Florida,T,bias,1.0
+Georgia,Florida,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Georgia,Florida,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Georgia,Florida,T,F_aboveFigureCentroid_l_f,1.0
+Georgia,Florida,T,F_avsResult_0_-1_f_l,0.00743075943135
+Georgia,Florida,T,F_avsResult_0_1_f_l,0.00743075943135
+Georgia,Florida,T,F_avsResult_0_-1_l_f,0.674161700316
+Georgia,Florida,T,F_avsResult_0_1_l_f,0.674161700316
+Georgia,Florida,T,F_avsResult_1_0_f_l,0.0983934110854
+Georgia,Florida,T,F_avsResult_-1_0_f_l,0.154828152301
+Georgia,Florida,T,F_avsResult_-1_0_l_f,0.0671796764849
+Georgia,Florida,T,F_avsResult_1_0_l_f,0.0746372321623
+Georgia,Florida,T,F_avsResult_outside_0_-1_f_l,0.00743075943135
+Georgia,Florida,T,F_avsResult_outside_0_1_f_l,0.00743075943135
+Georgia,Florida,T,F_avsResult_outside_0_-1_l_f,0.674161700316
+Georgia,Florida,T,F_avsResult_outside_0_1_l_f,0.674161700316
+Georgia,Florida,T,F_avsResult_outside_1_0_f_l,0.0983934110854
+Georgia,Florida,T,F_avsResult_outside_-1_0_f_l,0.154828152301
+Georgia,Florida,T,F_avsResult_outside_-1_0_l_f,0.0671796764849
+Georgia,Florida,T,F_avsResult_outside_1_0_l_f,0.0746372321623
+Georgia,Florida,T,F_belowFigureCentroid_f_l,1.0
+Georgia,Florida,T,F_distBtwnCentroids_f_l,0.0611224650357
+Georgia,Florida,T,F_distBtwnCentroids_l_f,0.0611224650357
+Georgia,Florida,T,F_distHorizontalCentroid_f_l,-0.00444643106966
+Georgia,Florida,T,F_distHorizontalCentroid_l_f,0.00444643106966
+Georgia,Florida,T,F_distVerticalCentroid_f_l,-0.0609605198697
+Georgia,Florida,T,F_distVerticalCentroid_l_f,0.0609605198697
+Georgia,Florida,T,F_leftOfFigureCentroid_f_l,1.0
+Georgia,Florida,T,F_math2dFigureIntersectionArea_f_l,0.083222304956
+Georgia,Florida,T,F_math2dFigureIntersectionArea_l_f,0.0240795255785
+Georgia,Florida,T,F_math2dIntersectionArea_f_l,0.0190312822977
+Georgia,Florida,T,F_math2dIntersectionArea_l_f,0.0190312822977
+Georgia,Florida,T,F_math2dLandmarkIntersectionArea_f_l,0.0240795255785
+Georgia,Florida,T,F_math2dLandmarkIntersectionArea_l_f,0.083222304956
+Georgia,Florida,T,F_rightOfFigureCentroid_l_f,1.0
+Georgia,Georgia,T,arg1 and view arg2,1
+Georgia,Georgia,T,arg1 as well as arg2,1
+Georgia,Georgia,T,arg1 following arg2,1
+Georgia,Georgia,T,arg1 kindergarten and arg2,1
+Georgia,Georgia,T,arg1 or moving from arg2,1
+Georgia,Georgia,T,arg1 or outside of arg2,1
+Georgia,Georgia,T,arg1 our local arg2,1
+Georgia,Georgia,T,arg1 real estate license classes and arg2,1
+Georgia,Georgia,T,arg1 that borders arg2,1
+Georgia,Georgia,T,arg2 and view arg1,1
+Georgia,Georgia,T,arg2 as well as arg1,1
+Georgia,Georgia,T,arg2 following arg1,1
+Georgia,Georgia,T,arg2 kindergarten and arg1,1
+Georgia,Georgia,T,arg2 or moving from arg1,1
+Georgia,Georgia,T,arg2 or outside of arg1,1
+Georgia,Georgia,T,arg2 our local arg1,1
+Georgia,Georgia,T,arg2 real estate license classes and arg1,1
+Georgia,Georgia,T,arg2 that borders arg1,1
+Georgia,Georgia,T,bias,1.0
+Georgia,Georgia,T,entity1=entity2,1
+Georgia,Georgia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Georgia,Georgia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Georgia,Georgia,T,F_avsResult_0_-1_f_l,0.0426470131134
+Georgia,Georgia,T,F_avsResult_0_1_f_l,0.0426470131134
+Georgia,Georgia,T,F_avsResult_0_-1_l_f,0.0426470131134
+Georgia,Georgia,T,F_avsResult_0_1_l_f,0.0426470131134
+Georgia,Georgia,T,F_avsResult_1_0_f_l,0.0707422670971
+Georgia,Georgia,T,F_avsResult_-1_0_f_l,0.221548630458
+Georgia,Georgia,T,F_avsResult_1_0_l_f,0.0707422670971
+Georgia,Georgia,T,F_avsResult_-1_0_l_f,0.221548630458
+Georgia,Georgia,T,F_avsResult_inside_0_-1_f_l,0.0426470131134
+Georgia,Georgia,T,F_avsResult_inside_0_1_f_l,0.0426470131134
+Georgia,Georgia,T,F_avsResult_inside_0_-1_l_f,0.0426470131134
+Georgia,Georgia,T,F_avsResult_inside_0_1_l_f,0.0426470131134
+Georgia,Georgia,T,F_avsResult_inside_1_0_f_l,0.0707422670971
+Georgia,Georgia,T,F_avsResult_inside_-1_0_f_l,0.221548630458
+Georgia,Georgia,T,F_avsResult_inside_1_0_l_f,0.0707422670971
+Georgia,Georgia,T,F_avsResult_inside_-1_0_l_f,0.221548630458
+Georgia,Georgia,T,F_math2dFigureIntersectionArea_f_l,1.0
+Georgia,Georgia,T,F_math2dFigureIntersectionArea_l_f,1.0
+Georgia,Georgia,T,F_math2dIntersectionArea_f_l,1.0
+Georgia,Georgia,T,F_math2dIntersectionArea_l_f,1.0
+Georgia,Georgia,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Georgia,Georgia,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Georgia,Key Largo,T,bias,1.0
+Georgia,Key Largo,T,F_aboveFigureCentroid_l_f,1.0
+Georgia,Key Largo,T,F_avsResult_0_-1_f_l,0.0117377742975
+Georgia,Key Largo,T,F_avsResult_0_1_f_l,0.0117377742975
+Georgia,Key Largo,T,F_avsResult_0_-1_l_f,0.760323336026
+Georgia,Key Largo,T,F_avsResult_0_1_l_f,0.760323336026
+Georgia,Key Largo,T,F_avsResult_-1_0_f_l,0.0660043844867
+Georgia,Key Largo,T,F_avsResult_1_0_f_l,0.341079114532
+Georgia,Key Largo,T,F_avsResult_1_0_l_f,0.0854481433023
+Georgia,Key Largo,T,F_avsResult_-1_0_l_f,0.480174123925
+Georgia,Key Largo,T,F_avsResult_1_-1_f_l,0.0316635563118
+Georgia,Key Largo,T,F_avsResult_1_1_f_l,0.0316635563118
+Georgia,Key Largo,T,F_avsResult_1_-1_l_f,0.619559295514
+Georgia,Key Largo,T,F_avsResult_1_1_l_f,0.619559295514
+Georgia,Key Largo,T,F_avsResult_outside_0_-1_f_l,0.0117377742975
+Georgia,Key Largo,T,F_avsResult_outside_0_1_f_l,0.0117377742975
+Georgia,Key Largo,T,F_avsResult_outside_0_-1_l_f,0.760323336026
+Georgia,Key Largo,T,F_avsResult_outside_0_1_l_f,0.760323336026
+Georgia,Key Largo,T,F_avsResult_outside_-1_0_f_l,0.0660043844867
+Georgia,Key Largo,T,F_avsResult_outside_1_0_f_l,0.341079114532
+Georgia,Key Largo,T,F_avsResult_outside_1_0_l_f,0.0854481433023
+Georgia,Key Largo,T,F_avsResult_outside_-1_0_l_f,0.480174123925
+Georgia,Key Largo,T,F_avsResult_outside_1_-1_f_l,0.0316635563118
+Georgia,Key Largo,T,F_avsResult_outside_1_1_f_l,0.0316635563118
+Georgia,Key Largo,T,F_avsResult_outside_1_-1_l_f,0.619559295514
+Georgia,Key Largo,T,F_avsResult_outside_1_1_l_f,0.619559295514
+Georgia,Key Largo,T,F_belowFigureCentroid_f_l,1.0
+Georgia,Key Largo,T,F_closeDistNormFigure_f_l,1.0
+Georgia,Key Largo,T,F_closeDistNormFigure_l_f,1.0
+Georgia,Key Largo,T,F_closeDistNormLandmark_f_l,1.0
+Georgia,Key Largo,T,F_closeDistNormLandmark_l_f,1.0
+Georgia,Key Largo,T,F_closeDistNormUnion_f_l,1.0
+Georgia,Key Largo,T,F_closeDistNormUnion_l_f,1.0
+Georgia,Key Largo,T,F_distBtwnCentroids_f_l,0.158740411413
+Georgia,Key Largo,T,F_distBtwnCentroids_l_f,0.158740411413
+Georgia,Key Largo,T,F_distHorizontalCentroid_f_l,0.0585051541845
+Georgia,Key Largo,T,F_distHorizontalCentroid_l_f,-0.0585051541845
+Georgia,Key Largo,T,F_distVerticalCentroid_f_l,-0.147565799389
+Georgia,Key Largo,T,F_distVerticalCentroid_l_f,0.147565799389
+Georgia,Key Largo,T,F_leftOfFigureCentroid_l_f,1.0
+Georgia,Key Largo,T,F_rightOfFigureCentroid_f_l,1.0
+Georgia,Miami,T,arg1 and as far south as arg2,1
+Georgia,Miami,T,arg1 and down to arg2,1
+Georgia,Miami,T,arg1 and raised in arg2,1
+Georgia,Miami,T,arg1 before settling in arg2,1
+Georgia,Miami,T,arg1 border and arg2,1
+Georgia,Miami,T,arg1 border to arg2,1
+Georgia,Miami,T,arg1 held arg2,1
+Georgia,Miami,T,arg1 line all the way to arg2,1
+Georgia,Miami,T,arg1 vs arg2,1
+Georgia,Miami,T,arg2 and north into arg1,1
+Georgia,Miami,T,arg2 fell to arg1,1
+Georgia,Miami,T,arg2 will play arg1,1
+Georgia,Miami,T,bias,1.0
+Georgia,Miami,T,F_aboveFigureCentroid_l_f,1.0
+Georgia,Miami,T,F_avsResult_0_-1_f_l,0.0146891351457
+Georgia,Miami,T,F_avsResult_0_1_f_l,0.0146891351457
+Georgia,Miami,T,F_avsResult_0_-1_l_f,0.734689527368
+Georgia,Miami,T,F_avsResult_0_1_l_f,0.734689527368
+Georgia,Miami,T,F_avsResult_-1_0_f_l,0.0610656662482
+Georgia,Miami,T,F_avsResult_1_0_f_l,0.372291208998
+Georgia,Miami,T,F_avsResult_1_0_l_f,0.0772925984398
+Georgia,Miami,T,F_avsResult_-1_0_l_f,0.498439662379
+Georgia,Miami,T,F_avsResult_1_-1_f_l,0.044925926264
+Georgia,Miami,T,F_avsResult_1_1_f_l,0.044925926264
+Georgia,Miami,T,F_avsResult_1_-1_l_f,0.554989879671
+Georgia,Miami,T,F_avsResult_1_1_l_f,0.554989879671
+Georgia,Miami,T,F_avsResult_outside_0_-1_f_l,0.0146891351457
+Georgia,Miami,T,F_avsResult_outside_0_1_f_l,0.0146891351457
+Georgia,Miami,T,F_avsResult_outside_0_-1_l_f,0.734689527368
+Georgia,Miami,T,F_avsResult_outside_0_1_l_f,0.734689527368
+Georgia,Miami,T,F_avsResult_outside_-1_0_f_l,0.0610656662482
+Georgia,Miami,T,F_avsResult_outside_1_0_f_l,0.372291208998
+Georgia,Miami,T,F_avsResult_outside_1_0_l_f,0.0772925984398
+Georgia,Miami,T,F_avsResult_outside_-1_0_l_f,0.498439662379
+Georgia,Miami,T,F_avsResult_outside_1_-1_f_l,0.044925926264
+Georgia,Miami,T,F_avsResult_outside_1_1_f_l,0.044925926264
+Georgia,Miami,T,F_avsResult_outside_1_-1_l_f,0.554989879671
+Georgia,Miami,T,F_avsResult_outside_1_1_l_f,0.554989879671
+Georgia,Miami,T,F_belowFigureCentroid_f_l,1.0
+Georgia,Miami,T,F_closeDistNormFigure_f_l,1.0
+Georgia,Miami,T,F_closeDistNormFigure_l_f,1.0
+Georgia,Miami,T,F_closeDistNormLandmark_f_l,1.0
+Georgia,Miami,T,F_closeDistNormLandmark_l_f,1.0
+Georgia,Miami,T,F_closeDistNormUnion_f_l,1.0
+Georgia,Miami,T,F_closeDistNormUnion_l_f,1.0
+Georgia,Miami,T,F_distBtwnCentroids_f_l,0.149718111843
+Georgia,Miami,T,F_distBtwnCentroids_l_f,0.149718111843
+Georgia,Miami,T,F_distHorizontalCentroid_f_l,0.0637784224658
+Georgia,Miami,T,F_distHorizontalCentroid_l_f,-0.0637784224658
+Georgia,Miami,T,F_distVerticalCentroid_f_l,-0.135454146639
+Georgia,Miami,T,F_distVerticalCentroid_l_f,0.135454146639
+Georgia,Miami,T,F_leftOfFigureCentroid_l_f,1.0
+Georgia,Miami,T,F_rightOfFigureCentroid_f_l,1.0
+Georgia,Tallahassee,T,arg1 and began practicing in arg2,1
+Georgia,Tallahassee,T,arg1 and grew up in arg2,1
+Georgia,Tallahassee,T,arg1 and now live in arg2,1
+Georgia,Tallahassee,T,arg1 and return to arg2,1
+Georgia,Tallahassee,T,arg1 and the other in arg2,1
+Georgia,Tallahassee,T,arg1 bought arg2,1
+Georgia,Tallahassee,T,arg1 from outside arg2,1
+Georgia,Tallahassee,T,arg1 visiting arg2,1
+Georgia,Tallahassee,T,arg2 area and south arg1,1
+Georgia,Tallahassee,T,arg2 area of arg1,1
+Georgia,Tallahassee,T,bias,1.0
+Georgia,Tallahassee,T,F_aboveFigureCentroid_l_f,1.0
+Georgia,Tallahassee,T,F_avsResult_0_-1_f_l,0.0221162010969
+Georgia,Tallahassee,T,F_avsResult_0_1_f_l,0.0221162010969
+Georgia,Tallahassee,T,F_avsResult_0_-1_l_f,0.650782857648
+Georgia,Tallahassee,T,F_avsResult_0_1_l_f,0.650782857648
+Georgia,Tallahassee,T,F_avsResult_1_0_f_l,0.0471034492817
+Georgia,Tallahassee,T,F_avsResult_-1_0_f_l,0.102539148692
+Georgia,Tallahassee,T,F_avsResult_-1_0_l_f,0.148512499718
+Georgia,Tallahassee,T,F_avsResult_1_0_l_f,0.376265180179
+Georgia,Tallahassee,T,F_avsResult_-1_-1_l_f,0.505661582987
+Georgia,Tallahassee,T,F_avsResult_-1_1_l_f,0.505661582987
+Georgia,Tallahassee,T,F_avsResult_outside_0_-1_f_l,0.0221162010969
+Georgia,Tallahassee,T,F_avsResult_outside_0_1_f_l,0.0221162010969
+Georgia,Tallahassee,T,F_avsResult_outside_0_-1_l_f,0.650782857648
+Georgia,Tallahassee,T,F_avsResult_outside_0_1_l_f,0.650782857648
+Georgia,Tallahassee,T,F_avsResult_outside_1_0_f_l,0.0471034492817
+Georgia,Tallahassee,T,F_avsResult_outside_-1_0_f_l,0.102539148692
+Georgia,Tallahassee,T,F_avsResult_outside_-1_0_l_f,0.148512499718
+Georgia,Tallahassee,T,F_avsResult_outside_1_0_l_f,0.376265180179
+Georgia,Tallahassee,T,F_avsResult_outside_-1_-1_l_f,0.505661582987
+Georgia,Tallahassee,T,F_avsResult_outside_-1_1_l_f,0.505661582987
+Georgia,Tallahassee,T,F_belowFigureCentroid_f_l,1.0
+Georgia,Tallahassee,T,F_closeDistNormFigure_f_l,0.00684331250336
+Georgia,Tallahassee,T,F_closeDistNormFigure_l_f,1.0
+Georgia,Tallahassee,T,F_closeDistNormLandmark_f_l,1.0
+Georgia,Tallahassee,T,F_closeDistNormLandmark_l_f,0.00684331250336
+Georgia,Tallahassee,T,F_closeDistNormUnion_f_l,0.00684316567428
+Georgia,Tallahassee,T,F_closeDistNormUnion_l_f,0.00684316567428
+Georgia,Tallahassee,T,F_distBtwnCentroids_f_l,0.107017242177
+Georgia,Tallahassee,T,F_distBtwnCentroids_l_f,0.107017242177
+Georgia,Tallahassee,T,F_distHorizontalCentroid_f_l,-0.0379586248326
+Georgia,Tallahassee,T,F_distHorizontalCentroid_l_f,0.0379586248326
+Georgia,Tallahassee,T,F_distVerticalCentroid_f_l,-0.100059147128
+Georgia,Tallahassee,T,F_distVerticalCentroid_l_f,0.100059147128
+Georgia,Tallahassee,T,F_leftOfFigureCentroid_f_l,1.0
+Georgia,Tallahassee,T,F_rightOfFigureCentroid_l_f,1.0
+Key Largo,Atlanta,T,bias,1.0
+Key Largo,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Key Largo,Atlanta,T,F_avsResult_0_-1_f_l,0.758356398022
+Key Largo,Atlanta,T,F_avsResult_0_1_f_l,0.758356398022
+Key Largo,Atlanta,T,F_avsResult_0_-1_l_f,0.0163980374564
+Key Largo,Atlanta,T,F_avsResult_0_1_l_f,0.0163980374564
+Key Largo,Atlanta,T,F_avsResult_1_0_f_l,0.0709839961104
+Key Largo,Atlanta,T,F_avsResult_-1_0_f_l,0.511960013495
+Key Largo,Atlanta,T,F_avsResult_-1_0_l_f,0.0699334574423
+Key Largo,Atlanta,T,F_avsResult_1_0_l_f,0.510003719984
+Key Largo,Atlanta,T,F_avsResult_1_-1_f_l,0.586083823279
+Key Largo,Atlanta,T,F_avsResult_1_1_f_l,0.586083823279
+Key Largo,Atlanta,T,F_avsResult_1_-1_l_f,0.0529310775344
+Key Largo,Atlanta,T,F_avsResult_1_1_l_f,0.0529310775344
+Key Largo,Atlanta,T,F_avsResult_outside_0_-1_f_l,0.758356398022
+Key Largo,Atlanta,T,F_avsResult_outside_0_1_f_l,0.758356398022
+Key Largo,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.0163980374564
+Key Largo,Atlanta,T,F_avsResult_outside_0_1_l_f,0.0163980374564
+Key Largo,Atlanta,T,F_avsResult_outside_1_0_f_l,0.0709839961104
+Key Largo,Atlanta,T,F_avsResult_outside_-1_0_f_l,0.511960013495
+Key Largo,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.0699334574423
+Key Largo,Atlanta,T,F_avsResult_outside_1_0_l_f,0.510003719984
+Key Largo,Atlanta,T,F_avsResult_outside_1_-1_f_l,0.586083823279
+Key Largo,Atlanta,T,F_avsResult_outside_1_1_f_l,0.586083823279
+Key Largo,Atlanta,T,F_avsResult_outside_1_-1_l_f,0.0529310775344
+Key Largo,Atlanta,T,F_avsResult_outside_1_1_l_f,0.0529310775344
+Key Largo,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Key Largo,Atlanta,T,F_closeDistNormFigure_f_l,1.0
+Key Largo,Atlanta,T,F_closeDistNormFigure_l_f,1.0
+Key Largo,Atlanta,T,F_closeDistNormLandmark_f_l,1.0
+Key Largo,Atlanta,T,F_closeDistNormLandmark_l_f,1.0
+Key Largo,Atlanta,T,F_closeDistNormUnion_f_l,1.0
+Key Largo,Atlanta,T,F_closeDistNormUnion_l_f,1.0
+Key Largo,Atlanta,T,F_distBtwnCentroids_f_l,0.263346349411
+Key Largo,Atlanta,T,F_distBtwnCentroids_l_f,0.263346349411
+Key Largo,Atlanta,T,F_distHorizontalCentroid_f_l,-0.109597806286
+Key Largo,Atlanta,T,F_distHorizontalCentroid_l_f,0.109597806286
+Key Largo,Atlanta,T,F_distVerticalCentroid_f_l,0.239456928497
+Key Largo,Atlanta,T,F_distVerticalCentroid_l_f,-0.239456928497
+Key Largo,Atlanta,T,F_leftOfFigureCentroid_f_l,1.0
+Key Largo,Atlanta,T,F_rightOfFigureCentroid_l_f,1.0
+Key Largo,Daytona Beach,T,bias,1.0
+Key Largo,Daytona Beach,T,F_aboveFigureCentroid_f_l,1.0
+Key Largo,Daytona Beach,T,F_avsResult_0_-1_f_l,0.767670476717
+Key Largo,Daytona Beach,T,F_avsResult_0_1_f_l,0.767670476717
+Key Largo,Daytona Beach,T,F_avsResult_0_-1_l_f,0.0094076987608
+Key Largo,Daytona Beach,T,F_avsResult_0_1_l_f,0.0094076987608
+Key Largo,Daytona Beach,T,F_avsResult_1_0_f_l,0.185100656697
+Key Largo,Daytona Beach,T,F_avsResult_-1_0_f_l,0.322281610319
+Key Largo,Daytona Beach,T,F_avsResult_-1_0_l_f,0.178624746874
+Key Largo,Daytona Beach,T,F_avsResult_1_0_l_f,0.315551411228
+Key Largo,Daytona Beach,T,F_avsResult_outside_0_-1_f_l,0.767670476717
+Key Largo,Daytona Beach,T,F_avsResult_outside_0_1_f_l,0.767670476717
+Key Largo,Daytona Beach,T,F_avsResult_outside_0_-1_l_f,0.0094076987608
+Key Largo,Daytona Beach,T,F_avsResult_outside_0_1_l_f,0.0094076987608
+Key Largo,Daytona Beach,T,F_avsResult_outside_1_0_f_l,0.185100656697
+Key Largo,Daytona Beach,T,F_avsResult_outside_-1_0_f_l,0.322281610319
+Key Largo,Daytona Beach,T,F_avsResult_outside_-1_0_l_f,0.178624746874
+Key Largo,Daytona Beach,T,F_avsResult_outside_1_0_l_f,0.315551411228
+Key Largo,Daytona Beach,T,F_belowFigureCentroid_l_f,1.0
+Key Largo,Daytona Beach,T,F_closeDistNormFigure_f_l,1.0
+Key Largo,Daytona Beach,T,F_closeDistNormFigure_l_f,1.0
+Key Largo,Daytona Beach,T,F_closeDistNormLandmark_f_l,1.0
+Key Largo,Daytona Beach,T,F_closeDistNormLandmark_l_f,1.0
+Key Largo,Daytona Beach,T,F_closeDistNormUnion_f_l,1.0
+Key Largo,Daytona Beach,T,F_closeDistNormUnion_l_f,1.0
+Key Largo,Daytona Beach,T,F_distBtwnCentroids_f_l,1.27786516821
+Key Largo,Daytona Beach,T,F_distBtwnCentroids_l_f,1.27786516821
+Key Largo,Daytona Beach,T,F_distHorizontalCentroid_f_l,-0.196973589294
+Key Largo,Daytona Beach,T,F_distHorizontalCentroid_l_f,0.196973589294
+Key Largo,Daytona Beach,T,F_distVerticalCentroid_f_l,1.26259288499
+Key Largo,Daytona Beach,T,F_distVerticalCentroid_l_f,-1.26259288499
+Key Largo,Daytona Beach,T,F_leftOfFigureCentroid_f_l,1.0
+Key Largo,Daytona Beach,T,F_rightOfFigureCentroid_l_f,1.0
+Key Largo,Everglades National Park,T,arg1 area and arg2,1
+Key Largo,Everglades National Park,T,bias,1.0
+Key Largo,Everglades National Park,T,F_aboveFigureCentroid_f_l,1.0
+Key Largo,Everglades National Park,T,F_avsResult_0_-1_f_l,0.368857404999
+Key Largo,Everglades National Park,T,F_avsResult_0_1_f_l,0.368857404999
+Key Largo,Everglades National Park,T,F_avsResult_0_-1_l_f,0.115083201015
+Key Largo,Everglades National Park,T,F_avsResult_0_1_l_f,0.115083201015
+Key Largo,Everglades National Park,T,F_avsResult_1_0_f_l,0.0808347677107
+Key Largo,Everglades National Park,T,F_avsResult_-1_0_f_l,0.4560473292
+Key Largo,Everglades National Park,T,F_avsResult_-1_0_l_f,0.0314238606282
+Key Largo,Everglades National Park,T,F_avsResult_1_0_l_f,0.414157244973
+Key Largo,Everglades National Park,T,F_avsResult_1_-1_f_l,0.177119693456
+Key Largo,Everglades National Park,T,F_avsResult_1_1_f_l,0.177119693456
+Key Largo,Everglades National Park,T,F_avsResult_1_-1_l_f,0.304240761657
+Key Largo,Everglades National Park,T,F_avsResult_1_1_l_f,0.304240761657
+Key Largo,Everglades National Park,T,F_avsResult_outside_0_-1_f_l,0.368857404999
+Key Largo,Everglades National Park,T,F_avsResult_outside_0_1_f_l,0.368857404999
+Key Largo,Everglades National Park,T,F_avsResult_outside_0_-1_l_f,0.115083201015
+Key Largo,Everglades National Park,T,F_avsResult_outside_0_1_l_f,0.115083201015
+Key Largo,Everglades National Park,T,F_avsResult_outside_1_0_f_l,0.0808347677107
+Key Largo,Everglades National Park,T,F_avsResult_outside_-1_0_f_l,0.4560473292
+Key Largo,Everglades National Park,T,F_avsResult_outside_-1_0_l_f,0.0314238606282
+Key Largo,Everglades National Park,T,F_avsResult_outside_1_0_l_f,0.414157244973
+Key Largo,Everglades National Park,T,F_avsResult_outside_1_-1_f_l,0.177119693456
+Key Largo,Everglades National Park,T,F_avsResult_outside_1_1_f_l,0.177119693456
+Key Largo,Everglades National Park,T,F_avsResult_outside_1_-1_l_f,0.304240761657
+Key Largo,Everglades National Park,T,F_avsResult_outside_1_1_l_f,0.304240761657
+Key Largo,Everglades National Park,T,F_belowFigureCentroid_l_f,1.0
+Key Largo,Everglades National Park,T,F_closeDistNormFigure_f_l,0.377262508146
+Key Largo,Everglades National Park,T,F_closeDistNormFigure_l_f,0.000212064546997
+Key Largo,Everglades National Park,T,F_closeDistNormLandmark_f_l,0.000212064546997
+Key Largo,Everglades National Park,T,F_closeDistNormLandmark_l_f,0.377262508146
+Key Largo,Everglades National Park,T,F_closeDistNormUnion_f_l,0.00021194540951
+Key Largo,Everglades National Park,T,F_closeDistNormUnion_l_f,0.00021194540951
+Key Largo,Everglades National Park,T,F_distBtwnCentroids_f_l,0.441565630812
+Key Largo,Everglades National Park,T,F_distBtwnCentroids_l_f,0.441565630812
+Key Largo,Everglades National Park,T,F_distHorizontalCentroid_f_l,-0.36900338112
+Key Largo,Everglades National Park,T,F_distHorizontalCentroid_l_f,0.36900338112
+Key Largo,Everglades National Park,T,F_distVerticalCentroid_f_l,0.242521568188
+Key Largo,Everglades National Park,T,F_distVerticalCentroid_l_f,-0.242521568188
+Key Largo,Everglades National Park,T,F_leftOfFigureCentroid_f_l,1.0
+Key Largo,Everglades National Park,T,F_rightOfFigureCentroid_l_f,1.0
+Key Largo,Florida,T,arg1 area of arg2,1
+Key Largo,Florida,T,arg1 real estate agent in arg2,1
+Key Largo,Florida,T,arg2 destination from arg1,1
+Key Largo,Florida,T,arg2 fishing arg1,1
+Key Largo,Florida,T,arg2 including arg1,1
+Key Largo,Florida,T,arg2 just north of arg1,1
+Key Largo,Florida,T,arg2 panhandle and arg1,1
+Key Largo,Florida,T,arg2 then consider arg1,1
+Key Largo,Florida,T,arg2 using an interactive map of arg1,1
+Key Largo,Florida,T,arg2 working in arg1,1
+Key Largo,Florida,T,bias,1.0
+Key Largo,Florida,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Key Largo,Florida,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Key Largo,Florida,T,F_aboveFigureCentroid_f_l,1.0
+Key Largo,Florida,T,F_avsResult_0_-1_f_l,0.538281524563
+Key Largo,Florida,T,F_avsResult_0_1_f_l,0.538281524563
+Key Largo,Florida,T,F_avsResult_0_-1_l_f,0.0250492628753
+Key Largo,Florida,T,F_avsResult_0_1_l_f,0.0250492628753
+Key Largo,Florida,T,F_avsResult_1_0_f_l,0.0446925403289
+Key Largo,Florida,T,F_avsResult_-1_0_f_l,0.621371893603
+Key Largo,Florida,T,F_avsResult_-1_0_l_f,0.0148100825142
+Key Largo,Florida,T,F_avsResult_1_0_l_f,0.0575798060213
+Key Largo,Florida,T,F_avsResult_1_-1_f_l,0.178862338409
+Key Largo,Florida,T,F_avsResult_1_1_f_l,0.178862338409
+Key Largo,Florida,T,F_avsResult_inside_0_-1_l_f,0.0250492628753
+Key Largo,Florida,T,F_avsResult_inside_0_1_l_f,0.0250492628753
+Key Largo,Florida,T,F_avsResult_inside_-1_0_l_f,0.0148100825142
+Key Largo,Florida,T,F_avsResult_inside_1_0_l_f,0.0575798060213
+Key Largo,Florida,T,F_avsResult_outside_0_-1_f_l,0.538281524563
+Key Largo,Florida,T,F_avsResult_outside_0_1_f_l,0.538281524563
+Key Largo,Florida,T,F_avsResult_outside_1_0_f_l,0.0446925403289
+Key Largo,Florida,T,F_avsResult_outside_-1_0_f_l,0.621371893603
+Key Largo,Florida,T,F_avsResult_outside_1_-1_f_l,0.178862338409
+Key Largo,Florida,T,F_avsResult_outside_1_1_f_l,0.178862338409
+Key Largo,Florida,T,F_belowFigureCentroid_l_f,1.0
+Key Largo,Florida,T,F_distBtwnCentroids_f_l,0.0840743784283
+Key Largo,Florida,T,F_distBtwnCentroids_l_f,0.0840743784283
+Key Largo,Florida,T,F_distHorizontalCentroid_f_l,-0.0663559505481
+Key Largo,Florida,T,F_distHorizontalCentroid_l_f,0.0663559505481
+Key Largo,Florida,T,F_distVerticalCentroid_f_l,0.0516274048832
+Key Largo,Florida,T,F_distVerticalCentroid_l_f,-0.0516274048832
+Key Largo,Florida,T,F_leftOfFigureCentroid_f_l,1.0
+Key Largo,Florida,T,F_math2dFigureIntersectionArea_f_l,0.999999999999
+Key Largo,Florida,T,F_math2dFigureIntersectionArea_l_f,6.20816416902e-06
+Key Largo,Florida,T,F_math2dIntersectionArea_f_l,6.20816416902e-06
+Key Largo,Florida,T,F_math2dIntersectionArea_l_f,6.20816416902e-06
+Key Largo,Florida,T,F_math2dLandmarkIntersectionArea_f_l,6.20816416902e-06
+Key Largo,Florida,T,F_math2dLandmarkIntersectionArea_l_f,0.999999999999
+Key Largo,Florida,T,F_rightOfFigureCentroid_l_f,1.0
+Key Largo,Georgia,T,bias,1.0
+Key Largo,Georgia,T,F_aboveFigureCentroid_f_l,1.0
+Key Largo,Georgia,T,F_avsResult_0_-1_f_l,0.760323336026
+Key Largo,Georgia,T,F_avsResult_0_1_f_l,0.760323336026
+Key Largo,Georgia,T,F_avsResult_0_-1_l_f,0.0117377742975
+Key Largo,Georgia,T,F_avsResult_0_1_l_f,0.0117377742975
+Key Largo,Georgia,T,F_avsResult_1_0_f_l,0.0854481433023
+Key Largo,Georgia,T,F_avsResult_-1_0_f_l,0.480174123925
+Key Largo,Georgia,T,F_avsResult_-1_0_l_f,0.0660043844867
+Key Largo,Georgia,T,F_avsResult_1_0_l_f,0.341079114532
+Key Largo,Georgia,T,F_avsResult_1_-1_f_l,0.619559295514
+Key Largo,Georgia,T,F_avsResult_1_1_f_l,0.619559295514
+Key Largo,Georgia,T,F_avsResult_1_-1_l_f,0.0316635563118
+Key Largo,Georgia,T,F_avsResult_1_1_l_f,0.0316635563118
+Key Largo,Georgia,T,F_avsResult_outside_0_-1_f_l,0.760323336026
+Key Largo,Georgia,T,F_avsResult_outside_0_1_f_l,0.760323336026
+Key Largo,Georgia,T,F_avsResult_outside_0_-1_l_f,0.0117377742975
+Key Largo,Georgia,T,F_avsResult_outside_0_1_l_f,0.0117377742975
+Key Largo,Georgia,T,F_avsResult_outside_1_0_f_l,0.0854481433023
+Key Largo,Georgia,T,F_avsResult_outside_-1_0_f_l,0.480174123925
+Key Largo,Georgia,T,F_avsResult_outside_-1_0_l_f,0.0660043844867
+Key Largo,Georgia,T,F_avsResult_outside_1_0_l_f,0.341079114532
+Key Largo,Georgia,T,F_avsResult_outside_1_-1_f_l,0.619559295514
+Key Largo,Georgia,T,F_avsResult_outside_1_1_f_l,0.619559295514
+Key Largo,Georgia,T,F_avsResult_outside_1_-1_l_f,0.0316635563118
+Key Largo,Georgia,T,F_avsResult_outside_1_1_l_f,0.0316635563118
+Key Largo,Georgia,T,F_belowFigureCentroid_l_f,1.0
+Key Largo,Georgia,T,F_closeDistNormFigure_f_l,1.0
+Key Largo,Georgia,T,F_closeDistNormFigure_l_f,1.0
+Key Largo,Georgia,T,F_closeDistNormLandmark_f_l,1.0
+Key Largo,Georgia,T,F_closeDistNormLandmark_l_f,1.0
+Key Largo,Georgia,T,F_closeDistNormUnion_f_l,1.0
+Key Largo,Georgia,T,F_closeDistNormUnion_l_f,1.0
+Key Largo,Georgia,T,F_distBtwnCentroids_f_l,0.158740411413
+Key Largo,Georgia,T,F_distBtwnCentroids_l_f,0.158740411413
+Key Largo,Georgia,T,F_distHorizontalCentroid_f_l,-0.0585051541845
+Key Largo,Georgia,T,F_distHorizontalCentroid_l_f,0.0585051541845
+Key Largo,Georgia,T,F_distVerticalCentroid_f_l,0.147565799389
+Key Largo,Georgia,T,F_distVerticalCentroid_l_f,-0.147565799389
+Key Largo,Georgia,T,F_leftOfFigureCentroid_f_l,1.0
+Key Largo,Georgia,T,F_rightOfFigureCentroid_l_f,1.0
+Key Largo,Key Largo,T,arg1 and ends in arg2,1
+Key Largo,Key Largo,T,arg1 hotels and arg2,1
+Key Largo,Key Largo,T,arg1 is located in arg2,1
+Key Largo,Key Largo,T,arg1 located in the heart of arg2,1
+Key Largo,Key Largo,T,arg1 ocean front condo rentals in arg2,1
+Key Largo,Key Largo,T,arg1 properties or browse arg2,1
+Key Largo,Key Largo,T,arg1 to help you move within arg2,1
+Key Largo,Key Largo,T,arg2 and ends in arg1,1
+Key Largo,Key Largo,T,arg2 hotels and arg1,1
+Key Largo,Key Largo,T,arg2 is located in arg1,1
+Key Largo,Key Largo,T,arg2 located in the heart of arg1,1
+Key Largo,Key Largo,T,arg2 ocean front condo rentals in arg1,1
+Key Largo,Key Largo,T,arg2 properties or browse arg1,1
+Key Largo,Key Largo,T,arg2 to help you move within arg1,1
+Key Largo,Key Largo,T,bias,1.0
+Key Largo,Key Largo,T,entity1=entity2,1
+Key Largo,Key Largo,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Key Largo,Key Largo,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Key Largo,Key Largo,T,F_avsResult_0_-1_f_l,0.000814782278982
+Key Largo,Key Largo,T,F_avsResult_0_1_f_l,0.000814782278982
+Key Largo,Key Largo,T,F_avsResult_0_-1_l_f,0.000814782278982
+Key Largo,Key Largo,T,F_avsResult_0_1_l_f,0.000814782278982
+Key Largo,Key Largo,T,F_avsResult_-1_0_f_l,0.0272096690359
+Key Largo,Key Largo,T,F_avsResult_1_0_f_l,0.0300835834136
+Key Largo,Key Largo,T,F_avsResult_-1_0_l_f,0.0272096690359
+Key Largo,Key Largo,T,F_avsResult_1_0_l_f,0.0300835834136
+Key Largo,Key Largo,T,F_avsResult_inside_0_-1_f_l,0.000814782278982
+Key Largo,Key Largo,T,F_avsResult_inside_0_1_f_l,0.000814782278982
+Key Largo,Key Largo,T,F_avsResult_inside_0_-1_l_f,0.000814782278982
+Key Largo,Key Largo,T,F_avsResult_inside_0_1_l_f,0.000814782278982
+Key Largo,Key Largo,T,F_avsResult_inside_-1_0_f_l,0.0272096690359
+Key Largo,Key Largo,T,F_avsResult_inside_1_0_f_l,0.0300835834136
+Key Largo,Key Largo,T,F_avsResult_inside_-1_0_l_f,0.0272096690359
+Key Largo,Key Largo,T,F_avsResult_inside_1_0_l_f,0.0300835834136
+Key Largo,Key Largo,T,F_math2dFigureIntersectionArea_f_l,0.999999999999
+Key Largo,Key Largo,T,F_math2dFigureIntersectionArea_l_f,0.999999999999
+Key Largo,Key Largo,T,F_math2dIntersectionArea_f_l,1.0
+Key Largo,Key Largo,T,F_math2dIntersectionArea_l_f,1.0
+Key Largo,Key Largo,T,F_math2dLandmarkIntersectionArea_f_l,0.999999999999
+Key Largo,Key Largo,T,F_math2dLandmarkIntersectionArea_l_f,0.999999999999
+Key Largo,Miami,T,arg1 just south of arg2,1
+Key Largo,Miami,T,arg1 south of arg2,1
+Key Largo,Miami,T,arg2 and enter arg1,1
+Key Largo,Miami,T,arg2 and then onto arg1,1
+Key Largo,Miami,T,arg2 beginning with arg1,1
+Key Largo,Miami,T,arg2 down to arg1,1
+Key Largo,Miami,T,arg2 in sunny arg1,1
+Key Largo,Miami,T,arg2 is closer to arg1,1
+Key Largo,Miami,T,arg2 lies arg1,1
+Key Largo,Miami,T,bias,1.0
+Key Largo,Miami,T,F_aboveFigureCentroid_f_l,1.0
+Key Largo,Miami,T,F_avsResult_0_-1_f_l,0.529955975634
+Key Largo,Miami,T,F_avsResult_0_1_f_l,0.529955975634
+Key Largo,Miami,T,F_avsResult_0_-1_l_f,0.0387593037698
+Key Largo,Miami,T,F_avsResult_0_1_l_f,0.0387593037698
+Key Largo,Miami,T,F_avsResult_-1_0_f_l,0.183226212407
+Key Largo,Miami,T,F_avsResult_1_0_f_l,0.322475645304
+Key Largo,Miami,T,F_avsResult_1_0_l_f,0.18302679886
+Key Largo,Miami,T,F_avsResult_-1_0_l_f,0.310386720566
+Key Largo,Miami,T,F_avsResult_-1_-1_f_l,0.455578531581
+Key Largo,Miami,T,F_avsResult_-1_1_f_l,0.455578531581
+Key Largo,Miami,T,F_avsResult_-1_-1_l_f,0.0572765454081
+Key Largo,Miami,T,F_avsResult_-1_1_l_f,0.0572765454081
+Key Largo,Miami,T,F_avsResult_outside_0_-1_f_l,0.529955975634
+Key Largo,Miami,T,F_avsResult_outside_0_1_f_l,0.529955975634
+Key Largo,Miami,T,F_avsResult_outside_0_-1_l_f,0.0387593037698
+Key Largo,Miami,T,F_avsResult_outside_0_1_l_f,0.0387593037698
+Key Largo,Miami,T,F_avsResult_outside_-1_0_f_l,0.183226212407
+Key Largo,Miami,T,F_avsResult_outside_1_0_f_l,0.322475645304
+Key Largo,Miami,T,F_avsResult_outside_1_0_l_f,0.18302679886
+Key Largo,Miami,T,F_avsResult_outside_-1_0_l_f,0.310386720566
+Key Largo,Miami,T,F_avsResult_outside_-1_-1_f_l,0.455578531581
+Key Largo,Miami,T,F_avsResult_outside_-1_1_f_l,0.455578531581
+Key Largo,Miami,T,F_avsResult_outside_-1_-1_l_f,0.0572765454081
+Key Largo,Miami,T,F_avsResult_outside_-1_1_l_f,0.0572765454081
+Key Largo,Miami,T,F_belowFigureCentroid_l_f,1.0
+Key Largo,Miami,T,F_closeDistNormFigure_f_l,1.0
+Key Largo,Miami,T,F_closeDistNormFigure_l_f,1.0
+Key Largo,Miami,T,F_closeDistNormLandmark_f_l,1.0
+Key Largo,Miami,T,F_closeDistNormLandmark_l_f,1.0
+Key Largo,Miami,T,F_closeDistNormUnion_f_l,1.0
+Key Largo,Miami,T,F_closeDistNormUnion_l_f,1.0
+Key Largo,Miami,T,F_distBtwnCentroids_f_l,2.93961860791
+Key Largo,Miami,T,F_distBtwnCentroids_l_f,2.93961860791
+Key Largo,Miami,T,F_distHorizontalCentroid_f_l,0.96010758961
+Key Largo,Miami,T,F_distHorizontalCentroid_l_f,-0.96010758961
+Key Largo,Miami,T,F_distVerticalCentroid_f_l,2.77840799314
+Key Largo,Miami,T,F_distVerticalCentroid_l_f,-2.77840799314
+Key Largo,Miami,T,F_leftOfFigureCentroid_l_f,1.0
+Key Largo,Miami,T,F_rightOfFigureCentroid_f_l,1.0
+Key Largo,Tallahassee,T,bias,1.0
+Key Largo,Tallahassee,T,F_aboveFigureCentroid_f_l,1.0
+Key Largo,Tallahassee,T,F_avsResult_0_-1_f_l,0.667097731531
+Key Largo,Tallahassee,T,F_avsResult_0_1_f_l,0.667097731531
+Key Largo,Tallahassee,T,F_avsResult_0_-1_l_f,0.0332378523367
+Key Largo,Tallahassee,T,F_avsResult_0_1_l_f,0.0332378523367
+Key Largo,Tallahassee,T,F_avsResult_1_0_f_l,0.060070745629
+Key Largo,Tallahassee,T,F_avsResult_-1_0_f_l,0.558765407313
+Key Largo,Tallahassee,T,F_avsResult_-1_0_l_f,0.0600758663418
+Key Largo,Tallahassee,T,F_avsResult_1_0_l_f,0.558744804315
+Key Largo,Tallahassee,T,F_avsResult_1_-1_f_l,0.38705637812
+Key Largo,Tallahassee,T,F_avsResult_1_1_f_l,0.38705637812
+Key Largo,Tallahassee,T,F_avsResult_1_-1_l_f,0.141435406966
+Key Largo,Tallahassee,T,F_avsResult_1_1_l_f,0.141435406966
+Key Largo,Tallahassee,T,F_avsResult_outside_0_-1_f_l,0.667097731531
+Key Largo,Tallahassee,T,F_avsResult_outside_0_1_f_l,0.667097731531
+Key Largo,Tallahassee,T,F_avsResult_outside_0_-1_l_f,0.0332378523367
+Key Largo,Tallahassee,T,F_avsResult_outside_0_1_l_f,0.0332378523367
+Key Largo,Tallahassee,T,F_avsResult_outside_1_0_f_l,0.060070745629
+Key Largo,Tallahassee,T,F_avsResult_outside_-1_0_f_l,0.558765407313
+Key Largo,Tallahassee,T,F_avsResult_outside_-1_0_l_f,0.0600758663418
+Key Largo,Tallahassee,T,F_avsResult_outside_1_0_l_f,0.558744804315
+Key Largo,Tallahassee,T,F_avsResult_outside_1_-1_f_l,0.38705637812
+Key Largo,Tallahassee,T,F_avsResult_outside_1_1_f_l,0.38705637812
+Key Largo,Tallahassee,T,F_avsResult_outside_1_-1_l_f,0.141435406966
+Key Largo,Tallahassee,T,F_avsResult_outside_1_1_l_f,0.141435406966
+Key Largo,Tallahassee,T,F_belowFigureCentroid_l_f,1.0
+Key Largo,Tallahassee,T,F_closeDistNormFigure_f_l,1.0
+Key Largo,Tallahassee,T,F_closeDistNormFigure_l_f,1.0
+Key Largo,Tallahassee,T,F_closeDistNormLandmark_f_l,1.0
+Key Largo,Tallahassee,T,F_closeDistNormLandmark_l_f,1.0
+Key Largo,Tallahassee,T,F_closeDistNormUnion_f_l,1.0
+Key Largo,Tallahassee,T,F_closeDistNormUnion_l_f,1.0
+Key Largo,Tallahassee,T,F_distBtwnCentroids_f_l,0.31801825508
+Key Largo,Tallahassee,T,F_distBtwnCentroids_l_f,0.31801825508
+Key Largo,Tallahassee,T,F_distHorizontalCentroid_f_l,-0.185199393421
+Key Largo,Tallahassee,T,F_distHorizontalCentroid_l_f,0.185199393421
+Key Largo,Tallahassee,T,F_distVerticalCentroid_f_l,0.258528132397
+Key Largo,Tallahassee,T,F_distVerticalCentroid_l_f,-0.258528132397
+Key Largo,Tallahassee,T,F_leftOfFigureCentroid_f_l,1.0
+Key Largo,Tallahassee,T,F_rightOfFigureCentroid_l_f,1.0
+Miami,Atlanta,T,arg1 and one in arg2,1
+Miami,Atlanta,T,arg1 heads to arg2,1
+Miami,Atlanta,T,arg2 and one in arg1,1
+Miami,Atlanta,T,arg2 and will be in arg1,1
+Miami,Atlanta,T,arg2 instead of arg1,1
+Miami,Atlanta,T,arg2 is different from arg1,1
+Miami,Atlanta,T,arg2 is the new arg1,1
+Miami,Atlanta,T,arg2 put arg1,1
+Miami,Atlanta,T,arg2 to catch a flight to arg1,1
+Miami,Atlanta,T,arg2 und arg1,1
+Miami,Atlanta,T,bias,1.0
+Miami,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Miami,Atlanta,T,F_avsResult_0_-1_f_l,0.735174262116
+Miami,Atlanta,T,F_avsResult_0_1_f_l,0.735174262116
+Miami,Atlanta,T,F_avsResult_0_-1_l_f,0.0198363475592
+Miami,Atlanta,T,F_avsResult_0_1_l_f,0.0198363475592
+Miami,Atlanta,T,F_avsResult_1_0_f_l,0.0652349429308
+Miami,Atlanta,T,F_avsResult_-1_0_f_l,0.527986990183
+Miami,Atlanta,T,F_avsResult_-1_0_l_f,0.0646851891885
+Miami,Atlanta,T,F_avsResult_1_0_l_f,0.528023164404
+Miami,Atlanta,T,F_avsResult_1_-1_f_l,0.531975489723
+Miami,Atlanta,T,F_avsResult_1_1_f_l,0.531975489723
+Miami,Atlanta,T,F_avsResult_1_-1_l_f,0.068958423814
+Miami,Atlanta,T,F_avsResult_1_1_l_f,0.068958423814
+Miami,Atlanta,T,F_avsResult_outside_0_-1_f_l,0.735174262116
+Miami,Atlanta,T,F_avsResult_outside_0_1_f_l,0.735174262116
+Miami,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.0198363475592
+Miami,Atlanta,T,F_avsResult_outside_0_1_l_f,0.0198363475592
+Miami,Atlanta,T,F_avsResult_outside_1_0_f_l,0.0652349429308
+Miami,Atlanta,T,F_avsResult_outside_-1_0_f_l,0.527986990183
+Miami,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.0646851891885
+Miami,Atlanta,T,F_avsResult_outside_1_0_l_f,0.528023164404
+Miami,Atlanta,T,F_avsResult_outside_1_-1_f_l,0.531975489723
+Miami,Atlanta,T,F_avsResult_outside_1_1_f_l,0.531975489723
+Miami,Atlanta,T,F_avsResult_outside_1_-1_l_f,0.068958423814
+Miami,Atlanta,T,F_avsResult_outside_1_1_l_f,0.068958423814
+Miami,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Miami,Atlanta,T,F_closeDistNormFigure_f_l,1.0
+Miami,Atlanta,T,F_closeDistNormFigure_l_f,1.0
+Miami,Atlanta,T,F_closeDistNormLandmark_f_l,1.0
+Miami,Atlanta,T,F_closeDistNormLandmark_l_f,1.0
+Miami,Atlanta,T,F_closeDistNormUnion_f_l,1.0
+Miami,Atlanta,T,F_closeDistNormUnion_l_f,1.0
+Miami,Atlanta,T,F_distBtwnCentroids_f_l,0.250334950909
+Miami,Atlanta,T,F_distBtwnCentroids_l_f,0.250334950909
+Miami,Atlanta,T,F_distHorizontalCentroid_f_l,-0.116693433958
+Miami,Atlanta,T,F_distHorizontalCentroid_l_f,0.116693433958
+Miami,Atlanta,T,F_distVerticalCentroid_f_l,0.22147286542
+Miami,Atlanta,T,F_distVerticalCentroid_l_f,-0.22147286542
+Miami,Atlanta,T,F_leftOfFigureCentroid_f_l,1.0
+Miami,Atlanta,T,F_rightOfFigureCentroid_l_f,1.0
+Miami,Daytona Beach,T,arg1 and raised in arg2,1
+Miami,Daytona Beach,T,arg2 and south to arg1,1
+Miami,Daytona Beach,T,arg2 before moving to arg1,1
+Miami,Daytona Beach,T,arg2 south to arg1,1
+Miami,Daytona Beach,T,bias,1.0
+Miami,Daytona Beach,T,F_aboveFigureCentroid_f_l,1.0
+Miami,Daytona Beach,T,F_avsResult_0_-1_f_l,0.724796066545
+Miami,Daytona Beach,T,F_avsResult_0_1_f_l,0.724796066545
+Miami,Daytona Beach,T,F_avsResult_0_-1_l_f,0.0166869094554
+Miami,Daytona Beach,T,F_avsResult_0_1_l_f,0.0166869094554
+Miami,Daytona Beach,T,F_avsResult_1_0_f_l,0.157500454347
+Miami,Daytona Beach,T,F_avsResult_-1_0_f_l,0.34973545208
+Miami,Daytona Beach,T,F_avsResult_-1_0_l_f,0.154437910298
+Miami,Daytona Beach,T,F_avsResult_1_0_l_f,0.35103288191
+Miami,Daytona Beach,T,F_avsResult_outside_0_-1_f_l,0.724796066545
+Miami,Daytona Beach,T,F_avsResult_outside_0_1_f_l,0.724796066545
+Miami,Daytona Beach,T,F_avsResult_outside_0_-1_l_f,0.0166869094554
+Miami,Daytona Beach,T,F_avsResult_outside_0_1_l_f,0.0166869094554
+Miami,Daytona Beach,T,F_avsResult_outside_1_0_f_l,0.157500454347
+Miami,Daytona Beach,T,F_avsResult_outside_-1_0_f_l,0.34973545208
+Miami,Daytona Beach,T,F_avsResult_outside_-1_0_l_f,0.154437910298
+Miami,Daytona Beach,T,F_avsResult_outside_1_0_l_f,0.35103288191
+Miami,Daytona Beach,T,F_belowFigureCentroid_l_f,1.0
+Miami,Daytona Beach,T,F_closeDistNormFigure_f_l,1.0
+Miami,Daytona Beach,T,F_closeDistNormFigure_l_f,1.0
+Miami,Daytona Beach,T,F_closeDistNormLandmark_f_l,1.0
+Miami,Daytona Beach,T,F_closeDistNormLandmark_l_f,1.0
+Miami,Daytona Beach,T,F_closeDistNormUnion_f_l,1.0
+Miami,Daytona Beach,T,F_closeDistNormUnion_l_f,1.0
+Miami,Daytona Beach,T,F_distBtwnCentroids_f_l,0.921657566643
+Miami,Daytona Beach,T,F_distBtwnCentroids_l_f,0.921657566643
+Miami,Daytona Beach,T,F_distHorizontalCentroid_f_l,-0.22933179052
+Miami,Daytona Beach,T,F_distHorizontalCentroid_l_f,0.22933179052
+Miami,Daytona Beach,T,F_distVerticalCentroid_f_l,0.892669927805
+Miami,Daytona Beach,T,F_distVerticalCentroid_l_f,-0.892669927805
+Miami,Daytona Beach,T,F_leftOfFigureCentroid_f_l,1.0
+Miami,Daytona Beach,T,F_rightOfFigureCentroid_l_f,1.0
+Miami,Everglades National Park,T,arg1 and east of arg2,1
+Miami,Everglades National Park,T,arg1 brings you to arg2,1
+Miami,Everglades National Park,T,arg1 is located in arg2,1
+Miami,Everglades National Park,T,arg2 and the city of arg1,1
+Miami,Everglades National Park,T,arg2 west of arg1,1
+Miami,Everglades National Park,T,bias,1.0
+Miami,Everglades National Park,T,F_aboveFigureCentroid_l_f,1.0
+Miami,Everglades National Park,T,F_avsResult_0_-1_f_l,0.140461572508
+Miami,Everglades National Park,T,F_avsResult_0_1_f_l,0.140461572508
+Miami,Everglades National Park,T,F_avsResult_0_-1_l_f,0.299357183818
+Miami,Everglades National Park,T,F_avsResult_0_1_l_f,0.299357183818
+Miami,Everglades National Park,T,F_avsResult_1_0_f_l,0.0695469816708
+Miami,Everglades National Park,T,F_avsResult_-1_0_f_l,0.476341680613
+Miami,Everglades National Park,T,F_avsResult_-1_0_l_f,0.043040964388
+Miami,Everglades National Park,T,F_avsResult_1_0_l_f,0.462750606247
+Miami,Everglades National Park,T,F_avsResult_-1_-1_f_l,0.337795455693
+Miami,Everglades National Park,T,F_avsResult_-1_1_f_l,0.337795455693
+Miami,Everglades National Park,T,F_avsResult_-1_-1_l_f,0.0762292077719
+Miami,Everglades National Park,T,F_avsResult_-1_1_l_f,0.0762292077719
+Miami,Everglades National Park,T,F_avsResult_outside_0_-1_f_l,0.140461572508
+Miami,Everglades National Park,T,F_avsResult_outside_0_1_f_l,0.140461572508
+Miami,Everglades National Park,T,F_avsResult_outside_0_-1_l_f,0.299357183818
+Miami,Everglades National Park,T,F_avsResult_outside_0_1_l_f,0.299357183818
+Miami,Everglades National Park,T,F_avsResult_outside_1_0_f_l,0.0695469816708
+Miami,Everglades National Park,T,F_avsResult_outside_-1_0_f_l,0.476341680613
+Miami,Everglades National Park,T,F_avsResult_outside_-1_0_l_f,0.043040964388
+Miami,Everglades National Park,T,F_avsResult_outside_1_0_l_f,0.462750606247
+Miami,Everglades National Park,T,F_avsResult_outside_-1_-1_f_l,0.337795455693
+Miami,Everglades National Park,T,F_avsResult_outside_-1_1_f_l,0.337795455693
+Miami,Everglades National Park,T,F_avsResult_outside_-1_-1_l_f,0.0762292077719
+Miami,Everglades National Park,T,F_avsResult_outside_-1_1_l_f,0.0762292077719
+Miami,Everglades National Park,T,F_belowFigureCentroid_f_l,1.0
+Miami,Everglades National Park,T,F_closeDistNormFigure_f_l,1.0
+Miami,Everglades National Park,T,F_closeDistNormFigure_l_f,0.0572040505331
+Miami,Everglades National Park,T,F_closeDistNormLandmark_f_l,0.0572040505331
+Miami,Everglades National Park,T,F_closeDistNormLandmark_l_f,1.0
+Miami,Everglades National Park,T,F_closeDistNormUnion_f_l,0.0559006393889
+Miami,Everglades National Park,T,F_closeDistNormUnion_l_f,0.0559006393889
+Miami,Everglades National Park,T,F_distBtwnCentroids_f_l,0.545091536415
+Miami,Everglades National Park,T,F_distBtwnCentroids_l_f,0.545091536415
+Miami,Everglades National Park,T,F_distHorizontalCentroid_f_l,-0.467739448977
+Miami,Everglades National Park,T,F_distHorizontalCentroid_l_f,0.467739448977
+Miami,Everglades National Park,T,F_distVerticalCentroid_f_l,-0.279901037765
+Miami,Everglades National Park,T,F_distVerticalCentroid_l_f,0.279901037765
+Miami,Everglades National Park,T,F_leftOfFigureCentroid_f_l,1.0
+Miami,Everglades National Park,T,F_rightOfFigureCentroid_l_f,1.0
+Miami,Florida,T,arg1 airport in arg2,1
+Miami,Florida,T,arg1 and other parts of arg2,1
+Miami,Florida,T,arg1 and south arg2,1
+Miami,Florida,T,arg1 and southern arg2,1
+Miami,Florida,T,arg1 and the state of arg2,1
+Miami,Florida,T,arg1 and throughout arg2,1
+Miami,Florida,T,arg1 area in arg2,1
+Miami,Florida,T,arg1 area of arg2,1
+Miami,Florida,T,arg1 beach arg2,1
+Miami,Florida,T,arg1 escorts in arg2,1
+Miami,Florida,T,arg1 in south arg2,1
+Miami,Florida,T,arg1 in the state of arg2,1
+Miami,Florida,T,arg1 real estate agent in arg2,1
+Miami,Florida,T,arg2 cities of arg1,1
+Miami,Florida,T,arg2 including arg1,1
+Miami,Florida,T,arg2 offices in arg1,1
+Miami,Florida,T,arg2 plays arg1,1
+Miami,Florida,T,arg2 southwest of arg1,1
+Miami,Florida,T,arg2 such as arg1,1
+Miami,Florida,T,bias,1.0
+Miami,Florida,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Miami,Florida,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Miami,Florida,T,F_aboveFigureCentroid_f_l,1.0
+Miami,Florida,T,F_avsResult_0_-1_f_l,0.467575348608
+Miami,Florida,T,F_avsResult_0_1_f_l,0.467575348608
+Miami,Florida,T,F_avsResult_0_-1_l_f,0.0344984421184
+Miami,Florida,T,F_avsResult_0_1_l_f,0.0344984421184
+Miami,Florida,T,F_avsResult_1_0_f_l,0.0319622280126
+Miami,Florida,T,F_avsResult_-1_0_f_l,0.667001596875
+Miami,Florida,T,F_avsResult_-1_0_l_f,0.00660070775243
+Miami,Florida,T,F_avsResult_1_0_l_f,0.165832195887
+Miami,Florida,T,F_avsResult_1_-1_f_l,0.103283821296
+Miami,Florida,T,F_avsResult_1_1_f_l,0.103283821296
+Miami,Florida,T,F_avsResult_1_-1_l_f,0.143780273075
+Miami,Florida,T,F_avsResult_1_1_l_f,0.143780273075
+Miami,Florida,T,F_avsResult_inside_0_-1_l_f,0.0344984421184
+Miami,Florida,T,F_avsResult_inside_0_1_l_f,0.0344984421184
+Miami,Florida,T,F_avsResult_inside_-1_0_l_f,0.00660070775243
+Miami,Florida,T,F_avsResult_inside_1_0_l_f,0.165832195887
+Miami,Florida,T,F_avsResult_inside_1_-1_l_f,0.143780273075
+Miami,Florida,T,F_avsResult_inside_1_1_l_f,0.143780273075
+Miami,Florida,T,F_avsResult_outside_0_-1_f_l,0.467575348608
+Miami,Florida,T,F_avsResult_outside_0_1_f_l,0.467575348608
+Miami,Florida,T,F_avsResult_outside_1_0_f_l,0.0319622280126
+Miami,Florida,T,F_avsResult_outside_-1_0_f_l,0.667001596875
+Miami,Florida,T,F_avsResult_outside_1_-1_f_l,0.103283821296
+Miami,Florida,T,F_avsResult_outside_1_1_f_l,0.103283821296
+Miami,Florida,T,F_belowFigureCentroid_l_f,1.0
+Miami,Florida,T,F_distBtwnCentroids_f_l,0.0805897788381
+Miami,Florida,T,F_distBtwnCentroids_l_f,0.0805897788381
+Miami,Florida,T,F_distHorizontalCentroid_f_l,-0.0710589739537
+Miami,Florida,T,F_distHorizontalCentroid_l_f,0.0710589739537
+Miami,Florida,T,F_distVerticalCentroid_f_l,0.0380175574417
+Miami,Florida,T,F_distVerticalCentroid_l_f,-0.0380175574417
+Miami,Florida,T,F_leftOfFigureCentroid_f_l,1.0
+Miami,Florida,T,F_math2dFigureIntersectionArea_f_l,1.0
+Miami,Florida,T,F_math2dFigureIntersectionArea_l_f,0.000257515530513
+Miami,Florida,T,F_math2dIntersectionArea_f_l,0.000257515530513
+Miami,Florida,T,F_math2dIntersectionArea_l_f,0.000257515530513
+Miami,Florida,T,F_math2dLandmarkIntersectionArea_f_l,0.000257515530513
+Miami,Florida,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Miami,Florida,T,F_rightOfFigureCentroid_l_f,1.0
+Miami,Georgia,T,arg1 and north into arg2,1
+Miami,Georgia,T,arg1 fell to arg2,1
+Miami,Georgia,T,arg1 will play arg2,1
+Miami,Georgia,T,arg2 and as far south as arg1,1
+Miami,Georgia,T,arg2 and down to arg1,1
+Miami,Georgia,T,arg2 and raised in arg1,1
+Miami,Georgia,T,arg2 before settling in arg1,1
+Miami,Georgia,T,arg2 border and arg1,1
+Miami,Georgia,T,arg2 border to arg1,1
+Miami,Georgia,T,arg2 held arg1,1
+Miami,Georgia,T,arg2 line all the way to arg1,1
+Miami,Georgia,T,arg2 vs arg1,1
+Miami,Georgia,T,bias,1.0
+Miami,Georgia,T,F_aboveFigureCentroid_f_l,1.0
+Miami,Georgia,T,F_avsResult_0_-1_f_l,0.734689527368
+Miami,Georgia,T,F_avsResult_0_1_f_l,0.734689527368
+Miami,Georgia,T,F_avsResult_0_-1_l_f,0.0146891351457
+Miami,Georgia,T,F_avsResult_0_1_l_f,0.0146891351457
+Miami,Georgia,T,F_avsResult_1_0_f_l,0.0772925984398
+Miami,Georgia,T,F_avsResult_-1_0_f_l,0.498439662379
+Miami,Georgia,T,F_avsResult_-1_0_l_f,0.0610656662482
+Miami,Georgia,T,F_avsResult_1_0_l_f,0.372291208998
+Miami,Georgia,T,F_avsResult_1_-1_f_l,0.554989879671
+Miami,Georgia,T,F_avsResult_1_1_f_l,0.554989879671
+Miami,Georgia,T,F_avsResult_1_-1_l_f,0.044925926264
+Miami,Georgia,T,F_avsResult_1_1_l_f,0.044925926264
+Miami,Georgia,T,F_avsResult_outside_0_-1_f_l,0.734689527368
+Miami,Georgia,T,F_avsResult_outside_0_1_f_l,0.734689527368
+Miami,Georgia,T,F_avsResult_outside_0_-1_l_f,0.0146891351457
+Miami,Georgia,T,F_avsResult_outside_0_1_l_f,0.0146891351457
+Miami,Georgia,T,F_avsResult_outside_1_0_f_l,0.0772925984398
+Miami,Georgia,T,F_avsResult_outside_-1_0_f_l,0.498439662379
+Miami,Georgia,T,F_avsResult_outside_-1_0_l_f,0.0610656662482
+Miami,Georgia,T,F_avsResult_outside_1_0_l_f,0.372291208998
+Miami,Georgia,T,F_avsResult_outside_1_-1_f_l,0.554989879671
+Miami,Georgia,T,F_avsResult_outside_1_1_f_l,0.554989879671
+Miami,Georgia,T,F_avsResult_outside_1_-1_l_f,0.044925926264
+Miami,Georgia,T,F_avsResult_outside_1_1_l_f,0.044925926264
+Miami,Georgia,T,F_belowFigureCentroid_l_f,1.0
+Miami,Georgia,T,F_closeDistNormFigure_f_l,1.0
+Miami,Georgia,T,F_closeDistNormFigure_l_f,1.0
+Miami,Georgia,T,F_closeDistNormLandmark_f_l,1.0
+Miami,Georgia,T,F_closeDistNormLandmark_l_f,1.0
+Miami,Georgia,T,F_closeDistNormUnion_f_l,1.0
+Miami,Georgia,T,F_closeDistNormUnion_l_f,1.0
+Miami,Georgia,T,F_distBtwnCentroids_f_l,0.149718111843
+Miami,Georgia,T,F_distBtwnCentroids_l_f,0.149718111843
+Miami,Georgia,T,F_distHorizontalCentroid_f_l,-0.0637784224658
+Miami,Georgia,T,F_distHorizontalCentroid_l_f,0.0637784224658
+Miami,Georgia,T,F_distVerticalCentroid_f_l,0.135454146639
+Miami,Georgia,T,F_distVerticalCentroid_l_f,-0.135454146639
+Miami,Georgia,T,F_leftOfFigureCentroid_f_l,1.0
+Miami,Georgia,T,F_rightOfFigureCentroid_l_f,1.0
+Miami,Key Largo,T,arg1 and enter arg2,1
+Miami,Key Largo,T,arg1 and then onto arg2,1
+Miami,Key Largo,T,arg1 beginning with arg2,1
+Miami,Key Largo,T,arg1 down to arg2,1
+Miami,Key Largo,T,arg1 in sunny arg2,1
+Miami,Key Largo,T,arg1 is closer to arg2,1
+Miami,Key Largo,T,arg1 lies arg2,1
+Miami,Key Largo,T,arg2 just south of arg1,1
+Miami,Key Largo,T,arg2 south of arg1,1
+Miami,Key Largo,T,bias,1.0
+Miami,Key Largo,T,F_aboveFigureCentroid_l_f,1.0
+Miami,Key Largo,T,F_avsResult_0_-1_f_l,0.0387593037698
+Miami,Key Largo,T,F_avsResult_0_1_f_l,0.0387593037698
+Miami,Key Largo,T,F_avsResult_0_-1_l_f,0.529955975634
+Miami,Key Largo,T,F_avsResult_0_1_l_f,0.529955975634
+Miami,Key Largo,T,F_avsResult_1_0_f_l,0.18302679886
+Miami,Key Largo,T,F_avsResult_-1_0_f_l,0.310386720566
+Miami,Key Largo,T,F_avsResult_-1_0_l_f,0.183226212407
+Miami,Key Largo,T,F_avsResult_1_0_l_f,0.322475645304
+Miami,Key Largo,T,F_avsResult_-1_-1_f_l,0.0572765454081
+Miami,Key Largo,T,F_avsResult_-1_1_f_l,0.0572765454081
+Miami,Key Largo,T,F_avsResult_-1_-1_l_f,0.455578531581
+Miami,Key Largo,T,F_avsResult_-1_1_l_f,0.455578531581
+Miami,Key Largo,T,F_avsResult_outside_0_-1_f_l,0.0387593037698
+Miami,Key Largo,T,F_avsResult_outside_0_1_f_l,0.0387593037698
+Miami,Key Largo,T,F_avsResult_outside_0_-1_l_f,0.529955975634
+Miami,Key Largo,T,F_avsResult_outside_0_1_l_f,0.529955975634
+Miami,Key Largo,T,F_avsResult_outside_1_0_f_l,0.18302679886
+Miami,Key Largo,T,F_avsResult_outside_-1_0_f_l,0.310386720566
+Miami,Key Largo,T,F_avsResult_outside_-1_0_l_f,0.183226212407
+Miami,Key Largo,T,F_avsResult_outside_1_0_l_f,0.322475645304
+Miami,Key Largo,T,F_avsResult_outside_-1_-1_f_l,0.0572765454081
+Miami,Key Largo,T,F_avsResult_outside_-1_1_f_l,0.0572765454081
+Miami,Key Largo,T,F_avsResult_outside_-1_-1_l_f,0.455578531581
+Miami,Key Largo,T,F_avsResult_outside_-1_1_l_f,0.455578531581
+Miami,Key Largo,T,F_belowFigureCentroid_f_l,1.0
+Miami,Key Largo,T,F_closeDistNormFigure_f_l,1.0
+Miami,Key Largo,T,F_closeDistNormFigure_l_f,1.0
+Miami,Key Largo,T,F_closeDistNormLandmark_f_l,1.0
+Miami,Key Largo,T,F_closeDistNormLandmark_l_f,1.0
+Miami,Key Largo,T,F_closeDistNormUnion_f_l,1.0
+Miami,Key Largo,T,F_closeDistNormUnion_l_f,1.0
+Miami,Key Largo,T,F_distBtwnCentroids_f_l,2.93961860791
+Miami,Key Largo,T,F_distBtwnCentroids_l_f,2.93961860791
+Miami,Key Largo,T,F_distHorizontalCentroid_f_l,-0.96010758961
+Miami,Key Largo,T,F_distHorizontalCentroid_l_f,0.96010758961
+Miami,Key Largo,T,F_distVerticalCentroid_f_l,-2.77840799314
+Miami,Key Largo,T,F_distVerticalCentroid_l_f,2.77840799314
+Miami,Key Largo,T,F_leftOfFigureCentroid_f_l,1.0
+Miami,Key Largo,T,F_rightOfFigureCentroid_l_f,1.0
+Miami,Miami,T,arg1 and downtown arg2,1
+Miami,Miami,T,arg1 classified ads around arg2,1
+Miami,Miami,T,arg1 hotels arg2,1
+Miami,Miami,T,arg1 mansion in arg2,1
+Miami,Miami,T,arg1 or add new placemark for arg2,1
+Miami,Miami,T,arg1 or sending flowers to arg2,1
+Miami,Miami,T,arg1 or visiting arg2,1
+Miami,Miami,T,arg1 real estate agents in arg2,1
+Miami,Miami,T,arg1 real estate arg2,1
+Miami,Miami,T,arg1 stays in arg2,1
+Miami,Miami,T,arg2 and downtown arg1,1
+Miami,Miami,T,arg2 classified ads around arg1,1
+Miami,Miami,T,arg2 hotels arg1,1
+Miami,Miami,T,arg2 mansion in arg1,1
+Miami,Miami,T,arg2 or add new placemark for arg1,1
+Miami,Miami,T,arg2 or sending flowers to arg1,1
+Miami,Miami,T,arg2 or visiting arg1,1
+Miami,Miami,T,arg2 real estate agents in arg1,1
+Miami,Miami,T,arg2 real estate arg1,1
+Miami,Miami,T,arg2 stays in arg1,1
+Miami,Miami,T,bias,1.0
+Miami,Miami,T,entity1=entity2,1
+Miami,Miami,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Miami,Miami,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Miami,Miami,T,F_avsResult_0_-1_f_l,0.350373131445
+Miami,Miami,T,F_avsResult_0_1_f_l,0.350373131445
+Miami,Miami,T,F_avsResult_0_-1_l_f,0.350373131445
+Miami,Miami,T,F_avsResult_0_1_l_f,0.350373131445
+Miami,Miami,T,F_avsResult_-1_0_f_l,0.0128295552185
+Miami,Miami,T,F_avsResult_1_0_f_l,0.0452885577217
+Miami,Miami,T,F_avsResult_-1_0_l_f,0.0128295552185
+Miami,Miami,T,F_avsResult_1_0_l_f,0.0452885577217
+Miami,Miami,T,F_avsResult_inside_0_-1_f_l,0.350373131445
+Miami,Miami,T,F_avsResult_inside_0_1_f_l,0.350373131445
+Miami,Miami,T,F_avsResult_inside_0_-1_l_f,0.350373131445
+Miami,Miami,T,F_avsResult_inside_0_1_l_f,0.350373131445
+Miami,Miami,T,F_avsResult_inside_-1_0_f_l,0.0128295552185
+Miami,Miami,T,F_avsResult_inside_1_0_f_l,0.0452885577217
+Miami,Miami,T,F_avsResult_inside_-1_0_l_f,0.0128295552185
+Miami,Miami,T,F_avsResult_inside_1_0_l_f,0.0452885577217
+Miami,Miami,T,F_math2dFigureIntersectionArea_f_l,1.0
+Miami,Miami,T,F_math2dFigureIntersectionArea_l_f,1.0
+Miami,Miami,T,F_math2dIntersectionArea_f_l,1.0
+Miami,Miami,T,F_math2dIntersectionArea_l_f,1.0
+Miami,Miami,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Miami,Miami,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Miami,Tallahassee,T,arg1 and educated in arg2,1
+Miami,Tallahassee,T,arg1 and ending in arg2,1
+Miami,Tallahassee,T,arg1 and one in arg2,1
+Miami,Tallahassee,T,arg1 and raised in arg2,1
+Miami,Tallahassee,T,arg1 and the capital city of arg2,1
+Miami,Tallahassee,T,arg1 beats arg2,1
+Miami,Tallahassee,T,arg1 drove to arg2,1
+Miami,Tallahassee,T,arg1 than you will in arg2,1
+Miami,Tallahassee,T,arg1 versus arg2,1
+Miami,Tallahassee,T,arg1 who went to arg2,1
+Miami,Tallahassee,T,arg1 won in arg2,1
+Miami,Tallahassee,T,arg2 against arg1,1
+Miami,Tallahassee,T,arg2 and one in arg1,1
+Miami,Tallahassee,T,arg2 and two years in arg1,1
+Miami,Tallahassee,T,arg2 gave arg1,1
+Miami,Tallahassee,T,arg2 in the north to arg1,1
+Miami,Tallahassee,T,bias,1.0
+Miami,Tallahassee,T,F_aboveFigureCentroid_f_l,1.0
+Miami,Tallahassee,T,F_avsResult_0_-1_f_l,0.631438558129
+Miami,Tallahassee,T,F_avsResult_0_1_f_l,0.631438558129
+Miami,Tallahassee,T,F_avsResult_0_-1_l_f,0.041220942956
+Miami,Tallahassee,T,F_avsResult_0_1_l_f,0.041220942956
+Miami,Tallahassee,T,F_avsResult_1_0_f_l,0.0521355244568
+Miami,Tallahassee,T,F_avsResult_-1_0_f_l,0.585292477091
+Miami,Tallahassee,T,F_avsResult_-1_0_l_f,0.0524061429367
+Miami,Tallahassee,T,F_avsResult_1_0_l_f,0.587533924971
+Miami,Tallahassee,T,F_avsResult_1_-1_f_l,0.297563815453
+Miami,Tallahassee,T,F_avsResult_1_1_f_l,0.297563815453
+Miami,Tallahassee,T,F_avsResult_1_-1_l_f,0.201145712176
+Miami,Tallahassee,T,F_avsResult_1_1_l_f,0.201145712176
+Miami,Tallahassee,T,F_avsResult_outside_0_-1_f_l,0.631438558129
+Miami,Tallahassee,T,F_avsResult_outside_0_1_f_l,0.631438558129
+Miami,Tallahassee,T,F_avsResult_outside_0_-1_l_f,0.041220942956
+Miami,Tallahassee,T,F_avsResult_outside_0_1_l_f,0.041220942956
+Miami,Tallahassee,T,F_avsResult_outside_1_0_f_l,0.0521355244568
+Miami,Tallahassee,T,F_avsResult_outside_-1_0_f_l,0.585292477091
+Miami,Tallahassee,T,F_avsResult_outside_-1_0_l_f,0.0524061429367
+Miami,Tallahassee,T,F_avsResult_outside_1_0_l_f,0.587533924971
+Miami,Tallahassee,T,F_avsResult_outside_1_-1_f_l,0.297563815453
+Miami,Tallahassee,T,F_avsResult_outside_1_1_f_l,0.297563815453
+Miami,Tallahassee,T,F_avsResult_outside_1_-1_l_f,0.201145712176
+Miami,Tallahassee,T,F_avsResult_outside_1_1_l_f,0.201145712176
+Miami,Tallahassee,T,F_belowFigureCentroid_l_f,1.0
+Miami,Tallahassee,T,F_closeDistNormFigure_f_l,1.0
+Miami,Tallahassee,T,F_closeDistNormFigure_l_f,1.0
+Miami,Tallahassee,T,F_closeDistNormLandmark_f_l,1.0
+Miami,Tallahassee,T,F_closeDistNormLandmark_l_f,1.0
+Miami,Tallahassee,T,F_closeDistNormUnion_f_l,1.0
+Miami,Tallahassee,T,F_closeDistNormUnion_l_f,1.0
+Miami,Tallahassee,T,F_distBtwnCentroids_f_l,0.31464095523
+Miami,Tallahassee,T,F_distBtwnCentroids_l_f,0.31464095523
+Miami,Tallahassee,T,F_distHorizontalCentroid_f_l,-0.206947947141
+Miami,Tallahassee,T,F_distHorizontalCentroid_l_f,0.206947947141
+Miami,Tallahassee,T,F_distVerticalCentroid_f_l,0.237005227542
+Miami,Tallahassee,T,F_distVerticalCentroid_l_f,-0.237005227542
+Miami,Tallahassee,T,F_leftOfFigureCentroid_f_l,1.0
+Miami,Tallahassee,T,F_rightOfFigureCentroid_l_f,1.0
+Tallahassee,Atlanta,T,arg1 and north to arg2,1
+Tallahassee,Atlanta,T,arg1 as well as arg2,1
+Tallahassee,Atlanta,T,arg2 before heading to arg1,1
+Tallahassee,Atlanta,T,bias,1.0
+Tallahassee,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Tallahassee,Atlanta,T,F_avsResult_0_-1_f_l,0.775576389411
+Tallahassee,Atlanta,T,F_avsResult_0_1_f_l,0.775576389411
+Tallahassee,Atlanta,T,F_avsResult_0_-1_l_f,0.00275348461805
+Tallahassee,Atlanta,T,F_avsResult_0_1_l_f,0.00275348461805
+Tallahassee,Atlanta,T,F_avsResult_1_0_f_l,0.233046945391
+Tallahassee,Atlanta,T,F_avsResult_-1_0_f_l,0.26607148798
+Tallahassee,Atlanta,T,F_avsResult_-1_0_l_f,0.224663457682
+Tallahassee,Atlanta,T,F_avsResult_1_0_l_f,0.257184640084
+Tallahassee,Atlanta,T,F_avsResult_outside_0_-1_f_l,0.775576389411
+Tallahassee,Atlanta,T,F_avsResult_outside_0_1_f_l,0.775576389411
+Tallahassee,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.00275348461805
+Tallahassee,Atlanta,T,F_avsResult_outside_0_1_l_f,0.00275348461805
+Tallahassee,Atlanta,T,F_avsResult_outside_1_0_f_l,0.233046945391
+Tallahassee,Atlanta,T,F_avsResult_outside_-1_0_f_l,0.26607148798
+Tallahassee,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.224663457682
+Tallahassee,Atlanta,T,F_avsResult_outside_1_0_l_f,0.257184640084
+Tallahassee,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Tallahassee,Atlanta,T,F_closeDistNormFigure_f_l,1.0
+Tallahassee,Atlanta,T,F_closeDistNormFigure_l_f,1.0
+Tallahassee,Atlanta,T,F_closeDistNormLandmark_f_l,1.0
+Tallahassee,Atlanta,T,F_closeDistNormLandmark_l_f,1.0
+Tallahassee,Atlanta,T,F_closeDistNormUnion_f_l,1.0
+Tallahassee,Atlanta,T,F_closeDistNormUnion_l_f,1.0
+Tallahassee,Atlanta,T,F_distBtwnCentroids_f_l,3.4294066571
+Tallahassee,Atlanta,T,F_distBtwnCentroids_l_f,3.4294066571
+Tallahassee,Atlanta,T,F_distHorizontalCentroid_f_l,-0.143730601427
+Tallahassee,Atlanta,T,F_distHorizontalCentroid_l_f,0.143730601427
+Tallahassee,Atlanta,T,F_distVerticalCentroid_f_l,3.42639337116
+Tallahassee,Atlanta,T,F_distVerticalCentroid_l_f,-3.42639337116
+Tallahassee,Atlanta,T,F_leftOfFigureCentroid_f_l,1.0
+Tallahassee,Atlanta,T,F_rightOfFigureCentroid_l_f,1.0
+Tallahassee,Daytona Beach,T,bias,1.0
+Tallahassee,Daytona Beach,T,F_aboveFigureCentroid_l_f,1.0
+Tallahassee,Daytona Beach,T,F_avsResult_0_-1_f_l,0.130260749791
+Tallahassee,Daytona Beach,T,F_avsResult_0_1_f_l,0.130260749791
+Tallahassee,Daytona Beach,T,F_avsResult_0_-1_l_f,0.400976999664
+Tallahassee,Daytona Beach,T,F_avsResult_0_1_l_f,0.400976999664
+Tallahassee,Daytona Beach,T,F_avsResult_-1_0_f_l,0.0256919922511
+Tallahassee,Daytona Beach,T,F_avsResult_1_0_f_l,0.689290911047
+Tallahassee,Daytona Beach,T,F_avsResult_1_0_l_f,0.0253790085292
+Tallahassee,Daytona Beach,T,F_avsResult_-1_0_l_f,0.685414434372
+Tallahassee,Daytona Beach,T,F_avsResult_1_-1_f_l,0.535873742268
+Tallahassee,Daytona Beach,T,F_avsResult_1_1_f_l,0.535873742268
+Tallahassee,Daytona Beach,T,F_avsResult_1_-1_l_f,0.0644512057302
+Tallahassee,Daytona Beach,T,F_avsResult_1_1_l_f,0.0644512057302
+Tallahassee,Daytona Beach,T,F_avsResult_outside_0_-1_f_l,0.130260749791
+Tallahassee,Daytona Beach,T,F_avsResult_outside_0_1_f_l,0.130260749791
+Tallahassee,Daytona Beach,T,F_avsResult_outside_0_-1_l_f,0.400976999664
+Tallahassee,Daytona Beach,T,F_avsResult_outside_0_1_l_f,0.400976999664
+Tallahassee,Daytona Beach,T,F_avsResult_outside_-1_0_f_l,0.0256919922511
+Tallahassee,Daytona Beach,T,F_avsResult_outside_1_0_f_l,0.689290911047
+Tallahassee,Daytona Beach,T,F_avsResult_outside_1_0_l_f,0.0253790085292
+Tallahassee,Daytona Beach,T,F_avsResult_outside_-1_0_l_f,0.685414434372
+Tallahassee,Daytona Beach,T,F_avsResult_outside_1_-1_f_l,0.535873742268
+Tallahassee,Daytona Beach,T,F_avsResult_outside_1_1_f_l,0.535873742268
+Tallahassee,Daytona Beach,T,F_avsResult_outside_1_-1_l_f,0.0644512057302
+Tallahassee,Daytona Beach,T,F_avsResult_outside_1_1_l_f,0.0644512057302
+Tallahassee,Daytona Beach,T,F_belowFigureCentroid_f_l,1.0
+Tallahassee,Daytona Beach,T,F_closeDistNormFigure_f_l,1.0
+Tallahassee,Daytona Beach,T,F_closeDistNormFigure_l_f,1.0
+Tallahassee,Daytona Beach,T,F_closeDistNormLandmark_f_l,1.0
+Tallahassee,Daytona Beach,T,F_closeDistNormLandmark_l_f,1.0
+Tallahassee,Daytona Beach,T,F_closeDistNormUnion_f_l,1.0
+Tallahassee,Daytona Beach,T,F_closeDistNormUnion_l_f,1.0
+Tallahassee,Daytona Beach,T,F_distBtwnCentroids_f_l,0.784083730419
+Tallahassee,Daytona Beach,T,F_distBtwnCentroids_l_f,0.784083730419
+Tallahassee,Daytona Beach,T,F_distHorizontalCentroid_f_l,0.7308846907
+Tallahassee,Daytona Beach,T,F_distHorizontalCentroid_l_f,-0.7308846907
+Tallahassee,Daytona Beach,T,F_distVerticalCentroid_f_l,-0.283892347921
+Tallahassee,Daytona Beach,T,F_distVerticalCentroid_l_f,0.283892347921
+Tallahassee,Daytona Beach,T,F_leftOfFigureCentroid_l_f,1.0
+Tallahassee,Daytona Beach,T,F_rightOfFigureCentroid_f_l,1.0
+Tallahassee,Everglades National Park,T,bias,1.0
+Tallahassee,Everglades National Park,T,F_aboveFigureCentroid_l_f,1.0
+Tallahassee,Everglades National Park,T,F_avsResult_0_-1_f_l,0.0325270347714
+Tallahassee,Everglades National Park,T,F_avsResult_0_1_f_l,0.0325270347714
+Tallahassee,Everglades National Park,T,F_avsResult_0_-1_l_f,0.664928203807
+Tallahassee,Everglades National Park,T,F_avsResult_0_1_l_f,0.664928203807
+Tallahassee,Everglades National Park,T,F_avsResult_-1_0_f_l,0.0658433645517
+Tallahassee,Everglades National Park,T,F_avsResult_1_0_f_l,0.542410050401
+Tallahassee,Everglades National Park,T,F_avsResult_1_0_l_f,0.0619942520974
+Tallahassee,Everglades National Park,T,F_avsResult_-1_0_l_f,0.524928371157
+Tallahassee,Everglades National Park,T,F_avsResult_1_-1_f_l,0.129789167845
+Tallahassee,Everglades National Park,T,F_avsResult_1_1_f_l,0.129789167845
+Tallahassee,Everglades National Park,T,F_avsResult_1_-1_l_f,0.369946516944
+Tallahassee,Everglades National Park,T,F_avsResult_1_1_l_f,0.369946516944
+Tallahassee,Everglades National Park,T,F_avsResult_outside_0_-1_f_l,0.0325270347714
+Tallahassee,Everglades National Park,T,F_avsResult_outside_0_1_f_l,0.0325270347714
+Tallahassee,Everglades National Park,T,F_avsResult_outside_0_-1_l_f,0.664928203807
+Tallahassee,Everglades National Park,T,F_avsResult_outside_0_1_l_f,0.664928203807
+Tallahassee,Everglades National Park,T,F_avsResult_outside_-1_0_f_l,0.0658433645517
+Tallahassee,Everglades National Park,T,F_avsResult_outside_1_0_f_l,0.542410050401
+Tallahassee,Everglades National Park,T,F_avsResult_outside_1_0_l_f,0.0619942520974
+Tallahassee,Everglades National Park,T,F_avsResult_outside_-1_0_l_f,0.524928371157
+Tallahassee,Everglades National Park,T,F_avsResult_outside_1_-1_f_l,0.129789167845
+Tallahassee,Everglades National Park,T,F_avsResult_outside_1_1_f_l,0.129789167845
+Tallahassee,Everglades National Park,T,F_avsResult_outside_1_-1_l_f,0.369946516944
+Tallahassee,Everglades National Park,T,F_avsResult_outside_1_1_l_f,0.369946516944
+Tallahassee,Everglades National Park,T,F_belowFigureCentroid_f_l,1.0
+Tallahassee,Everglades National Park,T,F_closeDistNormFigure_f_l,1.0
+Tallahassee,Everglades National Park,T,F_closeDistNormFigure_l_f,1.0
+Tallahassee,Everglades National Park,T,F_closeDistNormLandmark_f_l,1.0
+Tallahassee,Everglades National Park,T,F_closeDistNormLandmark_l_f,1.0
+Tallahassee,Everglades National Park,T,F_closeDistNormUnion_f_l,1.0
+Tallahassee,Everglades National Park,T,F_closeDistNormUnion_l_f,1.0
+Tallahassee,Everglades National Park,T,F_distBtwnCentroids_f_l,0.279244949257
+Tallahassee,Everglades National Park,T,F_distBtwnCentroids_l_f,0.279244949257
+Tallahassee,Everglades National Park,T,F_distHorizontalCentroid_f_l,0.15557916846
+Tallahassee,Everglades National Park,T,F_distHorizontalCentroid_l_f,-0.15557916846
+Tallahassee,Everglades National Park,T,F_distVerticalCentroid_f_l,-0.231889766973
+Tallahassee,Everglades National Park,T,F_distVerticalCentroid_l_f,0.231889766973
+Tallahassee,Everglades National Park,T,F_leftOfFigureCentroid_l_f,1.0
+Tallahassee,Everglades National Park,T,F_rightOfFigureCentroid_f_l,1.0
+Tallahassee,Florida,T,arg1 and the state of arg2,1
+Tallahassee,Florida,T,arg1 and throughout arg2,1
+Tallahassee,Florida,T,arg1 during arg2,1
+Tallahassee,Florida,T,arg1 in northern arg2,1
+Tallahassee,Florida,T,arg1 is also the capital of arg2,1
+Tallahassee,Florida,T,arg1 is the capital city of arg2,1
+Tallahassee,Florida,T,arg1 is the capital of arg2,1
+Tallahassee,Florida,T,arg1 is the state capital of arg2,1
+Tallahassee,Florida,T,arg1 or anywhere else in arg2,1
+Tallahassee,Florida,T,arg2 capital city of arg1,1
+Tallahassee,Florida,T,arg2 conveniently located between arg1,1
+Tallahassee,Florida,T,arg2 east of arg1,1
+Tallahassee,Florida,T,arg2 include arg1,1
+Tallahassee,Florida,T,arg2 including arg1,1
+Tallahassee,Florida,T,arg2 is located in arg1,1
+Tallahassee,Florida,T,arg2 just south of arg1,1
+Tallahassee,Florida,T,arg2 panhandle from arg1,1
+Tallahassee,Florida,T,bias,1.0
+Tallahassee,Florida,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Tallahassee,Florida,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Tallahassee,Florida,T,F_aboveFigureCentroid_l_f,1.0
+Tallahassee,Florida,T,F_avsResult_0_-1_f_l,0.0129057516467
+Tallahassee,Florida,T,F_avsResult_0_1_f_l,0.0129057516467
+Tallahassee,Florida,T,F_avsResult_0_-1_l_f,0.01915729271
+Tallahassee,Florida,T,F_avsResult_0_1_l_f,0.01915729271
+Tallahassee,Florida,T,F_avsResult_-1_0_f_l,0.192512782471
+Tallahassee,Florida,T,F_avsResult_1_0_f_l,0.313401036983
+Tallahassee,Florida,T,F_avsResult_1_0_l_f,0.0288599561617
+Tallahassee,Florida,T,F_avsResult_-1_0_l_f,0.02972132472
+Tallahassee,Florida,T,F_avsResult_inside_0_-1_l_f,0.01915729271
+Tallahassee,Florida,T,F_avsResult_inside_0_1_l_f,0.01915729271
+Tallahassee,Florida,T,F_avsResult_inside_1_0_l_f,0.0288599561617
+Tallahassee,Florida,T,F_avsResult_inside_-1_0_l_f,0.02972132472
+Tallahassee,Florida,T,F_avsResult_outside_0_-1_f_l,0.0129057516467
+Tallahassee,Florida,T,F_avsResult_outside_0_1_f_l,0.0129057516467
+Tallahassee,Florida,T,F_avsResult_outside_-1_0_f_l,0.192512782471
+Tallahassee,Florida,T,F_avsResult_outside_1_0_f_l,0.313401036983
+Tallahassee,Florida,T,F_belowFigureCentroid_f_l,1.0
+Tallahassee,Florida,T,F_distBtwnCentroids_f_l,0.054956260177
+Tallahassee,Florida,T,F_distBtwnCentroids_l_f,0.054956260177
+Tallahassee,Florida,T,F_distHorizontalCentroid_f_l,0.00941443560187
+Tallahassee,Florida,T,F_distHorizontalCentroid_l_f,-0.00941443560187
+Tallahassee,Florida,T,F_distVerticalCentroid_f_l,-0.0541438725521
+Tallahassee,Florida,T,F_distVerticalCentroid_l_f,0.0541438725521
+Tallahassee,Florida,T,F_leftOfFigureCentroid_l_f,1.0
+Tallahassee,Florida,T,F_math2dFigureIntersectionArea_f_l,1.0
+Tallahassee,Florida,T,F_math2dFigureIntersectionArea_l_f,6.20816416902e-06
+Tallahassee,Florida,T,F_math2dIntersectionArea_f_l,6.20816416902e-06
+Tallahassee,Florida,T,F_math2dIntersectionArea_l_f,6.20816416902e-06
+Tallahassee,Florida,T,F_math2dLandmarkIntersectionArea_f_l,6.20816416902e-06
+Tallahassee,Florida,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Tallahassee,Florida,T,F_rightOfFigureCentroid_f_l,1.0
+Tallahassee,Georgia,T,arg1 area and south arg2,1
+Tallahassee,Georgia,T,arg1 area of arg2,1
+Tallahassee,Georgia,T,arg2 and began practicing in arg1,1
+Tallahassee,Georgia,T,arg2 and grew up in arg1,1
+Tallahassee,Georgia,T,arg2 and now live in arg1,1
+Tallahassee,Georgia,T,arg2 and return to arg1,1
+Tallahassee,Georgia,T,arg2 and the other in arg1,1
+Tallahassee,Georgia,T,arg2 bought arg1,1
+Tallahassee,Georgia,T,arg2 from outside arg1,1
+Tallahassee,Georgia,T,arg2 visiting arg1,1
+Tallahassee,Georgia,T,bias,1.0
+Tallahassee,Georgia,T,F_aboveFigureCentroid_f_l,1.0
+Tallahassee,Georgia,T,F_avsResult_0_-1_f_l,0.650782857648
+Tallahassee,Georgia,T,F_avsResult_0_1_f_l,0.650782857648
+Tallahassee,Georgia,T,F_avsResult_0_-1_l_f,0.0221162010969
+Tallahassee,Georgia,T,F_avsResult_0_1_l_f,0.0221162010969
+Tallahassee,Georgia,T,F_avsResult_-1_0_f_l,0.148512499718
+Tallahassee,Georgia,T,F_avsResult_1_0_f_l,0.376265180179
+Tallahassee,Georgia,T,F_avsResult_1_0_l_f,0.0471034492817
+Tallahassee,Georgia,T,F_avsResult_-1_0_l_f,0.102539148692
+Tallahassee,Georgia,T,F_avsResult_-1_-1_f_l,0.505661582987
+Tallahassee,Georgia,T,F_avsResult_-1_1_f_l,0.505661582987
+Tallahassee,Georgia,T,F_avsResult_outside_0_-1_f_l,0.650782857648
+Tallahassee,Georgia,T,F_avsResult_outside_0_1_f_l,0.650782857648
+Tallahassee,Georgia,T,F_avsResult_outside_0_-1_l_f,0.0221162010969
+Tallahassee,Georgia,T,F_avsResult_outside_0_1_l_f,0.0221162010969
+Tallahassee,Georgia,T,F_avsResult_outside_-1_0_f_l,0.148512499718
+Tallahassee,Georgia,T,F_avsResult_outside_1_0_f_l,0.376265180179
+Tallahassee,Georgia,T,F_avsResult_outside_1_0_l_f,0.0471034492817
+Tallahassee,Georgia,T,F_avsResult_outside_-1_0_l_f,0.102539148692
+Tallahassee,Georgia,T,F_avsResult_outside_-1_-1_f_l,0.505661582987
+Tallahassee,Georgia,T,F_avsResult_outside_-1_1_f_l,0.505661582987
+Tallahassee,Georgia,T,F_belowFigureCentroid_l_f,1.0
+Tallahassee,Georgia,T,F_closeDistNormFigure_f_l,1.0
+Tallahassee,Georgia,T,F_closeDistNormFigure_l_f,0.00684331250336
+Tallahassee,Georgia,T,F_closeDistNormLandmark_f_l,0.00684331250336
+Tallahassee,Georgia,T,F_closeDistNormLandmark_l_f,1.0
+Tallahassee,Georgia,T,F_closeDistNormUnion_f_l,0.00684316567428
+Tallahassee,Georgia,T,F_closeDistNormUnion_l_f,0.00684316567428
+Tallahassee,Georgia,T,F_distBtwnCentroids_f_l,0.107017242177
+Tallahassee,Georgia,T,F_distBtwnCentroids_l_f,0.107017242177
+Tallahassee,Georgia,T,F_distHorizontalCentroid_f_l,0.0379586248326
+Tallahassee,Georgia,T,F_distHorizontalCentroid_l_f,-0.0379586248326
+Tallahassee,Georgia,T,F_distVerticalCentroid_f_l,0.100059147128
+Tallahassee,Georgia,T,F_distVerticalCentroid_l_f,-0.100059147128
+Tallahassee,Georgia,T,F_leftOfFigureCentroid_l_f,1.0
+Tallahassee,Georgia,T,F_rightOfFigureCentroid_f_l,1.0
+Tallahassee,Key Largo,T,bias,1.0
+Tallahassee,Key Largo,T,F_aboveFigureCentroid_l_f,1.0
+Tallahassee,Key Largo,T,F_avsResult_0_-1_f_l,0.0332378523367
+Tallahassee,Key Largo,T,F_avsResult_0_1_f_l,0.0332378523367
+Tallahassee,Key Largo,T,F_avsResult_0_-1_l_f,0.667097731531
+Tallahassee,Key Largo,T,F_avsResult_0_1_l_f,0.667097731531
+Tallahassee,Key Largo,T,F_avsResult_-1_0_f_l,0.0600758663418
+Tallahassee,Key Largo,T,F_avsResult_1_0_f_l,0.558744804315
+Tallahassee,Key Largo,T,F_avsResult_1_0_l_f,0.060070745629
+Tallahassee,Key Largo,T,F_avsResult_-1_0_l_f,0.558765407313
+Tallahassee,Key Largo,T,F_avsResult_1_-1_f_l,0.141435406966
+Tallahassee,Key Largo,T,F_avsResult_1_1_f_l,0.141435406966
+Tallahassee,Key Largo,T,F_avsResult_1_-1_l_f,0.38705637812
+Tallahassee,Key Largo,T,F_avsResult_1_1_l_f,0.38705637812
+Tallahassee,Key Largo,T,F_avsResult_outside_0_-1_f_l,0.0332378523367
+Tallahassee,Key Largo,T,F_avsResult_outside_0_1_f_l,0.0332378523367
+Tallahassee,Key Largo,T,F_avsResult_outside_0_-1_l_f,0.667097731531
+Tallahassee,Key Largo,T,F_avsResult_outside_0_1_l_f,0.667097731531
+Tallahassee,Key Largo,T,F_avsResult_outside_-1_0_f_l,0.0600758663418
+Tallahassee,Key Largo,T,F_avsResult_outside_1_0_f_l,0.558744804315
+Tallahassee,Key Largo,T,F_avsResult_outside_1_0_l_f,0.060070745629
+Tallahassee,Key Largo,T,F_avsResult_outside_-1_0_l_f,0.558765407313
+Tallahassee,Key Largo,T,F_avsResult_outside_1_-1_f_l,0.141435406966
+Tallahassee,Key Largo,T,F_avsResult_outside_1_1_f_l,0.141435406966
+Tallahassee,Key Largo,T,F_avsResult_outside_1_-1_l_f,0.38705637812
+Tallahassee,Key Largo,T,F_avsResult_outside_1_1_l_f,0.38705637812
+Tallahassee,Key Largo,T,F_belowFigureCentroid_f_l,1.0
+Tallahassee,Key Largo,T,F_closeDistNormFigure_f_l,1.0
+Tallahassee,Key Largo,T,F_closeDistNormFigure_l_f,1.0
+Tallahassee,Key Largo,T,F_closeDistNormLandmark_f_l,1.0
+Tallahassee,Key Largo,T,F_closeDistNormLandmark_l_f,1.0
+Tallahassee,Key Largo,T,F_closeDistNormUnion_f_l,1.0
+Tallahassee,Key Largo,T,F_closeDistNormUnion_l_f,1.0
+Tallahassee,Key Largo,T,F_distBtwnCentroids_f_l,0.31801825508
+Tallahassee,Key Largo,T,F_distBtwnCentroids_l_f,0.31801825508
+Tallahassee,Key Largo,T,F_distHorizontalCentroid_f_l,0.185199393421
+Tallahassee,Key Largo,T,F_distHorizontalCentroid_l_f,-0.185199393421
+Tallahassee,Key Largo,T,F_distVerticalCentroid_f_l,-0.258528132397
+Tallahassee,Key Largo,T,F_distVerticalCentroid_l_f,0.258528132397
+Tallahassee,Key Largo,T,F_leftOfFigureCentroid_l_f,1.0
+Tallahassee,Key Largo,T,F_rightOfFigureCentroid_f_l,1.0
+Tallahassee,Miami,T,arg1 against arg2,1
+Tallahassee,Miami,T,arg1 and one in arg2,1
+Tallahassee,Miami,T,arg1 and two years in arg2,1
+Tallahassee,Miami,T,arg1 gave arg2,1
+Tallahassee,Miami,T,arg1 in the north to arg2,1
+Tallahassee,Miami,T,arg2 and educated in arg1,1
+Tallahassee,Miami,T,arg2 and ending in arg1,1
+Tallahassee,Miami,T,arg2 and one in arg1,1
+Tallahassee,Miami,T,arg2 and raised in arg1,1
+Tallahassee,Miami,T,arg2 and the capital city of arg1,1
+Tallahassee,Miami,T,arg2 beats arg1,1
+Tallahassee,Miami,T,arg2 drove to arg1,1
+Tallahassee,Miami,T,arg2 than you will in arg1,1
+Tallahassee,Miami,T,arg2 versus arg1,1
+Tallahassee,Miami,T,arg2 who went to arg1,1
+Tallahassee,Miami,T,arg2 won in arg1,1
+Tallahassee,Miami,T,bias,1.0
+Tallahassee,Miami,T,F_aboveFigureCentroid_l_f,1.0
+Tallahassee,Miami,T,F_avsResult_0_-1_f_l,0.041220942956
+Tallahassee,Miami,T,F_avsResult_0_1_f_l,0.041220942956
+Tallahassee,Miami,T,F_avsResult_0_-1_l_f,0.631438558129
+Tallahassee,Miami,T,F_avsResult_0_1_l_f,0.631438558129
+Tallahassee,Miami,T,F_avsResult_-1_0_f_l,0.0524061429367
+Tallahassee,Miami,T,F_avsResult_1_0_f_l,0.587533924971
+Tallahassee,Miami,T,F_avsResult_1_0_l_f,0.0521355244568
+Tallahassee,Miami,T,F_avsResult_-1_0_l_f,0.585292477091
+Tallahassee,Miami,T,F_avsResult_1_-1_f_l,0.201145712176
+Tallahassee,Miami,T,F_avsResult_1_1_f_l,0.201145712176
+Tallahassee,Miami,T,F_avsResult_1_-1_l_f,0.297563815453
+Tallahassee,Miami,T,F_avsResult_1_1_l_f,0.297563815453
+Tallahassee,Miami,T,F_avsResult_outside_0_-1_f_l,0.041220942956
+Tallahassee,Miami,T,F_avsResult_outside_0_1_f_l,0.041220942956
+Tallahassee,Miami,T,F_avsResult_outside_0_-1_l_f,0.631438558129
+Tallahassee,Miami,T,F_avsResult_outside_0_1_l_f,0.631438558129
+Tallahassee,Miami,T,F_avsResult_outside_-1_0_f_l,0.0524061429367
+Tallahassee,Miami,T,F_avsResult_outside_1_0_f_l,0.587533924971
+Tallahassee,Miami,T,F_avsResult_outside_1_0_l_f,0.0521355244568
+Tallahassee,Miami,T,F_avsResult_outside_-1_0_l_f,0.585292477091
+Tallahassee,Miami,T,F_avsResult_outside_1_-1_f_l,0.201145712176
+Tallahassee,Miami,T,F_avsResult_outside_1_1_f_l,0.201145712176
+Tallahassee,Miami,T,F_avsResult_outside_1_-1_l_f,0.297563815453
+Tallahassee,Miami,T,F_avsResult_outside_1_1_l_f,0.297563815453
+Tallahassee,Miami,T,F_belowFigureCentroid_f_l,1.0
+Tallahassee,Miami,T,F_closeDistNormFigure_f_l,1.0
+Tallahassee,Miami,T,F_closeDistNormFigure_l_f,1.0
+Tallahassee,Miami,T,F_closeDistNormLandmark_f_l,1.0
+Tallahassee,Miami,T,F_closeDistNormLandmark_l_f,1.0
+Tallahassee,Miami,T,F_closeDistNormUnion_f_l,1.0
+Tallahassee,Miami,T,F_closeDistNormUnion_l_f,1.0
+Tallahassee,Miami,T,F_distBtwnCentroids_f_l,0.31464095523
+Tallahassee,Miami,T,F_distBtwnCentroids_l_f,0.31464095523
+Tallahassee,Miami,T,F_distHorizontalCentroid_f_l,0.206947947141
+Tallahassee,Miami,T,F_distHorizontalCentroid_l_f,-0.206947947141
+Tallahassee,Miami,T,F_distVerticalCentroid_f_l,-0.237005227542
+Tallahassee,Miami,T,F_distVerticalCentroid_l_f,0.237005227542
+Tallahassee,Miami,T,F_leftOfFigureCentroid_l_f,1.0
+Tallahassee,Miami,T,F_rightOfFigureCentroid_f_l,1.0
+Tallahassee,Tallahassee,T,arg1 executive suite categories including arg2,1
+Tallahassee,Tallahassee,T,arg1 foreclosures and arg2,1
+Tallahassee,Tallahassee,T,arg1 guests and families in arg2,1
+Tallahassee,Tallahassee,T,arg1 homes value through arg2,1
+Tallahassee,Tallahassee,T,arg1 information arg2,1
+Tallahassee,Tallahassee,T,arg1 is breathtaking arg2,1
+Tallahassee,Tallahassee,T,arg1 is part of arg2,1
+Tallahassee,Tallahassee,T,arg1 killed arg2,1
+Tallahassee,Tallahassee,T,arg1 located in arg2,1
+Tallahassee,Tallahassee,T,arg1 needs arg2,1
+Tallahassee,Tallahassee,T,arg1 or relocating outside arg2,1
+Tallahassee,Tallahassee,T,arg1 or sending flowers to arg2,1
+Tallahassee,Tallahassee,T,arg1 personal injury lawyer visit our arg2,1
+Tallahassee,Tallahassee,T,arg1 schools pages to research arg2,1
+Tallahassee,Tallahassee,T,arg1 staffing location serves arg2,1
+Tallahassee,Tallahassee,T,arg1 to help you move within arg2,1
+Tallahassee,Tallahassee,T,arg2 condos and arg1,1
+Tallahassee,Tallahassee,T,arg2 executive suite categories including arg1,1
+Tallahassee,Tallahassee,T,arg2 foreclosures and arg1,1
+Tallahassee,Tallahassee,T,arg2 guests and families in arg1,1
+Tallahassee,Tallahassee,T,arg2 homes value through arg1,1
+Tallahassee,Tallahassee,T,arg2 information arg1,1
+Tallahassee,Tallahassee,T,arg2 is breathtaking arg1,1
+Tallahassee,Tallahassee,T,arg2 is part of arg1,1
+Tallahassee,Tallahassee,T,arg2 killed arg1,1
+Tallahassee,Tallahassee,T,arg2 located in arg1,1
+Tallahassee,Tallahassee,T,arg2 needs arg1,1
+Tallahassee,Tallahassee,T,arg2 or relocating outside arg1,1
+Tallahassee,Tallahassee,T,arg2 or sending flowers to arg1,1
+Tallahassee,Tallahassee,T,arg2 personal injury lawyer visit our arg1,1
+Tallahassee,Tallahassee,T,arg2 schools pages to research arg1,1
+Tallahassee,Tallahassee,T,arg2 staffing location serves arg1,1
+Tallahassee,Tallahassee,T,arg2 to help you move within arg1,1
+Tallahassee,Tallahassee,T,bias,1.0
+Tallahassee,Tallahassee,T,entity1=entity2,1
+Tallahassee,Tallahassee,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Tallahassee,Tallahassee,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Tallahassee,Tallahassee,T,F_avsResult_0_-1_f_l,0.00122655646712
+Tallahassee,Tallahassee,T,F_avsResult_0_1_f_l,0.00122655646712
+Tallahassee,Tallahassee,T,F_avsResult_0_-1_l_f,0.00122655646712
+Tallahassee,Tallahassee,T,F_avsResult_0_1_l_f,0.00122655646712
+Tallahassee,Tallahassee,T,F_avsResult_1_0_f_l,0.00266129927827
+Tallahassee,Tallahassee,T,F_avsResult_-1_0_f_l,4.80347167931e-06
+Tallahassee,Tallahassee,T,F_avsResult_1_0_l_f,0.00266129927827
+Tallahassee,Tallahassee,T,F_avsResult_-1_0_l_f,4.80347167931e-06
+Tallahassee,Tallahassee,T,F_avsResult_inside_0_-1_f_l,0.00122655646712
+Tallahassee,Tallahassee,T,F_avsResult_inside_0_1_f_l,0.00122655646712
+Tallahassee,Tallahassee,T,F_avsResult_inside_0_-1_l_f,0.00122655646712
+Tallahassee,Tallahassee,T,F_avsResult_inside_0_1_l_f,0.00122655646712
+Tallahassee,Tallahassee,T,F_avsResult_inside_1_0_f_l,0.00266129927827
+Tallahassee,Tallahassee,T,F_avsResult_inside_-1_0_f_l,4.80347167931e-06
+Tallahassee,Tallahassee,T,F_avsResult_inside_1_0_l_f,0.00266129927827
+Tallahassee,Tallahassee,T,F_avsResult_inside_-1_0_l_f,4.80347167931e-06
+Tallahassee,Tallahassee,T,F_math2dFigureIntersectionArea_f_l,1.0
+Tallahassee,Tallahassee,T,F_math2dFigureIntersectionArea_l_f,1.0
+Tallahassee,Tallahassee,T,F_math2dIntersectionArea_f_l,1.0
+Tallahassee,Tallahassee,T,F_math2dIntersectionArea_l_f,1.0
+Tallahassee,Tallahassee,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Tallahassee,Tallahassee,T,F_math2dLandmarkIntersectionArea_l_f,1.0

@@ -1,0 +1,32 @@
+North Carolina,N,kb-North_Carolina 0 0
+North Carolina,N/N,kb-North_Carolina 0 0
+North Carolina,N,kb-ignore 0 0
+North Carolina,N/N,kb-ignore 0 0
+Raleigh,N,kb-Raleigh 0 0
+Raleigh,N/N,kb-Raleigh 0 0
+Raleigh,N,kb-ignore 0 0
+Raleigh,N/N,kb-ignore 0 0
+Charlotte,N,kb-Charlotte 0 0
+Charlotte,N/N,kb-Charlotte 0 0
+Charlotte,N,kb-ignore 0 0
+Charlotte,N/N,kb-ignore 0 0
+Uwharrie National Forest,N,kb-Uwharrie_National_Forest 0 0
+Uwharrie National Forest,N/N,kb-Uwharrie_National_Forest 0 0
+Uwharrie National Forest,N,kb-ignore 0 0
+Uwharrie National Forest,N/N,kb-ignore 0 0
+Greensboro,N,kb-Greensboro 0 0
+Greensboro,N/N,kb-Greensboro 0 0
+Greensboro,N,kb-ignore 0 0
+Greensboro,N/N,kb-ignore 0 0
+Atlantic Ocean,N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N/N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N,kb-ignore 0 0
+Atlantic Ocean,N/N,kb-ignore 0 0
+South Carolina,N,kb-South_Carolina 0 0
+South Carolina,N/N,kb-South_Carolina 0 0
+South Carolina,N,kb-ignore 0 0
+South Carolina,N/N,kb-ignore 0 0
+Myrtle Beach,N,kb-Myrtle_Beach 0 0
+Myrtle Beach,N/N,kb-Myrtle_Beach 0 0
+Myrtle Beach,N,kb-ignore 0 0
+Myrtle Beach,N/N,kb-ignore 0 0

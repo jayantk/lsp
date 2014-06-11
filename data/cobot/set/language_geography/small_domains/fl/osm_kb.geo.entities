@@ -1,0 +1,24 @@
+Florida,T,f_f__F_landmarkPerimeter,2.85305213928
+Florida,T,bias,1.0
+Florida,T,f_f__F_landmarkArea,5.05956650457
+Tallahassee,T,f_f__F_landmarkPerimeter,0.00628312135213
+Tallahassee,T,bias,1.0
+Tallahassee,T,f_f__F_landmarkArea,3.14146473556e-05
+Miami,T,f_f__F_landmarkPerimeter,0.075991124721
+Miami,T,bias,1.0
+Miami,T,f_f__F_landmarkArea,0.0012885849133
+Everglades National Park,T,f_f__F_landmarkPerimeter,0.435959946654
+Everglades National Park,T,bias,1.0
+Everglades National Park,T,f_f__F_landmarkArea,0.0558794445226
+Key Largo,T,f_f__F_landmarkPerimeter,0.00628312135213
+Key Largo,T,bias,1.0
+Key Largo,T,f_f__F_landmarkArea,3.1414647458e-05
+Daytona Beach,T,f_f__F_landmarkPerimeter,0.121641590707
+Daytona Beach,T,bias,1.0
+Daytona Beach,T,f_f__F_landmarkArea,0.00155772201665
+Georgia,T,f_f__F_landmarkPerimeter,2.03369008261
+Georgia,T,bias,1.0
+Georgia,T,f_f__F_landmarkArea,1.46701320038
+Atlanta,T,f_f__F_landmarkPerimeter,0.100451660156
+Atlanta,T,bias,1.0
+Atlanta,T,f_f__F_landmarkArea,0.00629378347076

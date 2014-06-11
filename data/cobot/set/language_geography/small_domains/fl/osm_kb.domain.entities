@@ -1,0 +1,190 @@
+Atlanta,T,area of _,1
+Atlanta,T,Atlanta,1
+Atlanta,T,bias,1.0
+Atlanta,T,center in _,1
+Atlanta,T,city of _,1
+Atlanta,T,company in _,1
+Atlanta,T,conference in _,1
+Atlanta,T,f_f__F_landmarkArea,0.00629378347076
+Atlanta,T,f_f__F_landmarkPerimeter,0.100451660156
+Atlanta,T,flight from _,1
+Atlanta,T,flight to _,1
+Atlanta,T,headquarters in _,1
+Atlanta,T,heart of _,1
+Atlanta,T,home in _,1
+Atlanta,T,meeting in _,1
+Atlanta,T,north of _,1
+Atlanta,T,office in _,1
+Atlanta,T,offices in _,1
+Atlanta,T,place in _,1
+Atlanta,T,school in _,1
+Atlanta,T,show in _,1
+Atlanta,T,suburb of _,1
+Atlanta,T,time in _,1
+Atlanta,T,trip to _,1
+Daytona Beach,T,accommodations in _,1
+Daytona Beach,T,area of _,1
+Daytona Beach,T,attractions in _,1
+Daytona Beach,T,beaches of _,1
+Daytona Beach,T,bias,1.0
+Daytona Beach,T,campuses in _,1
+Daytona Beach,T,city of _,1
+Daytona Beach,T,Daytona Beach,1
+Daytona Beach,T,f_f__F_landmarkArea,0.00155772201665
+Daytona Beach,T,f_f__F_landmarkPerimeter,0.121641590707
+Daytona Beach,T,headquarters in _,1
+Daytona Beach,T,heart of _,1
+Daytona Beach,T,home in _,1
+Daytona Beach,T,hotel in _,1
+Daytona Beach,T,hotels in _,1
+Daytona Beach,T,_ is famous,1
+Daytona Beach,T,north of _,1
+Daytona Beach,T,offices in _,1
+Daytona Beach,T,part of _,1
+Daytona Beach,T,race in _,1
+Daytona Beach,T,sands of _,1
+Daytona Beach,T,school in _,1
+Daytona Beach,T,trip to _,1
+Daytona Beach,T,world famous _,1
+Everglades National Park,T,area of _,1
+Everglades National Park,T,areas of _,1
+Everglades National Park,T,bias,1.0
+Everglades National Park,T,border of _,1
+Everglades National Park,T,boundaries of _,1
+Everglades National Park,T,boundary of _,1
+Everglades National Park,T,creation of _,1
+Everglades National Park,T,edge of _,1
+Everglades National Park,T,entrance of _,1
+Everglades National Park,T,entrance to _,1
+Everglades National Park,T,establishment of _,1
+Everglades National Park,T,Everglades National Park,1
+Everglades National Park,T,f_f__F_landmarkArea,0.0558794445226
+Everglades National Park,T,f_f__F_landmarkPerimeter,0.435959946654
+Everglades National Park,T,gateway to _,1
+Everglades National Park,T,part of _,1
+Everglades National Park,T,portion of _,1
+Everglades National Park,T,region of _,1
+Everglades National Park,T,section of _,1
+Everglades National Park,T,trip to _,1
+Everglades National Park,T,visit to _,1
+Everglades National Park,T,waters of _,1
+Everglades National Park,T,wilderness of _,1
+Florida,T,area of _,1
+Florida,T,areas of _,1
+Florida,T,bias,1.0
+Florida,T,business in _,1
+Florida,T,coast of _,1
+Florida,T,east coast of _,1
+Florida,T,f_f__F_landmarkArea,5.05956650457
+Florida,T,f_f__F_landmarkPerimeter,2.85305213928
+Florida,T,Florida,1
+Florida,T,home in _,1
+Florida,T,homes in _,1
+Florida,T,part of _,1
+Florida,T,parts of _,1
+Florida,T,people in _,1
+Florida,T,people of _,1
+Florida,T,place in _,1
+Florida,T,school in _,1
+Florida,T,schools in _,1
+Florida,T,state of _,1
+Florida,T,time in _,1
+Florida,T,trip to _,1
+Florida,T,vacation in _,1
+Florida,T,way to _,1
+Florida,T,west coast of _,1
+Georgia,T,area of _,1
+Georgia,T,areas of _,1
+Georgia,T,bias,1.0
+Georgia,T,capital of _,1
+Georgia,T,coast of _,1
+Georgia,T,conflict in _,1
+Georgia,T,events in _,1
+Georgia,T,f_f__F_landmarkArea,1.46701320038
+Georgia,T,f_f__F_landmarkPerimeter,2.03369008261
+Georgia,T,Georgia,1
+Georgia,T,governor of _,1
+Georgia,T,home in _,1
+Georgia,T,invasion of _,1
+Georgia,T,part of _,1
+Georgia,T,parts of _,1
+Georgia,T,people of _,1
+Georgia,T,region of _,1
+Georgia,T,situation in _,1
+Georgia,T,state of _,1
+Georgia,T,states of _,1
+Georgia,T,territory of _,1
+Georgia,T,war in _,1
+Georgia,T,war with _,1
+Key Largo,T,bias,1.0
+Key Largo,T,business located in _,1
+Key Largo,T,city of _,1
+Key Largo,T,coast of _,1
+Key Largo,T,diving in _,1
+Key Largo,T,end of _,1
+Key Largo,T,f_f__F_landmarkArea,3.1414647458e-05
+Key Largo,T,f_f__F_landmarkPerimeter,0.00628312135213
+Key Largo,T,fishing in _,1
+Key Largo,T,heart of _,1
+Key Largo,T,home in _,1
+Key Largo,T,hotels in _,1
+Key Largo,T,_ is at,1
+Key Largo,T,_ is home,1
+Key Largo,T,island of _,1
+Key Largo,T,Key Largo,1
+Key Largo,T,meeting in _,1
+Key Largo,T,reefs of _,1
+Key Largo,T,rentals in _,1
+Key Largo,T,side of _,1
+Key Largo,T,trips to _,1
+Key Largo,T,trip to _,1
+Key Largo,T,waters of _,1
+Key Largo,T,waters off _,1
+Miami,T,bias,1.0
+Miami,T,city of _,1
+Miami,T,conference in _,1
+Miami,T,f_f__F_landmarkArea,0.0012885849133
+Miami,T,f_f__F_landmarkPerimeter,0.075991124721
+Miami,T,flight from _,1
+Miami,T,flights from _,1
+Miami,T,flight to _,1
+Miami,T,heart of _,1
+Miami,T,home in _,1
+Miami,T,hotel in _,1
+Miami,T,hotels in _,1
+Miami,T,meeting in _,1
+Miami,T,Miami,1
+Miami,T,office in _,1
+Miami,T,offices in _,1
+Miami,T,place in _,1
+Miami,T,professional wedding vendor in _,1
+Miami,T,streets of _,1
+Miami,T,time in _,1
+Miami,T,trip to _,1
+Miami,T,vendor in _,1
+Miami,T,way to _,1
+Miami,T,wedding vendor in _,1
+Tallahassee,T,accommodations in _,1
+Tallahassee,T,attractions in _,1
+Tallahassee,T,bias,1.0
+Tallahassee,T,campus in _,1
+Tallahassee,T,city of _,1
+Tallahassee,T,conference in _,1
+Tallahassee,T,f_f__F_landmarkArea,3.14146473556e-05
+Tallahassee,T,f_f__F_landmarkPerimeter,0.00628312135213
+Tallahassee,T,headquarters in _,1
+Tallahassee,T,home in _,1
+Tallahassee,T,hotels in _,1
+Tallahassee,T,meeting in _,1
+Tallahassee,T,office in _,1
+Tallahassee,T,offices in _,1
+Tallahassee,T,people in _,1
+Tallahassee,T,practice in _,1
+Tallahassee,T,school in _,1
+Tallahassee,T,session in _,1
+Tallahassee,T,Tallahassee,1
+Tallahassee,T,time in _,1
+Tallahassee,T,trip to _,1
+Tallahassee,T,week in _,1
+Tallahassee,T,west of _,1
+Tallahassee,T,year in _,1

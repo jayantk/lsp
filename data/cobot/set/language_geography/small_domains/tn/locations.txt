@@ -1,0 +1,7 @@
+Tennessee;Tennessee;161838
+Nashville;Nashville;38451000
+Memphis;Memphis;197239
+Great Smoky Mountains National Park;Great Smoky Mountains National Park;159226673
+Knoxville;Knoxville;197353
+Alabama;Alabama;161950
+Birmingham;Birmingham;111031

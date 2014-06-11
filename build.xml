@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<project name="grounding" default="jar">
+  <property name="src-dir" location="src/java" />
+  <property name="lib-dir" location="lib" />
+  <property name="java-build-dir" location="build" />
+
+  <path id="classpath.base">
+    <pathelement location="lib/commons-compress-1.4.1.jar" />
+    <pathelement location="lib/commons-io-2.1.jar" />
+    <pathelement location="lib/cplex.jar" />
+    <pathelement location="lib/guava-13.0.1.jar" />
+    <pathelement location="lib/jklol.jar" />
+    <pathelement location="lib/jopt-simple-4.3.jar" />
+    <pathelement location="lib/lambdaj-2.4-with-dependencies.jar" />
+  </path>
+
+  <!-- delete all output from compilation -->
+
+  <target name="clean">
+    <delete dir="${java-build-dir}" />
+    <delete file="grounding.jar" />
+  </target>
+  
+  <!-- compilation targets -->
+  
+  <target name="compile">
+    <mkdir dir="${java-build-dir}" />
+    <javac sourcepath="" srcdir="${src-dir}" destdir="${java-build-dir}" debug="on">
+      <classpath refid="classpath.base"/>
+    </javac>
+  </target>
+
+  <!-- create a jar file -->
+
+  <target name="jar" depends="compile">
+    <jar destfile="grounding.jar" basedir="${java-build-dir}" />
+  </target>
+
+</project>

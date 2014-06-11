@@ -1,0 +1,12 @@
+West Virginia,N,kb-West_Virginia 0 0
+West Virginia,N/N,kb-West_Virginia 0 0
+Charleston,N,kb-Charleston 0 0
+Charleston,N/N,kb-Charleston 0 0
+Monongahela National Forest,N,kb-Monongahela_National_Forest 0 0
+Monongahela National Forest,N/N,kb-Monongahela_National_Forest 0 0
+Tygart Lake,N,kb-Tygart_Lake 0 0
+Tygart Lake,N/N,kb-Tygart_Lake 0 0
+Richmond,N,kb-Richmond 0 0
+Richmond,N/N,kb-Richmond 0 0
+Virginia,N,kb-Virginia 0 0
+Virginia,N/N,kb-Virginia 0 0

@@ -1,0 +1,3204 @@
+Pennsylvania,Pennsylvania,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_distHorizontalCentroid_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_-1_0_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_1_-1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_0_1_f_l,0.0203196131973
+Pennsylvania,Pennsylvania,T,F_distVerticalCentroid_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_closeDistNormLandmark_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_1_-1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Pennsylvania,Pennsylvania,T,F_math2dIntersectionArea_l_f,1.0
+Pennsylvania,Pennsylvania,T,F_avsResult_-1_0_f_l,0.0821255522698
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_0_-1_f_l,0.0203196131973
+Pennsylvania,Pennsylvania,T,F_math2dIntersectionArea_f_l,1.0
+Pennsylvania,Pennsylvania,T,F_avsResult_-1_-1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_-1_0_l_f,0.0821255522698
+Pennsylvania,Pennsylvania,T,F_avsResult_0_-1_l_f,0.0203196131973
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_1_0_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_1_0_l_f,0.131129256668
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_1_-1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_-1_1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_-1_0_l_f,0.0821255522698
+Pennsylvania,Pennsylvania,T,F_avsResult_1_-1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_distVerticalCentroid_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_0_1_f_l,0.0203196131973
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_-1_1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_rightOfFigureCentroid_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_1_0_f_l,0.131129256668
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_1_1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_distBtwnCentroids_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_0_-1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_1_0_l_f,0.131129256668
+Pennsylvania,Pennsylvania,T,F_avsResult_1_-1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_closeDistNormLandmark_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_0_-1_l_f,0.0203196131973
+Pennsylvania,Pennsylvania,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_-1_0_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_1_1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_0_1_l_f,0.0203196131973
+Pennsylvania,Pennsylvania,T,F_leftOfFigureCentroid_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_closeDistNormUnion_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_closeDistNormFigure_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_rightOfFigureCentroid_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_1_1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_-1_1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_0_1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_math2dFigureIntersectionArea_l_f,1.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_0_1_l_f,0.0203196131973
+Pennsylvania,Pennsylvania,T,F_closeDistNormUnion_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_0_1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_-1_1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_1_1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_0_-1_f_l,0.0203196131973
+Pennsylvania,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_math2dFigureIntersectionArea_f_l,1.0
+Pennsylvania,Pennsylvania,T,F_distBtwnCentroids_f_l,0.0
+Pennsylvania,Pennsylvania,T,bias,1.0
+Pennsylvania,Pennsylvania,T,F_avsResult_-1_-1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_distHorizontalCentroid_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_1_1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_1_-1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_belowFigureCentroid_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_1_0_f_l,0.131129256668
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_0_-1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_aboveFigureCentroid_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_-1_1_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_outside_1_0_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_1_1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_-1_1_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_belowFigureCentroid_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_closeDistNormFigure_f_l,0.0
+Pennsylvania,Pennsylvania,T,F_avsResult_inside_-1_0_f_l,0.0821255522698
+Pennsylvania,Pennsylvania,T,F_aboveFigureCentroid_l_f,0.0
+Pennsylvania,Pennsylvania,T,F_leftOfFigureCentroid_f_l,0.0
+Pennsylvania,New Jersey,T,F_math2dLandmarkIntersectionArea_f_l,0.001073460764
+Pennsylvania,New Jersey,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pennsylvania,New Jersey,T,F_distHorizontalCentroid_l_f,-0.139943756448
+Pennsylvania,New Jersey,T,F_avsResult_outside_-1_0_f_l,0.011994293903
+Pennsylvania,New Jersey,T,F_avsResult_inside_1_-1_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_inside_0_1_f_l,0.0
+Pennsylvania,New Jersey,T,F_distVerticalCentroid_l_f,0.0338225306775
+Pennsylvania,New Jersey,T,F_closeDistNormLandmark_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_outside_1_-1_f_l,0.288220124813
+Pennsylvania,New Jersey,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Pennsylvania,New Jersey,T,F_math2dIntersectionArea_l_f,0.000164529561986
+Pennsylvania,New Jersey,T,F_avsResult_-1_0_f_l,0.011994293903
+Pennsylvania,New Jersey,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pennsylvania,New Jersey,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_inside_0_-1_f_l,0.0
+Pennsylvania,New Jersey,T,F_math2dIntersectionArea_f_l,0.000164529561986
+Pennsylvania,New Jersey,T,F_avsResult_-1_-1_l_f,0.0
+Pennsylvania,New Jersey,T,F_math2dLandmarkIntersectionArea_l_f,0.000194274018775
+Pennsylvania,New Jersey,T,F_avsResult_inside_-1_0_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_0_-1_l_f,0.260409374127
+Pennsylvania,New Jersey,T,F_avsResult_outside_1_0_f_l,0.437497678554
+Pennsylvania,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_inside_1_0_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_outside_1_-1_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_inside_-1_1_f_l,0.0
+Pennsylvania,New Jersey,T,F_avsResult_-1_0_l_f,0.667336003973
+Pennsylvania,New Jersey,T,F_avsResult_1_-1_f_l,0.288220124813
+Pennsylvania,New Jersey,T,F_distVerticalCentroid_f_l,-0.0338225306775
+Pennsylvania,New Jersey,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pennsylvania,New Jersey,T,F_avsResult_0_1_f_l,0.049347135666
+Pennsylvania,New Jersey,T,F_avsResult_outside_-1_1_l_f,0.0
+Pennsylvania,New Jersey,T,F_rightOfFigureCentroid_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_1_0_f_l,0.437497678554
+Pennsylvania,New Jersey,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pennsylvania,New Jersey,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,New Jersey,T,F_avsResult_inside_1_1_l_f,0.0
+Pennsylvania,New Jersey,T,F_distBtwnCentroids_l_f,0.143972978542
+Pennsylvania,New Jersey,T,F_avsResult_outside_0_-1_l_f,0.260409374127
+Pennsylvania,New Jersey,T,F_avsResult_1_0_l_f,0.0118731021852
+Pennsylvania,New Jersey,T,F_avsResult_1_-1_l_f,0.0
+Pennsylvania,New Jersey,T,F_closeDistNormLandmark_f_l,0.0
+Pennsylvania,New Jersey,T,F_avsResult_inside_0_-1_l_f,0.0
+Pennsylvania,New Jersey,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Pennsylvania,New Jersey,T,F_avsResult_outside_-1_0_l_f,0.667336003973
+Pennsylvania,New Jersey,T,F_avsResult_1_1_f_l,0.288220124813
+Pennsylvania,New Jersey,T,F_avsResult_0_1_l_f,0.260409374127
+Pennsylvania,New Jersey,T,F_leftOfFigureCentroid_l_f,1.0
+Pennsylvania,New Jersey,T,F_closeDistNormUnion_l_f,0.0
+Pennsylvania,New Jersey,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,New Jersey,T,F_closeDistNormFigure_l_f,0.0
+Pennsylvania,New Jersey,T,F_rightOfFigureCentroid_f_l,1.0
+Pennsylvania,New Jersey,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pennsylvania,New Jersey,T,F_avsResult_outside_1_1_f_l,0.288220124813
+Pennsylvania,New Jersey,T,F_avsResult_-1_1_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_outside_0_1_f_l,0.049347135666
+Pennsylvania,New Jersey,T,F_math2dFigureIntersectionArea_l_f,0.001073460764
+Pennsylvania,New Jersey,T,F_avsResult_inside_0_1_l_f,0.0
+Pennsylvania,New Jersey,T,F_closeDistNormUnion_f_l,0.0
+Pennsylvania,New Jersey,T,F_avsResult_outside_0_1_l_f,0.260409374127
+Pennsylvania,New Jersey,T,F_avsResult_-1_1_f_l,0.0
+Pennsylvania,New Jersey,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_outside_1_1_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_0_-1_f_l,0.049347135666
+Pennsylvania,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,New Jersey,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pennsylvania,New Jersey,T,F_math2dFigureIntersectionArea_f_l,0.000194274018775
+Pennsylvania,New Jersey,T,F_distBtwnCentroids_f_l,0.143972978542
+Pennsylvania,New Jersey,T,bias,1.0
+Pennsylvania,New Jersey,T,F_avsResult_-1_-1_f_l,0.0
+Pennsylvania,New Jersey,T,F_distHorizontalCentroid_f_l,0.139943756448
+Pennsylvania,New Jersey,T,F_avsResult_inside_1_1_f_l,0.0
+Pennsylvania,New Jersey,T,F_avsResult_inside_1_-1_f_l,0.0
+Pennsylvania,New Jersey,T,F_belowFigureCentroid_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_inside_1_0_f_l,0.0
+Pennsylvania,New Jersey,T,F_avsResult_outside_0_-1_f_l,0.049347135666
+Pennsylvania,New Jersey,T,F_aboveFigureCentroid_f_l,0.0
+Pennsylvania,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_outside_-1_1_f_l,0.0
+Pennsylvania,New Jersey,T,F_avsResult_outside_1_0_l_f,0.0118731021852
+Pennsylvania,New Jersey,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,New Jersey,T,F_avsResult_1_1_l_f,0.0
+Pennsylvania,New Jersey,T,F_avsResult_inside_-1_1_l_f,0.0
+Pennsylvania,New Jersey,T,F_belowFigureCentroid_f_l,1.0
+Pennsylvania,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,New Jersey,T,F_closeDistNormFigure_f_l,0.0
+Pennsylvania,New Jersey,T,F_avsResult_inside_-1_0_f_l,0.0
+Pennsylvania,New Jersey,T,F_aboveFigureCentroid_l_f,1.0
+Pennsylvania,New Jersey,T,F_leftOfFigureCentroid_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_distHorizontalCentroid_l_f,0.14822490468
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_-1_0_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_1_-1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_0_1_f_l,0.0238308535857
+Pennsylvania,Pittsburgh,T,F_distVerticalCentroid_l_f,0.0323865122282
+Pennsylvania,Pittsburgh,T,F_closeDistNormLandmark_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_1_-1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Pennsylvania,Pittsburgh,T,F_math2dIntersectionArea_l_f,0.00133275208559
+Pennsylvania,Pittsburgh,T,F_avsResult_-1_0_f_l,0.0544952628971
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_0_-1_f_l,0.0238308535857
+Pennsylvania,Pittsburgh,T,F_math2dIntersectionArea_f_l,0.00133275208559
+Pennsylvania,Pittsburgh,T,F_avsResult_-1_-1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_math2dLandmarkIntersectionArea_l_f,0.00133275208559
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_-1_0_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_0_-1_l_f,0.318636338237
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_1_0_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_1_0_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_1_-1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_-1_1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_-1_0_l_f,0.0175853237447
+Pennsylvania,Pittsburgh,T,F_avsResult_1_-1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_distVerticalCentroid_f_l,-0.0323865122282
+Pennsylvania,Pittsburgh,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_0_1_f_l,0.0238308535857
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_-1_1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_rightOfFigureCentroid_l_f,1.0
+Pennsylvania,Pittsburgh,T,F_avsResult_1_0_f_l,0.0615463032493
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_1_1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_distBtwnCentroids_l_f,0.151721813006
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_0_-1_l_f,0.318636338237
+Pennsylvania,Pittsburgh,T,F_avsResult_1_0_l_f,0.681593895762
+Pennsylvania,Pittsburgh,T,F_avsResult_1_-1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_closeDistNormLandmark_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_0_-1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_-1_0_l_f,0.0175853237447
+Pennsylvania,Pittsburgh,T,F_avsResult_1_1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_0_1_l_f,0.318636338237
+Pennsylvania,Pittsburgh,T,F_leftOfFigureCentroid_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_closeDistNormUnion_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_closeDistNormFigure_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_rightOfFigureCentroid_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_1_1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_-1_1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_0_1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_math2dFigureIntersectionArea_l_f,1.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_0_1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_closeDistNormUnion_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_0_1_l_f,0.318636338237
+Pennsylvania,Pittsburgh,T,F_avsResult_-1_1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_1_1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_0_-1_f_l,0.0238308535857
+Pennsylvania,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_math2dFigureIntersectionArea_f_l,0.00133275208559
+Pennsylvania,Pittsburgh,T,F_distBtwnCentroids_f_l,0.151721813006
+Pennsylvania,Pittsburgh,T,bias,1.0
+Pennsylvania,Pittsburgh,T,F_avsResult_-1_-1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_distHorizontalCentroid_f_l,-0.14822490468
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_1_1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_1_-1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_belowFigureCentroid_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_1_0_f_l,0.0615463032493
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_0_-1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_aboveFigureCentroid_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_-1_1_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_outside_1_0_l_f,0.681593895762
+Pennsylvania,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_1_1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_-1_1_l_f,0.0
+Pennsylvania,Pittsburgh,T,F_belowFigureCentroid_f_l,1.0
+Pennsylvania,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_closeDistNormFigure_f_l,0.0
+Pennsylvania,Pittsburgh,T,F_avsResult_inside_-1_0_f_l,0.0544952628971
+Pennsylvania,Pittsburgh,T,F_aboveFigureCentroid_l_f,1.0
+Pennsylvania,Pittsburgh,T,F_leftOfFigureCentroid_f_l,1.0
+Pennsylvania,Harrisburg,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Pennsylvania,Harrisburg,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_distHorizontalCentroid_l_f,-0.0554538984399
+Pennsylvania,Harrisburg,T,F_avsResult_outside_-1_0_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_inside_1_-1_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_inside_0_1_f_l,0.0132867684285
+Pennsylvania,Harrisburg,T,F_distVerticalCentroid_l_f,0.0431981909397
+Pennsylvania,Harrisburg,T,F_closeDistNormLandmark_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_outside_1_-1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Pennsylvania,Harrisburg,T,F_math2dIntersectionArea_l_f,0.000264094049037
+Pennsylvania,Harrisburg,T,F_avsResult_-1_0_f_l,0.0465694965044
+Pennsylvania,Harrisburg,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pennsylvania,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_inside_0_-1_f_l,0.0132867684285
+Pennsylvania,Harrisburg,T,F_math2dIntersectionArea_f_l,0.000264094049037
+Pennsylvania,Harrisburg,T,F_avsResult_-1_-1_l_f,0.0
+Pennsylvania,Harrisburg,T,F_math2dLandmarkIntersectionArea_l_f,0.000264094049037
+Pennsylvania,Harrisburg,T,F_avsResult_inside_-1_0_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_0_-1_l_f,0.413570037846
+Pennsylvania,Harrisburg,T,F_avsResult_outside_1_0_f_l,0.0
+Pennsylvania,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_inside_1_0_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_outside_1_-1_l_f,0.19908244278
+Pennsylvania,Harrisburg,T,F_avsResult_inside_-1_1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_-1_0_l_f,0.481060029786
+Pennsylvania,Harrisburg,T,F_avsResult_1_-1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_distVerticalCentroid_f_l,-0.0431981909397
+Pennsylvania,Harrisburg,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_0_1_f_l,0.0132867684285
+Pennsylvania,Harrisburg,T,F_avsResult_outside_-1_1_l_f,0.0
+Pennsylvania,Harrisburg,T,F_rightOfFigureCentroid_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_1_0_f_l,0.196279560977
+Pennsylvania,Harrisburg,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_inside_1_1_l_f,0.0
+Pennsylvania,Harrisburg,T,F_distBtwnCentroids_l_f,0.0702938016659
+Pennsylvania,Harrisburg,T,F_avsResult_outside_0_-1_l_f,0.413570037846
+Pennsylvania,Harrisburg,T,F_avsResult_1_0_l_f,0.0796957866445
+Pennsylvania,Harrisburg,T,F_avsResult_1_-1_l_f,0.19908244278
+Pennsylvania,Harrisburg,T,F_closeDistNormLandmark_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_inside_0_-1_l_f,0.0
+Pennsylvania,Harrisburg,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Pennsylvania,Harrisburg,T,F_avsResult_outside_-1_0_l_f,0.481060029786
+Pennsylvania,Harrisburg,T,F_avsResult_1_1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_0_1_l_f,0.413570037846
+Pennsylvania,Harrisburg,T,F_leftOfFigureCentroid_l_f,1.0
+Pennsylvania,Harrisburg,T,F_closeDistNormUnion_l_f,0.0
+Pennsylvania,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,Harrisburg,T,F_closeDistNormFigure_l_f,0.0
+Pennsylvania,Harrisburg,T,F_rightOfFigureCentroid_f_l,1.0
+Pennsylvania,Harrisburg,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_outside_1_1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_-1_1_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_outside_0_1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_math2dFigureIntersectionArea_l_f,1.0
+Pennsylvania,Harrisburg,T,F_avsResult_inside_0_1_l_f,0.0
+Pennsylvania,Harrisburg,T,F_closeDistNormUnion_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_outside_0_1_l_f,0.413570037846
+Pennsylvania,Harrisburg,T,F_avsResult_-1_1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_outside_1_1_l_f,0.19908244278
+Pennsylvania,Harrisburg,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_0_-1_f_l,0.0132867684285
+Pennsylvania,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,Harrisburg,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pennsylvania,Harrisburg,T,F_math2dFigureIntersectionArea_f_l,0.000264094049037
+Pennsylvania,Harrisburg,T,F_distBtwnCentroids_f_l,0.0702938016659
+Pennsylvania,Harrisburg,T,bias,1.0
+Pennsylvania,Harrisburg,T,F_avsResult_-1_-1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_distHorizontalCentroid_f_l,0.0554538984399
+Pennsylvania,Harrisburg,T,F_avsResult_inside_1_1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_inside_1_-1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_belowFigureCentroid_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_inside_1_0_f_l,0.196279560977
+Pennsylvania,Harrisburg,T,F_avsResult_outside_0_-1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_aboveFigureCentroid_f_l,0.0
+Pennsylvania,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_outside_-1_1_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_outside_1_0_l_f,0.0796957866445
+Pennsylvania,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_1_1_l_f,0.19908244278
+Pennsylvania,Harrisburg,T,F_avsResult_inside_-1_1_l_f,0.0
+Pennsylvania,Harrisburg,T,F_belowFigureCentroid_f_l,1.0
+Pennsylvania,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,Harrisburg,T,F_closeDistNormFigure_f_l,0.0
+Pennsylvania,Harrisburg,T,F_avsResult_inside_-1_0_f_l,0.0465694965044
+Pennsylvania,Harrisburg,T,F_aboveFigureCentroid_l_f,1.0
+Pennsylvania,Harrisburg,T,F_leftOfFigureCentroid_f_l,0.0
+Pennsylvania,Newark,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pennsylvania,Newark,T,F_distHorizontalCentroid_l_f,-0.213038986539
+Pennsylvania,Newark,T,F_avsResult_outside_-1_0_f_l,0.000652473461453
+Pennsylvania,Newark,T,F_avsResult_inside_1_-1_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_inside_0_1_f_l,0.0
+Pennsylvania,Newark,T,F_distVerticalCentroid_l_f,0.0123805577565
+Pennsylvania,Newark,T,F_closeDistNormLandmark_l_f,0.0442484206079
+Pennsylvania,Newark,T,F_avsResult_outside_1_-1_f_l,0.0
+Pennsylvania,Newark,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Pennsylvania,Newark,T,F_math2dIntersectionArea_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_-1_0_f_l,0.000652473461453
+Pennsylvania,Newark,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pennsylvania,Newark,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_inside_0_-1_f_l,0.0
+Pennsylvania,Newark,T,F_math2dIntersectionArea_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_-1_-1_l_f,0.0
+Pennsylvania,Newark,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_inside_-1_0_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_0_-1_l_f,0.26933661236
+Pennsylvania,Newark,T,F_avsResult_outside_1_0_f_l,0.520546594087
+Pennsylvania,Newark,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_inside_1_0_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_outside_1_-1_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_inside_-1_1_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_-1_0_l_f,0.776773825241
+Pennsylvania,Newark,T,F_avsResult_1_-1_f_l,0.0
+Pennsylvania,Newark,T,F_distVerticalCentroid_f_l,-0.0123805577565
+Pennsylvania,Newark,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_0_1_f_l,0.098412611809
+Pennsylvania,Newark,T,F_avsResult_outside_-1_1_l_f,0.0
+Pennsylvania,Newark,T,F_rightOfFigureCentroid_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_1_0_f_l,0.520546594087
+Pennsylvania,Newark,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pennsylvania,Newark,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_inside_1_1_l_f,0.0
+Pennsylvania,Newark,T,F_distBtwnCentroids_l_f,0.213398425477
+Pennsylvania,Newark,T,F_avsResult_outside_0_-1_l_f,0.26933661236
+Pennsylvania,Newark,T,F_avsResult_1_0_l_f,0.00366516396083
+Pennsylvania,Newark,T,F_avsResult_1_-1_l_f,0.0
+Pennsylvania,Newark,T,F_closeDistNormLandmark_f_l,1.0
+Pennsylvania,Newark,T,F_avsResult_inside_0_-1_l_f,0.0
+Pennsylvania,Newark,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_outside_-1_0_l_f,0.776773825241
+Pennsylvania,Newark,T,F_avsResult_1_1_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_0_1_l_f,0.26933661236
+Pennsylvania,Newark,T,F_leftOfFigureCentroid_l_f,1.0
+Pennsylvania,Newark,T,F_closeDistNormUnion_l_f,0.0442221944303
+Pennsylvania,Newark,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,Newark,T,F_closeDistNormFigure_l_f,1.0
+Pennsylvania,Newark,T,F_rightOfFigureCentroid_f_l,1.0
+Pennsylvania,Newark,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_outside_1_1_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_-1_1_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_outside_0_1_f_l,0.098412611809
+Pennsylvania,Newark,T,F_math2dFigureIntersectionArea_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_inside_0_1_l_f,0.0
+Pennsylvania,Newark,T,F_closeDistNormUnion_f_l,0.0442221944303
+Pennsylvania,Newark,T,F_avsResult_outside_0_1_l_f,0.26933661236
+Pennsylvania,Newark,T,F_avsResult_-1_1_f_l,0.0
+Pennsylvania,Newark,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_outside_1_1_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_0_-1_f_l,0.098412611809
+Pennsylvania,Newark,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,Newark,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pennsylvania,Newark,T,F_math2dFigureIntersectionArea_f_l,0.0
+Pennsylvania,Newark,T,F_distBtwnCentroids_f_l,0.213398425477
+Pennsylvania,Newark,T,bias,1.0
+Pennsylvania,Newark,T,F_avsResult_-1_-1_f_l,0.0
+Pennsylvania,Newark,T,F_distHorizontalCentroid_f_l,0.213038986539
+Pennsylvania,Newark,T,F_avsResult_inside_1_1_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_inside_1_-1_f_l,0.0
+Pennsylvania,Newark,T,F_belowFigureCentroid_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_inside_1_0_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_outside_0_-1_f_l,0.098412611809
+Pennsylvania,Newark,T,F_aboveFigureCentroid_f_l,0.0
+Pennsylvania,Newark,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_outside_-1_1_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_outside_1_0_l_f,0.00366516396083
+Pennsylvania,Newark,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,Newark,T,F_avsResult_1_1_l_f,0.0
+Pennsylvania,Newark,T,F_avsResult_inside_-1_1_l_f,0.0
+Pennsylvania,Newark,T,F_belowFigureCentroid_f_l,1.0
+Pennsylvania,Newark,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,Newark,T,F_closeDistNormFigure_f_l,0.0442484206079
+Pennsylvania,Newark,T,F_avsResult_inside_-1_0_f_l,0.0
+Pennsylvania,Newark,T,F_aboveFigureCentroid_l_f,1.0
+Pennsylvania,Newark,T,F_leftOfFigureCentroid_f_l,0.0
+Pennsylvania,Trenton,T,F_math2dLandmarkIntersectionArea_f_l,0.00652206391349
+Pennsylvania,Trenton,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pennsylvania,Trenton,T,F_distHorizontalCentroid_l_f,-0.195129044497
+Pennsylvania,Trenton,T,F_avsResult_outside_-1_0_f_l,0.0121009873982
+Pennsylvania,Trenton,T,F_avsResult_inside_1_-1_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_inside_0_1_f_l,0.0
+Pennsylvania,Trenton,T,F_distVerticalCentroid_l_f,0.0465687711602
+Pennsylvania,Trenton,T,F_closeDistNormLandmark_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_outside_1_-1_f_l,0.244174039943
+Pennsylvania,Trenton,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Pennsylvania,Trenton,T,F_math2dIntersectionArea_l_f,1.19717337372e-06
+Pennsylvania,Trenton,T,F_avsResult_-1_0_f_l,0.0121009873982
+Pennsylvania,Trenton,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pennsylvania,Trenton,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_inside_0_-1_f_l,0.0
+Pennsylvania,Trenton,T,F_math2dIntersectionArea_f_l,1.19717337372e-06
+Pennsylvania,Trenton,T,F_avsResult_-1_-1_l_f,0.0
+Pennsylvania,Trenton,T,F_math2dLandmarkIntersectionArea_l_f,1.1973917304e-06
+Pennsylvania,Trenton,T,F_avsResult_inside_-1_0_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_0_-1_l_f,0.341000508362
+Pennsylvania,Trenton,T,F_avsResult_outside_1_0_f_l,0.401233101766
+Pennsylvania,Trenton,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_inside_1_0_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_outside_1_-1_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_inside_-1_1_f_l,0.0
+Pennsylvania,Trenton,T,F_avsResult_-1_0_l_f,0.713583185631
+Pennsylvania,Trenton,T,F_avsResult_1_-1_f_l,0.244174039943
+Pennsylvania,Trenton,T,F_distVerticalCentroid_f_l,-0.0465687711602
+Pennsylvania,Trenton,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pennsylvania,Trenton,T,F_avsResult_0_1_f_l,0.0406879038981
+Pennsylvania,Trenton,T,F_avsResult_outside_-1_1_l_f,0.0
+Pennsylvania,Trenton,T,F_rightOfFigureCentroid_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_1_0_f_l,0.401233101766
+Pennsylvania,Trenton,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pennsylvania,Trenton,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,Trenton,T,F_avsResult_inside_1_1_l_f,0.0
+Pennsylvania,Trenton,T,F_distBtwnCentroids_l_f,0.200609058753
+Pennsylvania,Trenton,T,F_avsResult_outside_0_-1_l_f,0.341000508362
+Pennsylvania,Trenton,T,F_avsResult_1_0_l_f,0.016813169866
+Pennsylvania,Trenton,T,F_avsResult_1_-1_l_f,0.0
+Pennsylvania,Trenton,T,F_closeDistNormLandmark_f_l,0.0
+Pennsylvania,Trenton,T,F_avsResult_inside_0_-1_l_f,0.0
+Pennsylvania,Trenton,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Pennsylvania,Trenton,T,F_avsResult_outside_-1_0_l_f,0.713583185631
+Pennsylvania,Trenton,T,F_avsResult_1_1_f_l,0.244174039943
+Pennsylvania,Trenton,T,F_avsResult_0_1_l_f,0.341000508362
+Pennsylvania,Trenton,T,F_leftOfFigureCentroid_l_f,1.0
+Pennsylvania,Trenton,T,F_closeDistNormUnion_l_f,0.0
+Pennsylvania,Trenton,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pennsylvania,Trenton,T,F_closeDistNormFigure_l_f,0.0
+Pennsylvania,Trenton,T,F_rightOfFigureCentroid_f_l,1.0
+Pennsylvania,Trenton,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pennsylvania,Trenton,T,F_avsResult_outside_1_1_f_l,0.244174039943
+Pennsylvania,Trenton,T,F_avsResult_-1_1_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_outside_0_1_f_l,0.0406879038981
+Pennsylvania,Trenton,T,F_math2dFigureIntersectionArea_l_f,0.00652206391349
+Pennsylvania,Trenton,T,F_avsResult_inside_0_1_l_f,0.0
+Pennsylvania,Trenton,T,F_closeDistNormUnion_f_l,0.0
+Pennsylvania,Trenton,T,F_avsResult_outside_0_1_l_f,0.341000508362
+Pennsylvania,Trenton,T,F_avsResult_-1_1_f_l,0.0
+Pennsylvania,Trenton,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_outside_1_1_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_0_-1_f_l,0.0406879038981
+Pennsylvania,Trenton,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,Trenton,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pennsylvania,Trenton,T,F_math2dFigureIntersectionArea_f_l,1.1973917304e-06
+Pennsylvania,Trenton,T,F_distBtwnCentroids_f_l,0.200609058753
+Pennsylvania,Trenton,T,bias,1.0
+Pennsylvania,Trenton,T,F_avsResult_-1_-1_f_l,0.0
+Pennsylvania,Trenton,T,F_distHorizontalCentroid_f_l,0.195129044497
+Pennsylvania,Trenton,T,F_avsResult_inside_1_1_f_l,0.0
+Pennsylvania,Trenton,T,F_avsResult_inside_1_-1_f_l,0.0
+Pennsylvania,Trenton,T,F_belowFigureCentroid_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_inside_1_0_f_l,0.0
+Pennsylvania,Trenton,T,F_avsResult_outside_0_-1_f_l,0.0406879038981
+Pennsylvania,Trenton,T,F_aboveFigureCentroid_f_l,0.0
+Pennsylvania,Trenton,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_outside_-1_1_f_l,0.0
+Pennsylvania,Trenton,T,F_avsResult_outside_1_0_l_f,0.016813169866
+Pennsylvania,Trenton,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pennsylvania,Trenton,T,F_avsResult_1_1_l_f,0.0
+Pennsylvania,Trenton,T,F_avsResult_inside_-1_1_l_f,0.0
+Pennsylvania,Trenton,T,F_belowFigureCentroid_f_l,1.0
+Pennsylvania,Trenton,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pennsylvania,Trenton,T,F_closeDistNormFigure_f_l,0.0
+Pennsylvania,Trenton,T,F_avsResult_inside_-1_0_f_l,0.0
+Pennsylvania,Trenton,T,F_aboveFigureCentroid_l_f,1.0
+Pennsylvania,Trenton,T,F_leftOfFigureCentroid_f_l,0.0
+New Jersey,Pennsylvania,T,F_math2dLandmarkIntersectionArea_f_l,0.000194274018775
+New Jersey,Pennsylvania,T,F_avsResult_inside_-1_-1_f_l,0.0
+New Jersey,Pennsylvania,T,F_distHorizontalCentroid_l_f,0.139943756448
+New Jersey,Pennsylvania,T,F_avsResult_outside_-1_0_f_l,0.667336003973
+New Jersey,Pennsylvania,T,F_avsResult_inside_1_-1_l_f,0.0
+New Jersey,Pennsylvania,T,F_avsResult_inside_0_1_f_l,0.0
+New Jersey,Pennsylvania,T,F_distVerticalCentroid_l_f,-0.0338225306775
+New Jersey,Pennsylvania,T,F_closeDistNormLandmark_l_f,0.0
+New Jersey,Pennsylvania,T,F_avsResult_outside_1_-1_f_l,0.0
+New Jersey,Pennsylvania,T,F_3dIntersectsFigureLandmark_f_l,1.0
+New Jersey,Pennsylvania,T,F_math2dIntersectionArea_l_f,0.000164529561986
+New Jersey,Pennsylvania,T,F_avsResult_-1_0_f_l,0.667336003973
+New Jersey,Pennsylvania,T,F_avsResult_inside_-1_-1_l_f,0.0
+New Jersey,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+New Jersey,Pennsylvania,T,F_avsResult_inside_0_-1_f_l,0.0
+New Jersey,Pennsylvania,T,F_math2dIntersectionArea_f_l,0.000164529561986
+New Jersey,Pennsylvania,T,F_avsResult_-1_-1_l_f,0.0
+New Jersey,Pennsylvania,T,F_math2dLandmarkIntersectionArea_l_f,0.001073460764
+New Jersey,Pennsylvania,T,F_avsResult_inside_-1_0_l_f,0.0
+New Jersey,Pennsylvania,T,F_avsResult_0_-1_l_f,0.049347135666
+New Jersey,Pennsylvania,T,F_avsResult_outside_1_0_f_l,0.0118731021852
+New Jersey,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,Pennsylvania,T,F_avsResult_inside_1_0_l_f,0.0
+New Jersey,Pennsylvania,T,F_avsResult_outside_1_-1_l_f,0.288220124813
+New Jersey,Pennsylvania,T,F_avsResult_inside_-1_1_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_-1_0_l_f,0.011994293903
+New Jersey,Pennsylvania,T,F_avsResult_1_-1_f_l,0.0
+New Jersey,Pennsylvania,T,F_distVerticalCentroid_f_l,0.0338225306775
+New Jersey,Pennsylvania,T,F_3dSupportsFigureLandmark_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_0_1_f_l,0.260409374127
+New Jersey,Pennsylvania,T,F_avsResult_outside_-1_1_l_f,0.0
+New Jersey,Pennsylvania,T,F_rightOfFigureCentroid_l_f,1.0
+New Jersey,Pennsylvania,T,F_avsResult_1_0_f_l,0.0118731021852
+New Jersey,Pennsylvania,T,F_avsResult_outside_-1_-1_f_l,0.0
+New Jersey,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_inside_1_1_l_f,0.0
+New Jersey,Pennsylvania,T,F_distBtwnCentroids_l_f,0.143972978542
+New Jersey,Pennsylvania,T,F_avsResult_outside_0_-1_l_f,0.049347135666
+New Jersey,Pennsylvania,T,F_avsResult_1_0_l_f,0.437497678554
+New Jersey,Pennsylvania,T,F_avsResult_1_-1_l_f,0.288220124813
+New Jersey,Pennsylvania,T,F_closeDistNormLandmark_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_inside_0_-1_l_f,0.0
+New Jersey,Pennsylvania,T,F_3dIntersectsFigureLandmark_l_f,1.0
+New Jersey,Pennsylvania,T,F_avsResult_outside_-1_0_l_f,0.011994293903
+New Jersey,Pennsylvania,T,F_avsResult_1_1_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_0_1_l_f,0.049347135666
+New Jersey,Pennsylvania,T,F_leftOfFigureCentroid_l_f,0.0
+New Jersey,Pennsylvania,T,F_closeDistNormUnion_l_f,0.0
+New Jersey,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+New Jersey,Pennsylvania,T,F_closeDistNormFigure_l_f,0.0
+New Jersey,Pennsylvania,T,F_rightOfFigureCentroid_f_l,0.0
+New Jersey,Pennsylvania,T,F_3dSupportsLandmarkFigure_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_outside_1_1_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_-1_1_l_f,0.0
+New Jersey,Pennsylvania,T,F_avsResult_outside_0_1_f_l,0.260409374127
+New Jersey,Pennsylvania,T,F_math2dFigureIntersectionArea_l_f,0.000194274018775
+New Jersey,Pennsylvania,T,F_avsResult_inside_0_1_l_f,0.0
+New Jersey,Pennsylvania,T,F_closeDistNormUnion_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_outside_0_1_l_f,0.049347135666
+New Jersey,Pennsylvania,T,F_avsResult_-1_1_f_l,0.0
+New Jersey,Pennsylvania,T,F_3dSupportsFigureLandmark_l_f,0.0
+New Jersey,Pennsylvania,T,F_avsResult_outside_1_1_l_f,0.288220124813
+New Jersey,Pennsylvania,T,F_avsResult_outside_-1_-1_l_f,0.0
+New Jersey,Pennsylvania,T,F_avsResult_0_-1_f_l,0.260409374127
+New Jersey,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,Pennsylvania,T,F_3dSupportsLandmarkFigure_l_f,0.0
+New Jersey,Pennsylvania,T,F_math2dFigureIntersectionArea_f_l,0.001073460764
+New Jersey,Pennsylvania,T,F_distBtwnCentroids_f_l,0.143972978542
+New Jersey,Pennsylvania,T,bias,1.0
+New Jersey,Pennsylvania,T,F_avsResult_-1_-1_f_l,0.0
+New Jersey,Pennsylvania,T,F_distHorizontalCentroid_f_l,-0.139943756448
+New Jersey,Pennsylvania,T,F_avsResult_inside_1_1_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_inside_1_-1_f_l,0.0
+New Jersey,Pennsylvania,T,F_belowFigureCentroid_l_f,1.0
+New Jersey,Pennsylvania,T,F_avsResult_inside_1_0_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_outside_0_-1_f_l,0.260409374127
+New Jersey,Pennsylvania,T,F_aboveFigureCentroid_f_l,1.0
+New Jersey,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,Pennsylvania,T,F_avsResult_outside_-1_1_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_outside_1_0_l_f,0.437497678554
+New Jersey,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_1_1_l_f,0.288220124813
+New Jersey,Pennsylvania,T,F_avsResult_inside_-1_1_l_f,0.0
+New Jersey,Pennsylvania,T,F_belowFigureCentroid_f_l,0.0
+New Jersey,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,Pennsylvania,T,F_closeDistNormFigure_f_l,0.0
+New Jersey,Pennsylvania,T,F_avsResult_inside_-1_0_f_l,0.0
+New Jersey,Pennsylvania,T,F_aboveFigureCentroid_l_f,0.0
+New Jersey,Pennsylvania,T,F_leftOfFigureCentroid_f_l,1.0
+New Jersey,New Jersey,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+New Jersey,New Jersey,T,F_avsResult_inside_-1_-1_f_l,0.0
+New Jersey,New Jersey,T,F_distHorizontalCentroid_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_outside_-1_0_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_1_-1_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_0_1_f_l,0.0976137995297
+New Jersey,New Jersey,T,F_distVerticalCentroid_l_f,0.0
+New Jersey,New Jersey,T,F_closeDistNormLandmark_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_outside_1_-1_f_l,0.0
+New Jersey,New Jersey,T,F_3dIntersectsFigureLandmark_f_l,1.0
+New Jersey,New Jersey,T,F_math2dIntersectionArea_l_f,1.0
+New Jersey,New Jersey,T,F_avsResult_-1_0_f_l,0.0479480117457
+New Jersey,New Jersey,T,F_avsResult_inside_-1_-1_l_f,0.0
+New Jersey,New Jersey,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_0_-1_f_l,0.0976137995297
+New Jersey,New Jersey,T,F_math2dIntersectionArea_f_l,1.0
+New Jersey,New Jersey,T,F_avsResult_-1_-1_l_f,0.0
+New Jersey,New Jersey,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+New Jersey,New Jersey,T,F_avsResult_inside_-1_0_l_f,0.0479480117457
+New Jersey,New Jersey,T,F_avsResult_0_-1_l_f,0.0976137995297
+New Jersey,New Jersey,T,F_avsResult_outside_1_0_f_l,0.0
+New Jersey,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_1_0_l_f,0.104679027191
+New Jersey,New Jersey,T,F_avsResult_outside_1_-1_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_-1_1_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_-1_0_l_f,0.0479480117457
+New Jersey,New Jersey,T,F_avsResult_1_-1_f_l,0.0
+New Jersey,New Jersey,T,F_distVerticalCentroid_f_l,0.0
+New Jersey,New Jersey,T,F_3dSupportsFigureLandmark_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_0_1_f_l,0.0976137995297
+New Jersey,New Jersey,T,F_avsResult_outside_-1_1_l_f,0.0
+New Jersey,New Jersey,T,F_rightOfFigureCentroid_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_1_0_f_l,0.104679027191
+New Jersey,New Jersey,T,F_avsResult_outside_-1_-1_f_l,0.0
+New Jersey,New Jersey,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_1_1_l_f,0.0
+New Jersey,New Jersey,T,F_distBtwnCentroids_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_outside_0_-1_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_1_0_l_f,0.104679027191
+New Jersey,New Jersey,T,F_avsResult_1_-1_l_f,0.0
+New Jersey,New Jersey,T,F_closeDistNormLandmark_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_0_-1_l_f,0.0976137995297
+New Jersey,New Jersey,T,F_3dIntersectsFigureLandmark_l_f,1.0
+New Jersey,New Jersey,T,F_avsResult_outside_-1_0_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_1_1_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_0_1_l_f,0.0976137995297
+New Jersey,New Jersey,T,F_leftOfFigureCentroid_l_f,0.0
+New Jersey,New Jersey,T,F_closeDistNormUnion_l_f,0.0
+New Jersey,New Jersey,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+New Jersey,New Jersey,T,F_closeDistNormFigure_l_f,0.0
+New Jersey,New Jersey,T,F_rightOfFigureCentroid_f_l,0.0
+New Jersey,New Jersey,T,F_3dSupportsLandmarkFigure_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_outside_1_1_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_-1_1_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_outside_0_1_f_l,0.0
+New Jersey,New Jersey,T,F_math2dFigureIntersectionArea_l_f,1.0
+New Jersey,New Jersey,T,F_avsResult_inside_0_1_l_f,0.0976137995297
+New Jersey,New Jersey,T,F_closeDistNormUnion_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_outside_0_1_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_-1_1_f_l,0.0
+New Jersey,New Jersey,T,F_3dSupportsFigureLandmark_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_outside_1_1_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_outside_-1_-1_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_0_-1_f_l,0.0976137995297
+New Jersey,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,New Jersey,T,F_3dSupportsLandmarkFigure_l_f,0.0
+New Jersey,New Jersey,T,F_math2dFigureIntersectionArea_f_l,1.0
+New Jersey,New Jersey,T,F_distBtwnCentroids_f_l,0.0
+New Jersey,New Jersey,T,bias,1.0
+New Jersey,New Jersey,T,F_avsResult_-1_-1_f_l,0.0
+New Jersey,New Jersey,T,F_distHorizontalCentroid_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_1_1_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_1_-1_f_l,0.0
+New Jersey,New Jersey,T,F_belowFigureCentroid_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_1_0_f_l,0.104679027191
+New Jersey,New Jersey,T,F_avsResult_outside_0_-1_f_l,0.0
+New Jersey,New Jersey,T,F_aboveFigureCentroid_f_l,0.0
+New Jersey,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_outside_-1_1_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_outside_1_0_l_f,0.0
+New Jersey,New Jersey,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_1_1_l_f,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_-1_1_l_f,0.0
+New Jersey,New Jersey,T,F_belowFigureCentroid_f_l,0.0
+New Jersey,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,New Jersey,T,F_closeDistNormFigure_f_l,0.0
+New Jersey,New Jersey,T,F_avsResult_inside_-1_0_f_l,0.0479480117457
+New Jersey,New Jersey,T,F_aboveFigureCentroid_l_f,0.0
+New Jersey,New Jersey,T,F_leftOfFigureCentroid_f_l,0.0
+New Jersey,Pittsburgh,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_-1_-1_f_l,0.0
+New Jersey,Pittsburgh,T,F_distHorizontalCentroid_l_f,0.365272466592
+New Jersey,Pittsburgh,T,F_avsResult_outside_-1_0_f_l,0.798620094398
+New Jersey,Pittsburgh,T,F_avsResult_inside_1_-1_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_0_1_f_l,0.0
+New Jersey,Pittsburgh,T,F_distVerticalCentroid_l_f,-0.0173904584525
+New Jersey,Pittsburgh,T,F_closeDistNormLandmark_l_f,1.0
+New Jersey,Pittsburgh,T,F_avsResult_outside_1_-1_f_l,0.0
+New Jersey,Pittsburgh,T,F_3dIntersectsFigureLandmark_f_l,0.0
+New Jersey,Pittsburgh,T,F_math2dIntersectionArea_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_-1_0_f_l,0.798620094398
+New Jersey,Pittsburgh,T,F_avsResult_inside_-1_-1_l_f,0.0
+New Jersey,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_0_-1_f_l,0.0
+New Jersey,Pittsburgh,T,F_math2dIntersectionArea_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_-1_-1_l_f,0.0
+New Jersey,Pittsburgh,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_-1_0_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_0_-1_l_f,0.221063640587
+New Jersey,Pittsburgh,T,F_avsResult_outside_1_0_f_l,0.00152703560061
+New Jersey,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_1_0_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_outside_1_-1_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_-1_1_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_-1_0_l_f,0.00246371555711
+New Jersey,Pittsburgh,T,F_avsResult_1_-1_f_l,0.0
+New Jersey,Pittsburgh,T,F_distVerticalCentroid_f_l,0.0173904584525
+New Jersey,Pittsburgh,T,F_3dSupportsFigureLandmark_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_0_1_f_l,0.196388254511
+New Jersey,Pittsburgh,T,F_avsResult_outside_-1_1_l_f,0.0
+New Jersey,Pittsburgh,T,F_rightOfFigureCentroid_l_f,1.0
+New Jersey,Pittsburgh,T,F_avsResult_1_0_f_l,0.00152703560061
+New Jersey,Pittsburgh,T,F_avsResult_outside_-1_-1_f_l,0.0
+New Jersey,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_1_1_l_f,0.0
+New Jersey,Pittsburgh,T,F_distBtwnCentroids_l_f,0.365686208238
+New Jersey,Pittsburgh,T,F_avsResult_outside_0_-1_l_f,0.221063640587
+New Jersey,Pittsburgh,T,F_avsResult_1_0_l_f,0.817397925844
+New Jersey,Pittsburgh,T,F_avsResult_1_-1_l_f,0.0
+New Jersey,Pittsburgh,T,F_closeDistNormLandmark_f_l,1.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_0_-1_l_f,0.0
+New Jersey,Pittsburgh,T,F_3dIntersectsFigureLandmark_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_outside_-1_0_l_f,0.00246371555711
+New Jersey,Pittsburgh,T,F_avsResult_1_1_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_0_1_l_f,0.221063640587
+New Jersey,Pittsburgh,T,F_leftOfFigureCentroid_l_f,0.0
+New Jersey,Pittsburgh,T,F_closeDistNormUnion_l_f,1.0
+New Jersey,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+New Jersey,Pittsburgh,T,F_closeDistNormFigure_l_f,1.0
+New Jersey,Pittsburgh,T,F_rightOfFigureCentroid_f_l,0.0
+New Jersey,Pittsburgh,T,F_3dSupportsLandmarkFigure_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_outside_1_1_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_-1_1_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_outside_0_1_f_l,0.196388254511
+New Jersey,Pittsburgh,T,F_math2dFigureIntersectionArea_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_0_1_l_f,0.0
+New Jersey,Pittsburgh,T,F_closeDistNormUnion_f_l,1.0
+New Jersey,Pittsburgh,T,F_avsResult_outside_0_1_l_f,0.221063640587
+New Jersey,Pittsburgh,T,F_avsResult_-1_1_f_l,0.0
+New Jersey,Pittsburgh,T,F_3dSupportsFigureLandmark_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_outside_1_1_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_outside_-1_-1_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_0_-1_f_l,0.196388254511
+New Jersey,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,Pittsburgh,T,F_3dSupportsLandmarkFigure_l_f,0.0
+New Jersey,Pittsburgh,T,F_math2dFigureIntersectionArea_f_l,0.0
+New Jersey,Pittsburgh,T,F_distBtwnCentroids_f_l,0.365686208238
+New Jersey,Pittsburgh,T,bias,1.0
+New Jersey,Pittsburgh,T,F_avsResult_-1_-1_f_l,0.0
+New Jersey,Pittsburgh,T,F_distHorizontalCentroid_f_l,-0.365272466592
+New Jersey,Pittsburgh,T,F_avsResult_inside_1_1_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_1_-1_f_l,0.0
+New Jersey,Pittsburgh,T,F_belowFigureCentroid_l_f,1.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_1_0_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_outside_0_-1_f_l,0.196388254511
+New Jersey,Pittsburgh,T,F_aboveFigureCentroid_f_l,1.0
+New Jersey,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_outside_-1_1_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_outside_1_0_l_f,0.817397925844
+New Jersey,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+New Jersey,Pittsburgh,T,F_avsResult_1_1_l_f,0.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_-1_1_l_f,0.0
+New Jersey,Pittsburgh,T,F_belowFigureCentroid_f_l,0.0
+New Jersey,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,Pittsburgh,T,F_closeDistNormFigure_f_l,1.0
+New Jersey,Pittsburgh,T,F_avsResult_inside_-1_0_f_l,0.0
+New Jersey,Pittsburgh,T,F_aboveFigureCentroid_l_f,0.0
+New Jersey,Pittsburgh,T,F_leftOfFigureCentroid_f_l,1.0
+New Jersey,Harrisburg,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_inside_-1_-1_f_l,0.0
+New Jersey,Harrisburg,T,F_distHorizontalCentroid_l_f,0.31391759171
+New Jersey,Harrisburg,T,F_avsResult_outside_-1_0_f_l,0.633248312674
+New Jersey,Harrisburg,T,F_avsResult_inside_1_-1_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_inside_0_1_f_l,0.0
+New Jersey,Harrisburg,T,F_distVerticalCentroid_l_f,-0.0125778033526
+New Jersey,Harrisburg,T,F_closeDistNormLandmark_l_f,0.92608617291
+New Jersey,Harrisburg,T,F_avsResult_outside_1_-1_f_l,0.0
+New Jersey,Harrisburg,T,F_3dIntersectsFigureLandmark_f_l,0.0
+New Jersey,Harrisburg,T,F_math2dIntersectionArea_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_-1_0_f_l,0.633248312674
+New Jersey,Harrisburg,T,F_avsResult_inside_-1_-1_l_f,0.0
+New Jersey,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_inside_0_-1_f_l,0.0
+New Jersey,Harrisburg,T,F_math2dIntersectionArea_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_-1_-1_l_f,0.0
+New Jersey,Harrisburg,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_inside_-1_0_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_0_-1_l_f,0.233582381306
+New Jersey,Harrisburg,T,F_avsResult_outside_1_0_f_l,0.00264847082695
+New Jersey,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_inside_1_0_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_outside_1_-1_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_inside_-1_1_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_-1_0_l_f,0.003463610243
+New Jersey,Harrisburg,T,F_avsResult_1_-1_f_l,0.0
+New Jersey,Harrisburg,T,F_distVerticalCentroid_f_l,0.0125778033526
+New Jersey,Harrisburg,T,F_3dSupportsFigureLandmark_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_0_1_f_l,0.197475208825
+New Jersey,Harrisburg,T,F_avsResult_outside_-1_1_l_f,0.0
+New Jersey,Harrisburg,T,F_rightOfFigureCentroid_l_f,1.0
+New Jersey,Harrisburg,T,F_avsResult_1_0_f_l,0.00264847082695
+New Jersey,Harrisburg,T,F_avsResult_outside_-1_-1_f_l,0.0
+New Jersey,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_inside_1_1_l_f,0.0
+New Jersey,Harrisburg,T,F_distBtwnCentroids_l_f,0.31416946943
+New Jersey,Harrisburg,T,F_avsResult_outside_0_-1_l_f,0.233582381306
+New Jersey,Harrisburg,T,F_avsResult_1_0_l_f,0.725864402693
+New Jersey,Harrisburg,T,F_avsResult_1_-1_l_f,0.0
+New Jersey,Harrisburg,T,F_closeDistNormLandmark_f_l,1.0
+New Jersey,Harrisburg,T,F_avsResult_inside_0_-1_l_f,0.0
+New Jersey,Harrisburg,T,F_3dIntersectsFigureLandmark_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_outside_-1_0_l_f,0.003463610243
+New Jersey,Harrisburg,T,F_avsResult_1_1_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_0_1_l_f,0.233582381306
+New Jersey,Harrisburg,T,F_leftOfFigureCentroid_l_f,0.0
+New Jersey,Harrisburg,T,F_closeDistNormUnion_l_f,0.924736749676
+New Jersey,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+New Jersey,Harrisburg,T,F_closeDistNormFigure_l_f,1.0
+New Jersey,Harrisburg,T,F_rightOfFigureCentroid_f_l,0.0
+New Jersey,Harrisburg,T,F_3dSupportsLandmarkFigure_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_outside_1_1_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_-1_1_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_outside_0_1_f_l,0.197475208825
+New Jersey,Harrisburg,T,F_math2dFigureIntersectionArea_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_inside_0_1_l_f,0.0
+New Jersey,Harrisburg,T,F_closeDistNormUnion_f_l,0.924736749676
+New Jersey,Harrisburg,T,F_avsResult_outside_0_1_l_f,0.233582381306
+New Jersey,Harrisburg,T,F_avsResult_-1_1_f_l,0.0
+New Jersey,Harrisburg,T,F_3dSupportsFigureLandmark_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_outside_1_1_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_outside_-1_-1_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_0_-1_f_l,0.197475208825
+New Jersey,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,Harrisburg,T,F_3dSupportsLandmarkFigure_l_f,0.0
+New Jersey,Harrisburg,T,F_math2dFigureIntersectionArea_f_l,0.0
+New Jersey,Harrisburg,T,F_distBtwnCentroids_f_l,0.31416946943
+New Jersey,Harrisburg,T,bias,1.0
+New Jersey,Harrisburg,T,F_avsResult_-1_-1_f_l,0.0
+New Jersey,Harrisburg,T,F_distHorizontalCentroid_f_l,-0.31391759171
+New Jersey,Harrisburg,T,F_avsResult_inside_1_1_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_inside_1_-1_f_l,0.0
+New Jersey,Harrisburg,T,F_belowFigureCentroid_l_f,1.0
+New Jersey,Harrisburg,T,F_avsResult_inside_1_0_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_outside_0_-1_f_l,0.197475208825
+New Jersey,Harrisburg,T,F_aboveFigureCentroid_f_l,1.0
+New Jersey,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_outside_-1_1_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_outside_1_0_l_f,0.725864402693
+New Jersey,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+New Jersey,Harrisburg,T,F_avsResult_1_1_l_f,0.0
+New Jersey,Harrisburg,T,F_avsResult_inside_-1_1_l_f,0.0
+New Jersey,Harrisburg,T,F_belowFigureCentroid_f_l,0.0
+New Jersey,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,Harrisburg,T,F_closeDistNormFigure_f_l,0.92608617291
+New Jersey,Harrisburg,T,F_avsResult_inside_-1_0_f_l,0.0
+New Jersey,Harrisburg,T,F_aboveFigureCentroid_l_f,0.0
+New Jersey,Harrisburg,T,F_leftOfFigureCentroid_f_l,1.0
+New Jersey,Newark,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+New Jersey,Newark,T,F_avsResult_inside_-1_-1_f_l,0.335941439136
+New Jersey,Newark,T,F_distHorizontalCentroid_l_f,-0.118776457817
+New Jersey,Newark,T,F_avsResult_outside_-1_0_f_l,0.0
+New Jersey,Newark,T,F_avsResult_inside_1_-1_l_f,0.0
+New Jersey,Newark,T,F_avsResult_inside_0_1_f_l,0.236122197054
+New Jersey,Newark,T,F_distVerticalCentroid_l_f,-0.136683950856
+New Jersey,Newark,T,F_closeDistNormLandmark_l_f,0.0
+New Jersey,Newark,T,F_avsResult_outside_1_-1_f_l,0.0
+New Jersey,Newark,T,F_3dIntersectsFigureLandmark_f_l,1.0
+New Jersey,Newark,T,F_math2dIntersectionArea_l_f,0.00327692241562
+New Jersey,Newark,T,F_avsResult_-1_0_f_l,0.0376809249072
+New Jersey,Newark,T,F_avsResult_inside_-1_-1_l_f,0.0
+New Jersey,Newark,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+New Jersey,Newark,T,F_avsResult_inside_0_-1_f_l,0.236122197054
+New Jersey,Newark,T,F_math2dIntersectionArea_f_l,0.00327692241562
+New Jersey,Newark,T,F_avsResult_-1_-1_l_f,0.212465434438
+New Jersey,Newark,T,F_math2dLandmarkIntersectionArea_l_f,0.00327692241562
+New Jersey,Newark,T,F_avsResult_inside_-1_0_l_f,0.0
+New Jersey,Newark,T,F_avsResult_0_-1_l_f,0.0913706835194
+New Jersey,Newark,T,F_avsResult_outside_1_0_f_l,0.0
+New Jersey,Newark,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,Newark,T,F_avsResult_inside_1_0_l_f,0.0
+New Jersey,Newark,T,F_avsResult_outside_1_-1_l_f,0.0
+New Jersey,Newark,T,F_avsResult_inside_-1_1_f_l,0.335941439136
+New Jersey,Newark,T,F_avsResult_-1_0_l_f,0.39933472011
+New Jersey,Newark,T,F_avsResult_1_-1_f_l,0.0
+New Jersey,Newark,T,F_distVerticalCentroid_f_l,0.136683950856
+New Jersey,Newark,T,F_3dSupportsFigureLandmark_f_l,0.0
+New Jersey,Newark,T,F_avsResult_0_1_f_l,0.236122197054
+New Jersey,Newark,T,F_avsResult_outside_-1_1_l_f,0.212465434438
+New Jersey,Newark,T,F_rightOfFigureCentroid_l_f,0.0
+New Jersey,Newark,T,F_avsResult_1_0_f_l,0.275945318682
+New Jersey,Newark,T,F_avsResult_outside_-1_-1_f_l,0.0
+New Jersey,Newark,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+New Jersey,Newark,T,F_avsResult_inside_1_1_l_f,0.0
+New Jersey,Newark,T,F_distBtwnCentroids_l_f,0.181081057411
+New Jersey,Newark,T,F_avsResult_outside_0_-1_l_f,0.0913706835194
+New Jersey,Newark,T,F_avsResult_1_0_l_f,0.118985307531
+New Jersey,Newark,T,F_avsResult_1_-1_l_f,0.0
+New Jersey,Newark,T,F_closeDistNormLandmark_f_l,0.0
+New Jersey,Newark,T,F_avsResult_inside_0_-1_l_f,0.0
+New Jersey,Newark,T,F_3dIntersectsFigureLandmark_l_f,1.0
+New Jersey,Newark,T,F_avsResult_outside_-1_0_l_f,0.39933472011
+New Jersey,Newark,T,F_avsResult_1_1_f_l,0.0
+New Jersey,Newark,T,F_avsResult_0_1_l_f,0.0913706835194
+New Jersey,Newark,T,F_leftOfFigureCentroid_l_f,1.0
+New Jersey,Newark,T,F_closeDistNormUnion_l_f,0.0
+New Jersey,Newark,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+New Jersey,Newark,T,F_closeDistNormFigure_l_f,0.0
+New Jersey,Newark,T,F_rightOfFigureCentroid_f_l,1.0
+New Jersey,Newark,T,F_3dSupportsLandmarkFigure_f_l,0.0
+New Jersey,Newark,T,F_avsResult_outside_1_1_f_l,0.0
+New Jersey,Newark,T,F_avsResult_-1_1_l_f,0.212465434438
+New Jersey,Newark,T,F_avsResult_outside_0_1_f_l,0.0
+New Jersey,Newark,T,F_math2dFigureIntersectionArea_l_f,1.0
+New Jersey,Newark,T,F_avsResult_inside_0_1_l_f,0.0
+New Jersey,Newark,T,F_closeDistNormUnion_f_l,0.0
+New Jersey,Newark,T,F_avsResult_outside_0_1_l_f,0.0913706835194
+New Jersey,Newark,T,F_avsResult_-1_1_f_l,0.335941439136
+New Jersey,Newark,T,F_3dSupportsFigureLandmark_l_f,0.0
+New Jersey,Newark,T,F_avsResult_outside_1_1_l_f,0.0
+New Jersey,Newark,T,F_avsResult_outside_-1_-1_l_f,0.212465434438
+New Jersey,Newark,T,F_avsResult_0_-1_f_l,0.236122197054
+New Jersey,Newark,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,Newark,T,F_3dSupportsLandmarkFigure_l_f,0.0
+New Jersey,Newark,T,F_math2dFigureIntersectionArea_f_l,0.00327692241562
+New Jersey,Newark,T,F_distBtwnCentroids_f_l,0.181081057411
+New Jersey,Newark,T,bias,1.0
+New Jersey,Newark,T,F_avsResult_-1_-1_f_l,0.335941439136
+New Jersey,Newark,T,F_distHorizontalCentroid_f_l,0.118776457817
+New Jersey,Newark,T,F_avsResult_inside_1_1_f_l,0.0
+New Jersey,Newark,T,F_avsResult_inside_1_-1_f_l,0.0
+New Jersey,Newark,T,F_belowFigureCentroid_l_f,1.0
+New Jersey,Newark,T,F_avsResult_inside_1_0_f_l,0.275945318682
+New Jersey,Newark,T,F_avsResult_outside_0_-1_f_l,0.0
+New Jersey,Newark,T,F_aboveFigureCentroid_f_l,1.0
+New Jersey,Newark,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,Newark,T,F_avsResult_outside_-1_1_f_l,0.0
+New Jersey,Newark,T,F_avsResult_outside_1_0_l_f,0.118985307531
+New Jersey,Newark,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+New Jersey,Newark,T,F_avsResult_1_1_l_f,0.0
+New Jersey,Newark,T,F_avsResult_inside_-1_1_l_f,0.0
+New Jersey,Newark,T,F_belowFigureCentroid_f_l,0.0
+New Jersey,Newark,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,Newark,T,F_closeDistNormFigure_f_l,0.0
+New Jersey,Newark,T,F_avsResult_inside_-1_0_f_l,0.0376809249072
+New Jersey,Newark,T,F_aboveFigureCentroid_l_f,0.0
+New Jersey,Newark,T,F_leftOfFigureCentroid_f_l,0.0
+New Jersey,Trenton,T,F_math2dLandmarkIntersectionArea_f_l,0.995825810987
+New Jersey,Trenton,T,F_avsResult_inside_-1_-1_f_l,0.0
+New Jersey,Trenton,T,F_distHorizontalCentroid_l_f,0.0312004324212
+New Jersey,Trenton,T,F_avsResult_outside_-1_0_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_inside_1_-1_l_f,0.0
+New Jersey,Trenton,T,F_avsResult_inside_0_1_f_l,0.186332844389
+New Jersey,Trenton,T,F_distVerticalCentroid_l_f,-0.00981643346125
+New Jersey,Trenton,T,F_closeDistNormLandmark_l_f,0.0
+New Jersey,Trenton,T,F_avsResult_outside_1_-1_f_l,0.0
+New Jersey,Trenton,T,F_3dIntersectsFigureLandmark_f_l,1.0
+New Jersey,Trenton,T,F_math2dIntersectionArea_l_f,0.00101019262772
+New Jersey,Trenton,T,F_avsResult_-1_0_f_l,0.0717327159719
+New Jersey,Trenton,T,F_avsResult_inside_-1_-1_l_f,0.0
+New Jersey,Trenton,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+New Jersey,Trenton,T,F_avsResult_inside_0_-1_f_l,0.186332844389
+New Jersey,Trenton,T,F_math2dIntersectionArea_f_l,0.00101019262772
+New Jersey,Trenton,T,F_avsResult_-1_-1_l_f,0.0
+New Jersey,Trenton,T,F_math2dLandmarkIntersectionArea_l_f,0.00101019690531
+New Jersey,Trenton,T,F_avsResult_inside_-1_0_l_f,0.0
+New Jersey,Trenton,T,F_avsResult_0_-1_l_f,0.198868658195
+New Jersey,Trenton,T,F_avsResult_outside_1_0_f_l,0.0
+New Jersey,Trenton,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,Trenton,T,F_avsResult_inside_1_0_l_f,0.0
+New Jersey,Trenton,T,F_avsResult_outside_1_-1_l_f,0.458570605489
+New Jersey,Trenton,T,F_avsResult_inside_-1_1_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_-1_0_l_f,0.0411151236956
+New Jersey,Trenton,T,F_avsResult_1_-1_f_l,0.0
+New Jersey,Trenton,T,F_distVerticalCentroid_f_l,0.00981643346125
+New Jersey,Trenton,T,F_3dSupportsFigureLandmark_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_0_1_f_l,0.186332844389
+New Jersey,Trenton,T,F_avsResult_outside_-1_1_l_f,0.0
+New Jersey,Trenton,T,F_rightOfFigureCentroid_l_f,1.0
+New Jersey,Trenton,T,F_avsResult_1_0_f_l,0.0804329602307
+New Jersey,Trenton,T,F_avsResult_outside_-1_-1_f_l,0.0
+New Jersey,Trenton,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_inside_1_1_l_f,0.0
+New Jersey,Trenton,T,F_distBtwnCentroids_l_f,0.0327082458895
+New Jersey,Trenton,T,F_avsResult_outside_0_-1_l_f,0.198868658195
+New Jersey,Trenton,T,F_avsResult_1_0_l_f,0.466154369511
+New Jersey,Trenton,T,F_avsResult_1_-1_l_f,0.458570605489
+New Jersey,Trenton,T,F_closeDistNormLandmark_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_inside_0_-1_l_f,0.0
+New Jersey,Trenton,T,F_3dIntersectsFigureLandmark_l_f,1.0
+New Jersey,Trenton,T,F_avsResult_outside_-1_0_l_f,0.0411151236956
+New Jersey,Trenton,T,F_avsResult_1_1_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_0_1_l_f,0.198868658195
+New Jersey,Trenton,T,F_leftOfFigureCentroid_l_f,0.0
+New Jersey,Trenton,T,F_closeDistNormUnion_l_f,0.0
+New Jersey,Trenton,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+New Jersey,Trenton,T,F_closeDistNormFigure_l_f,0.0
+New Jersey,Trenton,T,F_rightOfFigureCentroid_f_l,0.0
+New Jersey,Trenton,T,F_3dSupportsLandmarkFigure_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_outside_1_1_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_-1_1_l_f,0.0
+New Jersey,Trenton,T,F_avsResult_outside_0_1_f_l,0.0
+New Jersey,Trenton,T,F_math2dFigureIntersectionArea_l_f,0.995825810987
+New Jersey,Trenton,T,F_avsResult_inside_0_1_l_f,0.0
+New Jersey,Trenton,T,F_closeDistNormUnion_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_outside_0_1_l_f,0.198868658195
+New Jersey,Trenton,T,F_avsResult_-1_1_f_l,0.0
+New Jersey,Trenton,T,F_3dSupportsFigureLandmark_l_f,0.0
+New Jersey,Trenton,T,F_avsResult_outside_1_1_l_f,0.458570605489
+New Jersey,Trenton,T,F_avsResult_outside_-1_-1_l_f,0.0
+New Jersey,Trenton,T,F_avsResult_0_-1_f_l,0.186332844389
+New Jersey,Trenton,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,Trenton,T,F_3dSupportsLandmarkFigure_l_f,0.0
+New Jersey,Trenton,T,F_math2dFigureIntersectionArea_f_l,0.00101019690531
+New Jersey,Trenton,T,F_distBtwnCentroids_f_l,0.0327082458895
+New Jersey,Trenton,T,bias,1.0
+New Jersey,Trenton,T,F_avsResult_-1_-1_f_l,0.0
+New Jersey,Trenton,T,F_distHorizontalCentroid_f_l,-0.0312004324212
+New Jersey,Trenton,T,F_avsResult_inside_1_1_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_inside_1_-1_f_l,0.0
+New Jersey,Trenton,T,F_belowFigureCentroid_l_f,1.0
+New Jersey,Trenton,T,F_avsResult_inside_1_0_f_l,0.0804329602307
+New Jersey,Trenton,T,F_avsResult_outside_0_-1_f_l,0.0
+New Jersey,Trenton,T,F_aboveFigureCentroid_f_l,1.0
+New Jersey,Trenton,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+New Jersey,Trenton,T,F_avsResult_outside_-1_1_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_outside_1_0_l_f,0.466154369511
+New Jersey,Trenton,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_1_1_l_f,0.458570605489
+New Jersey,Trenton,T,F_avsResult_inside_-1_1_l_f,0.0
+New Jersey,Trenton,T,F_belowFigureCentroid_f_l,0.0
+New Jersey,Trenton,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+New Jersey,Trenton,T,F_closeDistNormFigure_f_l,0.0
+New Jersey,Trenton,T,F_avsResult_inside_-1_0_f_l,0.0717327159719
+New Jersey,Trenton,T,F_aboveFigureCentroid_l_f,0.0
+New Jersey,Trenton,T,F_leftOfFigureCentroid_f_l,1.0
+Pittsburgh,Pennsylvania,T,F_math2dLandmarkIntersectionArea_f_l,0.00133275208559
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_distHorizontalCentroid_l_f,-0.14822490468
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_-1_0_f_l,0.0175853237447
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_1_-1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_0_1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_distVerticalCentroid_l_f,-0.0323865122282
+Pittsburgh,Pennsylvania,T,F_closeDistNormLandmark_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_1_-1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Pittsburgh,Pennsylvania,T,F_math2dIntersectionArea_l_f,0.00133275208559
+Pittsburgh,Pennsylvania,T,F_avsResult_-1_0_f_l,0.0175853237447
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_0_-1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_math2dIntersectionArea_f_l,0.00133275208559
+Pittsburgh,Pennsylvania,T,F_avsResult_-1_-1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_-1_0_l_f,0.0544952628971
+Pittsburgh,Pennsylvania,T,F_avsResult_0_-1_l_f,0.0238308535857
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_1_0_f_l,0.681593895762
+Pittsburgh,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_1_0_l_f,0.0615463032493
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_1_-1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_-1_1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_-1_0_l_f,0.0544952628971
+Pittsburgh,Pennsylvania,T,F_avsResult_1_-1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_distVerticalCentroid_f_l,0.0323865122282
+Pittsburgh,Pennsylvania,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_0_1_f_l,0.318636338237
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_-1_1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_rightOfFigureCentroid_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_1_0_f_l,0.681593895762
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_1_1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_distBtwnCentroids_l_f,0.151721813006
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_0_-1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_1_0_l_f,0.0615463032493
+Pittsburgh,Pennsylvania,T,F_avsResult_1_-1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_closeDistNormLandmark_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_0_-1_l_f,0.0238308535857
+Pittsburgh,Pennsylvania,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_-1_0_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_1_1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_0_1_l_f,0.0238308535857
+Pittsburgh,Pennsylvania,T,F_leftOfFigureCentroid_l_f,1.0
+Pittsburgh,Pennsylvania,T,F_closeDistNormUnion_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_closeDistNormFigure_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_rightOfFigureCentroid_f_l,1.0
+Pittsburgh,Pennsylvania,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_1_1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_-1_1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_0_1_f_l,0.318636338237
+Pittsburgh,Pennsylvania,T,F_math2dFigureIntersectionArea_l_f,0.00133275208559
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_0_1_l_f,0.0238308535857
+Pittsburgh,Pennsylvania,T,F_closeDistNormUnion_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_0_1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_-1_1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_1_1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_0_-1_f_l,0.318636338237
+Pittsburgh,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_math2dFigureIntersectionArea_f_l,1.0
+Pittsburgh,Pennsylvania,T,F_distBtwnCentroids_f_l,0.151721813006
+Pittsburgh,Pennsylvania,T,bias,1.0
+Pittsburgh,Pennsylvania,T,F_avsResult_-1_-1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_distHorizontalCentroid_f_l,0.14822490468
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_1_1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_1_-1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_belowFigureCentroid_l_f,1.0
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_1_0_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_0_-1_f_l,0.318636338237
+Pittsburgh,Pennsylvania,T,F_aboveFigureCentroid_f_l,1.0
+Pittsburgh,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_-1_1_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_outside_1_0_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_1_1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_-1_1_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_belowFigureCentroid_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_closeDistNormFigure_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_avsResult_inside_-1_0_f_l,0.0
+Pittsburgh,Pennsylvania,T,F_aboveFigureCentroid_l_f,0.0
+Pittsburgh,Pennsylvania,T,F_leftOfFigureCentroid_f_l,0.0
+Pittsburgh,New Jersey,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pittsburgh,New Jersey,T,F_distHorizontalCentroid_l_f,-0.365272466592
+Pittsburgh,New Jersey,T,F_avsResult_outside_-1_0_f_l,0.00246371555711
+Pittsburgh,New Jersey,T,F_avsResult_inside_1_-1_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_0_1_f_l,0.0
+Pittsburgh,New Jersey,T,F_distVerticalCentroid_l_f,0.0173904584525
+Pittsburgh,New Jersey,T,F_closeDistNormLandmark_l_f,1.0
+Pittsburgh,New Jersey,T,F_avsResult_outside_1_-1_f_l,0.0
+Pittsburgh,New Jersey,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Pittsburgh,New Jersey,T,F_math2dIntersectionArea_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_-1_0_f_l,0.00246371555711
+Pittsburgh,New Jersey,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pittsburgh,New Jersey,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_0_-1_f_l,0.0
+Pittsburgh,New Jersey,T,F_math2dIntersectionArea_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_-1_-1_l_f,0.0
+Pittsburgh,New Jersey,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_-1_0_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_0_-1_l_f,0.196388254511
+Pittsburgh,New Jersey,T,F_avsResult_outside_1_0_f_l,0.817397925844
+Pittsburgh,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_1_0_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_outside_1_-1_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_-1_1_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_-1_0_l_f,0.798620094398
+Pittsburgh,New Jersey,T,F_avsResult_1_-1_f_l,0.0
+Pittsburgh,New Jersey,T,F_distVerticalCentroid_f_l,-0.0173904584525
+Pittsburgh,New Jersey,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_0_1_f_l,0.221063640587
+Pittsburgh,New Jersey,T,F_avsResult_outside_-1_1_l_f,0.0
+Pittsburgh,New Jersey,T,F_rightOfFigureCentroid_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_1_0_f_l,0.817397925844
+Pittsburgh,New Jersey,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pittsburgh,New Jersey,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_1_1_l_f,0.0
+Pittsburgh,New Jersey,T,F_distBtwnCentroids_l_f,0.365686208238
+Pittsburgh,New Jersey,T,F_avsResult_outside_0_-1_l_f,0.196388254511
+Pittsburgh,New Jersey,T,F_avsResult_1_0_l_f,0.00152703560061
+Pittsburgh,New Jersey,T,F_avsResult_1_-1_l_f,0.0
+Pittsburgh,New Jersey,T,F_closeDistNormLandmark_f_l,1.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_0_-1_l_f,0.0
+Pittsburgh,New Jersey,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_outside_-1_0_l_f,0.798620094398
+Pittsburgh,New Jersey,T,F_avsResult_1_1_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_0_1_l_f,0.196388254511
+Pittsburgh,New Jersey,T,F_leftOfFigureCentroid_l_f,1.0
+Pittsburgh,New Jersey,T,F_closeDistNormUnion_l_f,1.0
+Pittsburgh,New Jersey,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,New Jersey,T,F_closeDistNormFigure_l_f,1.0
+Pittsburgh,New Jersey,T,F_rightOfFigureCentroid_f_l,1.0
+Pittsburgh,New Jersey,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_outside_1_1_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_-1_1_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_outside_0_1_f_l,0.221063640587
+Pittsburgh,New Jersey,T,F_math2dFigureIntersectionArea_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_0_1_l_f,0.0
+Pittsburgh,New Jersey,T,F_closeDistNormUnion_f_l,1.0
+Pittsburgh,New Jersey,T,F_avsResult_outside_0_1_l_f,0.196388254511
+Pittsburgh,New Jersey,T,F_avsResult_-1_1_f_l,0.0
+Pittsburgh,New Jersey,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_outside_1_1_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_0_-1_f_l,0.221063640587
+Pittsburgh,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,New Jersey,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pittsburgh,New Jersey,T,F_math2dFigureIntersectionArea_f_l,0.0
+Pittsburgh,New Jersey,T,F_distBtwnCentroids_f_l,0.365686208238
+Pittsburgh,New Jersey,T,bias,1.0
+Pittsburgh,New Jersey,T,F_avsResult_-1_-1_f_l,0.0
+Pittsburgh,New Jersey,T,F_distHorizontalCentroid_f_l,0.365272466592
+Pittsburgh,New Jersey,T,F_avsResult_inside_1_1_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_1_-1_f_l,0.0
+Pittsburgh,New Jersey,T,F_belowFigureCentroid_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_1_0_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_outside_0_-1_f_l,0.221063640587
+Pittsburgh,New Jersey,T,F_aboveFigureCentroid_f_l,0.0
+Pittsburgh,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_outside_-1_1_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_outside_1_0_l_f,0.00152703560061
+Pittsburgh,New Jersey,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,New Jersey,T,F_avsResult_1_1_l_f,0.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_-1_1_l_f,0.0
+Pittsburgh,New Jersey,T,F_belowFigureCentroid_f_l,1.0
+Pittsburgh,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,New Jersey,T,F_closeDistNormFigure_f_l,1.0
+Pittsburgh,New Jersey,T,F_avsResult_inside_-1_0_f_l,0.0
+Pittsburgh,New Jersey,T,F_aboveFigureCentroid_l_f,1.0
+Pittsburgh,New Jersey,T,F_leftOfFigureCentroid_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_distHorizontalCentroid_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_-1_0_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_1_-1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_0_1_f_l,0.0417617513347
+Pittsburgh,Pittsburgh,T,F_distVerticalCentroid_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_closeDistNormLandmark_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_1_-1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Pittsburgh,Pittsburgh,T,F_math2dIntersectionArea_l_f,1.0
+Pittsburgh,Pittsburgh,T,F_avsResult_-1_0_f_l,0.299923096897
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_0_-1_f_l,0.0417617513347
+Pittsburgh,Pittsburgh,T,F_math2dIntersectionArea_f_l,1.0
+Pittsburgh,Pittsburgh,T,F_avsResult_-1_-1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_-1_0_l_f,0.299923096897
+Pittsburgh,Pittsburgh,T,F_avsResult_0_-1_l_f,0.0417617513347
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_1_0_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_1_0_l_f,0.217604210988
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_1_-1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_-1_1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_-1_0_l_f,0.299923096897
+Pittsburgh,Pittsburgh,T,F_avsResult_1_-1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_distVerticalCentroid_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_0_1_f_l,0.0417617513347
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_-1_1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_rightOfFigureCentroid_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_1_0_f_l,0.217604210988
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_1_1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_distBtwnCentroids_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_0_-1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_1_0_l_f,0.217604210988
+Pittsburgh,Pittsburgh,T,F_avsResult_1_-1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_closeDistNormLandmark_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_0_-1_l_f,0.0417617513347
+Pittsburgh,Pittsburgh,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_-1_0_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_1_1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_0_1_l_f,0.0417617513347
+Pittsburgh,Pittsburgh,T,F_leftOfFigureCentroid_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_closeDistNormUnion_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_closeDistNormFigure_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_rightOfFigureCentroid_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_1_1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_-1_1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_0_1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_math2dFigureIntersectionArea_l_f,1.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_0_1_l_f,0.0417617513347
+Pittsburgh,Pittsburgh,T,F_closeDistNormUnion_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_0_1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_-1_1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_1_1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_0_-1_f_l,0.0417617513347
+Pittsburgh,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_math2dFigureIntersectionArea_f_l,1.0
+Pittsburgh,Pittsburgh,T,F_distBtwnCentroids_f_l,0.0
+Pittsburgh,Pittsburgh,T,bias,1.0
+Pittsburgh,Pittsburgh,T,F_avsResult_-1_-1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_distHorizontalCentroid_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_1_1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_1_-1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_belowFigureCentroid_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_1_0_f_l,0.217604210988
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_0_-1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_aboveFigureCentroid_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_-1_1_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_outside_1_0_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_1_1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_-1_1_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_belowFigureCentroid_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_closeDistNormFigure_f_l,0.0
+Pittsburgh,Pittsburgh,T,F_avsResult_inside_-1_0_f_l,0.299923096897
+Pittsburgh,Pittsburgh,T,F_aboveFigureCentroid_l_f,0.0
+Pittsburgh,Pittsburgh,T,F_leftOfFigureCentroid_f_l,0.0
+Pittsburgh,Harrisburg,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_distHorizontalCentroid_l_f,-3.60022967721
+Pittsburgh,Harrisburg,T,F_avsResult_outside_-1_0_f_l,0.00354046776456
+Pittsburgh,Harrisburg,T,F_avsResult_inside_1_-1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_0_1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_distVerticalCentroid_l_f,0.191107400287
+Pittsburgh,Harrisburg,T,F_closeDistNormLandmark_l_f,1.0
+Pittsburgh,Harrisburg,T,F_avsResult_outside_1_-1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Pittsburgh,Harrisburg,T,F_math2dIntersectionArea_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_-1_0_f_l,0.00354046776456
+Pittsburgh,Harrisburg,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_0_-1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_math2dIntersectionArea_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_-1_-1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_-1_0_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_0_-1_l_f,0.266383007505
+Pittsburgh,Harrisburg,T,F_avsResult_outside_1_0_f_l,0.761444063421
+Pittsburgh,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_1_0_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_outside_1_-1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_-1_1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_-1_0_l_f,0.764037888865
+Pittsburgh,Harrisburg,T,F_avsResult_1_-1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_distVerticalCentroid_f_l,-0.191107400287
+Pittsburgh,Harrisburg,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_0_1_f_l,0.226423343814
+Pittsburgh,Harrisburg,T,F_avsResult_outside_-1_1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_rightOfFigureCentroid_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_1_0_f_l,0.761444063421
+Pittsburgh,Harrisburg,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_1_1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_distBtwnCentroids_l_f,3.605298291
+Pittsburgh,Harrisburg,T,F_avsResult_outside_0_-1_l_f,0.266383007505
+Pittsburgh,Harrisburg,T,F_avsResult_1_0_l_f,0.00360083809952
+Pittsburgh,Harrisburg,T,F_avsResult_1_-1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_closeDistNormLandmark_f_l,1.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_0_-1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_outside_-1_0_l_f,0.764037888865
+Pittsburgh,Harrisburg,T,F_avsResult_1_1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_0_1_l_f,0.266383007505
+Pittsburgh,Harrisburg,T,F_leftOfFigureCentroid_l_f,1.0
+Pittsburgh,Harrisburg,T,F_closeDistNormUnion_l_f,1.0
+Pittsburgh,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,Harrisburg,T,F_closeDistNormFigure_l_f,1.0
+Pittsburgh,Harrisburg,T,F_rightOfFigureCentroid_f_l,1.0
+Pittsburgh,Harrisburg,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_outside_1_1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_-1_1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_outside_0_1_f_l,0.226423343814
+Pittsburgh,Harrisburg,T,F_math2dFigureIntersectionArea_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_0_1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_closeDistNormUnion_f_l,1.0
+Pittsburgh,Harrisburg,T,F_avsResult_outside_0_1_l_f,0.266383007505
+Pittsburgh,Harrisburg,T,F_avsResult_-1_1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_outside_1_1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_0_-1_f_l,0.226423343814
+Pittsburgh,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,Harrisburg,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pittsburgh,Harrisburg,T,F_math2dFigureIntersectionArea_f_l,0.0
+Pittsburgh,Harrisburg,T,F_distBtwnCentroids_f_l,3.605298291
+Pittsburgh,Harrisburg,T,bias,1.0
+Pittsburgh,Harrisburg,T,F_avsResult_-1_-1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_distHorizontalCentroid_f_l,3.60022967721
+Pittsburgh,Harrisburg,T,F_avsResult_inside_1_1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_1_-1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_belowFigureCentroid_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_1_0_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_outside_0_-1_f_l,0.226423343814
+Pittsburgh,Harrisburg,T,F_aboveFigureCentroid_f_l,0.0
+Pittsburgh,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_outside_-1_1_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_outside_1_0_l_f,0.00360083809952
+Pittsburgh,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_1_1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_-1_1_l_f,0.0
+Pittsburgh,Harrisburg,T,F_belowFigureCentroid_f_l,1.0
+Pittsburgh,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,Harrisburg,T,F_closeDistNormFigure_f_l,1.0
+Pittsburgh,Harrisburg,T,F_avsResult_inside_-1_0_f_l,0.0
+Pittsburgh,Harrisburg,T,F_aboveFigureCentroid_l_f,1.0
+Pittsburgh,Harrisburg,T,F_leftOfFigureCentroid_f_l,0.0
+Pittsburgh,Newark,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pittsburgh,Newark,T,F_distHorizontalCentroid_l_f,-2.27477919733
+Pittsburgh,Newark,T,F_avsResult_outside_-1_0_f_l,0.00252822135957
+Pittsburgh,Newark,T,F_avsResult_inside_1_-1_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_inside_0_1_f_l,0.0
+Pittsburgh,Newark,T,F_distVerticalCentroid_l_f,-0.111751596869
+Pittsburgh,Newark,T,F_closeDistNormLandmark_l_f,1.0
+Pittsburgh,Newark,T,F_avsResult_outside_1_-1_f_l,0.0
+Pittsburgh,Newark,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Pittsburgh,Newark,T,F_math2dIntersectionArea_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_-1_0_f_l,0.00252822135957
+Pittsburgh,Newark,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pittsburgh,Newark,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_inside_0_-1_f_l,0.0
+Pittsburgh,Newark,T,F_math2dIntersectionArea_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_-1_-1_l_f,0.0
+Pittsburgh,Newark,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_inside_-1_0_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_0_-1_l_f,0.218265580861
+Pittsburgh,Newark,T,F_avsResult_outside_1_0_f_l,0.82415170005
+Pittsburgh,Newark,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_inside_1_0_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_outside_1_-1_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_inside_-1_1_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_-1_0_l_f,0.824495130814
+Pittsburgh,Newark,T,F_avsResult_1_-1_f_l,0.0
+Pittsburgh,Newark,T,F_distVerticalCentroid_f_l,0.111751596869
+Pittsburgh,Newark,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_0_1_f_l,0.27415304161
+Pittsburgh,Newark,T,F_avsResult_outside_-1_1_l_f,0.0
+Pittsburgh,Newark,T,F_rightOfFigureCentroid_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_1_0_f_l,0.82415170005
+Pittsburgh,Newark,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pittsburgh,Newark,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_inside_1_1_l_f,0.0
+Pittsburgh,Newark,T,F_distBtwnCentroids_l_f,2.27752251713
+Pittsburgh,Newark,T,F_avsResult_outside_0_-1_l_f,0.218265580861
+Pittsburgh,Newark,T,F_avsResult_1_0_l_f,0.00256980548719
+Pittsburgh,Newark,T,F_avsResult_1_-1_l_f,0.0
+Pittsburgh,Newark,T,F_closeDistNormLandmark_f_l,1.0
+Pittsburgh,Newark,T,F_avsResult_inside_0_-1_l_f,0.0
+Pittsburgh,Newark,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_outside_-1_0_l_f,0.824495130814
+Pittsburgh,Newark,T,F_avsResult_1_1_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_0_1_l_f,0.218265580861
+Pittsburgh,Newark,T,F_leftOfFigureCentroid_l_f,1.0
+Pittsburgh,Newark,T,F_closeDistNormUnion_l_f,1.0
+Pittsburgh,Newark,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,Newark,T,F_closeDistNormFigure_l_f,1.0
+Pittsburgh,Newark,T,F_rightOfFigureCentroid_f_l,1.0
+Pittsburgh,Newark,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_outside_1_1_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_-1_1_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_outside_0_1_f_l,0.27415304161
+Pittsburgh,Newark,T,F_math2dFigureIntersectionArea_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_inside_0_1_l_f,0.0
+Pittsburgh,Newark,T,F_closeDistNormUnion_f_l,1.0
+Pittsburgh,Newark,T,F_avsResult_outside_0_1_l_f,0.218265580861
+Pittsburgh,Newark,T,F_avsResult_-1_1_f_l,0.0
+Pittsburgh,Newark,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_outside_1_1_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_0_-1_f_l,0.27415304161
+Pittsburgh,Newark,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,Newark,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pittsburgh,Newark,T,F_math2dFigureIntersectionArea_f_l,0.0
+Pittsburgh,Newark,T,F_distBtwnCentroids_f_l,2.27752251713
+Pittsburgh,Newark,T,bias,1.0
+Pittsburgh,Newark,T,F_avsResult_-1_-1_f_l,0.0
+Pittsburgh,Newark,T,F_distHorizontalCentroid_f_l,2.27477919733
+Pittsburgh,Newark,T,F_avsResult_inside_1_1_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_inside_1_-1_f_l,0.0
+Pittsburgh,Newark,T,F_belowFigureCentroid_l_f,1.0
+Pittsburgh,Newark,T,F_avsResult_inside_1_0_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_outside_0_-1_f_l,0.27415304161
+Pittsburgh,Newark,T,F_aboveFigureCentroid_f_l,1.0
+Pittsburgh,Newark,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_outside_-1_1_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_outside_1_0_l_f,0.00256980548719
+Pittsburgh,Newark,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,Newark,T,F_avsResult_1_1_l_f,0.0
+Pittsburgh,Newark,T,F_avsResult_inside_-1_1_l_f,0.0
+Pittsburgh,Newark,T,F_belowFigureCentroid_f_l,0.0
+Pittsburgh,Newark,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,Newark,T,F_closeDistNormFigure_f_l,1.0
+Pittsburgh,Newark,T,F_avsResult_inside_-1_0_f_l,0.0
+Pittsburgh,Newark,T,F_aboveFigureCentroid_l_f,0.0
+Pittsburgh,Newark,T,F_leftOfFigureCentroid_f_l,0.0
+Pittsburgh,Trenton,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_inside_-1_-1_f_l,0.0
+Pittsburgh,Trenton,T,F_distHorizontalCentroid_l_f,-3.06350325516
+Pittsburgh,Trenton,T,F_avsResult_outside_-1_0_f_l,0.0021556699737
+Pittsburgh,Trenton,T,F_avsResult_inside_1_-1_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_inside_0_1_f_l,0.0
+Pittsburgh,Trenton,T,F_distVerticalCentroid_l_f,0.126538216636
+Pittsburgh,Trenton,T,F_closeDistNormLandmark_l_f,1.0
+Pittsburgh,Trenton,T,F_avsResult_outside_1_-1_f_l,0.0
+Pittsburgh,Trenton,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Pittsburgh,Trenton,T,F_math2dIntersectionArea_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_-1_0_f_l,0.0021556699737
+Pittsburgh,Trenton,T,F_avsResult_inside_-1_-1_l_f,0.0
+Pittsburgh,Trenton,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_inside_0_-1_f_l,0.0
+Pittsburgh,Trenton,T,F_math2dIntersectionArea_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_-1_-1_l_f,0.0
+Pittsburgh,Trenton,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_inside_-1_0_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_0_-1_l_f,0.270413874974
+Pittsburgh,Trenton,T,F_avsResult_outside_1_0_f_l,0.816942473724
+Pittsburgh,Trenton,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_inside_1_0_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_outside_1_-1_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_inside_-1_1_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_-1_0_l_f,0.817676523019
+Pittsburgh,Trenton,T,F_avsResult_1_-1_f_l,0.0
+Pittsburgh,Trenton,T,F_distVerticalCentroid_f_l,-0.126538216636
+Pittsburgh,Trenton,T,F_3dSupportsFigureLandmark_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_0_1_f_l,0.224594399202
+Pittsburgh,Trenton,T,F_avsResult_outside_-1_1_l_f,0.0
+Pittsburgh,Trenton,T,F_rightOfFigureCentroid_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_1_0_f_l,0.816942473724
+Pittsburgh,Trenton,T,F_avsResult_outside_-1_-1_f_l,0.0
+Pittsburgh,Trenton,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_inside_1_1_l_f,0.0
+Pittsburgh,Trenton,T,F_distBtwnCentroids_l_f,3.0661154764
+Pittsburgh,Trenton,T,F_avsResult_outside_0_-1_l_f,0.270413874974
+Pittsburgh,Trenton,T,F_avsResult_1_0_l_f,0.0022220793359
+Pittsburgh,Trenton,T,F_avsResult_1_-1_l_f,0.0
+Pittsburgh,Trenton,T,F_closeDistNormLandmark_f_l,1.0
+Pittsburgh,Trenton,T,F_avsResult_inside_0_-1_l_f,0.0
+Pittsburgh,Trenton,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_outside_-1_0_l_f,0.817676523019
+Pittsburgh,Trenton,T,F_avsResult_1_1_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_0_1_l_f,0.270413874974
+Pittsburgh,Trenton,T,F_leftOfFigureCentroid_l_f,1.0
+Pittsburgh,Trenton,T,F_closeDistNormUnion_l_f,1.0
+Pittsburgh,Trenton,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Pittsburgh,Trenton,T,F_closeDistNormFigure_l_f,1.0
+Pittsburgh,Trenton,T,F_rightOfFigureCentroid_f_l,1.0
+Pittsburgh,Trenton,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_outside_1_1_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_-1_1_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_outside_0_1_f_l,0.224594399202
+Pittsburgh,Trenton,T,F_math2dFigureIntersectionArea_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_inside_0_1_l_f,0.0
+Pittsburgh,Trenton,T,F_closeDistNormUnion_f_l,1.0
+Pittsburgh,Trenton,T,F_avsResult_outside_0_1_l_f,0.270413874974
+Pittsburgh,Trenton,T,F_avsResult_-1_1_f_l,0.0
+Pittsburgh,Trenton,T,F_3dSupportsFigureLandmark_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_outside_1_1_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_outside_-1_-1_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_0_-1_f_l,0.224594399202
+Pittsburgh,Trenton,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,Trenton,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Pittsburgh,Trenton,T,F_math2dFigureIntersectionArea_f_l,0.0
+Pittsburgh,Trenton,T,F_distBtwnCentroids_f_l,3.0661154764
+Pittsburgh,Trenton,T,bias,1.0
+Pittsburgh,Trenton,T,F_avsResult_-1_-1_f_l,0.0
+Pittsburgh,Trenton,T,F_distHorizontalCentroid_f_l,3.06350325516
+Pittsburgh,Trenton,T,F_avsResult_inside_1_1_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_inside_1_-1_f_l,0.0
+Pittsburgh,Trenton,T,F_belowFigureCentroid_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_inside_1_0_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_outside_0_-1_f_l,0.224594399202
+Pittsburgh,Trenton,T,F_aboveFigureCentroid_f_l,0.0
+Pittsburgh,Trenton,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_outside_-1_1_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_outside_1_0_l_f,0.0022220793359
+Pittsburgh,Trenton,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Pittsburgh,Trenton,T,F_avsResult_1_1_l_f,0.0
+Pittsburgh,Trenton,T,F_avsResult_inside_-1_1_l_f,0.0
+Pittsburgh,Trenton,T,F_belowFigureCentroid_f_l,1.0
+Pittsburgh,Trenton,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Pittsburgh,Trenton,T,F_closeDistNormFigure_f_l,1.0
+Pittsburgh,Trenton,T,F_avsResult_inside_-1_0_f_l,0.0
+Pittsburgh,Trenton,T,F_aboveFigureCentroid_l_f,1.0
+Pittsburgh,Trenton,T,F_leftOfFigureCentroid_f_l,0.0
+Harrisburg,Pennsylvania,T,F_math2dLandmarkIntersectionArea_f_l,0.000264094049037
+Harrisburg,Pennsylvania,T,F_avsResult_inside_-1_-1_f_l,0.0
+Harrisburg,Pennsylvania,T,F_distHorizontalCentroid_l_f,0.0554538984399
+Harrisburg,Pennsylvania,T,F_avsResult_outside_-1_0_f_l,0.481060029786
+Harrisburg,Pennsylvania,T,F_avsResult_inside_1_-1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_inside_0_1_f_l,0.0
+Harrisburg,Pennsylvania,T,F_distVerticalCentroid_l_f,-0.0431981909397
+Harrisburg,Pennsylvania,T,F_closeDistNormLandmark_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_outside_1_-1_f_l,0.19908244278
+Harrisburg,Pennsylvania,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Harrisburg,Pennsylvania,T,F_math2dIntersectionArea_l_f,0.000264094049037
+Harrisburg,Pennsylvania,T,F_avsResult_-1_0_f_l,0.481060029786
+Harrisburg,Pennsylvania,T,F_avsResult_inside_-1_-1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_inside_0_-1_f_l,0.0
+Harrisburg,Pennsylvania,T,F_math2dIntersectionArea_f_l,0.000264094049037
+Harrisburg,Pennsylvania,T,F_avsResult_-1_-1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Harrisburg,Pennsylvania,T,F_avsResult_inside_-1_0_l_f,0.0465694965044
+Harrisburg,Pennsylvania,T,F_avsResult_0_-1_l_f,0.0132867684285
+Harrisburg,Pennsylvania,T,F_avsResult_outside_1_0_f_l,0.0796957866445
+Harrisburg,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_inside_1_0_l_f,0.196279560977
+Harrisburg,Pennsylvania,T,F_avsResult_outside_1_-1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_inside_-1_1_f_l,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_-1_0_l_f,0.0465694965044
+Harrisburg,Pennsylvania,T,F_avsResult_1_-1_f_l,0.19908244278
+Harrisburg,Pennsylvania,T,F_distVerticalCentroid_f_l,0.0431981909397
+Harrisburg,Pennsylvania,T,F_3dSupportsFigureLandmark_f_l,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_0_1_f_l,0.413570037846
+Harrisburg,Pennsylvania,T,F_avsResult_outside_-1_1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_rightOfFigureCentroid_l_f,1.0
+Harrisburg,Pennsylvania,T,F_avsResult_1_0_f_l,0.0796957866445
+Harrisburg,Pennsylvania,T,F_avsResult_outside_-1_-1_f_l,0.0
+Harrisburg,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_inside_1_1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_distBtwnCentroids_l_f,0.0702938016659
+Harrisburg,Pennsylvania,T,F_avsResult_outside_0_-1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_1_0_l_f,0.196279560977
+Harrisburg,Pennsylvania,T,F_avsResult_1_-1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_closeDistNormLandmark_f_l,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_inside_0_-1_l_f,0.0132867684285
+Harrisburg,Pennsylvania,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Harrisburg,Pennsylvania,T,F_avsResult_outside_-1_0_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_1_1_f_l,0.19908244278
+Harrisburg,Pennsylvania,T,F_avsResult_0_1_l_f,0.0132867684285
+Harrisburg,Pennsylvania,T,F_leftOfFigureCentroid_l_f,0.0
+Harrisburg,Pennsylvania,T,F_closeDistNormUnion_l_f,0.0
+Harrisburg,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,Pennsylvania,T,F_closeDistNormFigure_l_f,0.0
+Harrisburg,Pennsylvania,T,F_rightOfFigureCentroid_f_l,0.0
+Harrisburg,Pennsylvania,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_outside_1_1_f_l,0.19908244278
+Harrisburg,Pennsylvania,T,F_avsResult_-1_1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_outside_0_1_f_l,0.413570037846
+Harrisburg,Pennsylvania,T,F_math2dFigureIntersectionArea_l_f,0.000264094049037
+Harrisburg,Pennsylvania,T,F_avsResult_inside_0_1_l_f,0.0132867684285
+Harrisburg,Pennsylvania,T,F_closeDistNormUnion_f_l,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_outside_0_1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_-1_1_f_l,0.0
+Harrisburg,Pennsylvania,T,F_3dSupportsFigureLandmark_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_outside_1_1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_outside_-1_-1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_0_-1_f_l,0.413570037846
+Harrisburg,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,Pennsylvania,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Harrisburg,Pennsylvania,T,F_math2dFigureIntersectionArea_f_l,1.0
+Harrisburg,Pennsylvania,T,F_distBtwnCentroids_f_l,0.0702938016659
+Harrisburg,Pennsylvania,T,bias,1.0
+Harrisburg,Pennsylvania,T,F_avsResult_-1_-1_f_l,0.0
+Harrisburg,Pennsylvania,T,F_distHorizontalCentroid_f_l,-0.0554538984399
+Harrisburg,Pennsylvania,T,F_avsResult_inside_1_1_f_l,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_inside_1_-1_f_l,0.0
+Harrisburg,Pennsylvania,T,F_belowFigureCentroid_l_f,1.0
+Harrisburg,Pennsylvania,T,F_avsResult_inside_1_0_f_l,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_outside_0_-1_f_l,0.413570037846
+Harrisburg,Pennsylvania,T,F_aboveFigureCentroid_f_l,1.0
+Harrisburg,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_outside_-1_1_f_l,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_outside_1_0_l_f,0.0
+Harrisburg,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_1_1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_inside_-1_1_l_f,0.0
+Harrisburg,Pennsylvania,T,F_belowFigureCentroid_f_l,0.0
+Harrisburg,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,Pennsylvania,T,F_closeDistNormFigure_f_l,0.0
+Harrisburg,Pennsylvania,T,F_avsResult_inside_-1_0_f_l,0.0
+Harrisburg,Pennsylvania,T,F_aboveFigureCentroid_l_f,0.0
+Harrisburg,Pennsylvania,T,F_leftOfFigureCentroid_f_l,1.0
+Harrisburg,New Jersey,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_inside_-1_-1_f_l,0.0
+Harrisburg,New Jersey,T,F_distHorizontalCentroid_l_f,-0.31391759171
+Harrisburg,New Jersey,T,F_avsResult_outside_-1_0_f_l,0.003463610243
+Harrisburg,New Jersey,T,F_avsResult_inside_1_-1_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_inside_0_1_f_l,0.0
+Harrisburg,New Jersey,T,F_distVerticalCentroid_l_f,0.0125778033526
+Harrisburg,New Jersey,T,F_closeDistNormLandmark_l_f,1.0
+Harrisburg,New Jersey,T,F_avsResult_outside_1_-1_f_l,0.0
+Harrisburg,New Jersey,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Harrisburg,New Jersey,T,F_math2dIntersectionArea_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_-1_0_f_l,0.003463610243
+Harrisburg,New Jersey,T,F_avsResult_inside_-1_-1_l_f,0.0
+Harrisburg,New Jersey,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_inside_0_-1_f_l,0.0
+Harrisburg,New Jersey,T,F_math2dIntersectionArea_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_-1_-1_l_f,0.0
+Harrisburg,New Jersey,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_inside_-1_0_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_0_-1_l_f,0.197475208825
+Harrisburg,New Jersey,T,F_avsResult_outside_1_0_f_l,0.725864402693
+Harrisburg,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_inside_1_0_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_outside_1_-1_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_inside_-1_1_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_-1_0_l_f,0.633248312674
+Harrisburg,New Jersey,T,F_avsResult_1_-1_f_l,0.0
+Harrisburg,New Jersey,T,F_distVerticalCentroid_f_l,-0.0125778033526
+Harrisburg,New Jersey,T,F_3dSupportsFigureLandmark_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_0_1_f_l,0.233582381306
+Harrisburg,New Jersey,T,F_avsResult_outside_-1_1_l_f,0.0
+Harrisburg,New Jersey,T,F_rightOfFigureCentroid_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_1_0_f_l,0.725864402693
+Harrisburg,New Jersey,T,F_avsResult_outside_-1_-1_f_l,0.0
+Harrisburg,New Jersey,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_inside_1_1_l_f,0.0
+Harrisburg,New Jersey,T,F_distBtwnCentroids_l_f,0.31416946943
+Harrisburg,New Jersey,T,F_avsResult_outside_0_-1_l_f,0.197475208825
+Harrisburg,New Jersey,T,F_avsResult_1_0_l_f,0.00264847082695
+Harrisburg,New Jersey,T,F_avsResult_1_-1_l_f,0.0
+Harrisburg,New Jersey,T,F_closeDistNormLandmark_f_l,0.92608617291
+Harrisburg,New Jersey,T,F_avsResult_inside_0_-1_l_f,0.0
+Harrisburg,New Jersey,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_outside_-1_0_l_f,0.633248312674
+Harrisburg,New Jersey,T,F_avsResult_1_1_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_0_1_l_f,0.197475208825
+Harrisburg,New Jersey,T,F_leftOfFigureCentroid_l_f,1.0
+Harrisburg,New Jersey,T,F_closeDistNormUnion_l_f,0.924736749676
+Harrisburg,New Jersey,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,New Jersey,T,F_closeDistNormFigure_l_f,0.92608617291
+Harrisburg,New Jersey,T,F_rightOfFigureCentroid_f_l,1.0
+Harrisburg,New Jersey,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_outside_1_1_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_-1_1_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_outside_0_1_f_l,0.233582381306
+Harrisburg,New Jersey,T,F_math2dFigureIntersectionArea_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_inside_0_1_l_f,0.0
+Harrisburg,New Jersey,T,F_closeDistNormUnion_f_l,0.924736749676
+Harrisburg,New Jersey,T,F_avsResult_outside_0_1_l_f,0.197475208825
+Harrisburg,New Jersey,T,F_avsResult_-1_1_f_l,0.0
+Harrisburg,New Jersey,T,F_3dSupportsFigureLandmark_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_outside_1_1_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_outside_-1_-1_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_0_-1_f_l,0.233582381306
+Harrisburg,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,New Jersey,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Harrisburg,New Jersey,T,F_math2dFigureIntersectionArea_f_l,0.0
+Harrisburg,New Jersey,T,F_distBtwnCentroids_f_l,0.31416946943
+Harrisburg,New Jersey,T,bias,1.0
+Harrisburg,New Jersey,T,F_avsResult_-1_-1_f_l,0.0
+Harrisburg,New Jersey,T,F_distHorizontalCentroid_f_l,0.31391759171
+Harrisburg,New Jersey,T,F_avsResult_inside_1_1_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_inside_1_-1_f_l,0.0
+Harrisburg,New Jersey,T,F_belowFigureCentroid_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_inside_1_0_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_outside_0_-1_f_l,0.233582381306
+Harrisburg,New Jersey,T,F_aboveFigureCentroid_f_l,0.0
+Harrisburg,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_outside_-1_1_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_outside_1_0_l_f,0.00264847082695
+Harrisburg,New Jersey,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,New Jersey,T,F_avsResult_1_1_l_f,0.0
+Harrisburg,New Jersey,T,F_avsResult_inside_-1_1_l_f,0.0
+Harrisburg,New Jersey,T,F_belowFigureCentroid_f_l,1.0
+Harrisburg,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,New Jersey,T,F_closeDistNormFigure_f_l,1.0
+Harrisburg,New Jersey,T,F_avsResult_inside_-1_0_f_l,0.0
+Harrisburg,New Jersey,T,F_aboveFigureCentroid_l_f,1.0
+Harrisburg,New Jersey,T,F_leftOfFigureCentroid_f_l,0.0
+Harrisburg,Pittsburgh,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_-1_-1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_distHorizontalCentroid_l_f,3.60022967721
+Harrisburg,Pittsburgh,T,F_avsResult_outside_-1_0_f_l,0.764037888865
+Harrisburg,Pittsburgh,T,F_avsResult_inside_1_-1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_0_1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_distVerticalCentroid_l_f,-0.191107400287
+Harrisburg,Pittsburgh,T,F_closeDistNormLandmark_l_f,1.0
+Harrisburg,Pittsburgh,T,F_avsResult_outside_1_-1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Harrisburg,Pittsburgh,T,F_math2dIntersectionArea_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_-1_0_f_l,0.764037888865
+Harrisburg,Pittsburgh,T,F_avsResult_inside_-1_-1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_0_-1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_math2dIntersectionArea_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_-1_-1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_-1_0_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_0_-1_l_f,0.226423343814
+Harrisburg,Pittsburgh,T,F_avsResult_outside_1_0_f_l,0.00360083809952
+Harrisburg,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_1_0_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_outside_1_-1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_-1_1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_-1_0_l_f,0.00354046776456
+Harrisburg,Pittsburgh,T,F_avsResult_1_-1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_distVerticalCentroid_f_l,0.191107400287
+Harrisburg,Pittsburgh,T,F_3dSupportsFigureLandmark_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_0_1_f_l,0.266383007505
+Harrisburg,Pittsburgh,T,F_avsResult_outside_-1_1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_rightOfFigureCentroid_l_f,1.0
+Harrisburg,Pittsburgh,T,F_avsResult_1_0_f_l,0.00360083809952
+Harrisburg,Pittsburgh,T,F_avsResult_outside_-1_-1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_1_1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_distBtwnCentroids_l_f,3.605298291
+Harrisburg,Pittsburgh,T,F_avsResult_outside_0_-1_l_f,0.226423343814
+Harrisburg,Pittsburgh,T,F_avsResult_1_0_l_f,0.761444063421
+Harrisburg,Pittsburgh,T,F_avsResult_1_-1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_closeDistNormLandmark_f_l,1.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_0_-1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_outside_-1_0_l_f,0.00354046776456
+Harrisburg,Pittsburgh,T,F_avsResult_1_1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_0_1_l_f,0.226423343814
+Harrisburg,Pittsburgh,T,F_leftOfFigureCentroid_l_f,0.0
+Harrisburg,Pittsburgh,T,F_closeDistNormUnion_l_f,1.0
+Harrisburg,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,Pittsburgh,T,F_closeDistNormFigure_l_f,1.0
+Harrisburg,Pittsburgh,T,F_rightOfFigureCentroid_f_l,0.0
+Harrisburg,Pittsburgh,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_outside_1_1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_-1_1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_outside_0_1_f_l,0.266383007505
+Harrisburg,Pittsburgh,T,F_math2dFigureIntersectionArea_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_0_1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_closeDistNormUnion_f_l,1.0
+Harrisburg,Pittsburgh,T,F_avsResult_outside_0_1_l_f,0.226423343814
+Harrisburg,Pittsburgh,T,F_avsResult_-1_1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_3dSupportsFigureLandmark_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_outside_1_1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_outside_-1_-1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_0_-1_f_l,0.266383007505
+Harrisburg,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,Pittsburgh,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Harrisburg,Pittsburgh,T,F_math2dFigureIntersectionArea_f_l,0.0
+Harrisburg,Pittsburgh,T,F_distBtwnCentroids_f_l,3.605298291
+Harrisburg,Pittsburgh,T,bias,1.0
+Harrisburg,Pittsburgh,T,F_avsResult_-1_-1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_distHorizontalCentroid_f_l,-3.60022967721
+Harrisburg,Pittsburgh,T,F_avsResult_inside_1_1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_1_-1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_belowFigureCentroid_l_f,1.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_1_0_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_outside_0_-1_f_l,0.266383007505
+Harrisburg,Pittsburgh,T,F_aboveFigureCentroid_f_l,1.0
+Harrisburg,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_outside_-1_1_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_outside_1_0_l_f,0.761444063421
+Harrisburg,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_1_1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_-1_1_l_f,0.0
+Harrisburg,Pittsburgh,T,F_belowFigureCentroid_f_l,0.0
+Harrisburg,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,Pittsburgh,T,F_closeDistNormFigure_f_l,1.0
+Harrisburg,Pittsburgh,T,F_avsResult_inside_-1_0_f_l,0.0
+Harrisburg,Pittsburgh,T,F_aboveFigureCentroid_l_f,0.0
+Harrisburg,Pittsburgh,T,F_leftOfFigureCentroid_f_l,1.0
+Harrisburg,Harrisburg,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_-1_-1_f_l,0.0
+Harrisburg,Harrisburg,T,F_distHorizontalCentroid_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_outside_-1_0_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_1_-1_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_0_1_f_l,0.0577105160981
+Harrisburg,Harrisburg,T,F_distVerticalCentroid_l_f,0.0
+Harrisburg,Harrisburg,T,F_closeDistNormLandmark_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_outside_1_-1_f_l,0.0
+Harrisburg,Harrisburg,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Harrisburg,Harrisburg,T,F_math2dIntersectionArea_l_f,1.0
+Harrisburg,Harrisburg,T,F_avsResult_-1_0_f_l,0.296077259321
+Harrisburg,Harrisburg,T,F_avsResult_inside_-1_-1_l_f,0.0
+Harrisburg,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_0_-1_f_l,0.0577105160981
+Harrisburg,Harrisburg,T,F_math2dIntersectionArea_f_l,1.0
+Harrisburg,Harrisburg,T,F_avsResult_-1_-1_l_f,0.0
+Harrisburg,Harrisburg,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_-1_0_l_f,0.296077259321
+Harrisburg,Harrisburg,T,F_avsResult_0_-1_l_f,0.0577105160981
+Harrisburg,Harrisburg,T,F_avsResult_outside_1_0_f_l,0.0
+Harrisburg,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_1_0_l_f,0.198883953713
+Harrisburg,Harrisburg,T,F_avsResult_outside_1_-1_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_-1_1_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_-1_0_l_f,0.296077259321
+Harrisburg,Harrisburg,T,F_avsResult_1_-1_f_l,0.0
+Harrisburg,Harrisburg,T,F_distVerticalCentroid_f_l,0.0
+Harrisburg,Harrisburg,T,F_3dSupportsFigureLandmark_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_0_1_f_l,0.0577105160981
+Harrisburg,Harrisburg,T,F_avsResult_outside_-1_1_l_f,0.0
+Harrisburg,Harrisburg,T,F_rightOfFigureCentroid_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_1_0_f_l,0.198883953713
+Harrisburg,Harrisburg,T,F_avsResult_outside_-1_-1_f_l,0.0
+Harrisburg,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_1_1_l_f,0.0
+Harrisburg,Harrisburg,T,F_distBtwnCentroids_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_outside_0_-1_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_1_0_l_f,0.198883953713
+Harrisburg,Harrisburg,T,F_avsResult_1_-1_l_f,0.0
+Harrisburg,Harrisburg,T,F_closeDistNormLandmark_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_0_-1_l_f,0.0577105160981
+Harrisburg,Harrisburg,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Harrisburg,Harrisburg,T,F_avsResult_outside_-1_0_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_1_1_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_0_1_l_f,0.0577105160981
+Harrisburg,Harrisburg,T,F_leftOfFigureCentroid_l_f,0.0
+Harrisburg,Harrisburg,T,F_closeDistNormUnion_l_f,0.0
+Harrisburg,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,Harrisburg,T,F_closeDistNormFigure_l_f,0.0
+Harrisburg,Harrisburg,T,F_rightOfFigureCentroid_f_l,0.0
+Harrisburg,Harrisburg,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_outside_1_1_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_-1_1_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_outside_0_1_f_l,0.0
+Harrisburg,Harrisburg,T,F_math2dFigureIntersectionArea_l_f,1.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_0_1_l_f,0.0577105160981
+Harrisburg,Harrisburg,T,F_closeDistNormUnion_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_outside_0_1_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_-1_1_f_l,0.0
+Harrisburg,Harrisburg,T,F_3dSupportsFigureLandmark_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_outside_1_1_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_outside_-1_-1_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_0_-1_f_l,0.0577105160981
+Harrisburg,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,Harrisburg,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Harrisburg,Harrisburg,T,F_math2dFigureIntersectionArea_f_l,1.0
+Harrisburg,Harrisburg,T,F_distBtwnCentroids_f_l,0.0
+Harrisburg,Harrisburg,T,bias,1.0
+Harrisburg,Harrisburg,T,F_avsResult_-1_-1_f_l,0.0
+Harrisburg,Harrisburg,T,F_distHorizontalCentroid_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_1_1_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_1_-1_f_l,0.0
+Harrisburg,Harrisburg,T,F_belowFigureCentroid_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_1_0_f_l,0.198883953713
+Harrisburg,Harrisburg,T,F_avsResult_outside_0_-1_f_l,0.0
+Harrisburg,Harrisburg,T,F_aboveFigureCentroid_f_l,0.0
+Harrisburg,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_outside_-1_1_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_outside_1_0_l_f,0.0
+Harrisburg,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_1_1_l_f,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_-1_1_l_f,0.0
+Harrisburg,Harrisburg,T,F_belowFigureCentroid_f_l,0.0
+Harrisburg,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,Harrisburg,T,F_closeDistNormFigure_f_l,0.0
+Harrisburg,Harrisburg,T,F_avsResult_inside_-1_0_f_l,0.296077259321
+Harrisburg,Harrisburg,T,F_aboveFigureCentroid_l_f,0.0
+Harrisburg,Harrisburg,T,F_leftOfFigureCentroid_f_l,0.0
+Harrisburg,Newark,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_inside_-1_-1_f_l,0.0
+Harrisburg,Newark,T,F_distHorizontalCentroid_l_f,-1.75075156269
+Harrisburg,Newark,T,F_avsResult_outside_-1_0_f_l,0.012193393231
+Harrisburg,Newark,T,F_avsResult_inside_1_-1_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_inside_0_1_f_l,0.0
+Harrisburg,Newark,T,F_distVerticalCentroid_l_f,-0.290025815902
+Harrisburg,Newark,T,F_closeDistNormLandmark_l_f,1.0
+Harrisburg,Newark,T,F_avsResult_outside_1_-1_f_l,0.0
+Harrisburg,Newark,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Harrisburg,Newark,T,F_math2dIntersectionArea_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_-1_0_f_l,0.012193393231
+Harrisburg,Newark,T,F_avsResult_inside_-1_-1_l_f,0.0
+Harrisburg,Newark,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_inside_0_-1_f_l,0.0
+Harrisburg,Newark,T,F_math2dIntersectionArea_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_-1_-1_l_f,0.0
+Harrisburg,Newark,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_inside_-1_0_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_0_-1_l_f,0.191477914617
+Harrisburg,Newark,T,F_avsResult_outside_1_0_f_l,0.721282310951
+Harrisburg,Newark,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_inside_1_0_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_outside_1_-1_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_inside_-1_1_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_-1_0_l_f,0.718622613888
+Harrisburg,Newark,T,F_avsResult_1_-1_f_l,0.0
+Harrisburg,Newark,T,F_distVerticalCentroid_f_l,0.290025815902
+Harrisburg,Newark,T,F_3dSupportsFigureLandmark_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_0_1_f_l,0.306551067147
+Harrisburg,Newark,T,F_avsResult_outside_-1_1_l_f,0.0
+Harrisburg,Newark,T,F_rightOfFigureCentroid_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_1_0_f_l,0.721282310951
+Harrisburg,Newark,T,F_avsResult_outside_-1_-1_f_l,0.0
+Harrisburg,Newark,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_inside_1_1_l_f,0.0
+Harrisburg,Newark,T,F_distBtwnCentroids_l_f,1.77461150908
+Harrisburg,Newark,T,F_avsResult_outside_0_-1_l_f,0.191477914617
+Harrisburg,Newark,T,F_avsResult_1_0_l_f,0.0125251878603
+Harrisburg,Newark,T,F_avsResult_1_-1_l_f,0.0
+Harrisburg,Newark,T,F_closeDistNormLandmark_f_l,1.0
+Harrisburg,Newark,T,F_avsResult_inside_0_-1_l_f,0.0
+Harrisburg,Newark,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_outside_-1_0_l_f,0.718622613888
+Harrisburg,Newark,T,F_avsResult_1_1_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_0_1_l_f,0.191477914617
+Harrisburg,Newark,T,F_leftOfFigureCentroid_l_f,1.0
+Harrisburg,Newark,T,F_closeDistNormUnion_l_f,1.0
+Harrisburg,Newark,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,Newark,T,F_closeDistNormFigure_l_f,1.0
+Harrisburg,Newark,T,F_rightOfFigureCentroid_f_l,1.0
+Harrisburg,Newark,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_outside_1_1_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_-1_1_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_outside_0_1_f_l,0.306551067147
+Harrisburg,Newark,T,F_math2dFigureIntersectionArea_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_inside_0_1_l_f,0.0
+Harrisburg,Newark,T,F_closeDistNormUnion_f_l,1.0
+Harrisburg,Newark,T,F_avsResult_outside_0_1_l_f,0.191477914617
+Harrisburg,Newark,T,F_avsResult_-1_1_f_l,0.0
+Harrisburg,Newark,T,F_3dSupportsFigureLandmark_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_outside_1_1_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_outside_-1_-1_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_0_-1_f_l,0.306551067147
+Harrisburg,Newark,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,Newark,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Harrisburg,Newark,T,F_math2dFigureIntersectionArea_f_l,0.0
+Harrisburg,Newark,T,F_distBtwnCentroids_f_l,1.77461150908
+Harrisburg,Newark,T,bias,1.0
+Harrisburg,Newark,T,F_avsResult_-1_-1_f_l,0.0
+Harrisburg,Newark,T,F_distHorizontalCentroid_f_l,1.75075156269
+Harrisburg,Newark,T,F_avsResult_inside_1_1_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_inside_1_-1_f_l,0.0
+Harrisburg,Newark,T,F_belowFigureCentroid_l_f,1.0
+Harrisburg,Newark,T,F_avsResult_inside_1_0_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_outside_0_-1_f_l,0.306551067147
+Harrisburg,Newark,T,F_aboveFigureCentroid_f_l,1.0
+Harrisburg,Newark,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_outside_-1_1_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_outside_1_0_l_f,0.0125251878603
+Harrisburg,Newark,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,Newark,T,F_avsResult_1_1_l_f,0.0
+Harrisburg,Newark,T,F_avsResult_inside_-1_1_l_f,0.0
+Harrisburg,Newark,T,F_belowFigureCentroid_f_l,0.0
+Harrisburg,Newark,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,Newark,T,F_closeDistNormFigure_f_l,1.0
+Harrisburg,Newark,T,F_avsResult_inside_-1_0_f_l,0.0
+Harrisburg,Newark,T,F_aboveFigureCentroid_l_f,0.0
+Harrisburg,Newark,T,F_leftOfFigureCentroid_f_l,0.0
+Harrisburg,Trenton,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_inside_-1_-1_f_l,0.0
+Harrisburg,Trenton,T,F_distHorizontalCentroid_l_f,-6.77541359845
+Harrisburg,Trenton,T,F_avsResult_outside_-1_0_f_l,0.00221952272136
+Harrisburg,Trenton,T,F_avsResult_inside_1_-1_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_inside_0_1_f_l,0.0
+Harrisburg,Trenton,T,F_distVerticalCentroid_l_f,0.163501350847
+Harrisburg,Trenton,T,F_closeDistNormLandmark_l_f,1.0
+Harrisburg,Trenton,T,F_avsResult_outside_1_-1_f_l,0.0
+Harrisburg,Trenton,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Harrisburg,Trenton,T,F_math2dIntersectionArea_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_-1_0_f_l,0.00221952272136
+Harrisburg,Trenton,T,F_avsResult_inside_-1_-1_l_f,0.0
+Harrisburg,Trenton,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_inside_0_-1_f_l,0.0
+Harrisburg,Trenton,T,F_math2dIntersectionArea_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_-1_-1_l_f,0.0
+Harrisburg,Trenton,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_inside_-1_0_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_0_-1_l_f,0.255724132187
+Harrisburg,Trenton,T,F_avsResult_outside_1_0_f_l,0.721840289046
+Harrisburg,Trenton,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_inside_1_0_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_outside_1_-1_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_inside_-1_1_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_-1_0_l_f,0.721894213989
+Harrisburg,Trenton,T,F_avsResult_1_-1_f_l,0.0
+Harrisburg,Trenton,T,F_distVerticalCentroid_f_l,-0.163501350847
+Harrisburg,Trenton,T,F_3dSupportsFigureLandmark_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_0_1_f_l,0.238683068879
+Harrisburg,Trenton,T,F_avsResult_outside_-1_1_l_f,0.0
+Harrisburg,Trenton,T,F_rightOfFigureCentroid_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_1_0_f_l,0.721840289046
+Harrisburg,Trenton,T,F_avsResult_outside_-1_-1_f_l,0.0
+Harrisburg,Trenton,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_inside_1_1_l_f,0.0
+Harrisburg,Trenton,T,F_distBtwnCentroids_l_f,6.77738608327
+Harrisburg,Trenton,T,F_avsResult_outside_0_-1_l_f,0.255724132187
+Harrisburg,Trenton,T,F_avsResult_1_0_l_f,0.00199574103066
+Harrisburg,Trenton,T,F_avsResult_1_-1_l_f,0.0
+Harrisburg,Trenton,T,F_closeDistNormLandmark_f_l,1.0
+Harrisburg,Trenton,T,F_avsResult_inside_0_-1_l_f,0.0
+Harrisburg,Trenton,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_outside_-1_0_l_f,0.721894213989
+Harrisburg,Trenton,T,F_avsResult_1_1_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_0_1_l_f,0.255724132187
+Harrisburg,Trenton,T,F_leftOfFigureCentroid_l_f,1.0
+Harrisburg,Trenton,T,F_closeDistNormUnion_l_f,1.0
+Harrisburg,Trenton,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Harrisburg,Trenton,T,F_closeDistNormFigure_l_f,1.0
+Harrisburg,Trenton,T,F_rightOfFigureCentroid_f_l,1.0
+Harrisburg,Trenton,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_outside_1_1_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_-1_1_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_outside_0_1_f_l,0.238683068879
+Harrisburg,Trenton,T,F_math2dFigureIntersectionArea_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_inside_0_1_l_f,0.0
+Harrisburg,Trenton,T,F_closeDistNormUnion_f_l,1.0
+Harrisburg,Trenton,T,F_avsResult_outside_0_1_l_f,0.255724132187
+Harrisburg,Trenton,T,F_avsResult_-1_1_f_l,0.0
+Harrisburg,Trenton,T,F_3dSupportsFigureLandmark_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_outside_1_1_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_outside_-1_-1_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_0_-1_f_l,0.238683068879
+Harrisburg,Trenton,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,Trenton,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Harrisburg,Trenton,T,F_math2dFigureIntersectionArea_f_l,0.0
+Harrisburg,Trenton,T,F_distBtwnCentroids_f_l,6.77738608327
+Harrisburg,Trenton,T,bias,1.0
+Harrisburg,Trenton,T,F_avsResult_-1_-1_f_l,0.0
+Harrisburg,Trenton,T,F_distHorizontalCentroid_f_l,6.77541359845
+Harrisburg,Trenton,T,F_avsResult_inside_1_1_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_inside_1_-1_f_l,0.0
+Harrisburg,Trenton,T,F_belowFigureCentroid_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_inside_1_0_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_outside_0_-1_f_l,0.238683068879
+Harrisburg,Trenton,T,F_aboveFigureCentroid_f_l,0.0
+Harrisburg,Trenton,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_outside_-1_1_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_outside_1_0_l_f,0.00199574103066
+Harrisburg,Trenton,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Harrisburg,Trenton,T,F_avsResult_1_1_l_f,0.0
+Harrisburg,Trenton,T,F_avsResult_inside_-1_1_l_f,0.0
+Harrisburg,Trenton,T,F_belowFigureCentroid_f_l,1.0
+Harrisburg,Trenton,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Harrisburg,Trenton,T,F_closeDistNormFigure_f_l,1.0
+Harrisburg,Trenton,T,F_avsResult_inside_-1_0_f_l,0.0
+Harrisburg,Trenton,T,F_aboveFigureCentroid_l_f,1.0
+Harrisburg,Trenton,T,F_leftOfFigureCentroid_f_l,0.0
+Newark,Pennsylvania,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_inside_-1_-1_f_l,0.0
+Newark,Pennsylvania,T,F_distHorizontalCentroid_l_f,0.213038986539
+Newark,Pennsylvania,T,F_avsResult_outside_-1_0_f_l,0.776773825241
+Newark,Pennsylvania,T,F_avsResult_inside_1_-1_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_inside_0_1_f_l,0.0
+Newark,Pennsylvania,T,F_distVerticalCentroid_l_f,-0.0123805577565
+Newark,Pennsylvania,T,F_closeDistNormLandmark_l_f,1.0
+Newark,Pennsylvania,T,F_avsResult_outside_1_-1_f_l,0.0
+Newark,Pennsylvania,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Newark,Pennsylvania,T,F_math2dIntersectionArea_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_-1_0_f_l,0.776773825241
+Newark,Pennsylvania,T,F_avsResult_inside_-1_-1_l_f,0.0
+Newark,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_inside_0_-1_f_l,0.0
+Newark,Pennsylvania,T,F_math2dIntersectionArea_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_-1_-1_l_f,0.0
+Newark,Pennsylvania,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_inside_-1_0_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_0_-1_l_f,0.098412611809
+Newark,Pennsylvania,T,F_avsResult_outside_1_0_f_l,0.00366516396083
+Newark,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_inside_1_0_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_outside_1_-1_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_inside_-1_1_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_-1_0_l_f,0.000652473461453
+Newark,Pennsylvania,T,F_avsResult_1_-1_f_l,0.0
+Newark,Pennsylvania,T,F_distVerticalCentroid_f_l,0.0123805577565
+Newark,Pennsylvania,T,F_3dSupportsFigureLandmark_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_0_1_f_l,0.26933661236
+Newark,Pennsylvania,T,F_avsResult_outside_-1_1_l_f,0.0
+Newark,Pennsylvania,T,F_rightOfFigureCentroid_l_f,1.0
+Newark,Pennsylvania,T,F_avsResult_1_0_f_l,0.00366516396083
+Newark,Pennsylvania,T,F_avsResult_outside_-1_-1_f_l,0.0
+Newark,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_inside_1_1_l_f,0.0
+Newark,Pennsylvania,T,F_distBtwnCentroids_l_f,0.213398425477
+Newark,Pennsylvania,T,F_avsResult_outside_0_-1_l_f,0.098412611809
+Newark,Pennsylvania,T,F_avsResult_1_0_l_f,0.520546594087
+Newark,Pennsylvania,T,F_avsResult_1_-1_l_f,0.0
+Newark,Pennsylvania,T,F_closeDistNormLandmark_f_l,0.0442484206079
+Newark,Pennsylvania,T,F_avsResult_inside_0_-1_l_f,0.0
+Newark,Pennsylvania,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_outside_-1_0_l_f,0.000652473461453
+Newark,Pennsylvania,T,F_avsResult_1_1_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_0_1_l_f,0.098412611809
+Newark,Pennsylvania,T,F_leftOfFigureCentroid_l_f,0.0
+Newark,Pennsylvania,T,F_closeDistNormUnion_l_f,0.0442221944303
+Newark,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Newark,Pennsylvania,T,F_closeDistNormFigure_l_f,0.0442484206079
+Newark,Pennsylvania,T,F_rightOfFigureCentroid_f_l,0.0
+Newark,Pennsylvania,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_outside_1_1_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_-1_1_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_outside_0_1_f_l,0.26933661236
+Newark,Pennsylvania,T,F_math2dFigureIntersectionArea_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_inside_0_1_l_f,0.0
+Newark,Pennsylvania,T,F_closeDistNormUnion_f_l,0.0442221944303
+Newark,Pennsylvania,T,F_avsResult_outside_0_1_l_f,0.098412611809
+Newark,Pennsylvania,T,F_avsResult_-1_1_f_l,0.0
+Newark,Pennsylvania,T,F_3dSupportsFigureLandmark_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_outside_1_1_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_outside_-1_-1_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_0_-1_f_l,0.26933661236
+Newark,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Newark,Pennsylvania,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Newark,Pennsylvania,T,F_math2dFigureIntersectionArea_f_l,0.0
+Newark,Pennsylvania,T,F_distBtwnCentroids_f_l,0.213398425477
+Newark,Pennsylvania,T,bias,1.0
+Newark,Pennsylvania,T,F_avsResult_-1_-1_f_l,0.0
+Newark,Pennsylvania,T,F_distHorizontalCentroid_f_l,-0.213038986539
+Newark,Pennsylvania,T,F_avsResult_inside_1_1_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_inside_1_-1_f_l,0.0
+Newark,Pennsylvania,T,F_belowFigureCentroid_l_f,1.0
+Newark,Pennsylvania,T,F_avsResult_inside_1_0_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_outside_0_-1_f_l,0.26933661236
+Newark,Pennsylvania,T,F_aboveFigureCentroid_f_l,1.0
+Newark,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_outside_-1_1_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_outside_1_0_l_f,0.520546594087
+Newark,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Newark,Pennsylvania,T,F_avsResult_1_1_l_f,0.0
+Newark,Pennsylvania,T,F_avsResult_inside_-1_1_l_f,0.0
+Newark,Pennsylvania,T,F_belowFigureCentroid_f_l,0.0
+Newark,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Newark,Pennsylvania,T,F_closeDistNormFigure_f_l,1.0
+Newark,Pennsylvania,T,F_avsResult_inside_-1_0_f_l,0.0
+Newark,Pennsylvania,T,F_aboveFigureCentroid_l_f,0.0
+Newark,Pennsylvania,T,F_leftOfFigureCentroid_f_l,1.0
+Newark,New Jersey,T,F_math2dLandmarkIntersectionArea_f_l,0.00327692241562
+Newark,New Jersey,T,F_avsResult_inside_-1_-1_f_l,0.0
+Newark,New Jersey,T,F_distHorizontalCentroid_l_f,0.118776457817
+Newark,New Jersey,T,F_avsResult_outside_-1_0_f_l,0.39933472011
+Newark,New Jersey,T,F_avsResult_inside_1_-1_l_f,0.0
+Newark,New Jersey,T,F_avsResult_inside_0_1_f_l,0.0
+Newark,New Jersey,T,F_distVerticalCentroid_l_f,0.136683950856
+Newark,New Jersey,T,F_closeDistNormLandmark_l_f,0.0
+Newark,New Jersey,T,F_avsResult_outside_1_-1_f_l,0.0
+Newark,New Jersey,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Newark,New Jersey,T,F_math2dIntersectionArea_l_f,0.00327692241562
+Newark,New Jersey,T,F_avsResult_-1_0_f_l,0.39933472011
+Newark,New Jersey,T,F_avsResult_inside_-1_-1_l_f,0.335941439136
+Newark,New Jersey,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Newark,New Jersey,T,F_avsResult_inside_0_-1_f_l,0.0
+Newark,New Jersey,T,F_math2dIntersectionArea_f_l,0.00327692241562
+Newark,New Jersey,T,F_avsResult_-1_-1_l_f,0.335941439136
+Newark,New Jersey,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Newark,New Jersey,T,F_avsResult_inside_-1_0_l_f,0.0376809249072
+Newark,New Jersey,T,F_avsResult_0_-1_l_f,0.236122197054
+Newark,New Jersey,T,F_avsResult_outside_1_0_f_l,0.118985307531
+Newark,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Newark,New Jersey,T,F_avsResult_inside_1_0_l_f,0.275945318682
+Newark,New Jersey,T,F_avsResult_outside_1_-1_l_f,0.0
+Newark,New Jersey,T,F_avsResult_inside_-1_1_f_l,0.0
+Newark,New Jersey,T,F_avsResult_-1_0_l_f,0.0376809249072
+Newark,New Jersey,T,F_avsResult_1_-1_f_l,0.0
+Newark,New Jersey,T,F_distVerticalCentroid_f_l,-0.136683950856
+Newark,New Jersey,T,F_3dSupportsFigureLandmark_f_l,0.0
+Newark,New Jersey,T,F_avsResult_0_1_f_l,0.0913706835194
+Newark,New Jersey,T,F_avsResult_outside_-1_1_l_f,0.0
+Newark,New Jersey,T,F_rightOfFigureCentroid_l_f,1.0
+Newark,New Jersey,T,F_avsResult_1_0_f_l,0.118985307531
+Newark,New Jersey,T,F_avsResult_outside_-1_-1_f_l,0.212465434438
+Newark,New Jersey,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Newark,New Jersey,T,F_avsResult_inside_1_1_l_f,0.0
+Newark,New Jersey,T,F_distBtwnCentroids_l_f,0.181081057411
+Newark,New Jersey,T,F_avsResult_outside_0_-1_l_f,0.0
+Newark,New Jersey,T,F_avsResult_1_0_l_f,0.275945318682
+Newark,New Jersey,T,F_avsResult_1_-1_l_f,0.0
+Newark,New Jersey,T,F_closeDistNormLandmark_f_l,0.0
+Newark,New Jersey,T,F_avsResult_inside_0_-1_l_f,0.236122197054
+Newark,New Jersey,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Newark,New Jersey,T,F_avsResult_outside_-1_0_l_f,0.0
+Newark,New Jersey,T,F_avsResult_1_1_f_l,0.0
+Newark,New Jersey,T,F_avsResult_0_1_l_f,0.236122197054
+Newark,New Jersey,T,F_leftOfFigureCentroid_l_f,0.0
+Newark,New Jersey,T,F_closeDistNormUnion_l_f,0.0
+Newark,New Jersey,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Newark,New Jersey,T,F_closeDistNormFigure_l_f,0.0
+Newark,New Jersey,T,F_rightOfFigureCentroid_f_l,0.0
+Newark,New Jersey,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Newark,New Jersey,T,F_avsResult_outside_1_1_f_l,0.0
+Newark,New Jersey,T,F_avsResult_-1_1_l_f,0.335941439136
+Newark,New Jersey,T,F_avsResult_outside_0_1_f_l,0.0913706835194
+Newark,New Jersey,T,F_math2dFigureIntersectionArea_l_f,0.00327692241562
+Newark,New Jersey,T,F_avsResult_inside_0_1_l_f,0.236122197054
+Newark,New Jersey,T,F_closeDistNormUnion_f_l,0.0
+Newark,New Jersey,T,F_avsResult_outside_0_1_l_f,0.0
+Newark,New Jersey,T,F_avsResult_-1_1_f_l,0.212465434438
+Newark,New Jersey,T,F_3dSupportsFigureLandmark_l_f,0.0
+Newark,New Jersey,T,F_avsResult_outside_1_1_l_f,0.0
+Newark,New Jersey,T,F_avsResult_outside_-1_-1_l_f,0.0
+Newark,New Jersey,T,F_avsResult_0_-1_f_l,0.0913706835194
+Newark,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Newark,New Jersey,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Newark,New Jersey,T,F_math2dFigureIntersectionArea_f_l,1.0
+Newark,New Jersey,T,F_distBtwnCentroids_f_l,0.181081057411
+Newark,New Jersey,T,bias,1.0
+Newark,New Jersey,T,F_avsResult_-1_-1_f_l,0.212465434438
+Newark,New Jersey,T,F_distHorizontalCentroid_f_l,-0.118776457817
+Newark,New Jersey,T,F_avsResult_inside_1_1_f_l,0.0
+Newark,New Jersey,T,F_avsResult_inside_1_-1_f_l,0.0
+Newark,New Jersey,T,F_belowFigureCentroid_l_f,0.0
+Newark,New Jersey,T,F_avsResult_inside_1_0_f_l,0.0
+Newark,New Jersey,T,F_avsResult_outside_0_-1_f_l,0.0913706835194
+Newark,New Jersey,T,F_aboveFigureCentroid_f_l,0.0
+Newark,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Newark,New Jersey,T,F_avsResult_outside_-1_1_f_l,0.212465434438
+Newark,New Jersey,T,F_avsResult_outside_1_0_l_f,0.0
+Newark,New Jersey,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Newark,New Jersey,T,F_avsResult_1_1_l_f,0.0
+Newark,New Jersey,T,F_avsResult_inside_-1_1_l_f,0.335941439136
+Newark,New Jersey,T,F_belowFigureCentroid_f_l,1.0
+Newark,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Newark,New Jersey,T,F_closeDistNormFigure_f_l,0.0
+Newark,New Jersey,T,F_avsResult_inside_-1_0_f_l,0.0
+Newark,New Jersey,T,F_aboveFigureCentroid_l_f,1.0
+Newark,New Jersey,T,F_leftOfFigureCentroid_f_l,1.0
+Newark,Pittsburgh,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_inside_-1_-1_f_l,0.0
+Newark,Pittsburgh,T,F_distHorizontalCentroid_l_f,2.27477919733
+Newark,Pittsburgh,T,F_avsResult_outside_-1_0_f_l,0.824495130814
+Newark,Pittsburgh,T,F_avsResult_inside_1_-1_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_inside_0_1_f_l,0.0
+Newark,Pittsburgh,T,F_distVerticalCentroid_l_f,0.111751596869
+Newark,Pittsburgh,T,F_closeDistNormLandmark_l_f,1.0
+Newark,Pittsburgh,T,F_avsResult_outside_1_-1_f_l,0.0
+Newark,Pittsburgh,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Newark,Pittsburgh,T,F_math2dIntersectionArea_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_-1_0_f_l,0.824495130814
+Newark,Pittsburgh,T,F_avsResult_inside_-1_-1_l_f,0.0
+Newark,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_inside_0_-1_f_l,0.0
+Newark,Pittsburgh,T,F_math2dIntersectionArea_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_-1_-1_l_f,0.0
+Newark,Pittsburgh,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_inside_-1_0_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_0_-1_l_f,0.27415304161
+Newark,Pittsburgh,T,F_avsResult_outside_1_0_f_l,0.00256980548719
+Newark,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_inside_1_0_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_outside_1_-1_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_inside_-1_1_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_-1_0_l_f,0.00252822135957
+Newark,Pittsburgh,T,F_avsResult_1_-1_f_l,0.0
+Newark,Pittsburgh,T,F_distVerticalCentroid_f_l,-0.111751596869
+Newark,Pittsburgh,T,F_3dSupportsFigureLandmark_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_0_1_f_l,0.218265580861
+Newark,Pittsburgh,T,F_avsResult_outside_-1_1_l_f,0.0
+Newark,Pittsburgh,T,F_rightOfFigureCentroid_l_f,1.0
+Newark,Pittsburgh,T,F_avsResult_1_0_f_l,0.00256980548719
+Newark,Pittsburgh,T,F_avsResult_outside_-1_-1_f_l,0.0
+Newark,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_inside_1_1_l_f,0.0
+Newark,Pittsburgh,T,F_distBtwnCentroids_l_f,2.27752251713
+Newark,Pittsburgh,T,F_avsResult_outside_0_-1_l_f,0.27415304161
+Newark,Pittsburgh,T,F_avsResult_1_0_l_f,0.82415170005
+Newark,Pittsburgh,T,F_avsResult_1_-1_l_f,0.0
+Newark,Pittsburgh,T,F_closeDistNormLandmark_f_l,1.0
+Newark,Pittsburgh,T,F_avsResult_inside_0_-1_l_f,0.0
+Newark,Pittsburgh,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_outside_-1_0_l_f,0.00252822135957
+Newark,Pittsburgh,T,F_avsResult_1_1_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_0_1_l_f,0.27415304161
+Newark,Pittsburgh,T,F_leftOfFigureCentroid_l_f,0.0
+Newark,Pittsburgh,T,F_closeDistNormUnion_l_f,1.0
+Newark,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Newark,Pittsburgh,T,F_closeDistNormFigure_l_f,1.0
+Newark,Pittsburgh,T,F_rightOfFigureCentroid_f_l,0.0
+Newark,Pittsburgh,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_outside_1_1_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_-1_1_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_outside_0_1_f_l,0.218265580861
+Newark,Pittsburgh,T,F_math2dFigureIntersectionArea_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_inside_0_1_l_f,0.0
+Newark,Pittsburgh,T,F_closeDistNormUnion_f_l,1.0
+Newark,Pittsburgh,T,F_avsResult_outside_0_1_l_f,0.27415304161
+Newark,Pittsburgh,T,F_avsResult_-1_1_f_l,0.0
+Newark,Pittsburgh,T,F_3dSupportsFigureLandmark_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_outside_1_1_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_outside_-1_-1_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_0_-1_f_l,0.218265580861
+Newark,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Newark,Pittsburgh,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Newark,Pittsburgh,T,F_math2dFigureIntersectionArea_f_l,0.0
+Newark,Pittsburgh,T,F_distBtwnCentroids_f_l,2.27752251713
+Newark,Pittsburgh,T,bias,1.0
+Newark,Pittsburgh,T,F_avsResult_-1_-1_f_l,0.0
+Newark,Pittsburgh,T,F_distHorizontalCentroid_f_l,-2.27477919733
+Newark,Pittsburgh,T,F_avsResult_inside_1_1_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_inside_1_-1_f_l,0.0
+Newark,Pittsburgh,T,F_belowFigureCentroid_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_inside_1_0_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_outside_0_-1_f_l,0.218265580861
+Newark,Pittsburgh,T,F_aboveFigureCentroid_f_l,0.0
+Newark,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_outside_-1_1_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_outside_1_0_l_f,0.82415170005
+Newark,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Newark,Pittsburgh,T,F_avsResult_1_1_l_f,0.0
+Newark,Pittsburgh,T,F_avsResult_inside_-1_1_l_f,0.0
+Newark,Pittsburgh,T,F_belowFigureCentroid_f_l,1.0
+Newark,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Newark,Pittsburgh,T,F_closeDistNormFigure_f_l,1.0
+Newark,Pittsburgh,T,F_avsResult_inside_-1_0_f_l,0.0
+Newark,Pittsburgh,T,F_aboveFigureCentroid_l_f,1.0
+Newark,Pittsburgh,T,F_leftOfFigureCentroid_f_l,1.0
+Newark,Harrisburg,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_inside_-1_-1_f_l,0.0
+Newark,Harrisburg,T,F_distHorizontalCentroid_l_f,1.75075156269
+Newark,Harrisburg,T,F_avsResult_outside_-1_0_f_l,0.718622613888
+Newark,Harrisburg,T,F_avsResult_inside_1_-1_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_inside_0_1_f_l,0.0
+Newark,Harrisburg,T,F_distVerticalCentroid_l_f,0.290025815902
+Newark,Harrisburg,T,F_closeDistNormLandmark_l_f,1.0
+Newark,Harrisburg,T,F_avsResult_outside_1_-1_f_l,0.0
+Newark,Harrisburg,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Newark,Harrisburg,T,F_math2dIntersectionArea_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_-1_0_f_l,0.718622613888
+Newark,Harrisburg,T,F_avsResult_inside_-1_-1_l_f,0.0
+Newark,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_inside_0_-1_f_l,0.0
+Newark,Harrisburg,T,F_math2dIntersectionArea_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_-1_-1_l_f,0.0
+Newark,Harrisburg,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_inside_-1_0_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_0_-1_l_f,0.306551067147
+Newark,Harrisburg,T,F_avsResult_outside_1_0_f_l,0.0125251878603
+Newark,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_inside_1_0_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_outside_1_-1_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_inside_-1_1_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_-1_0_l_f,0.012193393231
+Newark,Harrisburg,T,F_avsResult_1_-1_f_l,0.0
+Newark,Harrisburg,T,F_distVerticalCentroid_f_l,-0.290025815902
+Newark,Harrisburg,T,F_3dSupportsFigureLandmark_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_0_1_f_l,0.191477914617
+Newark,Harrisburg,T,F_avsResult_outside_-1_1_l_f,0.0
+Newark,Harrisburg,T,F_rightOfFigureCentroid_l_f,1.0
+Newark,Harrisburg,T,F_avsResult_1_0_f_l,0.0125251878603
+Newark,Harrisburg,T,F_avsResult_outside_-1_-1_f_l,0.0
+Newark,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_inside_1_1_l_f,0.0
+Newark,Harrisburg,T,F_distBtwnCentroids_l_f,1.77461150908
+Newark,Harrisburg,T,F_avsResult_outside_0_-1_l_f,0.306551067147
+Newark,Harrisburg,T,F_avsResult_1_0_l_f,0.721282310951
+Newark,Harrisburg,T,F_avsResult_1_-1_l_f,0.0
+Newark,Harrisburg,T,F_closeDistNormLandmark_f_l,1.0
+Newark,Harrisburg,T,F_avsResult_inside_0_-1_l_f,0.0
+Newark,Harrisburg,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_outside_-1_0_l_f,0.012193393231
+Newark,Harrisburg,T,F_avsResult_1_1_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_0_1_l_f,0.306551067147
+Newark,Harrisburg,T,F_leftOfFigureCentroid_l_f,0.0
+Newark,Harrisburg,T,F_closeDistNormUnion_l_f,1.0
+Newark,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Newark,Harrisburg,T,F_closeDistNormFigure_l_f,1.0
+Newark,Harrisburg,T,F_rightOfFigureCentroid_f_l,0.0
+Newark,Harrisburg,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_outside_1_1_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_-1_1_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_outside_0_1_f_l,0.191477914617
+Newark,Harrisburg,T,F_math2dFigureIntersectionArea_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_inside_0_1_l_f,0.0
+Newark,Harrisburg,T,F_closeDistNormUnion_f_l,1.0
+Newark,Harrisburg,T,F_avsResult_outside_0_1_l_f,0.306551067147
+Newark,Harrisburg,T,F_avsResult_-1_1_f_l,0.0
+Newark,Harrisburg,T,F_3dSupportsFigureLandmark_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_outside_1_1_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_outside_-1_-1_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_0_-1_f_l,0.191477914617
+Newark,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Newark,Harrisburg,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Newark,Harrisburg,T,F_math2dFigureIntersectionArea_f_l,0.0
+Newark,Harrisburg,T,F_distBtwnCentroids_f_l,1.77461150908
+Newark,Harrisburg,T,bias,1.0
+Newark,Harrisburg,T,F_avsResult_-1_-1_f_l,0.0
+Newark,Harrisburg,T,F_distHorizontalCentroid_f_l,-1.75075156269
+Newark,Harrisburg,T,F_avsResult_inside_1_1_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_inside_1_-1_f_l,0.0
+Newark,Harrisburg,T,F_belowFigureCentroid_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_inside_1_0_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_outside_0_-1_f_l,0.191477914617
+Newark,Harrisburg,T,F_aboveFigureCentroid_f_l,0.0
+Newark,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_outside_-1_1_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_outside_1_0_l_f,0.721282310951
+Newark,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Newark,Harrisburg,T,F_avsResult_1_1_l_f,0.0
+Newark,Harrisburg,T,F_avsResult_inside_-1_1_l_f,0.0
+Newark,Harrisburg,T,F_belowFigureCentroid_f_l,1.0
+Newark,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Newark,Harrisburg,T,F_closeDistNormFigure_f_l,1.0
+Newark,Harrisburg,T,F_avsResult_inside_-1_0_f_l,0.0
+Newark,Harrisburg,T,F_aboveFigureCentroid_l_f,1.0
+Newark,Harrisburg,T,F_leftOfFigureCentroid_f_l,1.0
+Newark,Newark,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Newark,Newark,T,F_avsResult_inside_-1_-1_f_l,0.0
+Newark,Newark,T,F_distHorizontalCentroid_l_f,0.0
+Newark,Newark,T,F_avsResult_outside_-1_0_f_l,0.0
+Newark,Newark,T,F_avsResult_inside_1_-1_l_f,0.0
+Newark,Newark,T,F_avsResult_inside_0_1_f_l,0.334977605739
+Newark,Newark,T,F_distVerticalCentroid_l_f,0.0
+Newark,Newark,T,F_closeDistNormLandmark_l_f,0.0
+Newark,Newark,T,F_avsResult_outside_1_-1_f_l,0.0
+Newark,Newark,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Newark,Newark,T,F_math2dIntersectionArea_l_f,1.0
+Newark,Newark,T,F_avsResult_-1_0_f_l,0.424088923289
+Newark,Newark,T,F_avsResult_inside_-1_-1_l_f,0.0
+Newark,Newark,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Newark,Newark,T,F_avsResult_inside_0_-1_f_l,0.334977605739
+Newark,Newark,T,F_math2dIntersectionArea_f_l,1.0
+Newark,Newark,T,F_avsResult_-1_-1_l_f,0.0
+Newark,Newark,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Newark,Newark,T,F_avsResult_inside_-1_0_l_f,0.424088923289
+Newark,Newark,T,F_avsResult_0_-1_l_f,0.334977605739
+Newark,Newark,T,F_avsResult_outside_1_0_f_l,0.0
+Newark,Newark,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Newark,Newark,T,F_avsResult_inside_1_0_l_f,0.1716551868
+Newark,Newark,T,F_avsResult_outside_1_-1_l_f,0.0
+Newark,Newark,T,F_avsResult_inside_-1_1_f_l,0.0
+Newark,Newark,T,F_avsResult_-1_0_l_f,0.424088923289
+Newark,Newark,T,F_avsResult_1_-1_f_l,0.0
+Newark,Newark,T,F_distVerticalCentroid_f_l,0.0
+Newark,Newark,T,F_3dSupportsFigureLandmark_f_l,0.0
+Newark,Newark,T,F_avsResult_0_1_f_l,0.334977605739
+Newark,Newark,T,F_avsResult_outside_-1_1_l_f,0.0
+Newark,Newark,T,F_rightOfFigureCentroid_l_f,0.0
+Newark,Newark,T,F_avsResult_1_0_f_l,0.1716551868
+Newark,Newark,T,F_avsResult_outside_-1_-1_f_l,0.0
+Newark,Newark,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Newark,Newark,T,F_avsResult_inside_1_1_l_f,0.0
+Newark,Newark,T,F_distBtwnCentroids_l_f,0.0
+Newark,Newark,T,F_avsResult_outside_0_-1_l_f,0.0
+Newark,Newark,T,F_avsResult_1_0_l_f,0.1716551868
+Newark,Newark,T,F_avsResult_1_-1_l_f,0.0
+Newark,Newark,T,F_closeDistNormLandmark_f_l,0.0
+Newark,Newark,T,F_avsResult_inside_0_-1_l_f,0.334977605739
+Newark,Newark,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Newark,Newark,T,F_avsResult_outside_-1_0_l_f,0.0
+Newark,Newark,T,F_avsResult_1_1_f_l,0.0
+Newark,Newark,T,F_avsResult_0_1_l_f,0.334977605739
+Newark,Newark,T,F_leftOfFigureCentroid_l_f,0.0
+Newark,Newark,T,F_closeDistNormUnion_l_f,0.0
+Newark,Newark,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Newark,Newark,T,F_closeDistNormFigure_l_f,0.0
+Newark,Newark,T,F_rightOfFigureCentroid_f_l,0.0
+Newark,Newark,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Newark,Newark,T,F_avsResult_outside_1_1_f_l,0.0
+Newark,Newark,T,F_avsResult_-1_1_l_f,0.0
+Newark,Newark,T,F_avsResult_outside_0_1_f_l,0.0
+Newark,Newark,T,F_math2dFigureIntersectionArea_l_f,1.0
+Newark,Newark,T,F_avsResult_inside_0_1_l_f,0.334977605739
+Newark,Newark,T,F_closeDistNormUnion_f_l,0.0
+Newark,Newark,T,F_avsResult_outside_0_1_l_f,0.0
+Newark,Newark,T,F_avsResult_-1_1_f_l,0.0
+Newark,Newark,T,F_3dSupportsFigureLandmark_l_f,0.0
+Newark,Newark,T,F_avsResult_outside_1_1_l_f,0.0
+Newark,Newark,T,F_avsResult_outside_-1_-1_l_f,0.0
+Newark,Newark,T,F_avsResult_0_-1_f_l,0.334977605739
+Newark,Newark,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Newark,Newark,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Newark,Newark,T,F_math2dFigureIntersectionArea_f_l,1.0
+Newark,Newark,T,F_distBtwnCentroids_f_l,0.0
+Newark,Newark,T,bias,1.0
+Newark,Newark,T,F_avsResult_-1_-1_f_l,0.0
+Newark,Newark,T,F_distHorizontalCentroid_f_l,0.0
+Newark,Newark,T,F_avsResult_inside_1_1_f_l,0.0
+Newark,Newark,T,F_avsResult_inside_1_-1_f_l,0.0
+Newark,Newark,T,F_belowFigureCentroid_l_f,0.0
+Newark,Newark,T,F_avsResult_inside_1_0_f_l,0.1716551868
+Newark,Newark,T,F_avsResult_outside_0_-1_f_l,0.0
+Newark,Newark,T,F_aboveFigureCentroid_f_l,0.0
+Newark,Newark,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Newark,Newark,T,F_avsResult_outside_-1_1_f_l,0.0
+Newark,Newark,T,F_avsResult_outside_1_0_l_f,0.0
+Newark,Newark,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Newark,Newark,T,F_avsResult_1_1_l_f,0.0
+Newark,Newark,T,F_avsResult_inside_-1_1_l_f,0.0
+Newark,Newark,T,F_belowFigureCentroid_f_l,0.0
+Newark,Newark,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Newark,Newark,T,F_closeDistNormFigure_f_l,0.0
+Newark,Newark,T,F_avsResult_inside_-1_0_f_l,0.424088923289
+Newark,Newark,T,F_aboveFigureCentroid_l_f,0.0
+Newark,Newark,T,F_leftOfFigureCentroid_f_l,0.0
+Newark,Trenton,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Newark,Trenton,T,F_avsResult_inside_-1_-1_f_l,0.0
+Newark,Trenton,T,F_distHorizontalCentroid_l_f,1.38587663934
+Newark,Trenton,T,F_avsResult_outside_-1_0_f_l,0.439508052021
+Newark,Trenton,T,F_avsResult_inside_1_-1_l_f,0.0
+Newark,Trenton,T,F_avsResult_inside_0_1_f_l,0.0
+Newark,Trenton,T,F_distVerticalCentroid_l_f,1.17233213976
+Newark,Trenton,T,F_closeDistNormLandmark_l_f,1.0
+Newark,Trenton,T,F_avsResult_outside_1_-1_f_l,0.0
+Newark,Trenton,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Newark,Trenton,T,F_math2dIntersectionArea_l_f,0.0
+Newark,Trenton,T,F_avsResult_-1_0_f_l,0.439508052021
+Newark,Trenton,T,F_avsResult_inside_-1_-1_l_f,0.0
+Newark,Trenton,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Newark,Trenton,T,F_avsResult_inside_0_-1_f_l,0.0
+Newark,Trenton,T,F_math2dIntersectionArea_f_l,0.0
+Newark,Trenton,T,F_avsResult_-1_-1_l_f,0.214271045928
+Newark,Trenton,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Newark,Trenton,T,F_avsResult_inside_-1_0_l_f,0.0
+Newark,Trenton,T,F_avsResult_0_-1_l_f,0.408632462945
+Newark,Trenton,T,F_avsResult_outside_1_0_f_l,0.0941667998201
+Newark,Trenton,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Newark,Trenton,T,F_avsResult_inside_1_0_l_f,0.0
+Newark,Trenton,T,F_avsResult_outside_1_-1_l_f,0.0
+Newark,Trenton,T,F_avsResult_inside_-1_1_f_l,0.0
+Newark,Trenton,T,F_avsResult_-1_0_l_f,0.0910509144425
+Newark,Trenton,T,F_avsResult_1_-1_f_l,0.0
+Newark,Trenton,T,F_distVerticalCentroid_f_l,-1.17233213976
+Newark,Trenton,T,F_3dSupportsFigureLandmark_f_l,0.0
+Newark,Trenton,T,F_avsResult_0_1_f_l,0.113549444918
+Newark,Trenton,T,F_avsResult_outside_-1_1_l_f,0.214271045928
+Newark,Trenton,T,F_rightOfFigureCentroid_l_f,1.0
+Newark,Trenton,T,F_avsResult_1_0_f_l,0.0941667998201
+Newark,Trenton,T,F_avsResult_outside_-1_-1_f_l,0.269553048958
+Newark,Trenton,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Newark,Trenton,T,F_avsResult_inside_1_1_l_f,0.0
+Newark,Trenton,T,F_distBtwnCentroids_l_f,1.81521808755
+Newark,Trenton,T,F_avsResult_outside_0_-1_l_f,0.408632462945
+Newark,Trenton,T,F_avsResult_1_0_l_f,0.44916020976
+Newark,Trenton,T,F_avsResult_1_-1_l_f,0.0
+Newark,Trenton,T,F_closeDistNormLandmark_f_l,1.0
+Newark,Trenton,T,F_avsResult_inside_0_-1_l_f,0.0
+Newark,Trenton,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Newark,Trenton,T,F_avsResult_outside_-1_0_l_f,0.0910509144425
+Newark,Trenton,T,F_avsResult_1_1_f_l,0.0
+Newark,Trenton,T,F_avsResult_0_1_l_f,0.408632462945
+Newark,Trenton,T,F_leftOfFigureCentroid_l_f,0.0
+Newark,Trenton,T,F_closeDistNormUnion_l_f,1.0
+Newark,Trenton,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Newark,Trenton,T,F_closeDistNormFigure_l_f,1.0
+Newark,Trenton,T,F_rightOfFigureCentroid_f_l,0.0
+Newark,Trenton,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Newark,Trenton,T,F_avsResult_outside_1_1_f_l,0.0
+Newark,Trenton,T,F_avsResult_-1_1_l_f,0.214271045928
+Newark,Trenton,T,F_avsResult_outside_0_1_f_l,0.113549444918
+Newark,Trenton,T,F_math2dFigureIntersectionArea_l_f,0.0
+Newark,Trenton,T,F_avsResult_inside_0_1_l_f,0.0
+Newark,Trenton,T,F_closeDistNormUnion_f_l,1.0
+Newark,Trenton,T,F_avsResult_outside_0_1_l_f,0.408632462945
+Newark,Trenton,T,F_avsResult_-1_1_f_l,0.269553048958
+Newark,Trenton,T,F_3dSupportsFigureLandmark_l_f,0.0
+Newark,Trenton,T,F_avsResult_outside_1_1_l_f,0.0
+Newark,Trenton,T,F_avsResult_outside_-1_-1_l_f,0.214271045928
+Newark,Trenton,T,F_avsResult_0_-1_f_l,0.113549444918
+Newark,Trenton,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Newark,Trenton,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Newark,Trenton,T,F_math2dFigureIntersectionArea_f_l,0.0
+Newark,Trenton,T,F_distBtwnCentroids_f_l,1.81521808755
+Newark,Trenton,T,bias,1.0
+Newark,Trenton,T,F_avsResult_-1_-1_f_l,0.269553048958
+Newark,Trenton,T,F_distHorizontalCentroid_f_l,-1.38587663934
+Newark,Trenton,T,F_avsResult_inside_1_1_f_l,0.0
+Newark,Trenton,T,F_avsResult_inside_1_-1_f_l,0.0
+Newark,Trenton,T,F_belowFigureCentroid_l_f,0.0
+Newark,Trenton,T,F_avsResult_inside_1_0_f_l,0.0
+Newark,Trenton,T,F_avsResult_outside_0_-1_f_l,0.113549444918
+Newark,Trenton,T,F_aboveFigureCentroid_f_l,0.0
+Newark,Trenton,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Newark,Trenton,T,F_avsResult_outside_-1_1_f_l,0.269553048958
+Newark,Trenton,T,F_avsResult_outside_1_0_l_f,0.44916020976
+Newark,Trenton,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Newark,Trenton,T,F_avsResult_1_1_l_f,0.0
+Newark,Trenton,T,F_avsResult_inside_-1_1_l_f,0.0
+Newark,Trenton,T,F_belowFigureCentroid_f_l,1.0
+Newark,Trenton,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Newark,Trenton,T,F_closeDistNormFigure_f_l,1.0
+Newark,Trenton,T,F_avsResult_inside_-1_0_f_l,0.0
+Newark,Trenton,T,F_aboveFigureCentroid_l_f,1.0
+Newark,Trenton,T,F_leftOfFigureCentroid_f_l,1.0
+Trenton,Pennsylvania,T,F_math2dLandmarkIntersectionArea_f_l,1.1973917304e-06
+Trenton,Pennsylvania,T,F_avsResult_inside_-1_-1_f_l,0.0
+Trenton,Pennsylvania,T,F_distHorizontalCentroid_l_f,0.195129044497
+Trenton,Pennsylvania,T,F_avsResult_outside_-1_0_f_l,0.713583185631
+Trenton,Pennsylvania,T,F_avsResult_inside_1_-1_l_f,0.0
+Trenton,Pennsylvania,T,F_avsResult_inside_0_1_f_l,0.0
+Trenton,Pennsylvania,T,F_distVerticalCentroid_l_f,-0.0465687711602
+Trenton,Pennsylvania,T,F_closeDistNormLandmark_l_f,0.0
+Trenton,Pennsylvania,T,F_avsResult_outside_1_-1_f_l,0.0
+Trenton,Pennsylvania,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Trenton,Pennsylvania,T,F_math2dIntersectionArea_l_f,1.19717337372e-06
+Trenton,Pennsylvania,T,F_avsResult_-1_0_f_l,0.713583185631
+Trenton,Pennsylvania,T,F_avsResult_inside_-1_-1_l_f,0.0
+Trenton,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Trenton,Pennsylvania,T,F_avsResult_inside_0_-1_f_l,0.0
+Trenton,Pennsylvania,T,F_math2dIntersectionArea_f_l,1.19717337372e-06
+Trenton,Pennsylvania,T,F_avsResult_-1_-1_l_f,0.0
+Trenton,Pennsylvania,T,F_math2dLandmarkIntersectionArea_l_f,0.00652206391349
+Trenton,Pennsylvania,T,F_avsResult_inside_-1_0_l_f,0.0
+Trenton,Pennsylvania,T,F_avsResult_0_-1_l_f,0.0406879038981
+Trenton,Pennsylvania,T,F_avsResult_outside_1_0_f_l,0.016813169866
+Trenton,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Trenton,Pennsylvania,T,F_avsResult_inside_1_0_l_f,0.0
+Trenton,Pennsylvania,T,F_avsResult_outside_1_-1_l_f,0.244174039943
+Trenton,Pennsylvania,T,F_avsResult_inside_-1_1_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_-1_0_l_f,0.0121009873982
+Trenton,Pennsylvania,T,F_avsResult_1_-1_f_l,0.0
+Trenton,Pennsylvania,T,F_distVerticalCentroid_f_l,0.0465687711602
+Trenton,Pennsylvania,T,F_3dSupportsFigureLandmark_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_0_1_f_l,0.341000508362
+Trenton,Pennsylvania,T,F_avsResult_outside_-1_1_l_f,0.0
+Trenton,Pennsylvania,T,F_rightOfFigureCentroid_l_f,1.0
+Trenton,Pennsylvania,T,F_avsResult_1_0_f_l,0.016813169866
+Trenton,Pennsylvania,T,F_avsResult_outside_-1_-1_f_l,0.0
+Trenton,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_inside_1_1_l_f,0.0
+Trenton,Pennsylvania,T,F_distBtwnCentroids_l_f,0.200609058753
+Trenton,Pennsylvania,T,F_avsResult_outside_0_-1_l_f,0.0406879038981
+Trenton,Pennsylvania,T,F_avsResult_1_0_l_f,0.401233101766
+Trenton,Pennsylvania,T,F_avsResult_1_-1_l_f,0.244174039943
+Trenton,Pennsylvania,T,F_closeDistNormLandmark_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_inside_0_-1_l_f,0.0
+Trenton,Pennsylvania,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Trenton,Pennsylvania,T,F_avsResult_outside_-1_0_l_f,0.0121009873982
+Trenton,Pennsylvania,T,F_avsResult_1_1_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_0_1_l_f,0.0406879038981
+Trenton,Pennsylvania,T,F_leftOfFigureCentroid_l_f,0.0
+Trenton,Pennsylvania,T,F_closeDistNormUnion_l_f,0.0
+Trenton,Pennsylvania,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Trenton,Pennsylvania,T,F_closeDistNormFigure_l_f,0.0
+Trenton,Pennsylvania,T,F_rightOfFigureCentroid_f_l,0.0
+Trenton,Pennsylvania,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_outside_1_1_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_-1_1_l_f,0.0
+Trenton,Pennsylvania,T,F_avsResult_outside_0_1_f_l,0.341000508362
+Trenton,Pennsylvania,T,F_math2dFigureIntersectionArea_l_f,1.1973917304e-06
+Trenton,Pennsylvania,T,F_avsResult_inside_0_1_l_f,0.0
+Trenton,Pennsylvania,T,F_closeDistNormUnion_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_outside_0_1_l_f,0.0406879038981
+Trenton,Pennsylvania,T,F_avsResult_-1_1_f_l,0.0
+Trenton,Pennsylvania,T,F_3dSupportsFigureLandmark_l_f,0.0
+Trenton,Pennsylvania,T,F_avsResult_outside_1_1_l_f,0.244174039943
+Trenton,Pennsylvania,T,F_avsResult_outside_-1_-1_l_f,0.0
+Trenton,Pennsylvania,T,F_avsResult_0_-1_f_l,0.341000508362
+Trenton,Pennsylvania,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Trenton,Pennsylvania,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Trenton,Pennsylvania,T,F_math2dFigureIntersectionArea_f_l,0.00652206391349
+Trenton,Pennsylvania,T,F_distBtwnCentroids_f_l,0.200609058753
+Trenton,Pennsylvania,T,bias,1.0
+Trenton,Pennsylvania,T,F_avsResult_-1_-1_f_l,0.0
+Trenton,Pennsylvania,T,F_distHorizontalCentroid_f_l,-0.195129044497
+Trenton,Pennsylvania,T,F_avsResult_inside_1_1_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_inside_1_-1_f_l,0.0
+Trenton,Pennsylvania,T,F_belowFigureCentroid_l_f,1.0
+Trenton,Pennsylvania,T,F_avsResult_inside_1_0_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_outside_0_-1_f_l,0.341000508362
+Trenton,Pennsylvania,T,F_aboveFigureCentroid_f_l,1.0
+Trenton,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Trenton,Pennsylvania,T,F_avsResult_outside_-1_1_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_outside_1_0_l_f,0.401233101766
+Trenton,Pennsylvania,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_1_1_l_f,0.244174039943
+Trenton,Pennsylvania,T,F_avsResult_inside_-1_1_l_f,0.0
+Trenton,Pennsylvania,T,F_belowFigureCentroid_f_l,0.0
+Trenton,Pennsylvania,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Trenton,Pennsylvania,T,F_closeDistNormFigure_f_l,0.0
+Trenton,Pennsylvania,T,F_avsResult_inside_-1_0_f_l,0.0
+Trenton,Pennsylvania,T,F_aboveFigureCentroid_l_f,0.0
+Trenton,Pennsylvania,T,F_leftOfFigureCentroid_f_l,1.0
+Trenton,New Jersey,T,F_math2dLandmarkIntersectionArea_f_l,0.00101019690531
+Trenton,New Jersey,T,F_avsResult_inside_-1_-1_f_l,0.0
+Trenton,New Jersey,T,F_distHorizontalCentroid_l_f,-0.0312004324212
+Trenton,New Jersey,T,F_avsResult_outside_-1_0_f_l,0.0411151236956
+Trenton,New Jersey,T,F_avsResult_inside_1_-1_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_inside_0_1_f_l,0.0
+Trenton,New Jersey,T,F_distVerticalCentroid_l_f,0.00981643346125
+Trenton,New Jersey,T,F_closeDistNormLandmark_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_outside_1_-1_f_l,0.458570605489
+Trenton,New Jersey,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Trenton,New Jersey,T,F_math2dIntersectionArea_l_f,0.00101019262772
+Trenton,New Jersey,T,F_avsResult_-1_0_f_l,0.0411151236956
+Trenton,New Jersey,T,F_avsResult_inside_-1_-1_l_f,0.0
+Trenton,New Jersey,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_inside_0_-1_f_l,0.0
+Trenton,New Jersey,T,F_math2dIntersectionArea_f_l,0.00101019262772
+Trenton,New Jersey,T,F_avsResult_-1_-1_l_f,0.0
+Trenton,New Jersey,T,F_math2dLandmarkIntersectionArea_l_f,0.995825810987
+Trenton,New Jersey,T,F_avsResult_inside_-1_0_l_f,0.0717327159719
+Trenton,New Jersey,T,F_avsResult_0_-1_l_f,0.186332844389
+Trenton,New Jersey,T,F_avsResult_outside_1_0_f_l,0.466154369511
+Trenton,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_inside_1_0_l_f,0.0804329602307
+Trenton,New Jersey,T,F_avsResult_outside_1_-1_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_inside_-1_1_f_l,0.0
+Trenton,New Jersey,T,F_avsResult_-1_0_l_f,0.0717327159719
+Trenton,New Jersey,T,F_avsResult_1_-1_f_l,0.458570605489
+Trenton,New Jersey,T,F_distVerticalCentroid_f_l,-0.00981643346125
+Trenton,New Jersey,T,F_3dSupportsFigureLandmark_f_l,0.0
+Trenton,New Jersey,T,F_avsResult_0_1_f_l,0.198868658195
+Trenton,New Jersey,T,F_avsResult_outside_-1_1_l_f,0.0
+Trenton,New Jersey,T,F_rightOfFigureCentroid_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_1_0_f_l,0.466154369511
+Trenton,New Jersey,T,F_avsResult_outside_-1_-1_f_l,0.0
+Trenton,New Jersey,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Trenton,New Jersey,T,F_avsResult_inside_1_1_l_f,0.0
+Trenton,New Jersey,T,F_distBtwnCentroids_l_f,0.0327082458895
+Trenton,New Jersey,T,F_avsResult_outside_0_-1_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_1_0_l_f,0.0804329602307
+Trenton,New Jersey,T,F_avsResult_1_-1_l_f,0.0
+Trenton,New Jersey,T,F_closeDistNormLandmark_f_l,0.0
+Trenton,New Jersey,T,F_avsResult_inside_0_-1_l_f,0.186332844389
+Trenton,New Jersey,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Trenton,New Jersey,T,F_avsResult_outside_-1_0_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_1_1_f_l,0.458570605489
+Trenton,New Jersey,T,F_avsResult_0_1_l_f,0.186332844389
+Trenton,New Jersey,T,F_leftOfFigureCentroid_l_f,1.0
+Trenton,New Jersey,T,F_closeDistNormUnion_l_f,0.0
+Trenton,New Jersey,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Trenton,New Jersey,T,F_closeDistNormFigure_l_f,0.0
+Trenton,New Jersey,T,F_rightOfFigureCentroid_f_l,1.0
+Trenton,New Jersey,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Trenton,New Jersey,T,F_avsResult_outside_1_1_f_l,0.458570605489
+Trenton,New Jersey,T,F_avsResult_-1_1_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_outside_0_1_f_l,0.198868658195
+Trenton,New Jersey,T,F_math2dFigureIntersectionArea_l_f,0.00101019690531
+Trenton,New Jersey,T,F_avsResult_inside_0_1_l_f,0.186332844389
+Trenton,New Jersey,T,F_closeDistNormUnion_f_l,0.0
+Trenton,New Jersey,T,F_avsResult_outside_0_1_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_-1_1_f_l,0.0
+Trenton,New Jersey,T,F_3dSupportsFigureLandmark_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_outside_1_1_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_outside_-1_-1_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_0_-1_f_l,0.198868658195
+Trenton,New Jersey,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Trenton,New Jersey,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Trenton,New Jersey,T,F_math2dFigureIntersectionArea_f_l,0.995825810987
+Trenton,New Jersey,T,F_distBtwnCentroids_f_l,0.0327082458895
+Trenton,New Jersey,T,bias,1.0
+Trenton,New Jersey,T,F_avsResult_-1_-1_f_l,0.0
+Trenton,New Jersey,T,F_distHorizontalCentroid_f_l,0.0312004324212
+Trenton,New Jersey,T,F_avsResult_inside_1_1_f_l,0.0
+Trenton,New Jersey,T,F_avsResult_inside_1_-1_f_l,0.0
+Trenton,New Jersey,T,F_belowFigureCentroid_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_inside_1_0_f_l,0.0
+Trenton,New Jersey,T,F_avsResult_outside_0_-1_f_l,0.198868658195
+Trenton,New Jersey,T,F_aboveFigureCentroid_f_l,0.0
+Trenton,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_outside_-1_1_f_l,0.0
+Trenton,New Jersey,T,F_avsResult_outside_1_0_l_f,0.0
+Trenton,New Jersey,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Trenton,New Jersey,T,F_avsResult_1_1_l_f,0.0
+Trenton,New Jersey,T,F_avsResult_inside_-1_1_l_f,0.0
+Trenton,New Jersey,T,F_belowFigureCentroid_f_l,1.0
+Trenton,New Jersey,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Trenton,New Jersey,T,F_closeDistNormFigure_f_l,0.0
+Trenton,New Jersey,T,F_avsResult_inside_-1_0_f_l,0.0
+Trenton,New Jersey,T,F_aboveFigureCentroid_l_f,1.0
+Trenton,New Jersey,T,F_leftOfFigureCentroid_f_l,0.0
+Trenton,Pittsburgh,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_inside_-1_-1_f_l,0.0
+Trenton,Pittsburgh,T,F_distHorizontalCentroid_l_f,3.06350325516
+Trenton,Pittsburgh,T,F_avsResult_outside_-1_0_f_l,0.817676523019
+Trenton,Pittsburgh,T,F_avsResult_inside_1_-1_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_inside_0_1_f_l,0.0
+Trenton,Pittsburgh,T,F_distVerticalCentroid_l_f,-0.126538216636
+Trenton,Pittsburgh,T,F_closeDistNormLandmark_l_f,1.0
+Trenton,Pittsburgh,T,F_avsResult_outside_1_-1_f_l,0.0
+Trenton,Pittsburgh,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Trenton,Pittsburgh,T,F_math2dIntersectionArea_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_-1_0_f_l,0.817676523019
+Trenton,Pittsburgh,T,F_avsResult_inside_-1_-1_l_f,0.0
+Trenton,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_inside_0_-1_f_l,0.0
+Trenton,Pittsburgh,T,F_math2dIntersectionArea_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_-1_-1_l_f,0.0
+Trenton,Pittsburgh,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_inside_-1_0_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_0_-1_l_f,0.224594399202
+Trenton,Pittsburgh,T,F_avsResult_outside_1_0_f_l,0.0022220793359
+Trenton,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_inside_1_0_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_outside_1_-1_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_inside_-1_1_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_-1_0_l_f,0.0021556699737
+Trenton,Pittsburgh,T,F_avsResult_1_-1_f_l,0.0
+Trenton,Pittsburgh,T,F_distVerticalCentroid_f_l,0.126538216636
+Trenton,Pittsburgh,T,F_3dSupportsFigureLandmark_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_0_1_f_l,0.270413874974
+Trenton,Pittsburgh,T,F_avsResult_outside_-1_1_l_f,0.0
+Trenton,Pittsburgh,T,F_rightOfFigureCentroid_l_f,1.0
+Trenton,Pittsburgh,T,F_avsResult_1_0_f_l,0.0022220793359
+Trenton,Pittsburgh,T,F_avsResult_outside_-1_-1_f_l,0.0
+Trenton,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_inside_1_1_l_f,0.0
+Trenton,Pittsburgh,T,F_distBtwnCentroids_l_f,3.0661154764
+Trenton,Pittsburgh,T,F_avsResult_outside_0_-1_l_f,0.224594399202
+Trenton,Pittsburgh,T,F_avsResult_1_0_l_f,0.816942473724
+Trenton,Pittsburgh,T,F_avsResult_1_-1_l_f,0.0
+Trenton,Pittsburgh,T,F_closeDistNormLandmark_f_l,1.0
+Trenton,Pittsburgh,T,F_avsResult_inside_0_-1_l_f,0.0
+Trenton,Pittsburgh,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_outside_-1_0_l_f,0.0021556699737
+Trenton,Pittsburgh,T,F_avsResult_1_1_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_0_1_l_f,0.224594399202
+Trenton,Pittsburgh,T,F_leftOfFigureCentroid_l_f,0.0
+Trenton,Pittsburgh,T,F_closeDistNormUnion_l_f,1.0
+Trenton,Pittsburgh,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Trenton,Pittsburgh,T,F_closeDistNormFigure_l_f,1.0
+Trenton,Pittsburgh,T,F_rightOfFigureCentroid_f_l,0.0
+Trenton,Pittsburgh,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_outside_1_1_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_-1_1_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_outside_0_1_f_l,0.270413874974
+Trenton,Pittsburgh,T,F_math2dFigureIntersectionArea_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_inside_0_1_l_f,0.0
+Trenton,Pittsburgh,T,F_closeDistNormUnion_f_l,1.0
+Trenton,Pittsburgh,T,F_avsResult_outside_0_1_l_f,0.224594399202
+Trenton,Pittsburgh,T,F_avsResult_-1_1_f_l,0.0
+Trenton,Pittsburgh,T,F_3dSupportsFigureLandmark_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_outside_1_1_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_outside_-1_-1_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_0_-1_f_l,0.270413874974
+Trenton,Pittsburgh,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Trenton,Pittsburgh,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Trenton,Pittsburgh,T,F_math2dFigureIntersectionArea_f_l,0.0
+Trenton,Pittsburgh,T,F_distBtwnCentroids_f_l,3.0661154764
+Trenton,Pittsburgh,T,bias,1.0
+Trenton,Pittsburgh,T,F_avsResult_-1_-1_f_l,0.0
+Trenton,Pittsburgh,T,F_distHorizontalCentroid_f_l,-3.06350325516
+Trenton,Pittsburgh,T,F_avsResult_inside_1_1_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_inside_1_-1_f_l,0.0
+Trenton,Pittsburgh,T,F_belowFigureCentroid_l_f,1.0
+Trenton,Pittsburgh,T,F_avsResult_inside_1_0_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_outside_0_-1_f_l,0.270413874974
+Trenton,Pittsburgh,T,F_aboveFigureCentroid_f_l,1.0
+Trenton,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_outside_-1_1_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_outside_1_0_l_f,0.816942473724
+Trenton,Pittsburgh,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Trenton,Pittsburgh,T,F_avsResult_1_1_l_f,0.0
+Trenton,Pittsburgh,T,F_avsResult_inside_-1_1_l_f,0.0
+Trenton,Pittsburgh,T,F_belowFigureCentroid_f_l,0.0
+Trenton,Pittsburgh,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Trenton,Pittsburgh,T,F_closeDistNormFigure_f_l,1.0
+Trenton,Pittsburgh,T,F_avsResult_inside_-1_0_f_l,0.0
+Trenton,Pittsburgh,T,F_aboveFigureCentroid_l_f,0.0
+Trenton,Pittsburgh,T,F_leftOfFigureCentroid_f_l,1.0
+Trenton,Harrisburg,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_inside_-1_-1_f_l,0.0
+Trenton,Harrisburg,T,F_distHorizontalCentroid_l_f,6.77541359845
+Trenton,Harrisburg,T,F_avsResult_outside_-1_0_f_l,0.721894213989
+Trenton,Harrisburg,T,F_avsResult_inside_1_-1_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_inside_0_1_f_l,0.0
+Trenton,Harrisburg,T,F_distVerticalCentroid_l_f,-0.163501350847
+Trenton,Harrisburg,T,F_closeDistNormLandmark_l_f,1.0
+Trenton,Harrisburg,T,F_avsResult_outside_1_-1_f_l,0.0
+Trenton,Harrisburg,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Trenton,Harrisburg,T,F_math2dIntersectionArea_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_-1_0_f_l,0.721894213989
+Trenton,Harrisburg,T,F_avsResult_inside_-1_-1_l_f,0.0
+Trenton,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_inside_0_-1_f_l,0.0
+Trenton,Harrisburg,T,F_math2dIntersectionArea_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_-1_-1_l_f,0.0
+Trenton,Harrisburg,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_inside_-1_0_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_0_-1_l_f,0.238683068879
+Trenton,Harrisburg,T,F_avsResult_outside_1_0_f_l,0.00199574103066
+Trenton,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_inside_1_0_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_outside_1_-1_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_inside_-1_1_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_-1_0_l_f,0.00221952272136
+Trenton,Harrisburg,T,F_avsResult_1_-1_f_l,0.0
+Trenton,Harrisburg,T,F_distVerticalCentroid_f_l,0.163501350847
+Trenton,Harrisburg,T,F_3dSupportsFigureLandmark_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_0_1_f_l,0.255724132187
+Trenton,Harrisburg,T,F_avsResult_outside_-1_1_l_f,0.0
+Trenton,Harrisburg,T,F_rightOfFigureCentroid_l_f,1.0
+Trenton,Harrisburg,T,F_avsResult_1_0_f_l,0.00199574103066
+Trenton,Harrisburg,T,F_avsResult_outside_-1_-1_f_l,0.0
+Trenton,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_inside_1_1_l_f,0.0
+Trenton,Harrisburg,T,F_distBtwnCentroids_l_f,6.77738608327
+Trenton,Harrisburg,T,F_avsResult_outside_0_-1_l_f,0.238683068879
+Trenton,Harrisburg,T,F_avsResult_1_0_l_f,0.721840289046
+Trenton,Harrisburg,T,F_avsResult_1_-1_l_f,0.0
+Trenton,Harrisburg,T,F_closeDistNormLandmark_f_l,1.0
+Trenton,Harrisburg,T,F_avsResult_inside_0_-1_l_f,0.0
+Trenton,Harrisburg,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_outside_-1_0_l_f,0.00221952272136
+Trenton,Harrisburg,T,F_avsResult_1_1_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_0_1_l_f,0.238683068879
+Trenton,Harrisburg,T,F_leftOfFigureCentroid_l_f,0.0
+Trenton,Harrisburg,T,F_closeDistNormUnion_l_f,1.0
+Trenton,Harrisburg,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Trenton,Harrisburg,T,F_closeDistNormFigure_l_f,1.0
+Trenton,Harrisburg,T,F_rightOfFigureCentroid_f_l,0.0
+Trenton,Harrisburg,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_outside_1_1_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_-1_1_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_outside_0_1_f_l,0.255724132187
+Trenton,Harrisburg,T,F_math2dFigureIntersectionArea_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_inside_0_1_l_f,0.0
+Trenton,Harrisburg,T,F_closeDistNormUnion_f_l,1.0
+Trenton,Harrisburg,T,F_avsResult_outside_0_1_l_f,0.238683068879
+Trenton,Harrisburg,T,F_avsResult_-1_1_f_l,0.0
+Trenton,Harrisburg,T,F_3dSupportsFigureLandmark_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_outside_1_1_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_outside_-1_-1_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_0_-1_f_l,0.255724132187
+Trenton,Harrisburg,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Trenton,Harrisburg,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Trenton,Harrisburg,T,F_math2dFigureIntersectionArea_f_l,0.0
+Trenton,Harrisburg,T,F_distBtwnCentroids_f_l,6.77738608327
+Trenton,Harrisburg,T,bias,1.0
+Trenton,Harrisburg,T,F_avsResult_-1_-1_f_l,0.0
+Trenton,Harrisburg,T,F_distHorizontalCentroid_f_l,-6.77541359845
+Trenton,Harrisburg,T,F_avsResult_inside_1_1_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_inside_1_-1_f_l,0.0
+Trenton,Harrisburg,T,F_belowFigureCentroid_l_f,1.0
+Trenton,Harrisburg,T,F_avsResult_inside_1_0_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_outside_0_-1_f_l,0.255724132187
+Trenton,Harrisburg,T,F_aboveFigureCentroid_f_l,1.0
+Trenton,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_outside_-1_1_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_outside_1_0_l_f,0.721840289046
+Trenton,Harrisburg,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Trenton,Harrisburg,T,F_avsResult_1_1_l_f,0.0
+Trenton,Harrisburg,T,F_avsResult_inside_-1_1_l_f,0.0
+Trenton,Harrisburg,T,F_belowFigureCentroid_f_l,0.0
+Trenton,Harrisburg,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Trenton,Harrisburg,T,F_closeDistNormFigure_f_l,1.0
+Trenton,Harrisburg,T,F_avsResult_inside_-1_0_f_l,0.0
+Trenton,Harrisburg,T,F_aboveFigureCentroid_l_f,0.0
+Trenton,Harrisburg,T,F_leftOfFigureCentroid_f_l,1.0
+Trenton,Newark,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Trenton,Newark,T,F_avsResult_inside_-1_-1_f_l,0.0
+Trenton,Newark,T,F_distHorizontalCentroid_l_f,-1.38587663934
+Trenton,Newark,T,F_avsResult_outside_-1_0_f_l,0.0910509144425
+Trenton,Newark,T,F_avsResult_inside_1_-1_l_f,0.0
+Trenton,Newark,T,F_avsResult_inside_0_1_f_l,0.0
+Trenton,Newark,T,F_distVerticalCentroid_l_f,-1.17233213976
+Trenton,Newark,T,F_closeDistNormLandmark_l_f,1.0
+Trenton,Newark,T,F_avsResult_outside_1_-1_f_l,0.0
+Trenton,Newark,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Trenton,Newark,T,F_math2dIntersectionArea_l_f,0.0
+Trenton,Newark,T,F_avsResult_-1_0_f_l,0.0910509144425
+Trenton,Newark,T,F_avsResult_inside_-1_-1_l_f,0.0
+Trenton,Newark,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Trenton,Newark,T,F_avsResult_inside_0_-1_f_l,0.0
+Trenton,Newark,T,F_math2dIntersectionArea_f_l,0.0
+Trenton,Newark,T,F_avsResult_-1_-1_l_f,0.269553048958
+Trenton,Newark,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Trenton,Newark,T,F_avsResult_inside_-1_0_l_f,0.0
+Trenton,Newark,T,F_avsResult_0_-1_l_f,0.113549444918
+Trenton,Newark,T,F_avsResult_outside_1_0_f_l,0.44916020976
+Trenton,Newark,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Trenton,Newark,T,F_avsResult_inside_1_0_l_f,0.0
+Trenton,Newark,T,F_avsResult_outside_1_-1_l_f,0.0
+Trenton,Newark,T,F_avsResult_inside_-1_1_f_l,0.0
+Trenton,Newark,T,F_avsResult_-1_0_l_f,0.439508052021
+Trenton,Newark,T,F_avsResult_1_-1_f_l,0.0
+Trenton,Newark,T,F_distVerticalCentroid_f_l,1.17233213976
+Trenton,Newark,T,F_3dSupportsFigureLandmark_f_l,0.0
+Trenton,Newark,T,F_avsResult_0_1_f_l,0.408632462945
+Trenton,Newark,T,F_avsResult_outside_-1_1_l_f,0.269553048958
+Trenton,Newark,T,F_rightOfFigureCentroid_l_f,0.0
+Trenton,Newark,T,F_avsResult_1_0_f_l,0.44916020976
+Trenton,Newark,T,F_avsResult_outside_-1_-1_f_l,0.214271045928
+Trenton,Newark,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Trenton,Newark,T,F_avsResult_inside_1_1_l_f,0.0
+Trenton,Newark,T,F_distBtwnCentroids_l_f,1.81521808755
+Trenton,Newark,T,F_avsResult_outside_0_-1_l_f,0.113549444918
+Trenton,Newark,T,F_avsResult_1_0_l_f,0.0941667998201
+Trenton,Newark,T,F_avsResult_1_-1_l_f,0.0
+Trenton,Newark,T,F_closeDistNormLandmark_f_l,1.0
+Trenton,Newark,T,F_avsResult_inside_0_-1_l_f,0.0
+Trenton,Newark,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Trenton,Newark,T,F_avsResult_outside_-1_0_l_f,0.439508052021
+Trenton,Newark,T,F_avsResult_1_1_f_l,0.0
+Trenton,Newark,T,F_avsResult_0_1_l_f,0.113549444918
+Trenton,Newark,T,F_leftOfFigureCentroid_l_f,1.0
+Trenton,Newark,T,F_closeDistNormUnion_l_f,1.0
+Trenton,Newark,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Trenton,Newark,T,F_closeDistNormFigure_l_f,1.0
+Trenton,Newark,T,F_rightOfFigureCentroid_f_l,1.0
+Trenton,Newark,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Trenton,Newark,T,F_avsResult_outside_1_1_f_l,0.0
+Trenton,Newark,T,F_avsResult_-1_1_l_f,0.269553048958
+Trenton,Newark,T,F_avsResult_outside_0_1_f_l,0.408632462945
+Trenton,Newark,T,F_math2dFigureIntersectionArea_l_f,0.0
+Trenton,Newark,T,F_avsResult_inside_0_1_l_f,0.0
+Trenton,Newark,T,F_closeDistNormUnion_f_l,1.0
+Trenton,Newark,T,F_avsResult_outside_0_1_l_f,0.113549444918
+Trenton,Newark,T,F_avsResult_-1_1_f_l,0.214271045928
+Trenton,Newark,T,F_3dSupportsFigureLandmark_l_f,0.0
+Trenton,Newark,T,F_avsResult_outside_1_1_l_f,0.0
+Trenton,Newark,T,F_avsResult_outside_-1_-1_l_f,0.269553048958
+Trenton,Newark,T,F_avsResult_0_-1_f_l,0.408632462945
+Trenton,Newark,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Trenton,Newark,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Trenton,Newark,T,F_math2dFigureIntersectionArea_f_l,0.0
+Trenton,Newark,T,F_distBtwnCentroids_f_l,1.81521808755
+Trenton,Newark,T,bias,1.0
+Trenton,Newark,T,F_avsResult_-1_-1_f_l,0.214271045928
+Trenton,Newark,T,F_distHorizontalCentroid_f_l,1.38587663934
+Trenton,Newark,T,F_avsResult_inside_1_1_f_l,0.0
+Trenton,Newark,T,F_avsResult_inside_1_-1_f_l,0.0
+Trenton,Newark,T,F_belowFigureCentroid_l_f,1.0
+Trenton,Newark,T,F_avsResult_inside_1_0_f_l,0.0
+Trenton,Newark,T,F_avsResult_outside_0_-1_f_l,0.408632462945
+Trenton,Newark,T,F_aboveFigureCentroid_f_l,1.0
+Trenton,Newark,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Trenton,Newark,T,F_avsResult_outside_-1_1_f_l,0.214271045928
+Trenton,Newark,T,F_avsResult_outside_1_0_l_f,0.0941667998201
+Trenton,Newark,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Trenton,Newark,T,F_avsResult_1_1_l_f,0.0
+Trenton,Newark,T,F_avsResult_inside_-1_1_l_f,0.0
+Trenton,Newark,T,F_belowFigureCentroid_f_l,0.0
+Trenton,Newark,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Trenton,Newark,T,F_closeDistNormFigure_f_l,1.0
+Trenton,Newark,T,F_avsResult_inside_-1_0_f_l,0.0
+Trenton,Newark,T,F_aboveFigureCentroid_l_f,0.0
+Trenton,Newark,T,F_leftOfFigureCentroid_f_l,0.0
+Trenton,Trenton,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Trenton,Trenton,T,F_avsResult_inside_-1_-1_f_l,0.0
+Trenton,Trenton,T,F_distHorizontalCentroid_l_f,0.0
+Trenton,Trenton,T,F_avsResult_outside_-1_0_f_l,0.0
+Trenton,Trenton,T,F_avsResult_inside_1_-1_l_f,0.074230403257
+Trenton,Trenton,T,F_avsResult_inside_0_1_f_l,0.0752931560016
+Trenton,Trenton,T,F_distVerticalCentroid_l_f,0.0
+Trenton,Trenton,T,F_closeDistNormLandmark_l_f,0.0
+Trenton,Trenton,T,F_avsResult_outside_1_-1_f_l,0.0
+Trenton,Trenton,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Trenton,Trenton,T,F_math2dIntersectionArea_l_f,1.0
+Trenton,Trenton,T,F_avsResult_-1_0_f_l,0.164554951292
+Trenton,Trenton,T,F_avsResult_inside_-1_-1_l_f,0.0
+Trenton,Trenton,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Trenton,Trenton,T,F_avsResult_inside_0_-1_f_l,0.0752931560016
+Trenton,Trenton,T,F_math2dIntersectionArea_f_l,1.0
+Trenton,Trenton,T,F_avsResult_-1_-1_l_f,0.0
+Trenton,Trenton,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Trenton,Trenton,T,F_avsResult_inside_-1_0_l_f,0.164554951292
+Trenton,Trenton,T,F_avsResult_0_-1_l_f,0.0752931560016
+Trenton,Trenton,T,F_avsResult_outside_1_0_f_l,0.0
+Trenton,Trenton,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Trenton,Trenton,T,F_avsResult_inside_1_0_l_f,0.266095837379
+Trenton,Trenton,T,F_avsResult_outside_1_-1_l_f,0.0
+Trenton,Trenton,T,F_avsResult_inside_-1_1_f_l,0.0
+Trenton,Trenton,T,F_avsResult_-1_0_l_f,0.164554951292
+Trenton,Trenton,T,F_avsResult_1_-1_f_l,0.074230403257
+Trenton,Trenton,T,F_distVerticalCentroid_f_l,0.0
+Trenton,Trenton,T,F_3dSupportsFigureLandmark_f_l,0.0
+Trenton,Trenton,T,F_avsResult_0_1_f_l,0.0752931560016
+Trenton,Trenton,T,F_avsResult_outside_-1_1_l_f,0.0
+Trenton,Trenton,T,F_rightOfFigureCentroid_l_f,0.0
+Trenton,Trenton,T,F_avsResult_1_0_f_l,0.266095837379
+Trenton,Trenton,T,F_avsResult_outside_-1_-1_f_l,0.0
+Trenton,Trenton,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Trenton,Trenton,T,F_avsResult_inside_1_1_l_f,0.074230403257
+Trenton,Trenton,T,F_distBtwnCentroids_l_f,0.0
+Trenton,Trenton,T,F_avsResult_outside_0_-1_l_f,0.0
+Trenton,Trenton,T,F_avsResult_1_0_l_f,0.266095837379
+Trenton,Trenton,T,F_avsResult_1_-1_l_f,0.074230403257
+Trenton,Trenton,T,F_closeDistNormLandmark_f_l,0.0
+Trenton,Trenton,T,F_avsResult_inside_0_-1_l_f,0.0752931560016
+Trenton,Trenton,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Trenton,Trenton,T,F_avsResult_outside_-1_0_l_f,0.0
+Trenton,Trenton,T,F_avsResult_1_1_f_l,0.074230403257
+Trenton,Trenton,T,F_avsResult_0_1_l_f,0.0752931560016
+Trenton,Trenton,T,F_leftOfFigureCentroid_l_f,0.0
+Trenton,Trenton,T,F_closeDistNormUnion_l_f,0.0
+Trenton,Trenton,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Trenton,Trenton,T,F_closeDistNormFigure_l_f,0.0
+Trenton,Trenton,T,F_rightOfFigureCentroid_f_l,0.0
+Trenton,Trenton,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Trenton,Trenton,T,F_avsResult_outside_1_1_f_l,0.0
+Trenton,Trenton,T,F_avsResult_-1_1_l_f,0.0
+Trenton,Trenton,T,F_avsResult_outside_0_1_f_l,0.0
+Trenton,Trenton,T,F_math2dFigureIntersectionArea_l_f,1.0
+Trenton,Trenton,T,F_avsResult_inside_0_1_l_f,0.0752931560016
+Trenton,Trenton,T,F_closeDistNormUnion_f_l,0.0
+Trenton,Trenton,T,F_avsResult_outside_0_1_l_f,0.0
+Trenton,Trenton,T,F_avsResult_-1_1_f_l,0.0
+Trenton,Trenton,T,F_3dSupportsFigureLandmark_l_f,0.0
+Trenton,Trenton,T,F_avsResult_outside_1_1_l_f,0.0
+Trenton,Trenton,T,F_avsResult_outside_-1_-1_l_f,0.0
+Trenton,Trenton,T,F_avsResult_0_-1_f_l,0.0752931560016
+Trenton,Trenton,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Trenton,Trenton,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Trenton,Trenton,T,F_math2dFigureIntersectionArea_f_l,1.0
+Trenton,Trenton,T,F_distBtwnCentroids_f_l,0.0
+Trenton,Trenton,T,bias,1.0
+Trenton,Trenton,T,F_avsResult_-1_-1_f_l,0.0
+Trenton,Trenton,T,F_distHorizontalCentroid_f_l,0.0
+Trenton,Trenton,T,F_avsResult_inside_1_1_f_l,0.074230403257
+Trenton,Trenton,T,F_avsResult_inside_1_-1_f_l,0.074230403257
+Trenton,Trenton,T,F_belowFigureCentroid_l_f,0.0
+Trenton,Trenton,T,F_avsResult_inside_1_0_f_l,0.266095837379
+Trenton,Trenton,T,F_avsResult_outside_0_-1_f_l,0.0
+Trenton,Trenton,T,F_aboveFigureCentroid_f_l,0.0
+Trenton,Trenton,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Trenton,Trenton,T,F_avsResult_outside_-1_1_f_l,0.0
+Trenton,Trenton,T,F_avsResult_outside_1_0_l_f,0.0
+Trenton,Trenton,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Trenton,Trenton,T,F_avsResult_1_1_l_f,0.074230403257
+Trenton,Trenton,T,F_avsResult_inside_-1_1_l_f,0.0
+Trenton,Trenton,T,F_belowFigureCentroid_f_l,0.0
+Trenton,Trenton,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Trenton,Trenton,T,F_closeDistNormFigure_f_l,0.0
+Trenton,Trenton,T,F_avsResult_inside_-1_0_f_l,0.164554951292
+Trenton,Trenton,T,F_aboveFigureCentroid_l_f,0.0
+Trenton,Trenton,T,F_leftOfFigureCentroid_f_l,0.0

@@ -1,0 +1,3204 @@
+Kentucky,Kentucky,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Kentucky,Kentucky,T,F_avsResult_inside_-1_-1_f_l,0.0
+Kentucky,Kentucky,T,F_distHorizontalCentroid_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_outside_-1_0_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_1_-1_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_0_1_f_l,0.0148827949954
+Kentucky,Kentucky,T,F_distVerticalCentroid_l_f,0.0
+Kentucky,Kentucky,T,F_closeDistNormLandmark_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_outside_1_-1_f_l,0.0
+Kentucky,Kentucky,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Kentucky,Kentucky,T,F_math2dIntersectionArea_l_f,1.0
+Kentucky,Kentucky,T,F_avsResult_-1_0_f_l,0.00572559195456
+Kentucky,Kentucky,T,F_avsResult_inside_-1_-1_l_f,0.0
+Kentucky,Kentucky,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_0_-1_f_l,0.0148827949954
+Kentucky,Kentucky,T,F_math2dIntersectionArea_f_l,1.0
+Kentucky,Kentucky,T,F_avsResult_-1_-1_l_f,0.0
+Kentucky,Kentucky,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Kentucky,Kentucky,T,F_avsResult_inside_-1_0_l_f,0.00572559195456
+Kentucky,Kentucky,T,F_avsResult_0_-1_l_f,0.0148827949954
+Kentucky,Kentucky,T,F_avsResult_outside_1_0_f_l,0.0
+Kentucky,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_1_0_l_f,0.00187683974255
+Kentucky,Kentucky,T,F_avsResult_outside_1_-1_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_-1_1_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_-1_0_l_f,0.00572559195456
+Kentucky,Kentucky,T,F_avsResult_1_-1_f_l,0.0
+Kentucky,Kentucky,T,F_distVerticalCentroid_f_l,0.0
+Kentucky,Kentucky,T,F_3dSupportsFigureLandmark_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_0_1_f_l,0.0148827949954
+Kentucky,Kentucky,T,F_avsResult_outside_-1_1_l_f,0.0
+Kentucky,Kentucky,T,F_rightOfFigureCentroid_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_1_0_f_l,0.00187683974255
+Kentucky,Kentucky,T,F_avsResult_outside_-1_-1_f_l,0.0
+Kentucky,Kentucky,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_1_1_l_f,0.0
+Kentucky,Kentucky,T,F_distBtwnCentroids_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_outside_0_-1_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_1_0_l_f,0.00187683974255
+Kentucky,Kentucky,T,F_avsResult_1_-1_l_f,0.0
+Kentucky,Kentucky,T,F_closeDistNormLandmark_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_0_-1_l_f,0.0148827949954
+Kentucky,Kentucky,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Kentucky,Kentucky,T,F_avsResult_outside_-1_0_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_1_1_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_0_1_l_f,0.0148827949954
+Kentucky,Kentucky,T,F_leftOfFigureCentroid_l_f,0.0
+Kentucky,Kentucky,T,F_closeDistNormUnion_l_f,0.0
+Kentucky,Kentucky,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Kentucky,Kentucky,T,F_closeDistNormFigure_l_f,0.0
+Kentucky,Kentucky,T,F_rightOfFigureCentroid_f_l,0.0
+Kentucky,Kentucky,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_outside_1_1_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_-1_1_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_outside_0_1_f_l,0.0
+Kentucky,Kentucky,T,F_math2dFigureIntersectionArea_l_f,1.0
+Kentucky,Kentucky,T,F_avsResult_inside_0_1_l_f,0.0148827949954
+Kentucky,Kentucky,T,F_closeDistNormUnion_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_outside_0_1_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_-1_1_f_l,0.0
+Kentucky,Kentucky,T,F_3dSupportsFigureLandmark_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_outside_1_1_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_outside_-1_-1_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_0_-1_f_l,0.0148827949954
+Kentucky,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,Kentucky,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Kentucky,Kentucky,T,F_math2dFigureIntersectionArea_f_l,1.0
+Kentucky,Kentucky,T,F_distBtwnCentroids_f_l,0.0
+Kentucky,Kentucky,T,bias,1.0
+Kentucky,Kentucky,T,F_avsResult_-1_-1_f_l,0.0
+Kentucky,Kentucky,T,F_distHorizontalCentroid_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_1_1_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_1_-1_f_l,0.0
+Kentucky,Kentucky,T,F_belowFigureCentroid_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_1_0_f_l,0.00187683974255
+Kentucky,Kentucky,T,F_avsResult_outside_0_-1_f_l,0.0
+Kentucky,Kentucky,T,F_aboveFigureCentroid_f_l,0.0
+Kentucky,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_outside_-1_1_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_outside_1_0_l_f,0.0
+Kentucky,Kentucky,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_1_1_l_f,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_-1_1_l_f,0.0
+Kentucky,Kentucky,T,F_belowFigureCentroid_f_l,0.0
+Kentucky,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,Kentucky,T,F_closeDistNormFigure_f_l,0.0
+Kentucky,Kentucky,T,F_avsResult_inside_-1_0_f_l,0.00572559195456
+Kentucky,Kentucky,T,F_aboveFigureCentroid_l_f,0.0
+Kentucky,Kentucky,T,F_leftOfFigureCentroid_f_l,0.0
+Kentucky,Louisville,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Kentucky,Louisville,T,F_avsResult_inside_-1_-1_f_l,0.0
+Kentucky,Louisville,T,F_distHorizontalCentroid_l_f,-0.00536408471941
+Kentucky,Louisville,T,F_avsResult_outside_-1_0_f_l,0.0
+Kentucky,Louisville,T,F_avsResult_inside_1_-1_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_inside_0_1_f_l,0.0311039318932
+Kentucky,Louisville,T,F_distVerticalCentroid_l_f,-0.0180937124129
+Kentucky,Louisville,T,F_closeDistNormLandmark_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_outside_1_-1_f_l,0.0
+Kentucky,Louisville,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Kentucky,Louisville,T,F_math2dIntersectionArea_l_f,0.00526570013658
+Kentucky,Louisville,T,F_avsResult_-1_0_f_l,0.0120482025438
+Kentucky,Louisville,T,F_avsResult_inside_-1_-1_l_f,0.0
+Kentucky,Louisville,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_inside_0_-1_f_l,0.0311039318932
+Kentucky,Louisville,T,F_math2dIntersectionArea_f_l,0.00526570013658
+Kentucky,Louisville,T,F_avsResult_-1_-1_l_f,0.0
+Kentucky,Louisville,T,F_math2dLandmarkIntersectionArea_l_f,0.00526570013658
+Kentucky,Louisville,T,F_avsResult_inside_-1_0_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_0_-1_l_f,0.0163602929252
+Kentucky,Louisville,T,F_avsResult_outside_1_0_f_l,0.0
+Kentucky,Louisville,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_inside_1_0_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_outside_1_-1_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_inside_-1_1_f_l,0.0
+Kentucky,Louisville,T,F_avsResult_-1_0_l_f,0.205033997733
+Kentucky,Louisville,T,F_avsResult_1_-1_f_l,0.00254468076054
+Kentucky,Louisville,T,F_distVerticalCentroid_f_l,0.0180937124129
+Kentucky,Louisville,T,F_3dSupportsFigureLandmark_f_l,0.0
+Kentucky,Louisville,T,F_avsResult_0_1_f_l,0.0311039318932
+Kentucky,Louisville,T,F_avsResult_outside_-1_1_l_f,0.0
+Kentucky,Louisville,T,F_rightOfFigureCentroid_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_1_0_f_l,0.0112421539506
+Kentucky,Louisville,T,F_avsResult_outside_-1_-1_f_l,0.0
+Kentucky,Louisville,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Kentucky,Louisville,T,F_avsResult_inside_1_1_l_f,0.0
+Kentucky,Louisville,T,F_distBtwnCentroids_l_f,0.0188720913987
+Kentucky,Louisville,T,F_avsResult_outside_0_-1_l_f,0.0163602929252
+Kentucky,Louisville,T,F_avsResult_1_0_l_f,0.251968300389
+Kentucky,Louisville,T,F_avsResult_1_-1_l_f,0.0
+Kentucky,Louisville,T,F_closeDistNormLandmark_f_l,0.0
+Kentucky,Louisville,T,F_avsResult_inside_0_-1_l_f,0.0
+Kentucky,Louisville,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Kentucky,Louisville,T,F_avsResult_outside_-1_0_l_f,0.205033997733
+Kentucky,Louisville,T,F_avsResult_1_1_f_l,0.00254468076054
+Kentucky,Louisville,T,F_avsResult_0_1_l_f,0.0163602929252
+Kentucky,Louisville,T,F_leftOfFigureCentroid_l_f,1.0
+Kentucky,Louisville,T,F_closeDistNormUnion_l_f,0.0
+Kentucky,Louisville,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Kentucky,Louisville,T,F_closeDistNormFigure_l_f,0.0
+Kentucky,Louisville,T,F_rightOfFigureCentroid_f_l,1.0
+Kentucky,Louisville,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Kentucky,Louisville,T,F_avsResult_outside_1_1_f_l,0.0
+Kentucky,Louisville,T,F_avsResult_-1_1_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_outside_0_1_f_l,0.0
+Kentucky,Louisville,T,F_math2dFigureIntersectionArea_l_f,1.0
+Kentucky,Louisville,T,F_avsResult_inside_0_1_l_f,0.0
+Kentucky,Louisville,T,F_closeDistNormUnion_f_l,0.0
+Kentucky,Louisville,T,F_avsResult_outside_0_1_l_f,0.0163602929252
+Kentucky,Louisville,T,F_avsResult_-1_1_f_l,0.0
+Kentucky,Louisville,T,F_3dSupportsFigureLandmark_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_outside_1_1_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_outside_-1_-1_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_0_-1_f_l,0.0311039318932
+Kentucky,Louisville,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,Louisville,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Kentucky,Louisville,T,F_math2dFigureIntersectionArea_f_l,0.00526570013658
+Kentucky,Louisville,T,F_distBtwnCentroids_f_l,0.0188720913987
+Kentucky,Louisville,T,bias,1.0
+Kentucky,Louisville,T,F_avsResult_-1_-1_f_l,0.0
+Kentucky,Louisville,T,F_distHorizontalCentroid_f_l,0.00536408471941
+Kentucky,Louisville,T,F_avsResult_inside_1_1_f_l,0.00254468076054
+Kentucky,Louisville,T,F_avsResult_inside_1_-1_f_l,0.00254468076054
+Kentucky,Louisville,T,F_belowFigureCentroid_l_f,1.0
+Kentucky,Louisville,T,F_avsResult_inside_1_0_f_l,0.0112421539506
+Kentucky,Louisville,T,F_avsResult_outside_0_-1_f_l,0.0
+Kentucky,Louisville,T,F_aboveFigureCentroid_f_l,1.0
+Kentucky,Louisville,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_outside_-1_1_f_l,0.0
+Kentucky,Louisville,T,F_avsResult_outside_1_0_l_f,0.251968300389
+Kentucky,Louisville,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Kentucky,Louisville,T,F_avsResult_1_1_l_f,0.0
+Kentucky,Louisville,T,F_avsResult_inside_-1_1_l_f,0.0
+Kentucky,Louisville,T,F_belowFigureCentroid_f_l,0.0
+Kentucky,Louisville,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,Louisville,T,F_closeDistNormFigure_f_l,0.0
+Kentucky,Louisville,T,F_avsResult_inside_-1_0_f_l,0.0120482025438
+Kentucky,Louisville,T,F_aboveFigureCentroid_l_f,0.0
+Kentucky,Louisville,T,F_leftOfFigureCentroid_f_l,0.0
+Kentucky,Indiana,T,F_math2dLandmarkIntersectionArea_f_l,0.285433643276
+Kentucky,Indiana,T,F_avsResult_inside_-1_-1_f_l,0.0
+Kentucky,Indiana,T,F_distHorizontalCentroid_l_f,0.0126668040261
+Kentucky,Indiana,T,F_avsResult_outside_-1_0_f_l,0.0683057287312
+Kentucky,Indiana,T,F_avsResult_inside_1_-1_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_inside_0_1_f_l,0.0
+Kentucky,Indiana,T,F_distVerticalCentroid_l_f,-0.0520993398693
+Kentucky,Indiana,T,F_closeDistNormLandmark_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_outside_1_-1_f_l,0.0
+Kentucky,Indiana,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Kentucky,Indiana,T,F_math2dIntersectionArea_l_f,0.103511647345
+Kentucky,Indiana,T,F_avsResult_-1_0_f_l,0.0683057287312
+Kentucky,Indiana,T,F_avsResult_inside_-1_-1_l_f,0.0
+Kentucky,Indiana,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_inside_0_-1_f_l,0.0
+Kentucky,Indiana,T,F_math2dIntersectionArea_f_l,0.103511647345
+Kentucky,Indiana,T,F_avsResult_-1_-1_l_f,0.0
+Kentucky,Indiana,T,F_math2dLandmarkIntersectionArea_l_f,0.139717348163
+Kentucky,Indiana,T,F_avsResult_inside_-1_0_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_0_-1_l_f,0.0414284619906
+Kentucky,Indiana,T,F_avsResult_outside_1_0_f_l,0.0542394346907
+Kentucky,Indiana,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_inside_1_0_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_outside_1_-1_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_inside_-1_1_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_-1_0_l_f,0.0558598985462
+Kentucky,Indiana,T,F_avsResult_1_-1_f_l,0.0
+Kentucky,Indiana,T,F_distVerticalCentroid_f_l,0.0520993398693
+Kentucky,Indiana,T,F_3dSupportsFigureLandmark_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_0_1_f_l,0.567767501475
+Kentucky,Indiana,T,F_avsResult_outside_-1_1_l_f,0.0
+Kentucky,Indiana,T,F_rightOfFigureCentroid_l_f,1.0
+Kentucky,Indiana,T,F_avsResult_1_0_f_l,0.0542394346907
+Kentucky,Indiana,T,F_avsResult_outside_-1_-1_f_l,0.0
+Kentucky,Indiana,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_inside_1_1_l_f,0.0
+Kentucky,Indiana,T,F_distBtwnCentroids_l_f,0.0536170601492
+Kentucky,Indiana,T,F_avsResult_outside_0_-1_l_f,0.0414284619906
+Kentucky,Indiana,T,F_avsResult_1_0_l_f,0.30770390616
+Kentucky,Indiana,T,F_avsResult_1_-1_l_f,0.0
+Kentucky,Indiana,T,F_closeDistNormLandmark_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_inside_0_-1_l_f,0.0
+Kentucky,Indiana,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Kentucky,Indiana,T,F_avsResult_outside_-1_0_l_f,0.0558598985462
+Kentucky,Indiana,T,F_avsResult_1_1_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_0_1_l_f,0.0414284619906
+Kentucky,Indiana,T,F_leftOfFigureCentroid_l_f,0.0
+Kentucky,Indiana,T,F_closeDistNormUnion_l_f,0.0
+Kentucky,Indiana,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Kentucky,Indiana,T,F_closeDistNormFigure_l_f,0.0
+Kentucky,Indiana,T,F_rightOfFigureCentroid_f_l,0.0
+Kentucky,Indiana,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_outside_1_1_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_-1_1_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_outside_0_1_f_l,0.567767501475
+Kentucky,Indiana,T,F_math2dFigureIntersectionArea_l_f,0.285433643276
+Kentucky,Indiana,T,F_avsResult_inside_0_1_l_f,0.0
+Kentucky,Indiana,T,F_closeDistNormUnion_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_outside_0_1_l_f,0.0414284619906
+Kentucky,Indiana,T,F_avsResult_-1_1_f_l,0.0
+Kentucky,Indiana,T,F_3dSupportsFigureLandmark_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_outside_1_1_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_outside_-1_-1_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_0_-1_f_l,0.567767501475
+Kentucky,Indiana,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,Indiana,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Kentucky,Indiana,T,F_math2dFigureIntersectionArea_f_l,0.139717348163
+Kentucky,Indiana,T,F_distBtwnCentroids_f_l,0.0536170601492
+Kentucky,Indiana,T,bias,1.0
+Kentucky,Indiana,T,F_avsResult_-1_-1_f_l,0.0
+Kentucky,Indiana,T,F_distHorizontalCentroid_f_l,-0.0126668040261
+Kentucky,Indiana,T,F_avsResult_inside_1_1_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_inside_1_-1_f_l,0.0
+Kentucky,Indiana,T,F_belowFigureCentroid_l_f,1.0
+Kentucky,Indiana,T,F_avsResult_inside_1_0_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_outside_0_-1_f_l,0.567767501475
+Kentucky,Indiana,T,F_aboveFigureCentroid_f_l,1.0
+Kentucky,Indiana,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_outside_-1_1_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_outside_1_0_l_f,0.30770390616
+Kentucky,Indiana,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_1_1_l_f,0.0
+Kentucky,Indiana,T,F_avsResult_inside_-1_1_l_f,0.0
+Kentucky,Indiana,T,F_belowFigureCentroid_f_l,0.0
+Kentucky,Indiana,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,Indiana,T,F_closeDistNormFigure_f_l,0.0
+Kentucky,Indiana,T,F_avsResult_inside_-1_0_f_l,0.0
+Kentucky,Indiana,T,F_aboveFigureCentroid_l_f,0.0
+Kentucky,Indiana,T,F_leftOfFigureCentroid_f_l,1.0
+Kentucky,Indianapolis,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_inside_-1_-1_f_l,0.0
+Kentucky,Indianapolis,T,F_distHorizontalCentroid_l_f,0.015623602034
+Kentucky,Indianapolis,T,F_avsResult_outside_-1_0_f_l,0.0638970471131
+Kentucky,Indianapolis,T,F_avsResult_inside_1_-1_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_inside_0_1_f_l,0.0
+Kentucky,Indianapolis,T,F_distVerticalCentroid_l_f,-0.0779654005592
+Kentucky,Indianapolis,T,F_closeDistNormLandmark_l_f,0.593528642452
+Kentucky,Indianapolis,T,F_avsResult_outside_1_-1_f_l,0.0
+Kentucky,Indianapolis,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Kentucky,Indianapolis,T,F_math2dIntersectionArea_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_-1_0_f_l,0.0638970471131
+Kentucky,Indianapolis,T,F_avsResult_inside_-1_-1_l_f,0.0
+Kentucky,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_inside_0_-1_f_l,0.0
+Kentucky,Indianapolis,T,F_math2dIntersectionArea_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_-1_-1_l_f,0.0
+Kentucky,Indianapolis,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_inside_-1_0_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_0_-1_l_f,0.0176225817366
+Kentucky,Indianapolis,T,F_avsResult_outside_1_0_f_l,0.0539825205492
+Kentucky,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_inside_1_0_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_outside_1_-1_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_inside_-1_1_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_-1_0_l_f,0.194106916455
+Kentucky,Indianapolis,T,F_avsResult_1_-1_f_l,0.0
+Kentucky,Indianapolis,T,F_distVerticalCentroid_f_l,0.0779654005592
+Kentucky,Indianapolis,T,F_3dSupportsFigureLandmark_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_0_1_f_l,0.562343359416
+Kentucky,Indianapolis,T,F_avsResult_outside_-1_1_l_f,0.0
+Kentucky,Indianapolis,T,F_rightOfFigureCentroid_l_f,1.0
+Kentucky,Indianapolis,T,F_avsResult_1_0_f_l,0.0539825205492
+Kentucky,Indianapolis,T,F_avsResult_outside_-1_-1_f_l,0.0
+Kentucky,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_inside_1_1_l_f,0.0
+Kentucky,Indianapolis,T,F_distBtwnCentroids_l_f,0.0795154112413
+Kentucky,Indianapolis,T,F_avsResult_outside_0_-1_l_f,0.0176225817366
+Kentucky,Indianapolis,T,F_avsResult_1_0_l_f,0.311387360861
+Kentucky,Indianapolis,T,F_avsResult_1_-1_l_f,0.0
+Kentucky,Indianapolis,T,F_closeDistNormLandmark_f_l,1.0
+Kentucky,Indianapolis,T,F_avsResult_inside_0_-1_l_f,0.0
+Kentucky,Indianapolis,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_outside_-1_0_l_f,0.194106916455
+Kentucky,Indianapolis,T,F_avsResult_1_1_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_0_1_l_f,0.0176225817366
+Kentucky,Indianapolis,T,F_leftOfFigureCentroid_l_f,0.0
+Kentucky,Indianapolis,T,F_closeDistNormUnion_l_f,0.593519396926
+Kentucky,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Kentucky,Indianapolis,T,F_closeDistNormFigure_l_f,1.0
+Kentucky,Indianapolis,T,F_rightOfFigureCentroid_f_l,0.0
+Kentucky,Indianapolis,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_outside_1_1_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_-1_1_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_outside_0_1_f_l,0.562343359416
+Kentucky,Indianapolis,T,F_math2dFigureIntersectionArea_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_inside_0_1_l_f,0.0
+Kentucky,Indianapolis,T,F_closeDistNormUnion_f_l,0.593519396926
+Kentucky,Indianapolis,T,F_avsResult_outside_0_1_l_f,0.0176225817366
+Kentucky,Indianapolis,T,F_avsResult_-1_1_f_l,0.0
+Kentucky,Indianapolis,T,F_3dSupportsFigureLandmark_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_outside_1_1_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_outside_-1_-1_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_0_-1_f_l,0.562343359416
+Kentucky,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,Indianapolis,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Kentucky,Indianapolis,T,F_math2dFigureIntersectionArea_f_l,0.0
+Kentucky,Indianapolis,T,F_distBtwnCentroids_f_l,0.0795154112413
+Kentucky,Indianapolis,T,bias,1.0
+Kentucky,Indianapolis,T,F_avsResult_-1_-1_f_l,0.0
+Kentucky,Indianapolis,T,F_distHorizontalCentroid_f_l,-0.015623602034
+Kentucky,Indianapolis,T,F_avsResult_inside_1_1_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_inside_1_-1_f_l,0.0
+Kentucky,Indianapolis,T,F_belowFigureCentroid_l_f,1.0
+Kentucky,Indianapolis,T,F_avsResult_inside_1_0_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_outside_0_-1_f_l,0.562343359416
+Kentucky,Indianapolis,T,F_aboveFigureCentroid_f_l,1.0
+Kentucky,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_outside_-1_1_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_outside_1_0_l_f,0.311387360861
+Kentucky,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Kentucky,Indianapolis,T,F_avsResult_1_1_l_f,0.0
+Kentucky,Indianapolis,T,F_avsResult_inside_-1_1_l_f,0.0
+Kentucky,Indianapolis,T,F_belowFigureCentroid_f_l,0.0
+Kentucky,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,Indianapolis,T,F_closeDistNormFigure_f_l,0.593528642452
+Kentucky,Indianapolis,T,F_avsResult_inside_-1_0_f_l,0.0
+Kentucky,Indianapolis,T,F_aboveFigureCentroid_l_f,0.0
+Kentucky,Indianapolis,T,F_leftOfFigureCentroid_f_l,1.0
+Kentucky,South Bend,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_inside_-1_-1_f_l,0.0
+Kentucky,South Bend,T,F_distHorizontalCentroid_l_f,0.0126839898682
+Kentucky,South Bend,T,F_avsResult_outside_-1_0_f_l,0.0877246178701
+Kentucky,South Bend,T,F_avsResult_inside_1_-1_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_inside_0_1_f_l,0.0
+Kentucky,South Bend,T,F_distVerticalCentroid_l_f,-0.0963219330479
+Kentucky,South Bend,T,F_closeDistNormLandmark_l_f,0.808980283489
+Kentucky,South Bend,T,F_avsResult_outside_1_-1_f_l,0.0
+Kentucky,South Bend,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Kentucky,South Bend,T,F_math2dIntersectionArea_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_-1_0_f_l,0.0877246178701
+Kentucky,South Bend,T,F_avsResult_inside_-1_-1_l_f,0.0
+Kentucky,South Bend,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_inside_0_-1_f_l,0.0
+Kentucky,South Bend,T,F_math2dIntersectionArea_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_-1_-1_l_f,0.0
+Kentucky,South Bend,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_inside_-1_0_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_0_-1_l_f,0.00831184125227
+Kentucky,South Bend,T,F_avsResult_outside_1_0_f_l,0.071391848045
+Kentucky,South Bend,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_inside_1_0_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_outside_1_-1_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_inside_-1_1_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_-1_0_l_f,0.191391649653
+Kentucky,South Bend,T,F_avsResult_1_-1_f_l,0.0
+Kentucky,South Bend,T,F_distVerticalCentroid_f_l,0.0963219330479
+Kentucky,South Bend,T,F_3dSupportsFigureLandmark_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_0_1_f_l,0.753332735435
+Kentucky,South Bend,T,F_avsResult_outside_-1_1_l_f,0.0
+Kentucky,South Bend,T,F_rightOfFigureCentroid_l_f,1.0
+Kentucky,South Bend,T,F_avsResult_1_0_f_l,0.071391848045
+Kentucky,South Bend,T,F_avsResult_outside_-1_-1_f_l,0.0
+Kentucky,South Bend,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_inside_1_1_l_f,0.0
+Kentucky,South Bend,T,F_distBtwnCentroids_l_f,0.0971534785021
+Kentucky,South Bend,T,F_avsResult_outside_0_-1_l_f,0.00831184125227
+Kentucky,South Bend,T,F_avsResult_1_0_l_f,0.303200131519
+Kentucky,South Bend,T,F_avsResult_1_-1_l_f,0.0
+Kentucky,South Bend,T,F_closeDistNormLandmark_f_l,1.0
+Kentucky,South Bend,T,F_avsResult_inside_0_-1_l_f,0.0
+Kentucky,South Bend,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_outside_-1_0_l_f,0.191391649653
+Kentucky,South Bend,T,F_avsResult_1_1_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_0_1_l_f,0.00831184125227
+Kentucky,South Bend,T,F_leftOfFigureCentroid_l_f,0.0
+Kentucky,South Bend,T,F_closeDistNormUnion_l_f,0.807875599781
+Kentucky,South Bend,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Kentucky,South Bend,T,F_closeDistNormFigure_l_f,1.0
+Kentucky,South Bend,T,F_rightOfFigureCentroid_f_l,0.0
+Kentucky,South Bend,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_outside_1_1_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_-1_1_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_outside_0_1_f_l,0.753332735435
+Kentucky,South Bend,T,F_math2dFigureIntersectionArea_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_inside_0_1_l_f,0.0
+Kentucky,South Bend,T,F_closeDistNormUnion_f_l,0.807875599781
+Kentucky,South Bend,T,F_avsResult_outside_0_1_l_f,0.00831184125227
+Kentucky,South Bend,T,F_avsResult_-1_1_f_l,0.0
+Kentucky,South Bend,T,F_3dSupportsFigureLandmark_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_outside_1_1_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_outside_-1_-1_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_0_-1_f_l,0.753332735435
+Kentucky,South Bend,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,South Bend,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Kentucky,South Bend,T,F_math2dFigureIntersectionArea_f_l,0.0
+Kentucky,South Bend,T,F_distBtwnCentroids_f_l,0.0971534785021
+Kentucky,South Bend,T,bias,1.0
+Kentucky,South Bend,T,F_avsResult_-1_-1_f_l,0.0
+Kentucky,South Bend,T,F_distHorizontalCentroid_f_l,-0.0126839898682
+Kentucky,South Bend,T,F_avsResult_inside_1_1_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_inside_1_-1_f_l,0.0
+Kentucky,South Bend,T,F_belowFigureCentroid_l_f,1.0
+Kentucky,South Bend,T,F_avsResult_inside_1_0_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_outside_0_-1_f_l,0.753332735435
+Kentucky,South Bend,T,F_aboveFigureCentroid_f_l,1.0
+Kentucky,South Bend,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_outside_-1_1_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_outside_1_0_l_f,0.303200131519
+Kentucky,South Bend,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Kentucky,South Bend,T,F_avsResult_1_1_l_f,0.0
+Kentucky,South Bend,T,F_avsResult_inside_-1_1_l_f,0.0
+Kentucky,South Bend,T,F_belowFigureCentroid_f_l,0.0
+Kentucky,South Bend,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,South Bend,T,F_closeDistNormFigure_f_l,0.808980283489
+Kentucky,South Bend,T,F_avsResult_inside_-1_0_f_l,0.0
+Kentucky,South Bend,T,F_aboveFigureCentroid_l_f,0.0
+Kentucky,South Bend,T,F_leftOfFigureCentroid_f_l,1.0
+Kentucky,Lake Michigan,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_-1_-1_f_l,0.0
+Kentucky,Lake Michigan,T,F_distHorizontalCentroid_l_f,0.0134643043158
+Kentucky,Lake Michigan,T,F_avsResult_outside_-1_0_f_l,0.111345892796
+Kentucky,Lake Michigan,T,F_avsResult_inside_1_-1_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_0_1_f_l,0.0
+Kentucky,Lake Michigan,T,F_distVerticalCentroid_l_f,-0.0849563412837
+Kentucky,Lake Michigan,T,F_closeDistNormLandmark_l_f,0.534101006611
+Kentucky,Lake Michigan,T,F_avsResult_outside_1_-1_f_l,0.0
+Kentucky,Lake Michigan,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Kentucky,Lake Michigan,T,F_math2dIntersectionArea_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_-1_0_f_l,0.111345892796
+Kentucky,Lake Michigan,T,F_avsResult_inside_-1_-1_l_f,0.0
+Kentucky,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_0_-1_f_l,0.0
+Kentucky,Lake Michigan,T,F_math2dIntersectionArea_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_-1_-1_l_f,0.0
+Kentucky,Lake Michigan,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_-1_0_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_0_-1_l_f,0.00657277971713
+Kentucky,Lake Michigan,T,F_avsResult_outside_1_0_f_l,0.0744954686624
+Kentucky,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_1_0_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_outside_1_-1_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_-1_1_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_-1_0_l_f,0.113650844127
+Kentucky,Lake Michigan,T,F_avsResult_1_-1_f_l,0.0
+Kentucky,Lake Michigan,T,F_distVerticalCentroid_f_l,0.0849563412837
+Kentucky,Lake Michigan,T,F_3dSupportsFigureLandmark_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_0_1_f_l,0.809719472575
+Kentucky,Lake Michigan,T,F_avsResult_outside_-1_1_l_f,0.0
+Kentucky,Lake Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+Kentucky,Lake Michigan,T,F_avsResult_1_0_f_l,0.0744954686624
+Kentucky,Lake Michigan,T,F_avsResult_outside_-1_-1_f_l,0.0
+Kentucky,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_1_1_l_f,0.0
+Kentucky,Lake Michigan,T,F_distBtwnCentroids_l_f,0.0860166694021
+Kentucky,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.00657277971713
+Kentucky,Lake Michigan,T,F_avsResult_1_0_l_f,0.208028030518
+Kentucky,Lake Michigan,T,F_avsResult_1_-1_l_f,0.0
+Kentucky,Lake Michigan,T,F_closeDistNormLandmark_f_l,1.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_0_-1_l_f,0.0
+Kentucky,Lake Michigan,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.113650844127
+Kentucky,Lake Michigan,T,F_avsResult_1_1_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_0_1_l_f,0.00657277971713
+Kentucky,Lake Michigan,T,F_leftOfFigureCentroid_l_f,0.0
+Kentucky,Lake Michigan,T,F_closeDistNormUnion_l_f,0.403564730854
+Kentucky,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Kentucky,Lake Michigan,T,F_closeDistNormFigure_l_f,1.0
+Kentucky,Lake Michigan,T,F_rightOfFigureCentroid_f_l,0.0
+Kentucky,Lake Michigan,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_outside_1_1_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_-1_1_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_outside_0_1_f_l,0.809719472575
+Kentucky,Lake Michigan,T,F_math2dFigureIntersectionArea_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_0_1_l_f,0.0
+Kentucky,Lake Michigan,T,F_closeDistNormUnion_f_l,0.403564730854
+Kentucky,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.00657277971713
+Kentucky,Lake Michigan,T,F_avsResult_-1_1_f_l,0.0
+Kentucky,Lake Michigan,T,F_3dSupportsFigureLandmark_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_outside_1_1_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_outside_-1_-1_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_0_-1_f_l,0.809719472575
+Kentucky,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,Lake Michigan,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Kentucky,Lake Michigan,T,F_math2dFigureIntersectionArea_f_l,0.0
+Kentucky,Lake Michigan,T,F_distBtwnCentroids_f_l,0.0860166694021
+Kentucky,Lake Michigan,T,bias,1.0
+Kentucky,Lake Michigan,T,F_avsResult_-1_-1_f_l,0.0
+Kentucky,Lake Michigan,T,F_distHorizontalCentroid_f_l,-0.0134643043158
+Kentucky,Lake Michigan,T,F_avsResult_inside_1_1_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_1_-1_f_l,0.0
+Kentucky,Lake Michigan,T,F_belowFigureCentroid_l_f,1.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_1_0_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_outside_0_-1_f_l,0.809719472575
+Kentucky,Lake Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Kentucky,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_outside_-1_1_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.208028030518
+Kentucky,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Kentucky,Lake Michigan,T,F_avsResult_1_1_l_f,0.0
+Kentucky,Lake Michigan,T,F_avsResult_inside_-1_1_l_f,0.0
+Kentucky,Lake Michigan,T,F_belowFigureCentroid_f_l,0.0
+Kentucky,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Kentucky,Lake Michigan,T,F_closeDistNormFigure_f_l,0.534101006611
+Kentucky,Lake Michigan,T,F_avsResult_inside_-1_0_f_l,0.0
+Kentucky,Lake Michigan,T,F_aboveFigureCentroid_l_f,0.0
+Kentucky,Lake Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+Louisville,Kentucky,T,F_math2dLandmarkIntersectionArea_f_l,0.00526570013658
+Louisville,Kentucky,T,F_avsResult_inside_-1_-1_f_l,0.0
+Louisville,Kentucky,T,F_distHorizontalCentroid_l_f,0.00536408471941
+Louisville,Kentucky,T,F_avsResult_outside_-1_0_f_l,0.205033997733
+Louisville,Kentucky,T,F_avsResult_inside_1_-1_l_f,0.00254468076054
+Louisville,Kentucky,T,F_avsResult_inside_0_1_f_l,0.0
+Louisville,Kentucky,T,F_distVerticalCentroid_l_f,0.0180937124129
+Louisville,Kentucky,T,F_closeDistNormLandmark_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_outside_1_-1_f_l,0.0
+Louisville,Kentucky,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Louisville,Kentucky,T,F_math2dIntersectionArea_l_f,0.00526570013658
+Louisville,Kentucky,T,F_avsResult_-1_0_f_l,0.205033997733
+Louisville,Kentucky,T,F_avsResult_inside_-1_-1_l_f,0.0
+Louisville,Kentucky,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_inside_0_-1_f_l,0.0
+Louisville,Kentucky,T,F_math2dIntersectionArea_f_l,0.00526570013658
+Louisville,Kentucky,T,F_avsResult_-1_-1_l_f,0.0
+Louisville,Kentucky,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Louisville,Kentucky,T,F_avsResult_inside_-1_0_l_f,0.0120482025438
+Louisville,Kentucky,T,F_avsResult_0_-1_l_f,0.0311039318932
+Louisville,Kentucky,T,F_avsResult_outside_1_0_f_l,0.251968300389
+Louisville,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_inside_1_0_l_f,0.0112421539506
+Louisville,Kentucky,T,F_avsResult_outside_1_-1_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_inside_-1_1_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_-1_0_l_f,0.0120482025438
+Louisville,Kentucky,T,F_avsResult_1_-1_f_l,0.0
+Louisville,Kentucky,T,F_distVerticalCentroid_f_l,-0.0180937124129
+Louisville,Kentucky,T,F_3dSupportsFigureLandmark_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_0_1_f_l,0.0163602929252
+Louisville,Kentucky,T,F_avsResult_outside_-1_1_l_f,0.0
+Louisville,Kentucky,T,F_rightOfFigureCentroid_l_f,1.0
+Louisville,Kentucky,T,F_avsResult_1_0_f_l,0.251968300389
+Louisville,Kentucky,T,F_avsResult_outside_-1_-1_f_l,0.0
+Louisville,Kentucky,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_inside_1_1_l_f,0.00254468076054
+Louisville,Kentucky,T,F_distBtwnCentroids_l_f,0.0188720913987
+Louisville,Kentucky,T,F_avsResult_outside_0_-1_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_1_0_l_f,0.0112421539506
+Louisville,Kentucky,T,F_avsResult_1_-1_l_f,0.00254468076054
+Louisville,Kentucky,T,F_closeDistNormLandmark_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_inside_0_-1_l_f,0.0311039318932
+Louisville,Kentucky,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Louisville,Kentucky,T,F_avsResult_outside_-1_0_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_1_1_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_0_1_l_f,0.0311039318932
+Louisville,Kentucky,T,F_leftOfFigureCentroid_l_f,0.0
+Louisville,Kentucky,T,F_closeDistNormUnion_l_f,0.0
+Louisville,Kentucky,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Louisville,Kentucky,T,F_closeDistNormFigure_l_f,0.0
+Louisville,Kentucky,T,F_rightOfFigureCentroid_f_l,0.0
+Louisville,Kentucky,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_outside_1_1_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_-1_1_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_outside_0_1_f_l,0.0163602929252
+Louisville,Kentucky,T,F_math2dFigureIntersectionArea_l_f,0.00526570013658
+Louisville,Kentucky,T,F_avsResult_inside_0_1_l_f,0.0311039318932
+Louisville,Kentucky,T,F_closeDistNormUnion_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_outside_0_1_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_-1_1_f_l,0.0
+Louisville,Kentucky,T,F_3dSupportsFigureLandmark_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_outside_1_1_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_outside_-1_-1_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_0_-1_f_l,0.0163602929252
+Louisville,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Louisville,Kentucky,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Louisville,Kentucky,T,F_math2dFigureIntersectionArea_f_l,1.0
+Louisville,Kentucky,T,F_distBtwnCentroids_f_l,0.0188720913987
+Louisville,Kentucky,T,bias,1.0
+Louisville,Kentucky,T,F_avsResult_-1_-1_f_l,0.0
+Louisville,Kentucky,T,F_distHorizontalCentroid_f_l,-0.00536408471941
+Louisville,Kentucky,T,F_avsResult_inside_1_1_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_inside_1_-1_f_l,0.0
+Louisville,Kentucky,T,F_belowFigureCentroid_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_inside_1_0_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_outside_0_-1_f_l,0.0163602929252
+Louisville,Kentucky,T,F_aboveFigureCentroid_f_l,0.0
+Louisville,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Louisville,Kentucky,T,F_avsResult_outside_-1_1_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_outside_1_0_l_f,0.0
+Louisville,Kentucky,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_1_1_l_f,0.00254468076054
+Louisville,Kentucky,T,F_avsResult_inside_-1_1_l_f,0.0
+Louisville,Kentucky,T,F_belowFigureCentroid_f_l,1.0
+Louisville,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Louisville,Kentucky,T,F_closeDistNormFigure_f_l,0.0
+Louisville,Kentucky,T,F_avsResult_inside_-1_0_f_l,0.0
+Louisville,Kentucky,T,F_aboveFigureCentroid_l_f,1.0
+Louisville,Kentucky,T,F_leftOfFigureCentroid_f_l,1.0
+Louisville,Louisville,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Louisville,Louisville,T,F_avsResult_inside_-1_-1_f_l,0.0
+Louisville,Louisville,T,F_distHorizontalCentroid_l_f,0.0
+Louisville,Louisville,T,F_avsResult_outside_-1_0_f_l,0.0
+Louisville,Louisville,T,F_avsResult_inside_1_-1_l_f,0.231177163624
+Louisville,Louisville,T,F_avsResult_inside_0_1_f_l,0.464993448864
+Louisville,Louisville,T,F_distVerticalCentroid_l_f,0.0
+Louisville,Louisville,T,F_closeDistNormLandmark_l_f,0.0
+Louisville,Louisville,T,F_avsResult_outside_1_-1_f_l,0.0
+Louisville,Louisville,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Louisville,Louisville,T,F_math2dIntersectionArea_l_f,1.0
+Louisville,Louisville,T,F_avsResult_-1_0_f_l,0.107267109957
+Louisville,Louisville,T,F_avsResult_inside_-1_-1_l_f,0.0
+Louisville,Louisville,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Louisville,Louisville,T,F_avsResult_inside_0_-1_f_l,0.464993448864
+Louisville,Louisville,T,F_math2dIntersectionArea_f_l,1.0
+Louisville,Louisville,T,F_avsResult_-1_-1_l_f,0.0
+Louisville,Louisville,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Louisville,Louisville,T,F_avsResult_inside_-1_0_l_f,0.107267109957
+Louisville,Louisville,T,F_avsResult_0_-1_l_f,0.464993448864
+Louisville,Louisville,T,F_avsResult_outside_1_0_f_l,0.0
+Louisville,Louisville,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Louisville,Louisville,T,F_avsResult_inside_1_0_l_f,0.258951389033
+Louisville,Louisville,T,F_avsResult_outside_1_-1_l_f,0.0
+Louisville,Louisville,T,F_avsResult_inside_-1_1_f_l,0.0
+Louisville,Louisville,T,F_avsResult_-1_0_l_f,0.107267109957
+Louisville,Louisville,T,F_avsResult_1_-1_f_l,0.231177163624
+Louisville,Louisville,T,F_distVerticalCentroid_f_l,0.0
+Louisville,Louisville,T,F_3dSupportsFigureLandmark_f_l,0.0
+Louisville,Louisville,T,F_avsResult_0_1_f_l,0.464993448864
+Louisville,Louisville,T,F_avsResult_outside_-1_1_l_f,0.0
+Louisville,Louisville,T,F_rightOfFigureCentroid_l_f,0.0
+Louisville,Louisville,T,F_avsResult_1_0_f_l,0.258951389033
+Louisville,Louisville,T,F_avsResult_outside_-1_-1_f_l,0.0
+Louisville,Louisville,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Louisville,Louisville,T,F_avsResult_inside_1_1_l_f,0.231177163624
+Louisville,Louisville,T,F_distBtwnCentroids_l_f,0.0
+Louisville,Louisville,T,F_avsResult_outside_0_-1_l_f,0.0
+Louisville,Louisville,T,F_avsResult_1_0_l_f,0.258951389033
+Louisville,Louisville,T,F_avsResult_1_-1_l_f,0.231177163624
+Louisville,Louisville,T,F_closeDistNormLandmark_f_l,0.0
+Louisville,Louisville,T,F_avsResult_inside_0_-1_l_f,0.464993448864
+Louisville,Louisville,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Louisville,Louisville,T,F_avsResult_outside_-1_0_l_f,0.0
+Louisville,Louisville,T,F_avsResult_1_1_f_l,0.231177163624
+Louisville,Louisville,T,F_avsResult_0_1_l_f,0.464993448864
+Louisville,Louisville,T,F_leftOfFigureCentroid_l_f,0.0
+Louisville,Louisville,T,F_closeDistNormUnion_l_f,0.0
+Louisville,Louisville,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Louisville,Louisville,T,F_closeDistNormFigure_l_f,0.0
+Louisville,Louisville,T,F_rightOfFigureCentroid_f_l,0.0
+Louisville,Louisville,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Louisville,Louisville,T,F_avsResult_outside_1_1_f_l,0.0
+Louisville,Louisville,T,F_avsResult_-1_1_l_f,0.0
+Louisville,Louisville,T,F_avsResult_outside_0_1_f_l,0.0
+Louisville,Louisville,T,F_math2dFigureIntersectionArea_l_f,1.0
+Louisville,Louisville,T,F_avsResult_inside_0_1_l_f,0.464993448864
+Louisville,Louisville,T,F_closeDistNormUnion_f_l,0.0
+Louisville,Louisville,T,F_avsResult_outside_0_1_l_f,0.0
+Louisville,Louisville,T,F_avsResult_-1_1_f_l,0.0
+Louisville,Louisville,T,F_3dSupportsFigureLandmark_l_f,0.0
+Louisville,Louisville,T,F_avsResult_outside_1_1_l_f,0.0
+Louisville,Louisville,T,F_avsResult_outside_-1_-1_l_f,0.0
+Louisville,Louisville,T,F_avsResult_0_-1_f_l,0.464993448864
+Louisville,Louisville,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Louisville,Louisville,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Louisville,Louisville,T,F_math2dFigureIntersectionArea_f_l,1.0
+Louisville,Louisville,T,F_distBtwnCentroids_f_l,0.0
+Louisville,Louisville,T,bias,1.0
+Louisville,Louisville,T,F_avsResult_-1_-1_f_l,0.0
+Louisville,Louisville,T,F_distHorizontalCentroid_f_l,0.0
+Louisville,Louisville,T,F_avsResult_inside_1_1_f_l,0.231177163624
+Louisville,Louisville,T,F_avsResult_inside_1_-1_f_l,0.231177163624
+Louisville,Louisville,T,F_belowFigureCentroid_l_f,0.0
+Louisville,Louisville,T,F_avsResult_inside_1_0_f_l,0.258951389033
+Louisville,Louisville,T,F_avsResult_outside_0_-1_f_l,0.0
+Louisville,Louisville,T,F_aboveFigureCentroid_f_l,0.0
+Louisville,Louisville,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Louisville,Louisville,T,F_avsResult_outside_-1_1_f_l,0.0
+Louisville,Louisville,T,F_avsResult_outside_1_0_l_f,0.0
+Louisville,Louisville,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Louisville,Louisville,T,F_avsResult_1_1_l_f,0.231177163624
+Louisville,Louisville,T,F_avsResult_inside_-1_1_l_f,0.0
+Louisville,Louisville,T,F_belowFigureCentroid_f_l,0.0
+Louisville,Louisville,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Louisville,Louisville,T,F_closeDistNormFigure_f_l,0.0
+Louisville,Louisville,T,F_avsResult_inside_-1_0_f_l,0.107267109957
+Louisville,Louisville,T,F_aboveFigureCentroid_l_f,0.0
+Louisville,Louisville,T,F_leftOfFigureCentroid_f_l,0.0
+Louisville,Indiana,T,F_math2dLandmarkIntersectionArea_f_l,3.88409336311e-06
+Louisville,Indiana,T,F_avsResult_inside_-1_-1_f_l,0.0
+Louisville,Indiana,T,F_distHorizontalCentroid_l_f,0.0468452117804
+Louisville,Indiana,T,F_avsResult_outside_-1_0_f_l,0.330050877291
+Louisville,Indiana,T,F_avsResult_inside_1_-1_l_f,0.0
+Louisville,Indiana,T,F_avsResult_inside_0_1_f_l,0.0
+Louisville,Indiana,T,F_distVerticalCentroid_l_f,-0.13103599506
+Louisville,Indiana,T,F_closeDistNormLandmark_l_f,0.0
+Louisville,Indiana,T,F_avsResult_outside_1_-1_f_l,0.484946825898
+Louisville,Indiana,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Louisville,Indiana,T,F_math2dIntersectionArea_l_f,3.84276973186e-06
+Louisville,Indiana,T,F_avsResult_-1_0_f_l,0.330050877291
+Louisville,Indiana,T,F_avsResult_inside_-1_-1_l_f,0.0
+Louisville,Indiana,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Louisville,Indiana,T,F_avsResult_inside_0_-1_f_l,0.0
+Louisville,Indiana,T,F_math2dIntersectionArea_f_l,3.84276973186e-06
+Louisville,Indiana,T,F_avsResult_-1_-1_l_f,0.0
+Louisville,Indiana,T,F_math2dLandmarkIntersectionArea_l_f,0.000361059444768
+Louisville,Indiana,T,F_avsResult_inside_-1_0_l_f,0.0
+Louisville,Indiana,T,F_avsResult_0_-1_l_f,0.0420027556667
+Louisville,Indiana,T,F_avsResult_outside_1_0_f_l,0.151397745487
+Louisville,Indiana,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Louisville,Indiana,T,F_avsResult_inside_1_0_l_f,0.0
+Louisville,Indiana,T,F_avsResult_outside_1_-1_l_f,0.0
+Louisville,Indiana,T,F_avsResult_inside_-1_1_f_l,0.0
+Louisville,Indiana,T,F_avsResult_-1_0_l_f,0.0333842020356
+Louisville,Indiana,T,F_avsResult_1_-1_f_l,0.484946825898
+Louisville,Indiana,T,F_distVerticalCentroid_f_l,0.13103599506
+Louisville,Indiana,T,F_3dSupportsFigureLandmark_f_l,0.0
+Louisville,Indiana,T,F_avsResult_0_1_f_l,0.614040912756
+Louisville,Indiana,T,F_avsResult_outside_-1_1_l_f,0.0
+Louisville,Indiana,T,F_rightOfFigureCentroid_l_f,1.0
+Louisville,Indiana,T,F_avsResult_1_0_f_l,0.151397745487
+Louisville,Indiana,T,F_avsResult_outside_-1_-1_f_l,0.0
+Louisville,Indiana,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Louisville,Indiana,T,F_avsResult_inside_1_1_l_f,0.0
+Louisville,Indiana,T,F_distBtwnCentroids_l_f,0.139157845155
+Louisville,Indiana,T,F_avsResult_outside_0_-1_l_f,0.0420027556667
+Louisville,Indiana,T,F_avsResult_1_0_l_f,0.342113437584
+Louisville,Indiana,T,F_avsResult_1_-1_l_f,0.0
+Louisville,Indiana,T,F_closeDistNormLandmark_f_l,0.0
+Louisville,Indiana,T,F_avsResult_inside_0_-1_l_f,0.0
+Louisville,Indiana,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Louisville,Indiana,T,F_avsResult_outside_-1_0_l_f,0.0333842020356
+Louisville,Indiana,T,F_avsResult_1_1_f_l,0.484946825898
+Louisville,Indiana,T,F_avsResult_0_1_l_f,0.0420027556667
+Louisville,Indiana,T,F_leftOfFigureCentroid_l_f,0.0
+Louisville,Indiana,T,F_closeDistNormUnion_l_f,0.0
+Louisville,Indiana,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Louisville,Indiana,T,F_closeDistNormFigure_l_f,0.0
+Louisville,Indiana,T,F_rightOfFigureCentroid_f_l,0.0
+Louisville,Indiana,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Louisville,Indiana,T,F_avsResult_outside_1_1_f_l,0.484946825898
+Louisville,Indiana,T,F_avsResult_-1_1_l_f,0.0
+Louisville,Indiana,T,F_avsResult_outside_0_1_f_l,0.614040912756
+Louisville,Indiana,T,F_math2dFigureIntersectionArea_l_f,3.88409336311e-06
+Louisville,Indiana,T,F_avsResult_inside_0_1_l_f,0.0
+Louisville,Indiana,T,F_closeDistNormUnion_f_l,0.0
+Louisville,Indiana,T,F_avsResult_outside_0_1_l_f,0.0420027556667
+Louisville,Indiana,T,F_avsResult_-1_1_f_l,0.0
+Louisville,Indiana,T,F_3dSupportsFigureLandmark_l_f,0.0
+Louisville,Indiana,T,F_avsResult_outside_1_1_l_f,0.0
+Louisville,Indiana,T,F_avsResult_outside_-1_-1_l_f,0.0
+Louisville,Indiana,T,F_avsResult_0_-1_f_l,0.614040912756
+Louisville,Indiana,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Louisville,Indiana,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Louisville,Indiana,T,F_math2dFigureIntersectionArea_f_l,0.000361059444768
+Louisville,Indiana,T,F_distBtwnCentroids_f_l,0.139157845155
+Louisville,Indiana,T,bias,1.0
+Louisville,Indiana,T,F_avsResult_-1_-1_f_l,0.0
+Louisville,Indiana,T,F_distHorizontalCentroid_f_l,-0.0468452117804
+Louisville,Indiana,T,F_avsResult_inside_1_1_f_l,0.0
+Louisville,Indiana,T,F_avsResult_inside_1_-1_f_l,0.0
+Louisville,Indiana,T,F_belowFigureCentroid_l_f,1.0
+Louisville,Indiana,T,F_avsResult_inside_1_0_f_l,0.0
+Louisville,Indiana,T,F_avsResult_outside_0_-1_f_l,0.614040912756
+Louisville,Indiana,T,F_aboveFigureCentroid_f_l,1.0
+Louisville,Indiana,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Louisville,Indiana,T,F_avsResult_outside_-1_1_f_l,0.0
+Louisville,Indiana,T,F_avsResult_outside_1_0_l_f,0.342113437584
+Louisville,Indiana,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Louisville,Indiana,T,F_avsResult_1_1_l_f,0.0
+Louisville,Indiana,T,F_avsResult_inside_-1_1_l_f,0.0
+Louisville,Indiana,T,F_belowFigureCentroid_f_l,0.0
+Louisville,Indiana,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Louisville,Indiana,T,F_closeDistNormFigure_f_l,0.0
+Louisville,Indiana,T,F_avsResult_inside_-1_0_f_l,0.0
+Louisville,Indiana,T,F_aboveFigureCentroid_l_f,0.0
+Louisville,Indiana,T,F_leftOfFigureCentroid_f_l,1.0
+Louisville,Indianapolis,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Louisville,Indianapolis,T,F_avsResult_inside_-1_-1_f_l,0.0
+Louisville,Indianapolis,T,F_distHorizontalCentroid_l_f,0.367088224293
+Louisville,Indianapolis,T,F_avsResult_outside_-1_0_f_l,0.313664459457
+Louisville,Indianapolis,T,F_avsResult_inside_1_-1_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_inside_0_1_f_l,0.0
+Louisville,Indianapolis,T,F_distVerticalCentroid_l_f,-1.16529730034
+Louisville,Indianapolis,T,F_closeDistNormLandmark_l_f,1.0
+Louisville,Indianapolis,T,F_avsResult_outside_1_-1_f_l,0.514786585825
+Louisville,Indianapolis,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Louisville,Indianapolis,T,F_math2dIntersectionArea_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_-1_0_f_l,0.313664459457
+Louisville,Indianapolis,T,F_avsResult_inside_-1_-1_l_f,0.0
+Louisville,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_inside_0_-1_f_l,0.0
+Louisville,Indianapolis,T,F_math2dIntersectionArea_f_l,0.0
+Louisville,Indianapolis,T,F_avsResult_-1_-1_l_f,0.0
+Louisville,Indianapolis,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_inside_-1_0_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_0_-1_l_f,0.029962417068
+Louisville,Indianapolis,T,F_avsResult_outside_1_0_f_l,0.161973511712
+Louisville,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_inside_1_0_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_outside_1_-1_l_f,0.0492376850904
+Louisville,Indianapolis,T,F_avsResult_inside_-1_1_f_l,0.0
+Louisville,Indianapolis,T,F_avsResult_-1_0_l_f,0.173046009775
+Louisville,Indianapolis,T,F_avsResult_1_-1_f_l,0.514786585825
+Louisville,Indianapolis,T,F_distVerticalCentroid_f_l,1.16529730034
+Louisville,Indianapolis,T,F_3dSupportsFigureLandmark_f_l,0.0
+Louisville,Indianapolis,T,F_avsResult_0_1_f_l,0.610743727252
+Louisville,Indianapolis,T,F_avsResult_outside_-1_1_l_f,0.0
+Louisville,Indianapolis,T,F_rightOfFigureCentroid_l_f,1.0
+Louisville,Indianapolis,T,F_avsResult_1_0_f_l,0.161973511712
+Louisville,Indianapolis,T,F_avsResult_outside_-1_-1_f_l,0.0
+Louisville,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Louisville,Indianapolis,T,F_avsResult_inside_1_1_l_f,0.0
+Louisville,Indianapolis,T,F_distBtwnCentroids_l_f,1.22174938616
+Louisville,Indianapolis,T,F_avsResult_outside_0_-1_l_f,0.029962417068
+Louisville,Indianapolis,T,F_avsResult_1_0_l_f,0.339045039726
+Louisville,Indianapolis,T,F_avsResult_1_-1_l_f,0.0492376850904
+Louisville,Indianapolis,T,F_closeDistNormLandmark_f_l,1.0
+Louisville,Indianapolis,T,F_avsResult_inside_0_-1_l_f,0.0
+Louisville,Indianapolis,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_outside_-1_0_l_f,0.173046009775
+Louisville,Indianapolis,T,F_avsResult_1_1_f_l,0.514786585825
+Louisville,Indianapolis,T,F_avsResult_0_1_l_f,0.029962417068
+Louisville,Indianapolis,T,F_leftOfFigureCentroid_l_f,0.0
+Louisville,Indianapolis,T,F_closeDistNormUnion_l_f,1.0
+Louisville,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Louisville,Indianapolis,T,F_closeDistNormFigure_l_f,1.0
+Louisville,Indianapolis,T,F_rightOfFigureCentroid_f_l,0.0
+Louisville,Indianapolis,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Louisville,Indianapolis,T,F_avsResult_outside_1_1_f_l,0.514786585825
+Louisville,Indianapolis,T,F_avsResult_-1_1_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_outside_0_1_f_l,0.610743727252
+Louisville,Indianapolis,T,F_math2dFigureIntersectionArea_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_inside_0_1_l_f,0.0
+Louisville,Indianapolis,T,F_closeDistNormUnion_f_l,1.0
+Louisville,Indianapolis,T,F_avsResult_outside_0_1_l_f,0.029962417068
+Louisville,Indianapolis,T,F_avsResult_-1_1_f_l,0.0
+Louisville,Indianapolis,T,F_3dSupportsFigureLandmark_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_outside_1_1_l_f,0.0492376850904
+Louisville,Indianapolis,T,F_avsResult_outside_-1_-1_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_0_-1_f_l,0.610743727252
+Louisville,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Louisville,Indianapolis,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Louisville,Indianapolis,T,F_math2dFigureIntersectionArea_f_l,0.0
+Louisville,Indianapolis,T,F_distBtwnCentroids_f_l,1.22174938616
+Louisville,Indianapolis,T,bias,1.0
+Louisville,Indianapolis,T,F_avsResult_-1_-1_f_l,0.0
+Louisville,Indianapolis,T,F_distHorizontalCentroid_f_l,-0.367088224293
+Louisville,Indianapolis,T,F_avsResult_inside_1_1_f_l,0.0
+Louisville,Indianapolis,T,F_avsResult_inside_1_-1_f_l,0.0
+Louisville,Indianapolis,T,F_belowFigureCentroid_l_f,1.0
+Louisville,Indianapolis,T,F_avsResult_inside_1_0_f_l,0.0
+Louisville,Indianapolis,T,F_avsResult_outside_0_-1_f_l,0.610743727252
+Louisville,Indianapolis,T,F_aboveFigureCentroid_f_l,1.0
+Louisville,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Louisville,Indianapolis,T,F_avsResult_outside_-1_1_f_l,0.0
+Louisville,Indianapolis,T,F_avsResult_outside_1_0_l_f,0.339045039726
+Louisville,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Louisville,Indianapolis,T,F_avsResult_1_1_l_f,0.0492376850904
+Louisville,Indianapolis,T,F_avsResult_inside_-1_1_l_f,0.0
+Louisville,Indianapolis,T,F_belowFigureCentroid_f_l,0.0
+Louisville,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Louisville,Indianapolis,T,F_closeDistNormFigure_f_l,1.0
+Louisville,Indianapolis,T,F_avsResult_inside_-1_0_f_l,0.0
+Louisville,Indianapolis,T,F_aboveFigureCentroid_l_f,0.0
+Louisville,Indianapolis,T,F_leftOfFigureCentroid_f_l,1.0
+Louisville,South Bend,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Louisville,South Bend,T,F_avsResult_inside_-1_-1_f_l,0.0
+Louisville,South Bend,T,F_distHorizontalCentroid_l_f,0.171488283638
+Louisville,South Bend,T,F_avsResult_outside_-1_0_f_l,0.301763753828
+Louisville,South Bend,T,F_avsResult_inside_1_-1_l_f,0.0
+Louisville,South Bend,T,F_avsResult_inside_0_1_f_l,0.0
+Louisville,South Bend,T,F_distVerticalCentroid_l_f,-0.972057790738
+Louisville,South Bend,T,F_closeDistNormLandmark_l_f,1.0
+Louisville,South Bend,T,F_avsResult_outside_1_-1_f_l,0.0
+Louisville,South Bend,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Louisville,South Bend,T,F_math2dIntersectionArea_l_f,0.0
+Louisville,South Bend,T,F_avsResult_-1_0_f_l,0.301763753828
+Louisville,South Bend,T,F_avsResult_inside_-1_-1_l_f,0.0
+Louisville,South Bend,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Louisville,South Bend,T,F_avsResult_inside_0_-1_f_l,0.0
+Louisville,South Bend,T,F_math2dIntersectionArea_f_l,0.0
+Louisville,South Bend,T,F_avsResult_-1_-1_l_f,0.0
+Louisville,South Bend,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Louisville,South Bend,T,F_avsResult_inside_-1_0_l_f,0.0
+Louisville,South Bend,T,F_avsResult_0_-1_l_f,0.0116056349692
+Louisville,South Bend,T,F_avsResult_outside_1_0_f_l,0.171306885512
+Louisville,South Bend,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Louisville,South Bend,T,F_avsResult_inside_1_0_l_f,0.0
+Louisville,South Bend,T,F_avsResult_outside_1_-1_l_f,0.0
+Louisville,South Bend,T,F_avsResult_inside_-1_1_f_l,0.0
+Louisville,South Bend,T,F_avsResult_-1_0_l_f,0.179330350838
+Louisville,South Bend,T,F_avsResult_1_-1_f_l,0.0
+Louisville,South Bend,T,F_distVerticalCentroid_f_l,0.972057790738
+Louisville,South Bend,T,F_3dSupportsFigureLandmark_f_l,0.0
+Louisville,South Bend,T,F_avsResult_0_1_f_l,0.743761217777
+Louisville,South Bend,T,F_avsResult_outside_-1_1_l_f,0.0
+Louisville,South Bend,T,F_rightOfFigureCentroid_l_f,1.0
+Louisville,South Bend,T,F_avsResult_1_0_f_l,0.171306885512
+Louisville,South Bend,T,F_avsResult_outside_-1_-1_f_l,0.0
+Louisville,South Bend,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Louisville,South Bend,T,F_avsResult_inside_1_1_l_f,0.0
+Louisville,South Bend,T,F_distBtwnCentroids_l_f,0.987068680467
+Louisville,South Bend,T,F_avsResult_outside_0_-1_l_f,0.0116056349692
+Louisville,South Bend,T,F_avsResult_1_0_l_f,0.319115202305
+Louisville,South Bend,T,F_avsResult_1_-1_l_f,0.0
+Louisville,South Bend,T,F_closeDistNormLandmark_f_l,1.0
+Louisville,South Bend,T,F_avsResult_inside_0_-1_l_f,0.0
+Louisville,South Bend,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Louisville,South Bend,T,F_avsResult_outside_-1_0_l_f,0.179330350838
+Louisville,South Bend,T,F_avsResult_1_1_f_l,0.0
+Louisville,South Bend,T,F_avsResult_0_1_l_f,0.0116056349692
+Louisville,South Bend,T,F_leftOfFigureCentroid_l_f,0.0
+Louisville,South Bend,T,F_closeDistNormUnion_l_f,1.0
+Louisville,South Bend,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Louisville,South Bend,T,F_closeDistNormFigure_l_f,1.0
+Louisville,South Bend,T,F_rightOfFigureCentroid_f_l,0.0
+Louisville,South Bend,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Louisville,South Bend,T,F_avsResult_outside_1_1_f_l,0.0
+Louisville,South Bend,T,F_avsResult_-1_1_l_f,0.0
+Louisville,South Bend,T,F_avsResult_outside_0_1_f_l,0.743761217777
+Louisville,South Bend,T,F_math2dFigureIntersectionArea_l_f,0.0
+Louisville,South Bend,T,F_avsResult_inside_0_1_l_f,0.0
+Louisville,South Bend,T,F_closeDistNormUnion_f_l,1.0
+Louisville,South Bend,T,F_avsResult_outside_0_1_l_f,0.0116056349692
+Louisville,South Bend,T,F_avsResult_-1_1_f_l,0.0
+Louisville,South Bend,T,F_3dSupportsFigureLandmark_l_f,0.0
+Louisville,South Bend,T,F_avsResult_outside_1_1_l_f,0.0
+Louisville,South Bend,T,F_avsResult_outside_-1_-1_l_f,0.0
+Louisville,South Bend,T,F_avsResult_0_-1_f_l,0.743761217777
+Louisville,South Bend,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Louisville,South Bend,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Louisville,South Bend,T,F_math2dFigureIntersectionArea_f_l,0.0
+Louisville,South Bend,T,F_distBtwnCentroids_f_l,0.987068680467
+Louisville,South Bend,T,bias,1.0
+Louisville,South Bend,T,F_avsResult_-1_-1_f_l,0.0
+Louisville,South Bend,T,F_distHorizontalCentroid_f_l,-0.171488283638
+Louisville,South Bend,T,F_avsResult_inside_1_1_f_l,0.0
+Louisville,South Bend,T,F_avsResult_inside_1_-1_f_l,0.0
+Louisville,South Bend,T,F_belowFigureCentroid_l_f,1.0
+Louisville,South Bend,T,F_avsResult_inside_1_0_f_l,0.0
+Louisville,South Bend,T,F_avsResult_outside_0_-1_f_l,0.743761217777
+Louisville,South Bend,T,F_aboveFigureCentroid_f_l,1.0
+Louisville,South Bend,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Louisville,South Bend,T,F_avsResult_outside_-1_1_f_l,0.0
+Louisville,South Bend,T,F_avsResult_outside_1_0_l_f,0.319115202305
+Louisville,South Bend,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Louisville,South Bend,T,F_avsResult_1_1_l_f,0.0
+Louisville,South Bend,T,F_avsResult_inside_-1_1_l_f,0.0
+Louisville,South Bend,T,F_belowFigureCentroid_f_l,0.0
+Louisville,South Bend,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Louisville,South Bend,T,F_closeDistNormFigure_f_l,1.0
+Louisville,South Bend,T,F_avsResult_inside_-1_0_f_l,0.0
+Louisville,South Bend,T,F_aboveFigureCentroid_l_f,0.0
+Louisville,South Bend,T,F_leftOfFigureCentroid_f_l,1.0
+Louisville,Lake Michigan,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_inside_-1_-1_f_l,0.0
+Louisville,Lake Michigan,T,F_distHorizontalCentroid_l_f,0.0414634438192
+Louisville,Lake Michigan,T,F_avsResult_outside_-1_0_f_l,0.33881501827
+Louisville,Lake Michigan,T,F_avsResult_inside_1_-1_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_inside_0_1_f_l,0.0
+Louisville,Lake Michigan,T,F_distVerticalCentroid_l_f,-0.221812815819
+Louisville,Lake Michigan,T,F_closeDistNormLandmark_l_f,1.0
+Louisville,Lake Michigan,T,F_avsResult_outside_1_-1_f_l,0.0
+Louisville,Lake Michigan,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Louisville,Lake Michigan,T,F_math2dIntersectionArea_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_-1_0_f_l,0.33881501827
+Louisville,Lake Michigan,T,F_avsResult_inside_-1_-1_l_f,0.0
+Louisville,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_inside_0_-1_f_l,0.0
+Louisville,Lake Michigan,T,F_math2dIntersectionArea_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_-1_-1_l_f,0.0
+Louisville,Lake Michigan,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_inside_-1_0_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_0_-1_l_f,0.0079884208301
+Louisville,Lake Michigan,T,F_avsResult_outside_1_0_f_l,0.146714390497
+Louisville,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_inside_1_0_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_outside_1_-1_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_inside_-1_1_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_-1_0_l_f,0.108033315249
+Louisville,Lake Michigan,T,F_avsResult_1_-1_f_l,0.0
+Louisville,Lake Michigan,T,F_distVerticalCentroid_f_l,0.221812815819
+Louisville,Lake Michigan,T,F_3dSupportsFigureLandmark_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_0_1_f_l,0.788797726313
+Louisville,Lake Michigan,T,F_avsResult_outside_-1_1_l_f,0.0
+Louisville,Lake Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+Louisville,Lake Michigan,T,F_avsResult_1_0_f_l,0.146714390497
+Louisville,Lake Michigan,T,F_avsResult_outside_-1_-1_f_l,0.0
+Louisville,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_inside_1_1_l_f,0.0
+Louisville,Lake Michigan,T,F_distBtwnCentroids_l_f,0.225654918924
+Louisville,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.0079884208301
+Louisville,Lake Michigan,T,F_avsResult_1_0_l_f,0.219563435258
+Louisville,Lake Michigan,T,F_avsResult_1_-1_l_f,0.0
+Louisville,Lake Michigan,T,F_closeDistNormLandmark_f_l,1.0
+Louisville,Lake Michigan,T,F_avsResult_inside_0_-1_l_f,0.0
+Louisville,Lake Michigan,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.108033315249
+Louisville,Lake Michigan,T,F_avsResult_1_1_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_0_1_l_f,0.0079884208301
+Louisville,Lake Michigan,T,F_leftOfFigureCentroid_l_f,0.0
+Louisville,Lake Michigan,T,F_closeDistNormUnion_l_f,1.0
+Louisville,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Louisville,Lake Michigan,T,F_closeDistNormFigure_l_f,1.0
+Louisville,Lake Michigan,T,F_rightOfFigureCentroid_f_l,0.0
+Louisville,Lake Michigan,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_outside_1_1_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_-1_1_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_outside_0_1_f_l,0.788797726313
+Louisville,Lake Michigan,T,F_math2dFigureIntersectionArea_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_inside_0_1_l_f,0.0
+Louisville,Lake Michigan,T,F_closeDistNormUnion_f_l,1.0
+Louisville,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.0079884208301
+Louisville,Lake Michigan,T,F_avsResult_-1_1_f_l,0.0
+Louisville,Lake Michigan,T,F_3dSupportsFigureLandmark_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_outside_1_1_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_outside_-1_-1_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_0_-1_f_l,0.788797726313
+Louisville,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Louisville,Lake Michigan,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Louisville,Lake Michigan,T,F_math2dFigureIntersectionArea_f_l,0.0
+Louisville,Lake Michigan,T,F_distBtwnCentroids_f_l,0.225654918924
+Louisville,Lake Michigan,T,bias,1.0
+Louisville,Lake Michigan,T,F_avsResult_-1_-1_f_l,0.0
+Louisville,Lake Michigan,T,F_distHorizontalCentroid_f_l,-0.0414634438192
+Louisville,Lake Michigan,T,F_avsResult_inside_1_1_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_inside_1_-1_f_l,0.0
+Louisville,Lake Michigan,T,F_belowFigureCentroid_l_f,1.0
+Louisville,Lake Michigan,T,F_avsResult_inside_1_0_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_outside_0_-1_f_l,0.788797726313
+Louisville,Lake Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Louisville,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_outside_-1_1_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.219563435258
+Louisville,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Louisville,Lake Michigan,T,F_avsResult_1_1_l_f,0.0
+Louisville,Lake Michigan,T,F_avsResult_inside_-1_1_l_f,0.0
+Louisville,Lake Michigan,T,F_belowFigureCentroid_f_l,0.0
+Louisville,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Louisville,Lake Michigan,T,F_closeDistNormFigure_f_l,1.0
+Louisville,Lake Michigan,T,F_avsResult_inside_-1_0_f_l,0.0
+Louisville,Lake Michigan,T,F_aboveFigureCentroid_l_f,0.0
+Louisville,Lake Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+Indiana,Kentucky,T,F_math2dLandmarkIntersectionArea_f_l,0.139717348163
+Indiana,Kentucky,T,F_avsResult_inside_-1_-1_f_l,0.0
+Indiana,Kentucky,T,F_distHorizontalCentroid_l_f,-0.0126668040261
+Indiana,Kentucky,T,F_avsResult_outside_-1_0_f_l,0.0558598985462
+Indiana,Kentucky,T,F_avsResult_inside_1_-1_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_inside_0_1_f_l,0.0
+Indiana,Kentucky,T,F_distVerticalCentroid_l_f,0.0520993398693
+Indiana,Kentucky,T,F_closeDistNormLandmark_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_outside_1_-1_f_l,0.0
+Indiana,Kentucky,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Indiana,Kentucky,T,F_math2dIntersectionArea_l_f,0.103511647345
+Indiana,Kentucky,T,F_avsResult_-1_0_f_l,0.0558598985462
+Indiana,Kentucky,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indiana,Kentucky,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_inside_0_-1_f_l,0.0
+Indiana,Kentucky,T,F_math2dIntersectionArea_f_l,0.103511647345
+Indiana,Kentucky,T,F_avsResult_-1_-1_l_f,0.0
+Indiana,Kentucky,T,F_math2dLandmarkIntersectionArea_l_f,0.285433643276
+Indiana,Kentucky,T,F_avsResult_inside_-1_0_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_0_-1_l_f,0.567767501475
+Indiana,Kentucky,T,F_avsResult_outside_1_0_f_l,0.30770390616
+Indiana,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_inside_1_0_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_outside_1_-1_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_inside_-1_1_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_-1_0_l_f,0.0683057287312
+Indiana,Kentucky,T,F_avsResult_1_-1_f_l,0.0
+Indiana,Kentucky,T,F_distVerticalCentroid_f_l,-0.0520993398693
+Indiana,Kentucky,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_0_1_f_l,0.0414284619906
+Indiana,Kentucky,T,F_avsResult_outside_-1_1_l_f,0.0
+Indiana,Kentucky,T,F_rightOfFigureCentroid_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_1_0_f_l,0.30770390616
+Indiana,Kentucky,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indiana,Kentucky,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_inside_1_1_l_f,0.0
+Indiana,Kentucky,T,F_distBtwnCentroids_l_f,0.0536170601492
+Indiana,Kentucky,T,F_avsResult_outside_0_-1_l_f,0.567767501475
+Indiana,Kentucky,T,F_avsResult_1_0_l_f,0.0542394346907
+Indiana,Kentucky,T,F_avsResult_1_-1_l_f,0.0
+Indiana,Kentucky,T,F_closeDistNormLandmark_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_inside_0_-1_l_f,0.0
+Indiana,Kentucky,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Indiana,Kentucky,T,F_avsResult_outside_-1_0_l_f,0.0683057287312
+Indiana,Kentucky,T,F_avsResult_1_1_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_0_1_l_f,0.567767501475
+Indiana,Kentucky,T,F_leftOfFigureCentroid_l_f,1.0
+Indiana,Kentucky,T,F_closeDistNormUnion_l_f,0.0
+Indiana,Kentucky,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indiana,Kentucky,T,F_closeDistNormFigure_l_f,0.0
+Indiana,Kentucky,T,F_rightOfFigureCentroid_f_l,1.0
+Indiana,Kentucky,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_outside_1_1_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_-1_1_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_outside_0_1_f_l,0.0414284619906
+Indiana,Kentucky,T,F_math2dFigureIntersectionArea_l_f,0.139717348163
+Indiana,Kentucky,T,F_avsResult_inside_0_1_l_f,0.0
+Indiana,Kentucky,T,F_closeDistNormUnion_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_outside_0_1_l_f,0.567767501475
+Indiana,Kentucky,T,F_avsResult_-1_1_f_l,0.0
+Indiana,Kentucky,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_outside_1_1_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_0_-1_f_l,0.0414284619906
+Indiana,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indiana,Kentucky,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indiana,Kentucky,T,F_math2dFigureIntersectionArea_f_l,0.285433643276
+Indiana,Kentucky,T,F_distBtwnCentroids_f_l,0.0536170601492
+Indiana,Kentucky,T,bias,1.0
+Indiana,Kentucky,T,F_avsResult_-1_-1_f_l,0.0
+Indiana,Kentucky,T,F_distHorizontalCentroid_f_l,0.0126668040261
+Indiana,Kentucky,T,F_avsResult_inside_1_1_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_inside_1_-1_f_l,0.0
+Indiana,Kentucky,T,F_belowFigureCentroid_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_inside_1_0_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_outside_0_-1_f_l,0.0414284619906
+Indiana,Kentucky,T,F_aboveFigureCentroid_f_l,0.0
+Indiana,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_outside_-1_1_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_outside_1_0_l_f,0.0542394346907
+Indiana,Kentucky,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_1_1_l_f,0.0
+Indiana,Kentucky,T,F_avsResult_inside_-1_1_l_f,0.0
+Indiana,Kentucky,T,F_belowFigureCentroid_f_l,1.0
+Indiana,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indiana,Kentucky,T,F_closeDistNormFigure_f_l,0.0
+Indiana,Kentucky,T,F_avsResult_inside_-1_0_f_l,0.0
+Indiana,Kentucky,T,F_aboveFigureCentroid_l_f,1.0
+Indiana,Kentucky,T,F_leftOfFigureCentroid_f_l,0.0
+Indiana,Louisville,T,F_math2dLandmarkIntersectionArea_f_l,0.000361059444768
+Indiana,Louisville,T,F_avsResult_inside_-1_-1_f_l,0.0
+Indiana,Louisville,T,F_distHorizontalCentroid_l_f,-0.0468452117804
+Indiana,Louisville,T,F_avsResult_outside_-1_0_f_l,0.0333842020356
+Indiana,Louisville,T,F_avsResult_inside_1_-1_l_f,0.0
+Indiana,Louisville,T,F_avsResult_inside_0_1_f_l,0.0
+Indiana,Louisville,T,F_distVerticalCentroid_l_f,0.13103599506
+Indiana,Louisville,T,F_closeDistNormLandmark_l_f,0.0
+Indiana,Louisville,T,F_avsResult_outside_1_-1_f_l,0.0
+Indiana,Louisville,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Indiana,Louisville,T,F_math2dIntersectionArea_l_f,3.84276973186e-06
+Indiana,Louisville,T,F_avsResult_-1_0_f_l,0.0333842020356
+Indiana,Louisville,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indiana,Louisville,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indiana,Louisville,T,F_avsResult_inside_0_-1_f_l,0.0
+Indiana,Louisville,T,F_math2dIntersectionArea_f_l,3.84276973186e-06
+Indiana,Louisville,T,F_avsResult_-1_-1_l_f,0.0
+Indiana,Louisville,T,F_math2dLandmarkIntersectionArea_l_f,3.88409336311e-06
+Indiana,Louisville,T,F_avsResult_inside_-1_0_l_f,0.0
+Indiana,Louisville,T,F_avsResult_0_-1_l_f,0.614040912756
+Indiana,Louisville,T,F_avsResult_outside_1_0_f_l,0.342113437584
+Indiana,Louisville,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indiana,Louisville,T,F_avsResult_inside_1_0_l_f,0.0
+Indiana,Louisville,T,F_avsResult_outside_1_-1_l_f,0.484946825898
+Indiana,Louisville,T,F_avsResult_inside_-1_1_f_l,0.0
+Indiana,Louisville,T,F_avsResult_-1_0_l_f,0.330050877291
+Indiana,Louisville,T,F_avsResult_1_-1_f_l,0.0
+Indiana,Louisville,T,F_distVerticalCentroid_f_l,-0.13103599506
+Indiana,Louisville,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indiana,Louisville,T,F_avsResult_0_1_f_l,0.0420027556667
+Indiana,Louisville,T,F_avsResult_outside_-1_1_l_f,0.0
+Indiana,Louisville,T,F_rightOfFigureCentroid_l_f,0.0
+Indiana,Louisville,T,F_avsResult_1_0_f_l,0.342113437584
+Indiana,Louisville,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indiana,Louisville,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indiana,Louisville,T,F_avsResult_inside_1_1_l_f,0.0
+Indiana,Louisville,T,F_distBtwnCentroids_l_f,0.139157845155
+Indiana,Louisville,T,F_avsResult_outside_0_-1_l_f,0.614040912756
+Indiana,Louisville,T,F_avsResult_1_0_l_f,0.151397745487
+Indiana,Louisville,T,F_avsResult_1_-1_l_f,0.484946825898
+Indiana,Louisville,T,F_closeDistNormLandmark_f_l,0.0
+Indiana,Louisville,T,F_avsResult_inside_0_-1_l_f,0.0
+Indiana,Louisville,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Indiana,Louisville,T,F_avsResult_outside_-1_0_l_f,0.330050877291
+Indiana,Louisville,T,F_avsResult_1_1_f_l,0.0
+Indiana,Louisville,T,F_avsResult_0_1_l_f,0.614040912756
+Indiana,Louisville,T,F_leftOfFigureCentroid_l_f,1.0
+Indiana,Louisville,T,F_closeDistNormUnion_l_f,0.0
+Indiana,Louisville,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indiana,Louisville,T,F_closeDistNormFigure_l_f,0.0
+Indiana,Louisville,T,F_rightOfFigureCentroid_f_l,1.0
+Indiana,Louisville,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indiana,Louisville,T,F_avsResult_outside_1_1_f_l,0.0
+Indiana,Louisville,T,F_avsResult_-1_1_l_f,0.0
+Indiana,Louisville,T,F_avsResult_outside_0_1_f_l,0.0420027556667
+Indiana,Louisville,T,F_math2dFigureIntersectionArea_l_f,0.000361059444768
+Indiana,Louisville,T,F_avsResult_inside_0_1_l_f,0.0
+Indiana,Louisville,T,F_closeDistNormUnion_f_l,0.0
+Indiana,Louisville,T,F_avsResult_outside_0_1_l_f,0.614040912756
+Indiana,Louisville,T,F_avsResult_-1_1_f_l,0.0
+Indiana,Louisville,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indiana,Louisville,T,F_avsResult_outside_1_1_l_f,0.484946825898
+Indiana,Louisville,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indiana,Louisville,T,F_avsResult_0_-1_f_l,0.0420027556667
+Indiana,Louisville,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indiana,Louisville,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indiana,Louisville,T,F_math2dFigureIntersectionArea_f_l,3.88409336311e-06
+Indiana,Louisville,T,F_distBtwnCentroids_f_l,0.139157845155
+Indiana,Louisville,T,bias,1.0
+Indiana,Louisville,T,F_avsResult_-1_-1_f_l,0.0
+Indiana,Louisville,T,F_distHorizontalCentroid_f_l,0.0468452117804
+Indiana,Louisville,T,F_avsResult_inside_1_1_f_l,0.0
+Indiana,Louisville,T,F_avsResult_inside_1_-1_f_l,0.0
+Indiana,Louisville,T,F_belowFigureCentroid_l_f,0.0
+Indiana,Louisville,T,F_avsResult_inside_1_0_f_l,0.0
+Indiana,Louisville,T,F_avsResult_outside_0_-1_f_l,0.0420027556667
+Indiana,Louisville,T,F_aboveFigureCentroid_f_l,0.0
+Indiana,Louisville,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indiana,Louisville,T,F_avsResult_outside_-1_1_f_l,0.0
+Indiana,Louisville,T,F_avsResult_outside_1_0_l_f,0.151397745487
+Indiana,Louisville,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indiana,Louisville,T,F_avsResult_1_1_l_f,0.484946825898
+Indiana,Louisville,T,F_avsResult_inside_-1_1_l_f,0.0
+Indiana,Louisville,T,F_belowFigureCentroid_f_l,1.0
+Indiana,Louisville,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indiana,Louisville,T,F_closeDistNormFigure_f_l,0.0
+Indiana,Louisville,T,F_avsResult_inside_-1_0_f_l,0.0
+Indiana,Louisville,T,F_aboveFigureCentroid_l_f,1.0
+Indiana,Louisville,T,F_leftOfFigureCentroid_f_l,0.0
+Indiana,Indiana,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Indiana,Indiana,T,F_avsResult_inside_-1_-1_f_l,0.0
+Indiana,Indiana,T,F_distHorizontalCentroid_l_f,0.0
+Indiana,Indiana,T,F_avsResult_outside_-1_0_f_l,0.0
+Indiana,Indiana,T,F_avsResult_inside_1_-1_l_f,0.0
+Indiana,Indiana,T,F_avsResult_inside_0_1_f_l,0.162384098462
+Indiana,Indiana,T,F_distVerticalCentroid_l_f,0.0
+Indiana,Indiana,T,F_closeDistNormLandmark_l_f,0.0
+Indiana,Indiana,T,F_avsResult_outside_1_-1_f_l,0.0
+Indiana,Indiana,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Indiana,Indiana,T,F_math2dIntersectionArea_l_f,1.0
+Indiana,Indiana,T,F_avsResult_-1_0_f_l,0.0181073199963
+Indiana,Indiana,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indiana,Indiana,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indiana,Indiana,T,F_avsResult_inside_0_-1_f_l,0.162384098462
+Indiana,Indiana,T,F_math2dIntersectionArea_f_l,1.0
+Indiana,Indiana,T,F_avsResult_-1_-1_l_f,0.0
+Indiana,Indiana,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Indiana,Indiana,T,F_avsResult_inside_-1_0_l_f,0.0181073199963
+Indiana,Indiana,T,F_avsResult_0_-1_l_f,0.162384098462
+Indiana,Indiana,T,F_avsResult_outside_1_0_f_l,0.0
+Indiana,Indiana,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indiana,Indiana,T,F_avsResult_inside_1_0_l_f,0.0184556459924
+Indiana,Indiana,T,F_avsResult_outside_1_-1_l_f,0.0
+Indiana,Indiana,T,F_avsResult_inside_-1_1_f_l,0.0
+Indiana,Indiana,T,F_avsResult_-1_0_l_f,0.0181073199963
+Indiana,Indiana,T,F_avsResult_1_-1_f_l,0.0
+Indiana,Indiana,T,F_distVerticalCentroid_f_l,0.0
+Indiana,Indiana,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indiana,Indiana,T,F_avsResult_0_1_f_l,0.162384098462
+Indiana,Indiana,T,F_avsResult_outside_-1_1_l_f,0.0
+Indiana,Indiana,T,F_rightOfFigureCentroid_l_f,0.0
+Indiana,Indiana,T,F_avsResult_1_0_f_l,0.0184556459924
+Indiana,Indiana,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indiana,Indiana,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indiana,Indiana,T,F_avsResult_inside_1_1_l_f,0.0
+Indiana,Indiana,T,F_distBtwnCentroids_l_f,0.0
+Indiana,Indiana,T,F_avsResult_outside_0_-1_l_f,0.0
+Indiana,Indiana,T,F_avsResult_1_0_l_f,0.0184556459924
+Indiana,Indiana,T,F_avsResult_1_-1_l_f,0.0
+Indiana,Indiana,T,F_closeDistNormLandmark_f_l,0.0
+Indiana,Indiana,T,F_avsResult_inside_0_-1_l_f,0.162384098462
+Indiana,Indiana,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Indiana,Indiana,T,F_avsResult_outside_-1_0_l_f,0.0
+Indiana,Indiana,T,F_avsResult_1_1_f_l,0.0
+Indiana,Indiana,T,F_avsResult_0_1_l_f,0.162384098462
+Indiana,Indiana,T,F_leftOfFigureCentroid_l_f,0.0
+Indiana,Indiana,T,F_closeDistNormUnion_l_f,0.0
+Indiana,Indiana,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indiana,Indiana,T,F_closeDistNormFigure_l_f,0.0
+Indiana,Indiana,T,F_rightOfFigureCentroid_f_l,0.0
+Indiana,Indiana,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indiana,Indiana,T,F_avsResult_outside_1_1_f_l,0.0
+Indiana,Indiana,T,F_avsResult_-1_1_l_f,0.0
+Indiana,Indiana,T,F_avsResult_outside_0_1_f_l,0.0
+Indiana,Indiana,T,F_math2dFigureIntersectionArea_l_f,1.0
+Indiana,Indiana,T,F_avsResult_inside_0_1_l_f,0.162384098462
+Indiana,Indiana,T,F_closeDistNormUnion_f_l,0.0
+Indiana,Indiana,T,F_avsResult_outside_0_1_l_f,0.0
+Indiana,Indiana,T,F_avsResult_-1_1_f_l,0.0
+Indiana,Indiana,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indiana,Indiana,T,F_avsResult_outside_1_1_l_f,0.0
+Indiana,Indiana,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indiana,Indiana,T,F_avsResult_0_-1_f_l,0.162384098462
+Indiana,Indiana,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indiana,Indiana,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indiana,Indiana,T,F_math2dFigureIntersectionArea_f_l,1.0
+Indiana,Indiana,T,F_distBtwnCentroids_f_l,0.0
+Indiana,Indiana,T,bias,1.0
+Indiana,Indiana,T,F_avsResult_-1_-1_f_l,0.0
+Indiana,Indiana,T,F_distHorizontalCentroid_f_l,0.0
+Indiana,Indiana,T,F_avsResult_inside_1_1_f_l,0.0
+Indiana,Indiana,T,F_avsResult_inside_1_-1_f_l,0.0
+Indiana,Indiana,T,F_belowFigureCentroid_l_f,0.0
+Indiana,Indiana,T,F_avsResult_inside_1_0_f_l,0.0184556459924
+Indiana,Indiana,T,F_avsResult_outside_0_-1_f_l,0.0
+Indiana,Indiana,T,F_aboveFigureCentroid_f_l,0.0
+Indiana,Indiana,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indiana,Indiana,T,F_avsResult_outside_-1_1_f_l,0.0
+Indiana,Indiana,T,F_avsResult_outside_1_0_l_f,0.0
+Indiana,Indiana,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indiana,Indiana,T,F_avsResult_1_1_l_f,0.0
+Indiana,Indiana,T,F_avsResult_inside_-1_1_l_f,0.0
+Indiana,Indiana,T,F_belowFigureCentroid_f_l,0.0
+Indiana,Indiana,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indiana,Indiana,T,F_closeDistNormFigure_f_l,0.0
+Indiana,Indiana,T,F_avsResult_inside_-1_0_f_l,0.0181073199963
+Indiana,Indiana,T,F_aboveFigureCentroid_l_f,0.0
+Indiana,Indiana,T,F_leftOfFigureCentroid_f_l,0.0
+Indiana,Indianapolis,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Indiana,Indianapolis,T,F_avsResult_inside_-1_-1_f_l,0.0
+Indiana,Indianapolis,T,F_distHorizontalCentroid_l_f,-0.00892037472162
+Indiana,Indianapolis,T,F_avsResult_outside_-1_0_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_inside_1_-1_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_inside_0_1_f_l,0.267463887682
+Indiana,Indianapolis,T,F_distVerticalCentroid_l_f,0.0106461069742
+Indiana,Indianapolis,T,F_closeDistNormLandmark_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_outside_1_-1_f_l,0.0
+Indiana,Indianapolis,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Indiana,Indianapolis,T,F_math2dIntersectionArea_l_f,3.18237614607e-05
+Indiana,Indianapolis,T,F_avsResult_-1_0_f_l,0.0152928643532
+Indiana,Indianapolis,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indiana,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_inside_0_-1_f_l,0.267463887682
+Indiana,Indianapolis,T,F_math2dIntersectionArea_f_l,3.18237614607e-05
+Indiana,Indianapolis,T,F_avsResult_-1_-1_l_f,0.0
+Indiana,Indianapolis,T,F_math2dLandmarkIntersectionArea_l_f,3.18237614607e-05
+Indiana,Indianapolis,T,F_avsResult_inside_-1_0_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_0_-1_l_f,0.402697719516
+Indiana,Indianapolis,T,F_avsResult_outside_1_0_f_l,0.0
+Indiana,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_inside_1_0_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_outside_1_-1_l_f,0.277407493085
+Indiana,Indianapolis,T,F_avsResult_inside_-1_1_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_-1_0_l_f,0.372493954374
+Indiana,Indianapolis,T,F_avsResult_1_-1_f_l,0.0
+Indiana,Indianapolis,T,F_distVerticalCentroid_f_l,-0.0106461069742
+Indiana,Indianapolis,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_0_1_f_l,0.267463887682
+Indiana,Indianapolis,T,F_avsResult_outside_-1_1_l_f,0.0
+Indiana,Indianapolis,T,F_rightOfFigureCentroid_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_1_0_f_l,0.12391122851
+Indiana,Indianapolis,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indiana,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_inside_1_1_l_f,0.0
+Indiana,Indianapolis,T,F_distBtwnCentroids_l_f,0.013889300878
+Indiana,Indianapolis,T,F_avsResult_outside_0_-1_l_f,0.402697719516
+Indiana,Indianapolis,T,F_avsResult_1_0_l_f,0.133316257025
+Indiana,Indianapolis,T,F_avsResult_1_-1_l_f,0.277407493085
+Indiana,Indianapolis,T,F_closeDistNormLandmark_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_inside_0_-1_l_f,0.0
+Indiana,Indianapolis,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Indiana,Indianapolis,T,F_avsResult_outside_-1_0_l_f,0.372493954374
+Indiana,Indianapolis,T,F_avsResult_1_1_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_0_1_l_f,0.402697719516
+Indiana,Indianapolis,T,F_leftOfFigureCentroid_l_f,1.0
+Indiana,Indianapolis,T,F_closeDistNormUnion_l_f,0.0
+Indiana,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indiana,Indianapolis,T,F_closeDistNormFigure_l_f,0.0
+Indiana,Indianapolis,T,F_rightOfFigureCentroid_f_l,1.0
+Indiana,Indianapolis,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_outside_1_1_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_-1_1_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_outside_0_1_f_l,0.0
+Indiana,Indianapolis,T,F_math2dFigureIntersectionArea_l_f,1.0
+Indiana,Indianapolis,T,F_avsResult_inside_0_1_l_f,0.0
+Indiana,Indianapolis,T,F_closeDistNormUnion_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_outside_0_1_l_f,0.402697719516
+Indiana,Indianapolis,T,F_avsResult_-1_1_f_l,0.0
+Indiana,Indianapolis,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_outside_1_1_l_f,0.277407493085
+Indiana,Indianapolis,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_0_-1_f_l,0.267463887682
+Indiana,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indiana,Indianapolis,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indiana,Indianapolis,T,F_math2dFigureIntersectionArea_f_l,3.18237614607e-05
+Indiana,Indianapolis,T,F_distBtwnCentroids_f_l,0.013889300878
+Indiana,Indianapolis,T,bias,1.0
+Indiana,Indianapolis,T,F_avsResult_-1_-1_f_l,0.0
+Indiana,Indianapolis,T,F_distHorizontalCentroid_f_l,0.00892037472162
+Indiana,Indianapolis,T,F_avsResult_inside_1_1_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_inside_1_-1_f_l,0.0
+Indiana,Indianapolis,T,F_belowFigureCentroid_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_inside_1_0_f_l,0.12391122851
+Indiana,Indianapolis,T,F_avsResult_outside_0_-1_f_l,0.0
+Indiana,Indianapolis,T,F_aboveFigureCentroid_f_l,0.0
+Indiana,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indiana,Indianapolis,T,F_avsResult_outside_-1_1_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_outside_1_0_l_f,0.133316257025
+Indiana,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_1_1_l_f,0.277407493085
+Indiana,Indianapolis,T,F_avsResult_inside_-1_1_l_f,0.0
+Indiana,Indianapolis,T,F_belowFigureCentroid_f_l,1.0
+Indiana,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indiana,Indianapolis,T,F_closeDistNormFigure_f_l,0.0
+Indiana,Indianapolis,T,F_avsResult_inside_-1_0_f_l,0.0152928643532
+Indiana,Indianapolis,T,F_aboveFigureCentroid_l_f,1.0
+Indiana,Indianapolis,T,F_leftOfFigureCentroid_f_l,0.0
+Indiana,South Bend,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Indiana,South Bend,T,F_avsResult_inside_-1_-1_f_l,0.362617574862
+Indiana,South Bend,T,F_distHorizontalCentroid_l_f,5.05074915814e-05
+Indiana,South Bend,T,F_avsResult_outside_-1_0_f_l,0.0
+Indiana,South Bend,T,F_avsResult_inside_1_-1_l_f,0.0
+Indiana,South Bend,T,F_avsResult_inside_0_1_f_l,0.202652439076
+Indiana,South Bend,T,F_distVerticalCentroid_l_f,-0.134785950926
+Indiana,South Bend,T,F_closeDistNormLandmark_l_f,0.0
+Indiana,South Bend,T,F_avsResult_outside_1_-1_f_l,0.0
+Indiana,South Bend,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Indiana,South Bend,T,F_math2dIntersectionArea_l_f,0.00279349748322
+Indiana,South Bend,T,F_avsResult_-1_0_f_l,0.265796658077
+Indiana,South Bend,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indiana,South Bend,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indiana,South Bend,T,F_avsResult_inside_0_-1_f_l,0.202652439076
+Indiana,South Bend,T,F_math2dIntersectionArea_f_l,0.00279349748322
+Indiana,South Bend,T,F_avsResult_-1_-1_l_f,0.0
+Indiana,South Bend,T,F_math2dLandmarkIntersectionArea_l_f,0.00279349748322
+Indiana,South Bend,T,F_avsResult_inside_-1_0_l_f,0.0
+Indiana,South Bend,T,F_avsResult_0_-1_l_f,0.000440495316679
+Indiana,South Bend,T,F_avsResult_outside_1_0_f_l,0.0
+Indiana,South Bend,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indiana,South Bend,T,F_avsResult_inside_1_0_l_f,0.0
+Indiana,South Bend,T,F_avsResult_outside_1_-1_l_f,0.0
+Indiana,South Bend,T,F_avsResult_inside_-1_1_f_l,0.362617574862
+Indiana,South Bend,T,F_avsResult_-1_0_l_f,0.242980363471
+Indiana,South Bend,T,F_avsResult_1_-1_f_l,0.0
+Indiana,South Bend,T,F_distVerticalCentroid_f_l,0.134785950926
+Indiana,South Bend,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indiana,South Bend,T,F_avsResult_0_1_f_l,0.202652439076
+Indiana,South Bend,T,F_avsResult_outside_-1_1_l_f,0.0
+Indiana,South Bend,T,F_rightOfFigureCentroid_l_f,1.0
+Indiana,South Bend,T,F_avsResult_1_0_f_l,0.0270355539671
+Indiana,South Bend,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indiana,South Bend,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indiana,South Bend,T,F_avsResult_inside_1_1_l_f,0.0
+Indiana,South Bend,T,F_distBtwnCentroids_l_f,0.134785960389
+Indiana,South Bend,T,F_avsResult_outside_0_-1_l_f,0.000440495316679
+Indiana,South Bend,T,F_avsResult_1_0_l_f,0.244688686093
+Indiana,South Bend,T,F_avsResult_1_-1_l_f,0.0
+Indiana,South Bend,T,F_closeDistNormLandmark_f_l,0.0
+Indiana,South Bend,T,F_avsResult_inside_0_-1_l_f,0.0
+Indiana,South Bend,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Indiana,South Bend,T,F_avsResult_outside_-1_0_l_f,0.242980363471
+Indiana,South Bend,T,F_avsResult_1_1_f_l,0.0
+Indiana,South Bend,T,F_avsResult_0_1_l_f,0.000440495316679
+Indiana,South Bend,T,F_leftOfFigureCentroid_l_f,0.0
+Indiana,South Bend,T,F_closeDistNormUnion_l_f,0.0
+Indiana,South Bend,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indiana,South Bend,T,F_closeDistNormFigure_l_f,0.0
+Indiana,South Bend,T,F_rightOfFigureCentroid_f_l,0.0
+Indiana,South Bend,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indiana,South Bend,T,F_avsResult_outside_1_1_f_l,0.0
+Indiana,South Bend,T,F_avsResult_-1_1_l_f,0.0
+Indiana,South Bend,T,F_avsResult_outside_0_1_f_l,0.0
+Indiana,South Bend,T,F_math2dFigureIntersectionArea_l_f,1.0
+Indiana,South Bend,T,F_avsResult_inside_0_1_l_f,0.0
+Indiana,South Bend,T,F_closeDistNormUnion_f_l,0.0
+Indiana,South Bend,T,F_avsResult_outside_0_1_l_f,0.000440495316679
+Indiana,South Bend,T,F_avsResult_-1_1_f_l,0.362617574862
+Indiana,South Bend,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indiana,South Bend,T,F_avsResult_outside_1_1_l_f,0.0
+Indiana,South Bend,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indiana,South Bend,T,F_avsResult_0_-1_f_l,0.202652439076
+Indiana,South Bend,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indiana,South Bend,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indiana,South Bend,T,F_math2dFigureIntersectionArea_f_l,0.00279349748322
+Indiana,South Bend,T,F_distBtwnCentroids_f_l,0.134785960389
+Indiana,South Bend,T,bias,1.0
+Indiana,South Bend,T,F_avsResult_-1_-1_f_l,0.362617574862
+Indiana,South Bend,T,F_distHorizontalCentroid_f_l,-5.05074915814e-05
+Indiana,South Bend,T,F_avsResult_inside_1_1_f_l,0.0
+Indiana,South Bend,T,F_avsResult_inside_1_-1_f_l,0.0
+Indiana,South Bend,T,F_belowFigureCentroid_l_f,1.0
+Indiana,South Bend,T,F_avsResult_inside_1_0_f_l,0.0270355539671
+Indiana,South Bend,T,F_avsResult_outside_0_-1_f_l,0.0
+Indiana,South Bend,T,F_aboveFigureCentroid_f_l,1.0
+Indiana,South Bend,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indiana,South Bend,T,F_avsResult_outside_-1_1_f_l,0.0
+Indiana,South Bend,T,F_avsResult_outside_1_0_l_f,0.244688686093
+Indiana,South Bend,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indiana,South Bend,T,F_avsResult_1_1_l_f,0.0
+Indiana,South Bend,T,F_avsResult_inside_-1_1_l_f,0.0
+Indiana,South Bend,T,F_belowFigureCentroid_f_l,0.0
+Indiana,South Bend,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indiana,South Bend,T,F_closeDistNormFigure_f_l,0.0
+Indiana,South Bend,T,F_avsResult_inside_-1_0_f_l,0.265796658077
+Indiana,South Bend,T,F_aboveFigureCentroid_l_f,0.0
+Indiana,South Bend,T,F_leftOfFigureCentroid_f_l,1.0
+Indiana,Lake Michigan,T,F_math2dLandmarkIntersectionArea_f_l,0.000273526337333
+Indiana,Lake Michigan,T,F_avsResult_inside_-1_-1_f_l,0.0
+Indiana,Lake Michigan,T,F_distHorizontalCentroid_l_f,0.0173246942762
+Indiana,Lake Michigan,T,F_avsResult_outside_-1_0_f_l,0.175126516955
+Indiana,Lake Michigan,T,F_avsResult_inside_1_-1_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_inside_0_1_f_l,0.0
+Indiana,Lake Michigan,T,F_distVerticalCentroid_l_f,-0.149914216404
+Indiana,Lake Michigan,T,F_closeDistNormLandmark_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_outside_1_-1_f_l,0.0
+Indiana,Lake Michigan,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Indiana,Lake Michigan,T,F_math2dIntersectionArea_l_f,0.000108843075569
+Indiana,Lake Michigan,T,F_avsResult_-1_0_f_l,0.175126516955
+Indiana,Lake Michigan,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indiana,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_inside_0_-1_f_l,0.0
+Indiana,Lake Michigan,T,F_math2dIntersectionArea_f_l,0.000108843075569
+Indiana,Lake Michigan,T,F_avsResult_-1_-1_l_f,0.0
+Indiana,Lake Michigan,T,F_math2dLandmarkIntersectionArea_l_f,0.000180747371497
+Indiana,Lake Michigan,T,F_avsResult_inside_-1_0_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_0_-1_l_f,0.00723655153089
+Indiana,Lake Michigan,T,F_avsResult_outside_1_0_f_l,0.126598009086
+Indiana,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_inside_1_0_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_outside_1_-1_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_inside_-1_1_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_-1_0_l_f,0.121436370818
+Indiana,Lake Michigan,T,F_avsResult_1_-1_f_l,0.0
+Indiana,Lake Michigan,T,F_distVerticalCentroid_f_l,0.149914216404
+Indiana,Lake Michigan,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_0_1_f_l,0.719215179739
+Indiana,Lake Michigan,T,F_avsResult_outside_-1_1_l_f,0.0
+Indiana,Lake Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+Indiana,Lake Michigan,T,F_avsResult_1_0_f_l,0.126598009086
+Indiana,Lake Michigan,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indiana,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_inside_1_1_l_f,0.0
+Indiana,Lake Michigan,T,F_distBtwnCentroids_l_f,0.150911952183
+Indiana,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.00723655153089
+Indiana,Lake Michigan,T,F_avsResult_1_0_l_f,0.184935969482
+Indiana,Lake Michigan,T,F_avsResult_1_-1_l_f,0.0
+Indiana,Lake Michigan,T,F_closeDistNormLandmark_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_inside_0_-1_l_f,0.0
+Indiana,Lake Michigan,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Indiana,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.121436370818
+Indiana,Lake Michigan,T,F_avsResult_1_1_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_0_1_l_f,0.00723655153089
+Indiana,Lake Michigan,T,F_leftOfFigureCentroid_l_f,0.0
+Indiana,Lake Michigan,T,F_closeDistNormUnion_l_f,0.0
+Indiana,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indiana,Lake Michigan,T,F_closeDistNormFigure_l_f,0.0
+Indiana,Lake Michigan,T,F_rightOfFigureCentroid_f_l,0.0
+Indiana,Lake Michigan,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_outside_1_1_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_-1_1_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_outside_0_1_f_l,0.719215179739
+Indiana,Lake Michigan,T,F_math2dFigureIntersectionArea_l_f,0.000273526337333
+Indiana,Lake Michigan,T,F_avsResult_inside_0_1_l_f,0.0
+Indiana,Lake Michigan,T,F_closeDistNormUnion_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.00723655153089
+Indiana,Lake Michigan,T,F_avsResult_-1_1_f_l,0.0
+Indiana,Lake Michigan,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_outside_1_1_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_0_-1_f_l,0.719215179739
+Indiana,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indiana,Lake Michigan,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indiana,Lake Michigan,T,F_math2dFigureIntersectionArea_f_l,0.000180747371497
+Indiana,Lake Michigan,T,F_distBtwnCentroids_f_l,0.150911952183
+Indiana,Lake Michigan,T,bias,1.0
+Indiana,Lake Michigan,T,F_avsResult_-1_-1_f_l,0.0
+Indiana,Lake Michigan,T,F_distHorizontalCentroid_f_l,-0.0173246942762
+Indiana,Lake Michigan,T,F_avsResult_inside_1_1_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_inside_1_-1_f_l,0.0
+Indiana,Lake Michigan,T,F_belowFigureCentroid_l_f,1.0
+Indiana,Lake Michigan,T,F_avsResult_inside_1_0_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_outside_0_-1_f_l,0.719215179739
+Indiana,Lake Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Indiana,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_outside_-1_1_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.184935969482
+Indiana,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_1_1_l_f,0.0
+Indiana,Lake Michigan,T,F_avsResult_inside_-1_1_l_f,0.0
+Indiana,Lake Michigan,T,F_belowFigureCentroid_f_l,0.0
+Indiana,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indiana,Lake Michigan,T,F_closeDistNormFigure_f_l,0.0
+Indiana,Lake Michigan,T,F_avsResult_inside_-1_0_f_l,0.0
+Indiana,Lake Michigan,T,F_aboveFigureCentroid_l_f,0.0
+Indiana,Lake Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+Indianapolis,Kentucky,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_inside_-1_-1_f_l,0.0
+Indianapolis,Kentucky,T,F_distHorizontalCentroid_l_f,-0.015623602034
+Indianapolis,Kentucky,T,F_avsResult_outside_-1_0_f_l,0.194106916455
+Indianapolis,Kentucky,T,F_avsResult_inside_1_-1_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_inside_0_1_f_l,0.0
+Indianapolis,Kentucky,T,F_distVerticalCentroid_l_f,0.0779654005592
+Indianapolis,Kentucky,T,F_closeDistNormLandmark_l_f,1.0
+Indianapolis,Kentucky,T,F_avsResult_outside_1_-1_f_l,0.0
+Indianapolis,Kentucky,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Indianapolis,Kentucky,T,F_math2dIntersectionArea_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_-1_0_f_l,0.194106916455
+Indianapolis,Kentucky,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indianapolis,Kentucky,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_inside_0_-1_f_l,0.0
+Indianapolis,Kentucky,T,F_math2dIntersectionArea_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_-1_-1_l_f,0.0
+Indianapolis,Kentucky,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_inside_-1_0_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_0_-1_l_f,0.562343359416
+Indianapolis,Kentucky,T,F_avsResult_outside_1_0_f_l,0.311387360861
+Indianapolis,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_inside_1_0_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_outside_1_-1_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_inside_-1_1_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_-1_0_l_f,0.0638970471131
+Indianapolis,Kentucky,T,F_avsResult_1_-1_f_l,0.0
+Indianapolis,Kentucky,T,F_distVerticalCentroid_f_l,-0.0779654005592
+Indianapolis,Kentucky,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_0_1_f_l,0.0176225817366
+Indianapolis,Kentucky,T,F_avsResult_outside_-1_1_l_f,0.0
+Indianapolis,Kentucky,T,F_rightOfFigureCentroid_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_1_0_f_l,0.311387360861
+Indianapolis,Kentucky,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indianapolis,Kentucky,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_inside_1_1_l_f,0.0
+Indianapolis,Kentucky,T,F_distBtwnCentroids_l_f,0.0795154112413
+Indianapolis,Kentucky,T,F_avsResult_outside_0_-1_l_f,0.562343359416
+Indianapolis,Kentucky,T,F_avsResult_1_0_l_f,0.0539825205492
+Indianapolis,Kentucky,T,F_avsResult_1_-1_l_f,0.0
+Indianapolis,Kentucky,T,F_closeDistNormLandmark_f_l,0.593528642452
+Indianapolis,Kentucky,T,F_avsResult_inside_0_-1_l_f,0.0
+Indianapolis,Kentucky,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_outside_-1_0_l_f,0.0638970471131
+Indianapolis,Kentucky,T,F_avsResult_1_1_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_0_1_l_f,0.562343359416
+Indianapolis,Kentucky,T,F_leftOfFigureCentroid_l_f,1.0
+Indianapolis,Kentucky,T,F_closeDistNormUnion_l_f,0.593519396926
+Indianapolis,Kentucky,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,Kentucky,T,F_closeDistNormFigure_l_f,0.593528642452
+Indianapolis,Kentucky,T,F_rightOfFigureCentroid_f_l,1.0
+Indianapolis,Kentucky,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_outside_1_1_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_-1_1_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_outside_0_1_f_l,0.0176225817366
+Indianapolis,Kentucky,T,F_math2dFigureIntersectionArea_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_inside_0_1_l_f,0.0
+Indianapolis,Kentucky,T,F_closeDistNormUnion_f_l,0.593519396926
+Indianapolis,Kentucky,T,F_avsResult_outside_0_1_l_f,0.562343359416
+Indianapolis,Kentucky,T,F_avsResult_-1_1_f_l,0.0
+Indianapolis,Kentucky,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_outside_1_1_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_0_-1_f_l,0.0176225817366
+Indianapolis,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,Kentucky,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indianapolis,Kentucky,T,F_math2dFigureIntersectionArea_f_l,0.0
+Indianapolis,Kentucky,T,F_distBtwnCentroids_f_l,0.0795154112413
+Indianapolis,Kentucky,T,bias,1.0
+Indianapolis,Kentucky,T,F_avsResult_-1_-1_f_l,0.0
+Indianapolis,Kentucky,T,F_distHorizontalCentroid_f_l,0.015623602034
+Indianapolis,Kentucky,T,F_avsResult_inside_1_1_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_inside_1_-1_f_l,0.0
+Indianapolis,Kentucky,T,F_belowFigureCentroid_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_inside_1_0_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_outside_0_-1_f_l,0.0176225817366
+Indianapolis,Kentucky,T,F_aboveFigureCentroid_f_l,0.0
+Indianapolis,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_outside_-1_1_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_outside_1_0_l_f,0.0539825205492
+Indianapolis,Kentucky,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,Kentucky,T,F_avsResult_1_1_l_f,0.0
+Indianapolis,Kentucky,T,F_avsResult_inside_-1_1_l_f,0.0
+Indianapolis,Kentucky,T,F_belowFigureCentroid_f_l,1.0
+Indianapolis,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,Kentucky,T,F_closeDistNormFigure_f_l,1.0
+Indianapolis,Kentucky,T,F_avsResult_inside_-1_0_f_l,0.0
+Indianapolis,Kentucky,T,F_aboveFigureCentroid_l_f,1.0
+Indianapolis,Kentucky,T,F_leftOfFigureCentroid_f_l,0.0
+Indianapolis,Louisville,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Indianapolis,Louisville,T,F_avsResult_inside_-1_-1_f_l,0.0
+Indianapolis,Louisville,T,F_distHorizontalCentroid_l_f,-0.367088224293
+Indianapolis,Louisville,T,F_avsResult_outside_-1_0_f_l,0.173046009775
+Indianapolis,Louisville,T,F_avsResult_inside_1_-1_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_inside_0_1_f_l,0.0
+Indianapolis,Louisville,T,F_distVerticalCentroid_l_f,1.16529730034
+Indianapolis,Louisville,T,F_closeDistNormLandmark_l_f,1.0
+Indianapolis,Louisville,T,F_avsResult_outside_1_-1_f_l,0.0492376850904
+Indianapolis,Louisville,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Indianapolis,Louisville,T,F_math2dIntersectionArea_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_-1_0_f_l,0.173046009775
+Indianapolis,Louisville,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indianapolis,Louisville,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_inside_0_-1_f_l,0.0
+Indianapolis,Louisville,T,F_math2dIntersectionArea_f_l,0.0
+Indianapolis,Louisville,T,F_avsResult_-1_-1_l_f,0.0
+Indianapolis,Louisville,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_inside_-1_0_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_0_-1_l_f,0.610743727252
+Indianapolis,Louisville,T,F_avsResult_outside_1_0_f_l,0.339045039726
+Indianapolis,Louisville,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_inside_1_0_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_outside_1_-1_l_f,0.514786585825
+Indianapolis,Louisville,T,F_avsResult_inside_-1_1_f_l,0.0
+Indianapolis,Louisville,T,F_avsResult_-1_0_l_f,0.313664459457
+Indianapolis,Louisville,T,F_avsResult_1_-1_f_l,0.0492376850904
+Indianapolis,Louisville,T,F_distVerticalCentroid_f_l,-1.16529730034
+Indianapolis,Louisville,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indianapolis,Louisville,T,F_avsResult_0_1_f_l,0.029962417068
+Indianapolis,Louisville,T,F_avsResult_outside_-1_1_l_f,0.0
+Indianapolis,Louisville,T,F_rightOfFigureCentroid_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_1_0_f_l,0.339045039726
+Indianapolis,Louisville,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indianapolis,Louisville,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,Louisville,T,F_avsResult_inside_1_1_l_f,0.0
+Indianapolis,Louisville,T,F_distBtwnCentroids_l_f,1.22174938616
+Indianapolis,Louisville,T,F_avsResult_outside_0_-1_l_f,0.610743727252
+Indianapolis,Louisville,T,F_avsResult_1_0_l_f,0.161973511712
+Indianapolis,Louisville,T,F_avsResult_1_-1_l_f,0.514786585825
+Indianapolis,Louisville,T,F_closeDistNormLandmark_f_l,1.0
+Indianapolis,Louisville,T,F_avsResult_inside_0_-1_l_f,0.0
+Indianapolis,Louisville,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_outside_-1_0_l_f,0.313664459457
+Indianapolis,Louisville,T,F_avsResult_1_1_f_l,0.0492376850904
+Indianapolis,Louisville,T,F_avsResult_0_1_l_f,0.610743727252
+Indianapolis,Louisville,T,F_leftOfFigureCentroid_l_f,1.0
+Indianapolis,Louisville,T,F_closeDistNormUnion_l_f,1.0
+Indianapolis,Louisville,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,Louisville,T,F_closeDistNormFigure_l_f,1.0
+Indianapolis,Louisville,T,F_rightOfFigureCentroid_f_l,1.0
+Indianapolis,Louisville,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indianapolis,Louisville,T,F_avsResult_outside_1_1_f_l,0.0492376850904
+Indianapolis,Louisville,T,F_avsResult_-1_1_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_outside_0_1_f_l,0.029962417068
+Indianapolis,Louisville,T,F_math2dFigureIntersectionArea_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_inside_0_1_l_f,0.0
+Indianapolis,Louisville,T,F_closeDistNormUnion_f_l,1.0
+Indianapolis,Louisville,T,F_avsResult_outside_0_1_l_f,0.610743727252
+Indianapolis,Louisville,T,F_avsResult_-1_1_f_l,0.0
+Indianapolis,Louisville,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_outside_1_1_l_f,0.514786585825
+Indianapolis,Louisville,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_0_-1_f_l,0.029962417068
+Indianapolis,Louisville,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,Louisville,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indianapolis,Louisville,T,F_math2dFigureIntersectionArea_f_l,0.0
+Indianapolis,Louisville,T,F_distBtwnCentroids_f_l,1.22174938616
+Indianapolis,Louisville,T,bias,1.0
+Indianapolis,Louisville,T,F_avsResult_-1_-1_f_l,0.0
+Indianapolis,Louisville,T,F_distHorizontalCentroid_f_l,0.367088224293
+Indianapolis,Louisville,T,F_avsResult_inside_1_1_f_l,0.0
+Indianapolis,Louisville,T,F_avsResult_inside_1_-1_f_l,0.0
+Indianapolis,Louisville,T,F_belowFigureCentroid_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_inside_1_0_f_l,0.0
+Indianapolis,Louisville,T,F_avsResult_outside_0_-1_f_l,0.029962417068
+Indianapolis,Louisville,T,F_aboveFigureCentroid_f_l,0.0
+Indianapolis,Louisville,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,Louisville,T,F_avsResult_outside_-1_1_f_l,0.0
+Indianapolis,Louisville,T,F_avsResult_outside_1_0_l_f,0.161973511712
+Indianapolis,Louisville,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,Louisville,T,F_avsResult_1_1_l_f,0.514786585825
+Indianapolis,Louisville,T,F_avsResult_inside_-1_1_l_f,0.0
+Indianapolis,Louisville,T,F_belowFigureCentroid_f_l,1.0
+Indianapolis,Louisville,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,Louisville,T,F_closeDistNormFigure_f_l,1.0
+Indianapolis,Louisville,T,F_avsResult_inside_-1_0_f_l,0.0
+Indianapolis,Louisville,T,F_aboveFigureCentroid_l_f,1.0
+Indianapolis,Louisville,T,F_leftOfFigureCentroid_f_l,0.0
+Indianapolis,Indiana,T,F_math2dLandmarkIntersectionArea_f_l,3.18237614607e-05
+Indianapolis,Indiana,T,F_avsResult_inside_-1_-1_f_l,0.0
+Indianapolis,Indiana,T,F_distHorizontalCentroid_l_f,0.00892037472162
+Indianapolis,Indiana,T,F_avsResult_outside_-1_0_f_l,0.372493954374
+Indianapolis,Indiana,T,F_avsResult_inside_1_-1_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_inside_0_1_f_l,0.0
+Indianapolis,Indiana,T,F_distVerticalCentroid_l_f,-0.0106461069742
+Indianapolis,Indiana,T,F_closeDistNormLandmark_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_outside_1_-1_f_l,0.277407493085
+Indianapolis,Indiana,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Indianapolis,Indiana,T,F_math2dIntersectionArea_l_f,3.18237614607e-05
+Indianapolis,Indiana,T,F_avsResult_-1_0_f_l,0.372493954374
+Indianapolis,Indiana,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indianapolis,Indiana,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_inside_0_-1_f_l,0.0
+Indianapolis,Indiana,T,F_math2dIntersectionArea_f_l,3.18237614607e-05
+Indianapolis,Indiana,T,F_avsResult_-1_-1_l_f,0.0
+Indianapolis,Indiana,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Indianapolis,Indiana,T,F_avsResult_inside_-1_0_l_f,0.0152928643532
+Indianapolis,Indiana,T,F_avsResult_0_-1_l_f,0.267463887682
+Indianapolis,Indiana,T,F_avsResult_outside_1_0_f_l,0.133316257025
+Indianapolis,Indiana,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_inside_1_0_l_f,0.12391122851
+Indianapolis,Indiana,T,F_avsResult_outside_1_-1_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_inside_-1_1_f_l,0.0
+Indianapolis,Indiana,T,F_avsResult_-1_0_l_f,0.0152928643532
+Indianapolis,Indiana,T,F_avsResult_1_-1_f_l,0.277407493085
+Indianapolis,Indiana,T,F_distVerticalCentroid_f_l,0.0106461069742
+Indianapolis,Indiana,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indianapolis,Indiana,T,F_avsResult_0_1_f_l,0.402697719516
+Indianapolis,Indiana,T,F_avsResult_outside_-1_1_l_f,0.0
+Indianapolis,Indiana,T,F_rightOfFigureCentroid_l_f,1.0
+Indianapolis,Indiana,T,F_avsResult_1_0_f_l,0.133316257025
+Indianapolis,Indiana,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indianapolis,Indiana,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,Indiana,T,F_avsResult_inside_1_1_l_f,0.0
+Indianapolis,Indiana,T,F_distBtwnCentroids_l_f,0.013889300878
+Indianapolis,Indiana,T,F_avsResult_outside_0_-1_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_1_0_l_f,0.12391122851
+Indianapolis,Indiana,T,F_avsResult_1_-1_l_f,0.0
+Indianapolis,Indiana,T,F_closeDistNormLandmark_f_l,0.0
+Indianapolis,Indiana,T,F_avsResult_inside_0_-1_l_f,0.267463887682
+Indianapolis,Indiana,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Indianapolis,Indiana,T,F_avsResult_outside_-1_0_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_1_1_f_l,0.277407493085
+Indianapolis,Indiana,T,F_avsResult_0_1_l_f,0.267463887682
+Indianapolis,Indiana,T,F_leftOfFigureCentroid_l_f,0.0
+Indianapolis,Indiana,T,F_closeDistNormUnion_l_f,0.0
+Indianapolis,Indiana,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,Indiana,T,F_closeDistNormFigure_l_f,0.0
+Indianapolis,Indiana,T,F_rightOfFigureCentroid_f_l,0.0
+Indianapolis,Indiana,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indianapolis,Indiana,T,F_avsResult_outside_1_1_f_l,0.277407493085
+Indianapolis,Indiana,T,F_avsResult_-1_1_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_outside_0_1_f_l,0.402697719516
+Indianapolis,Indiana,T,F_math2dFigureIntersectionArea_l_f,3.18237614607e-05
+Indianapolis,Indiana,T,F_avsResult_inside_0_1_l_f,0.267463887682
+Indianapolis,Indiana,T,F_closeDistNormUnion_f_l,0.0
+Indianapolis,Indiana,T,F_avsResult_outside_0_1_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_-1_1_f_l,0.0
+Indianapolis,Indiana,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_outside_1_1_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_0_-1_f_l,0.402697719516
+Indianapolis,Indiana,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,Indiana,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indianapolis,Indiana,T,F_math2dFigureIntersectionArea_f_l,1.0
+Indianapolis,Indiana,T,F_distBtwnCentroids_f_l,0.013889300878
+Indianapolis,Indiana,T,bias,1.0
+Indianapolis,Indiana,T,F_avsResult_-1_-1_f_l,0.0
+Indianapolis,Indiana,T,F_distHorizontalCentroid_f_l,-0.00892037472162
+Indianapolis,Indiana,T,F_avsResult_inside_1_1_f_l,0.0
+Indianapolis,Indiana,T,F_avsResult_inside_1_-1_f_l,0.0
+Indianapolis,Indiana,T,F_belowFigureCentroid_l_f,1.0
+Indianapolis,Indiana,T,F_avsResult_inside_1_0_f_l,0.0
+Indianapolis,Indiana,T,F_avsResult_outside_0_-1_f_l,0.402697719516
+Indianapolis,Indiana,T,F_aboveFigureCentroid_f_l,1.0
+Indianapolis,Indiana,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_outside_-1_1_f_l,0.0
+Indianapolis,Indiana,T,F_avsResult_outside_1_0_l_f,0.0
+Indianapolis,Indiana,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,Indiana,T,F_avsResult_1_1_l_f,0.0
+Indianapolis,Indiana,T,F_avsResult_inside_-1_1_l_f,0.0
+Indianapolis,Indiana,T,F_belowFigureCentroid_f_l,0.0
+Indianapolis,Indiana,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,Indiana,T,F_closeDistNormFigure_f_l,0.0
+Indianapolis,Indiana,T,F_avsResult_inside_-1_0_f_l,0.0
+Indianapolis,Indiana,T,F_aboveFigureCentroid_l_f,0.0
+Indianapolis,Indiana,T,F_leftOfFigureCentroid_f_l,1.0
+Indianapolis,Indianapolis,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_-1_-1_f_l,0.0
+Indianapolis,Indianapolis,T,F_distHorizontalCentroid_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_outside_-1_0_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_1_-1_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_0_1_f_l,0.000814854451783
+Indianapolis,Indianapolis,T,F_distVerticalCentroid_l_f,0.0
+Indianapolis,Indianapolis,T,F_closeDistNormLandmark_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_outside_1_-1_f_l,0.0
+Indianapolis,Indianapolis,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Indianapolis,Indianapolis,T,F_math2dIntersectionArea_l_f,1.0
+Indianapolis,Indianapolis,T,F_avsResult_-1_0_f_l,0.0272097133476
+Indianapolis,Indianapolis,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indianapolis,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_0_-1_f_l,0.000814854451783
+Indianapolis,Indianapolis,T,F_math2dIntersectionArea_f_l,1.0
+Indianapolis,Indianapolis,T,F_avsResult_-1_-1_l_f,0.0
+Indianapolis,Indianapolis,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_-1_0_l_f,0.0272097133476
+Indianapolis,Indianapolis,T,F_avsResult_0_-1_l_f,0.000814854451783
+Indianapolis,Indianapolis,T,F_avsResult_outside_1_0_f_l,0.0
+Indianapolis,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_1_0_l_f,0.0300836231357
+Indianapolis,Indianapolis,T,F_avsResult_outside_1_-1_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_-1_1_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_-1_0_l_f,0.0272097133476
+Indianapolis,Indianapolis,T,F_avsResult_1_-1_f_l,0.0
+Indianapolis,Indianapolis,T,F_distVerticalCentroid_f_l,0.0
+Indianapolis,Indianapolis,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_0_1_f_l,0.000814854451783
+Indianapolis,Indianapolis,T,F_avsResult_outside_-1_1_l_f,0.0
+Indianapolis,Indianapolis,T,F_rightOfFigureCentroid_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_1_0_f_l,0.0300836231357
+Indianapolis,Indianapolis,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indianapolis,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_1_1_l_f,0.0
+Indianapolis,Indianapolis,T,F_distBtwnCentroids_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_outside_0_-1_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_1_0_l_f,0.0300836231357
+Indianapolis,Indianapolis,T,F_avsResult_1_-1_l_f,0.0
+Indianapolis,Indianapolis,T,F_closeDistNormLandmark_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_0_-1_l_f,0.000814854451783
+Indianapolis,Indianapolis,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Indianapolis,Indianapolis,T,F_avsResult_outside_-1_0_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_1_1_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_0_1_l_f,0.000814854451783
+Indianapolis,Indianapolis,T,F_leftOfFigureCentroid_l_f,0.0
+Indianapolis,Indianapolis,T,F_closeDistNormUnion_l_f,0.0
+Indianapolis,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,Indianapolis,T,F_closeDistNormFigure_l_f,0.0
+Indianapolis,Indianapolis,T,F_rightOfFigureCentroid_f_l,0.0
+Indianapolis,Indianapolis,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_outside_1_1_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_-1_1_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_outside_0_1_f_l,0.0
+Indianapolis,Indianapolis,T,F_math2dFigureIntersectionArea_l_f,1.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_0_1_l_f,0.000814854451783
+Indianapolis,Indianapolis,T,F_closeDistNormUnion_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_outside_0_1_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_-1_1_f_l,0.0
+Indianapolis,Indianapolis,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_outside_1_1_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_0_-1_f_l,0.000814854451783
+Indianapolis,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,Indianapolis,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indianapolis,Indianapolis,T,F_math2dFigureIntersectionArea_f_l,1.0
+Indianapolis,Indianapolis,T,F_distBtwnCentroids_f_l,0.0
+Indianapolis,Indianapolis,T,bias,1.0
+Indianapolis,Indianapolis,T,F_avsResult_-1_-1_f_l,0.0
+Indianapolis,Indianapolis,T,F_distHorizontalCentroid_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_1_1_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_1_-1_f_l,0.0
+Indianapolis,Indianapolis,T,F_belowFigureCentroid_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_1_0_f_l,0.0300836231357
+Indianapolis,Indianapolis,T,F_avsResult_outside_0_-1_f_l,0.0
+Indianapolis,Indianapolis,T,F_aboveFigureCentroid_f_l,0.0
+Indianapolis,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_outside_-1_1_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_outside_1_0_l_f,0.0
+Indianapolis,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_1_1_l_f,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_-1_1_l_f,0.0
+Indianapolis,Indianapolis,T,F_belowFigureCentroid_f_l,0.0
+Indianapolis,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,Indianapolis,T,F_closeDistNormFigure_f_l,0.0
+Indianapolis,Indianapolis,T,F_avsResult_inside_-1_0_f_l,0.0272097133476
+Indianapolis,Indianapolis,T,F_aboveFigureCentroid_l_f,0.0
+Indianapolis,Indianapolis,T,F_leftOfFigureCentroid_f_l,0.0
+Indianapolis,South Bend,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_inside_-1_-1_f_l,0.0
+Indianapolis,South Bend,T,F_distHorizontalCentroid_l_f,0.277088276947
+Indianapolis,South Bend,T,F_avsResult_outside_-1_0_f_l,0.267724792103
+Indianapolis,South Bend,T,F_avsResult_inside_1_-1_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_inside_0_1_f_l,0.0
+Indianapolis,South Bend,T,F_distVerticalCentroid_l_f,-4.49203516206
+Indianapolis,South Bend,T,F_closeDistNormLandmark_l_f,1.0
+Indianapolis,South Bend,T,F_avsResult_outside_1_-1_f_l,0.0
+Indianapolis,South Bend,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Indianapolis,South Bend,T,F_math2dIntersectionArea_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_-1_0_f_l,0.267724792103
+Indianapolis,South Bend,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indianapolis,South Bend,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_inside_0_-1_f_l,0.0
+Indianapolis,South Bend,T,F_math2dIntersectionArea_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_-1_-1_l_f,0.0
+Indianapolis,South Bend,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_inside_-1_0_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_0_-1_l_f,0.00574522120625
+Indianapolis,South Bend,T,F_avsResult_outside_1_0_f_l,0.231518017367
+Indianapolis,South Bend,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_inside_1_0_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_outside_1_-1_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_inside_-1_1_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_-1_0_l_f,0.225625889937
+Indianapolis,South Bend,T,F_avsResult_1_-1_f_l,0.0
+Indianapolis,South Bend,T,F_distVerticalCentroid_f_l,4.49203516206
+Indianapolis,South Bend,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_0_1_f_l,0.70188180479
+Indianapolis,South Bend,T,F_avsResult_outside_-1_1_l_f,0.0
+Indianapolis,South Bend,T,F_rightOfFigureCentroid_l_f,1.0
+Indianapolis,South Bend,T,F_avsResult_1_0_f_l,0.231518017367
+Indianapolis,South Bend,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indianapolis,South Bend,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_inside_1_1_l_f,0.0
+Indianapolis,South Bend,T,F_distBtwnCentroids_l_f,4.50057305356
+Indianapolis,South Bend,T,F_avsResult_outside_0_-1_l_f,0.00574522120625
+Indianapolis,South Bend,T,F_avsResult_1_0_l_f,0.26283373314
+Indianapolis,South Bend,T,F_avsResult_1_-1_l_f,0.0
+Indianapolis,South Bend,T,F_closeDistNormLandmark_f_l,1.0
+Indianapolis,South Bend,T,F_avsResult_inside_0_-1_l_f,0.0
+Indianapolis,South Bend,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_outside_-1_0_l_f,0.225625889937
+Indianapolis,South Bend,T,F_avsResult_1_1_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_0_1_l_f,0.00574522120625
+Indianapolis,South Bend,T,F_leftOfFigureCentroid_l_f,0.0
+Indianapolis,South Bend,T,F_closeDistNormUnion_l_f,1.0
+Indianapolis,South Bend,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,South Bend,T,F_closeDistNormFigure_l_f,1.0
+Indianapolis,South Bend,T,F_rightOfFigureCentroid_f_l,0.0
+Indianapolis,South Bend,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_outside_1_1_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_-1_1_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_outside_0_1_f_l,0.70188180479
+Indianapolis,South Bend,T,F_math2dFigureIntersectionArea_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_inside_0_1_l_f,0.0
+Indianapolis,South Bend,T,F_closeDistNormUnion_f_l,1.0
+Indianapolis,South Bend,T,F_avsResult_outside_0_1_l_f,0.00574522120625
+Indianapolis,South Bend,T,F_avsResult_-1_1_f_l,0.0
+Indianapolis,South Bend,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_outside_1_1_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_0_-1_f_l,0.70188180479
+Indianapolis,South Bend,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,South Bend,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indianapolis,South Bend,T,F_math2dFigureIntersectionArea_f_l,0.0
+Indianapolis,South Bend,T,F_distBtwnCentroids_f_l,4.50057305356
+Indianapolis,South Bend,T,bias,1.0
+Indianapolis,South Bend,T,F_avsResult_-1_-1_f_l,0.0
+Indianapolis,South Bend,T,F_distHorizontalCentroid_f_l,-0.277088276947
+Indianapolis,South Bend,T,F_avsResult_inside_1_1_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_inside_1_-1_f_l,0.0
+Indianapolis,South Bend,T,F_belowFigureCentroid_l_f,1.0
+Indianapolis,South Bend,T,F_avsResult_inside_1_0_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_outside_0_-1_f_l,0.70188180479
+Indianapolis,South Bend,T,F_aboveFigureCentroid_f_l,1.0
+Indianapolis,South Bend,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_outside_-1_1_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_outside_1_0_l_f,0.26283373314
+Indianapolis,South Bend,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,South Bend,T,F_avsResult_1_1_l_f,0.0
+Indianapolis,South Bend,T,F_avsResult_inside_-1_1_l_f,0.0
+Indianapolis,South Bend,T,F_belowFigureCentroid_f_l,0.0
+Indianapolis,South Bend,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,South Bend,T,F_closeDistNormFigure_f_l,1.0
+Indianapolis,South Bend,T,F_avsResult_inside_-1_0_f_l,0.0
+Indianapolis,South Bend,T,F_aboveFigureCentroid_l_f,0.0
+Indianapolis,South Bend,T,F_leftOfFigureCentroid_f_l,1.0
+Indianapolis,Lake Michigan,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_-1_-1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_distHorizontalCentroid_l_f,0.0287869228681
+Indianapolis,Lake Michigan,T,F_avsResult_outside_-1_0_f_l,0.31576165907
+Indianapolis,Lake Michigan,T,F_avsResult_inside_1_-1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_0_1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_distVerticalCentroid_l_f,-0.206637464078
+Indianapolis,Lake Michigan,T,F_closeDistNormLandmark_l_f,1.0
+Indianapolis,Lake Michigan,T,F_avsResult_outside_1_-1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Indianapolis,Lake Michigan,T,F_math2dIntersectionArea_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_-1_0_f_l,0.31576165907
+Indianapolis,Lake Michigan,T,F_avsResult_inside_-1_-1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_0_-1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_math2dIntersectionArea_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_-1_-1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_-1_0_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_0_-1_l_f,0.00805344819226
+Indianapolis,Lake Michigan,T,F_avsResult_outside_1_0_f_l,0.19012769215
+Indianapolis,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_1_0_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_outside_1_-1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_-1_1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_-1_0_l_f,0.117235050495
+Indianapolis,Lake Michigan,T,F_avsResult_1_-1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_distVerticalCentroid_f_l,0.206637464078
+Indianapolis,Lake Michigan,T,F_3dSupportsFigureLandmark_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_0_1_f_l,0.774955590187
+Indianapolis,Lake Michigan,T,F_avsResult_outside_-1_1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+Indianapolis,Lake Michigan,T,F_avsResult_1_0_f_l,0.19012769215
+Indianapolis,Lake Michigan,T,F_avsResult_outside_-1_-1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_1_1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_distBtwnCentroids_l_f,0.20863299952
+Indianapolis,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.00805344819226
+Indianapolis,Lake Michigan,T,F_avsResult_1_0_l_f,0.191865536513
+Indianapolis,Lake Michigan,T,F_avsResult_1_-1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_closeDistNormLandmark_f_l,0.666302244056
+Indianapolis,Lake Michigan,T,F_avsResult_inside_0_-1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.117235050495
+Indianapolis,Lake Michigan,T,F_avsResult_1_1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_0_1_l_f,0.00805344819226
+Indianapolis,Lake Michigan,T,F_leftOfFigureCentroid_l_f,0.0
+Indianapolis,Lake Michigan,T,F_closeDistNormUnion_l_f,0.666270157062
+Indianapolis,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Indianapolis,Lake Michigan,T,F_closeDistNormFigure_l_f,0.666302244056
+Indianapolis,Lake Michigan,T,F_rightOfFigureCentroid_f_l,0.0
+Indianapolis,Lake Michigan,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_outside_1_1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_-1_1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_outside_0_1_f_l,0.774955590187
+Indianapolis,Lake Michigan,T,F_math2dFigureIntersectionArea_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_0_1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_closeDistNormUnion_f_l,0.666270157062
+Indianapolis,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.00805344819226
+Indianapolis,Lake Michigan,T,F_avsResult_-1_1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_3dSupportsFigureLandmark_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_outside_1_1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_outside_-1_-1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_0_-1_f_l,0.774955590187
+Indianapolis,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,Lake Michigan,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Indianapolis,Lake Michigan,T,F_math2dFigureIntersectionArea_f_l,0.0
+Indianapolis,Lake Michigan,T,F_distBtwnCentroids_f_l,0.20863299952
+Indianapolis,Lake Michigan,T,bias,1.0
+Indianapolis,Lake Michigan,T,F_avsResult_-1_-1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_distHorizontalCentroid_f_l,-0.0287869228681
+Indianapolis,Lake Michigan,T,F_avsResult_inside_1_1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_1_-1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_belowFigureCentroid_l_f,1.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_1_0_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_outside_0_-1_f_l,0.774955590187
+Indianapolis,Lake Michigan,T,F_aboveFigureCentroid_f_l,1.0
+Indianapolis,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_outside_-1_1_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.191865536513
+Indianapolis,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_1_1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_-1_1_l_f,0.0
+Indianapolis,Lake Michigan,T,F_belowFigureCentroid_f_l,0.0
+Indianapolis,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Indianapolis,Lake Michigan,T,F_closeDistNormFigure_f_l,1.0
+Indianapolis,Lake Michigan,T,F_avsResult_inside_-1_0_f_l,0.0
+Indianapolis,Lake Michigan,T,F_aboveFigureCentroid_l_f,0.0
+Indianapolis,Lake Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+South Bend,Kentucky,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_inside_-1_-1_f_l,0.0
+South Bend,Kentucky,T,F_distHorizontalCentroid_l_f,-0.0126839898682
+South Bend,Kentucky,T,F_avsResult_outside_-1_0_f_l,0.191391649653
+South Bend,Kentucky,T,F_avsResult_inside_1_-1_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_inside_0_1_f_l,0.0
+South Bend,Kentucky,T,F_distVerticalCentroid_l_f,0.0963219330479
+South Bend,Kentucky,T,F_closeDistNormLandmark_l_f,1.0
+South Bend,Kentucky,T,F_avsResult_outside_1_-1_f_l,0.0
+South Bend,Kentucky,T,F_3dIntersectsFigureLandmark_f_l,0.0
+South Bend,Kentucky,T,F_math2dIntersectionArea_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_-1_0_f_l,0.191391649653
+South Bend,Kentucky,T,F_avsResult_inside_-1_-1_l_f,0.0
+South Bend,Kentucky,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_inside_0_-1_f_l,0.0
+South Bend,Kentucky,T,F_math2dIntersectionArea_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_-1_-1_l_f,0.0
+South Bend,Kentucky,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_inside_-1_0_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_0_-1_l_f,0.753332735435
+South Bend,Kentucky,T,F_avsResult_outside_1_0_f_l,0.303200131519
+South Bend,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_inside_1_0_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_outside_1_-1_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_inside_-1_1_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_-1_0_l_f,0.0877246178701
+South Bend,Kentucky,T,F_avsResult_1_-1_f_l,0.0
+South Bend,Kentucky,T,F_distVerticalCentroid_f_l,-0.0963219330479
+South Bend,Kentucky,T,F_3dSupportsFigureLandmark_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_0_1_f_l,0.00831184125227
+South Bend,Kentucky,T,F_avsResult_outside_-1_1_l_f,0.0
+South Bend,Kentucky,T,F_rightOfFigureCentroid_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_1_0_f_l,0.303200131519
+South Bend,Kentucky,T,F_avsResult_outside_-1_-1_f_l,0.0
+South Bend,Kentucky,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_inside_1_1_l_f,0.0
+South Bend,Kentucky,T,F_distBtwnCentroids_l_f,0.0971534785021
+South Bend,Kentucky,T,F_avsResult_outside_0_-1_l_f,0.753332735435
+South Bend,Kentucky,T,F_avsResult_1_0_l_f,0.071391848045
+South Bend,Kentucky,T,F_avsResult_1_-1_l_f,0.0
+South Bend,Kentucky,T,F_closeDistNormLandmark_f_l,0.808980283489
+South Bend,Kentucky,T,F_avsResult_inside_0_-1_l_f,0.0
+South Bend,Kentucky,T,F_3dIntersectsFigureLandmark_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_outside_-1_0_l_f,0.0877246178701
+South Bend,Kentucky,T,F_avsResult_1_1_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_0_1_l_f,0.753332735435
+South Bend,Kentucky,T,F_leftOfFigureCentroid_l_f,1.0
+South Bend,Kentucky,T,F_closeDistNormUnion_l_f,0.807875599781
+South Bend,Kentucky,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+South Bend,Kentucky,T,F_closeDistNormFigure_l_f,0.808980283489
+South Bend,Kentucky,T,F_rightOfFigureCentroid_f_l,1.0
+South Bend,Kentucky,T,F_3dSupportsLandmarkFigure_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_outside_1_1_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_-1_1_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_outside_0_1_f_l,0.00831184125227
+South Bend,Kentucky,T,F_math2dFigureIntersectionArea_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_inside_0_1_l_f,0.0
+South Bend,Kentucky,T,F_closeDistNormUnion_f_l,0.807875599781
+South Bend,Kentucky,T,F_avsResult_outside_0_1_l_f,0.753332735435
+South Bend,Kentucky,T,F_avsResult_-1_1_f_l,0.0
+South Bend,Kentucky,T,F_3dSupportsFigureLandmark_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_outside_1_1_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_outside_-1_-1_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_0_-1_f_l,0.00831184125227
+South Bend,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+South Bend,Kentucky,T,F_3dSupportsLandmarkFigure_l_f,0.0
+South Bend,Kentucky,T,F_math2dFigureIntersectionArea_f_l,0.0
+South Bend,Kentucky,T,F_distBtwnCentroids_f_l,0.0971534785021
+South Bend,Kentucky,T,bias,1.0
+South Bend,Kentucky,T,F_avsResult_-1_-1_f_l,0.0
+South Bend,Kentucky,T,F_distHorizontalCentroid_f_l,0.0126839898682
+South Bend,Kentucky,T,F_avsResult_inside_1_1_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_inside_1_-1_f_l,0.0
+South Bend,Kentucky,T,F_belowFigureCentroid_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_inside_1_0_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_outside_0_-1_f_l,0.00831184125227
+South Bend,Kentucky,T,F_aboveFigureCentroid_f_l,0.0
+South Bend,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_outside_-1_1_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_outside_1_0_l_f,0.071391848045
+South Bend,Kentucky,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+South Bend,Kentucky,T,F_avsResult_1_1_l_f,0.0
+South Bend,Kentucky,T,F_avsResult_inside_-1_1_l_f,0.0
+South Bend,Kentucky,T,F_belowFigureCentroid_f_l,1.0
+South Bend,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+South Bend,Kentucky,T,F_closeDistNormFigure_f_l,1.0
+South Bend,Kentucky,T,F_avsResult_inside_-1_0_f_l,0.0
+South Bend,Kentucky,T,F_aboveFigureCentroid_l_f,1.0
+South Bend,Kentucky,T,F_leftOfFigureCentroid_f_l,0.0
+South Bend,Louisville,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+South Bend,Louisville,T,F_avsResult_inside_-1_-1_f_l,0.0
+South Bend,Louisville,T,F_distHorizontalCentroid_l_f,-0.171488283638
+South Bend,Louisville,T,F_avsResult_outside_-1_0_f_l,0.179330350838
+South Bend,Louisville,T,F_avsResult_inside_1_-1_l_f,0.0
+South Bend,Louisville,T,F_avsResult_inside_0_1_f_l,0.0
+South Bend,Louisville,T,F_distVerticalCentroid_l_f,0.972057790738
+South Bend,Louisville,T,F_closeDistNormLandmark_l_f,1.0
+South Bend,Louisville,T,F_avsResult_outside_1_-1_f_l,0.0
+South Bend,Louisville,T,F_3dIntersectsFigureLandmark_f_l,0.0
+South Bend,Louisville,T,F_math2dIntersectionArea_l_f,0.0
+South Bend,Louisville,T,F_avsResult_-1_0_f_l,0.179330350838
+South Bend,Louisville,T,F_avsResult_inside_-1_-1_l_f,0.0
+South Bend,Louisville,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+South Bend,Louisville,T,F_avsResult_inside_0_-1_f_l,0.0
+South Bend,Louisville,T,F_math2dIntersectionArea_f_l,0.0
+South Bend,Louisville,T,F_avsResult_-1_-1_l_f,0.0
+South Bend,Louisville,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+South Bend,Louisville,T,F_avsResult_inside_-1_0_l_f,0.0
+South Bend,Louisville,T,F_avsResult_0_-1_l_f,0.743761217777
+South Bend,Louisville,T,F_avsResult_outside_1_0_f_l,0.319115202305
+South Bend,Louisville,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+South Bend,Louisville,T,F_avsResult_inside_1_0_l_f,0.0
+South Bend,Louisville,T,F_avsResult_outside_1_-1_l_f,0.0
+South Bend,Louisville,T,F_avsResult_inside_-1_1_f_l,0.0
+South Bend,Louisville,T,F_avsResult_-1_0_l_f,0.301763753828
+South Bend,Louisville,T,F_avsResult_1_-1_f_l,0.0
+South Bend,Louisville,T,F_distVerticalCentroid_f_l,-0.972057790738
+South Bend,Louisville,T,F_3dSupportsFigureLandmark_f_l,0.0
+South Bend,Louisville,T,F_avsResult_0_1_f_l,0.0116056349692
+South Bend,Louisville,T,F_avsResult_outside_-1_1_l_f,0.0
+South Bend,Louisville,T,F_rightOfFigureCentroid_l_f,0.0
+South Bend,Louisville,T,F_avsResult_1_0_f_l,0.319115202305
+South Bend,Louisville,T,F_avsResult_outside_-1_-1_f_l,0.0
+South Bend,Louisville,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+South Bend,Louisville,T,F_avsResult_inside_1_1_l_f,0.0
+South Bend,Louisville,T,F_distBtwnCentroids_l_f,0.987068680467
+South Bend,Louisville,T,F_avsResult_outside_0_-1_l_f,0.743761217777
+South Bend,Louisville,T,F_avsResult_1_0_l_f,0.171306885512
+South Bend,Louisville,T,F_avsResult_1_-1_l_f,0.0
+South Bend,Louisville,T,F_closeDistNormLandmark_f_l,1.0
+South Bend,Louisville,T,F_avsResult_inside_0_-1_l_f,0.0
+South Bend,Louisville,T,F_3dIntersectsFigureLandmark_l_f,0.0
+South Bend,Louisville,T,F_avsResult_outside_-1_0_l_f,0.301763753828
+South Bend,Louisville,T,F_avsResult_1_1_f_l,0.0
+South Bend,Louisville,T,F_avsResult_0_1_l_f,0.743761217777
+South Bend,Louisville,T,F_leftOfFigureCentroid_l_f,1.0
+South Bend,Louisville,T,F_closeDistNormUnion_l_f,1.0
+South Bend,Louisville,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+South Bend,Louisville,T,F_closeDistNormFigure_l_f,1.0
+South Bend,Louisville,T,F_rightOfFigureCentroid_f_l,1.0
+South Bend,Louisville,T,F_3dSupportsLandmarkFigure_f_l,0.0
+South Bend,Louisville,T,F_avsResult_outside_1_1_f_l,0.0
+South Bend,Louisville,T,F_avsResult_-1_1_l_f,0.0
+South Bend,Louisville,T,F_avsResult_outside_0_1_f_l,0.0116056349692
+South Bend,Louisville,T,F_math2dFigureIntersectionArea_l_f,0.0
+South Bend,Louisville,T,F_avsResult_inside_0_1_l_f,0.0
+South Bend,Louisville,T,F_closeDistNormUnion_f_l,1.0
+South Bend,Louisville,T,F_avsResult_outside_0_1_l_f,0.743761217777
+South Bend,Louisville,T,F_avsResult_-1_1_f_l,0.0
+South Bend,Louisville,T,F_3dSupportsFigureLandmark_l_f,0.0
+South Bend,Louisville,T,F_avsResult_outside_1_1_l_f,0.0
+South Bend,Louisville,T,F_avsResult_outside_-1_-1_l_f,0.0
+South Bend,Louisville,T,F_avsResult_0_-1_f_l,0.0116056349692
+South Bend,Louisville,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+South Bend,Louisville,T,F_3dSupportsLandmarkFigure_l_f,0.0
+South Bend,Louisville,T,F_math2dFigureIntersectionArea_f_l,0.0
+South Bend,Louisville,T,F_distBtwnCentroids_f_l,0.987068680467
+South Bend,Louisville,T,bias,1.0
+South Bend,Louisville,T,F_avsResult_-1_-1_f_l,0.0
+South Bend,Louisville,T,F_distHorizontalCentroid_f_l,0.171488283638
+South Bend,Louisville,T,F_avsResult_inside_1_1_f_l,0.0
+South Bend,Louisville,T,F_avsResult_inside_1_-1_f_l,0.0
+South Bend,Louisville,T,F_belowFigureCentroid_l_f,0.0
+South Bend,Louisville,T,F_avsResult_inside_1_0_f_l,0.0
+South Bend,Louisville,T,F_avsResult_outside_0_-1_f_l,0.0116056349692
+South Bend,Louisville,T,F_aboveFigureCentroid_f_l,0.0
+South Bend,Louisville,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+South Bend,Louisville,T,F_avsResult_outside_-1_1_f_l,0.0
+South Bend,Louisville,T,F_avsResult_outside_1_0_l_f,0.171306885512
+South Bend,Louisville,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+South Bend,Louisville,T,F_avsResult_1_1_l_f,0.0
+South Bend,Louisville,T,F_avsResult_inside_-1_1_l_f,0.0
+South Bend,Louisville,T,F_belowFigureCentroid_f_l,1.0
+South Bend,Louisville,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+South Bend,Louisville,T,F_closeDistNormFigure_f_l,1.0
+South Bend,Louisville,T,F_avsResult_inside_-1_0_f_l,0.0
+South Bend,Louisville,T,F_aboveFigureCentroid_l_f,1.0
+South Bend,Louisville,T,F_leftOfFigureCentroid_f_l,0.0
+South Bend,Indiana,T,F_math2dLandmarkIntersectionArea_f_l,0.00279349748322
+South Bend,Indiana,T,F_avsResult_inside_-1_-1_f_l,0.0
+South Bend,Indiana,T,F_distHorizontalCentroid_l_f,-5.05074915814e-05
+South Bend,Indiana,T,F_avsResult_outside_-1_0_f_l,0.242980363471
+South Bend,Indiana,T,F_avsResult_inside_1_-1_l_f,0.0
+South Bend,Indiana,T,F_avsResult_inside_0_1_f_l,0.0
+South Bend,Indiana,T,F_distVerticalCentroid_l_f,0.134785950926
+South Bend,Indiana,T,F_closeDistNormLandmark_l_f,0.0
+South Bend,Indiana,T,F_avsResult_outside_1_-1_f_l,0.0
+South Bend,Indiana,T,F_3dIntersectsFigureLandmark_f_l,1.0
+South Bend,Indiana,T,F_math2dIntersectionArea_l_f,0.00279349748322
+South Bend,Indiana,T,F_avsResult_-1_0_f_l,0.242980363471
+South Bend,Indiana,T,F_avsResult_inside_-1_-1_l_f,0.362617574862
+South Bend,Indiana,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+South Bend,Indiana,T,F_avsResult_inside_0_-1_f_l,0.0
+South Bend,Indiana,T,F_math2dIntersectionArea_f_l,0.00279349748322
+South Bend,Indiana,T,F_avsResult_-1_-1_l_f,0.362617574862
+South Bend,Indiana,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+South Bend,Indiana,T,F_avsResult_inside_-1_0_l_f,0.265796658077
+South Bend,Indiana,T,F_avsResult_0_-1_l_f,0.202652439076
+South Bend,Indiana,T,F_avsResult_outside_1_0_f_l,0.244688686093
+South Bend,Indiana,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+South Bend,Indiana,T,F_avsResult_inside_1_0_l_f,0.0270355539671
+South Bend,Indiana,T,F_avsResult_outside_1_-1_l_f,0.0
+South Bend,Indiana,T,F_avsResult_inside_-1_1_f_l,0.0
+South Bend,Indiana,T,F_avsResult_-1_0_l_f,0.265796658077
+South Bend,Indiana,T,F_avsResult_1_-1_f_l,0.0
+South Bend,Indiana,T,F_distVerticalCentroid_f_l,-0.134785950926
+South Bend,Indiana,T,F_3dSupportsFigureLandmark_f_l,0.0
+South Bend,Indiana,T,F_avsResult_0_1_f_l,0.000440495316679
+South Bend,Indiana,T,F_avsResult_outside_-1_1_l_f,0.0
+South Bend,Indiana,T,F_rightOfFigureCentroid_l_f,0.0
+South Bend,Indiana,T,F_avsResult_1_0_f_l,0.244688686093
+South Bend,Indiana,T,F_avsResult_outside_-1_-1_f_l,0.0
+South Bend,Indiana,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+South Bend,Indiana,T,F_avsResult_inside_1_1_l_f,0.0
+South Bend,Indiana,T,F_distBtwnCentroids_l_f,0.134785960389
+South Bend,Indiana,T,F_avsResult_outside_0_-1_l_f,0.0
+South Bend,Indiana,T,F_avsResult_1_0_l_f,0.0270355539671
+South Bend,Indiana,T,F_avsResult_1_-1_l_f,0.0
+South Bend,Indiana,T,F_closeDistNormLandmark_f_l,0.0
+South Bend,Indiana,T,F_avsResult_inside_0_-1_l_f,0.202652439076
+South Bend,Indiana,T,F_3dIntersectsFigureLandmark_l_f,1.0
+South Bend,Indiana,T,F_avsResult_outside_-1_0_l_f,0.0
+South Bend,Indiana,T,F_avsResult_1_1_f_l,0.0
+South Bend,Indiana,T,F_avsResult_0_1_l_f,0.202652439076
+South Bend,Indiana,T,F_leftOfFigureCentroid_l_f,1.0
+South Bend,Indiana,T,F_closeDistNormUnion_l_f,0.0
+South Bend,Indiana,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+South Bend,Indiana,T,F_closeDistNormFigure_l_f,0.0
+South Bend,Indiana,T,F_rightOfFigureCentroid_f_l,1.0
+South Bend,Indiana,T,F_3dSupportsLandmarkFigure_f_l,0.0
+South Bend,Indiana,T,F_avsResult_outside_1_1_f_l,0.0
+South Bend,Indiana,T,F_avsResult_-1_1_l_f,0.362617574862
+South Bend,Indiana,T,F_avsResult_outside_0_1_f_l,0.000440495316679
+South Bend,Indiana,T,F_math2dFigureIntersectionArea_l_f,0.00279349748322
+South Bend,Indiana,T,F_avsResult_inside_0_1_l_f,0.202652439076
+South Bend,Indiana,T,F_closeDistNormUnion_f_l,0.0
+South Bend,Indiana,T,F_avsResult_outside_0_1_l_f,0.0
+South Bend,Indiana,T,F_avsResult_-1_1_f_l,0.0
+South Bend,Indiana,T,F_3dSupportsFigureLandmark_l_f,0.0
+South Bend,Indiana,T,F_avsResult_outside_1_1_l_f,0.0
+South Bend,Indiana,T,F_avsResult_outside_-1_-1_l_f,0.0
+South Bend,Indiana,T,F_avsResult_0_-1_f_l,0.000440495316679
+South Bend,Indiana,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+South Bend,Indiana,T,F_3dSupportsLandmarkFigure_l_f,0.0
+South Bend,Indiana,T,F_math2dFigureIntersectionArea_f_l,1.0
+South Bend,Indiana,T,F_distBtwnCentroids_f_l,0.134785960389
+South Bend,Indiana,T,bias,1.0
+South Bend,Indiana,T,F_avsResult_-1_-1_f_l,0.0
+South Bend,Indiana,T,F_distHorizontalCentroid_f_l,5.05074915814e-05
+South Bend,Indiana,T,F_avsResult_inside_1_1_f_l,0.0
+South Bend,Indiana,T,F_avsResult_inside_1_-1_f_l,0.0
+South Bend,Indiana,T,F_belowFigureCentroid_l_f,0.0
+South Bend,Indiana,T,F_avsResult_inside_1_0_f_l,0.0
+South Bend,Indiana,T,F_avsResult_outside_0_-1_f_l,0.000440495316679
+South Bend,Indiana,T,F_aboveFigureCentroid_f_l,0.0
+South Bend,Indiana,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+South Bend,Indiana,T,F_avsResult_outside_-1_1_f_l,0.0
+South Bend,Indiana,T,F_avsResult_outside_1_0_l_f,0.0
+South Bend,Indiana,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+South Bend,Indiana,T,F_avsResult_1_1_l_f,0.0
+South Bend,Indiana,T,F_avsResult_inside_-1_1_l_f,0.362617574862
+South Bend,Indiana,T,F_belowFigureCentroid_f_l,1.0
+South Bend,Indiana,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+South Bend,Indiana,T,F_closeDistNormFigure_f_l,0.0
+South Bend,Indiana,T,F_avsResult_inside_-1_0_f_l,0.0
+South Bend,Indiana,T,F_aboveFigureCentroid_l_f,1.0
+South Bend,Indiana,T,F_leftOfFigureCentroid_f_l,0.0
+South Bend,Indianapolis,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_inside_-1_-1_f_l,0.0
+South Bend,Indianapolis,T,F_distHorizontalCentroid_l_f,-0.277088276947
+South Bend,Indianapolis,T,F_avsResult_outside_-1_0_f_l,0.225625889937
+South Bend,Indianapolis,T,F_avsResult_inside_1_-1_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_inside_0_1_f_l,0.0
+South Bend,Indianapolis,T,F_distVerticalCentroid_l_f,4.49203516206
+South Bend,Indianapolis,T,F_closeDistNormLandmark_l_f,1.0
+South Bend,Indianapolis,T,F_avsResult_outside_1_-1_f_l,0.0
+South Bend,Indianapolis,T,F_3dIntersectsFigureLandmark_f_l,0.0
+South Bend,Indianapolis,T,F_math2dIntersectionArea_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_-1_0_f_l,0.225625889937
+South Bend,Indianapolis,T,F_avsResult_inside_-1_-1_l_f,0.0
+South Bend,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_inside_0_-1_f_l,0.0
+South Bend,Indianapolis,T,F_math2dIntersectionArea_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_-1_-1_l_f,0.0
+South Bend,Indianapolis,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_inside_-1_0_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_0_-1_l_f,0.70188180479
+South Bend,Indianapolis,T,F_avsResult_outside_1_0_f_l,0.26283373314
+South Bend,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_inside_1_0_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_outside_1_-1_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_inside_-1_1_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_-1_0_l_f,0.267724792103
+South Bend,Indianapolis,T,F_avsResult_1_-1_f_l,0.0
+South Bend,Indianapolis,T,F_distVerticalCentroid_f_l,-4.49203516206
+South Bend,Indianapolis,T,F_3dSupportsFigureLandmark_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_0_1_f_l,0.00574522120625
+South Bend,Indianapolis,T,F_avsResult_outside_-1_1_l_f,0.0
+South Bend,Indianapolis,T,F_rightOfFigureCentroid_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_1_0_f_l,0.26283373314
+South Bend,Indianapolis,T,F_avsResult_outside_-1_-1_f_l,0.0
+South Bend,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_inside_1_1_l_f,0.0
+South Bend,Indianapolis,T,F_distBtwnCentroids_l_f,4.50057305356
+South Bend,Indianapolis,T,F_avsResult_outside_0_-1_l_f,0.70188180479
+South Bend,Indianapolis,T,F_avsResult_1_0_l_f,0.231518017367
+South Bend,Indianapolis,T,F_avsResult_1_-1_l_f,0.0
+South Bend,Indianapolis,T,F_closeDistNormLandmark_f_l,1.0
+South Bend,Indianapolis,T,F_avsResult_inside_0_-1_l_f,0.0
+South Bend,Indianapolis,T,F_3dIntersectsFigureLandmark_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_outside_-1_0_l_f,0.267724792103
+South Bend,Indianapolis,T,F_avsResult_1_1_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_0_1_l_f,0.70188180479
+South Bend,Indianapolis,T,F_leftOfFigureCentroid_l_f,1.0
+South Bend,Indianapolis,T,F_closeDistNormUnion_l_f,1.0
+South Bend,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+South Bend,Indianapolis,T,F_closeDistNormFigure_l_f,1.0
+South Bend,Indianapolis,T,F_rightOfFigureCentroid_f_l,1.0
+South Bend,Indianapolis,T,F_3dSupportsLandmarkFigure_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_outside_1_1_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_-1_1_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_outside_0_1_f_l,0.00574522120625
+South Bend,Indianapolis,T,F_math2dFigureIntersectionArea_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_inside_0_1_l_f,0.0
+South Bend,Indianapolis,T,F_closeDistNormUnion_f_l,1.0
+South Bend,Indianapolis,T,F_avsResult_outside_0_1_l_f,0.70188180479
+South Bend,Indianapolis,T,F_avsResult_-1_1_f_l,0.0
+South Bend,Indianapolis,T,F_3dSupportsFigureLandmark_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_outside_1_1_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_outside_-1_-1_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_0_-1_f_l,0.00574522120625
+South Bend,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+South Bend,Indianapolis,T,F_3dSupportsLandmarkFigure_l_f,0.0
+South Bend,Indianapolis,T,F_math2dFigureIntersectionArea_f_l,0.0
+South Bend,Indianapolis,T,F_distBtwnCentroids_f_l,4.50057305356
+South Bend,Indianapolis,T,bias,1.0
+South Bend,Indianapolis,T,F_avsResult_-1_-1_f_l,0.0
+South Bend,Indianapolis,T,F_distHorizontalCentroid_f_l,0.277088276947
+South Bend,Indianapolis,T,F_avsResult_inside_1_1_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_inside_1_-1_f_l,0.0
+South Bend,Indianapolis,T,F_belowFigureCentroid_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_inside_1_0_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_outside_0_-1_f_l,0.00574522120625
+South Bend,Indianapolis,T,F_aboveFigureCentroid_f_l,0.0
+South Bend,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_outside_-1_1_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_outside_1_0_l_f,0.231518017367
+South Bend,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+South Bend,Indianapolis,T,F_avsResult_1_1_l_f,0.0
+South Bend,Indianapolis,T,F_avsResult_inside_-1_1_l_f,0.0
+South Bend,Indianapolis,T,F_belowFigureCentroid_f_l,1.0
+South Bend,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+South Bend,Indianapolis,T,F_closeDistNormFigure_f_l,1.0
+South Bend,Indianapolis,T,F_avsResult_inside_-1_0_f_l,0.0
+South Bend,Indianapolis,T,F_aboveFigureCentroid_l_f,1.0
+South Bend,Indianapolis,T,F_leftOfFigureCentroid_f_l,0.0
+South Bend,South Bend,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+South Bend,South Bend,T,F_avsResult_inside_-1_-1_f_l,0.0
+South Bend,South Bend,T,F_distHorizontalCentroid_l_f,0.0
+South Bend,South Bend,T,F_avsResult_outside_-1_0_f_l,0.0
+South Bend,South Bend,T,F_avsResult_inside_1_-1_l_f,0.0
+South Bend,South Bend,T,F_avsResult_inside_0_1_f_l,0.00896584258739
+South Bend,South Bend,T,F_distVerticalCentroid_l_f,0.0
+South Bend,South Bend,T,F_closeDistNormLandmark_l_f,0.0
+South Bend,South Bend,T,F_avsResult_outside_1_-1_f_l,0.0
+South Bend,South Bend,T,F_3dIntersectsFigureLandmark_f_l,1.0
+South Bend,South Bend,T,F_math2dIntersectionArea_l_f,1.0
+South Bend,South Bend,T,F_avsResult_-1_0_f_l,0.0253843058717
+South Bend,South Bend,T,F_avsResult_inside_-1_-1_l_f,0.0
+South Bend,South Bend,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+South Bend,South Bend,T,F_avsResult_inside_0_-1_f_l,0.00896584258739
+South Bend,South Bend,T,F_math2dIntersectionArea_f_l,1.0
+South Bend,South Bend,T,F_avsResult_-1_-1_l_f,0.0
+South Bend,South Bend,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+South Bend,South Bend,T,F_avsResult_inside_-1_0_l_f,0.0253843058717
+South Bend,South Bend,T,F_avsResult_0_-1_l_f,0.00896584258739
+South Bend,South Bend,T,F_avsResult_outside_1_0_f_l,0.0
+South Bend,South Bend,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+South Bend,South Bend,T,F_avsResult_inside_1_0_l_f,0.00849425601625
+South Bend,South Bend,T,F_avsResult_outside_1_-1_l_f,0.0
+South Bend,South Bend,T,F_avsResult_inside_-1_1_f_l,0.0
+South Bend,South Bend,T,F_avsResult_-1_0_l_f,0.0253843058717
+South Bend,South Bend,T,F_avsResult_1_-1_f_l,0.0
+South Bend,South Bend,T,F_distVerticalCentroid_f_l,0.0
+South Bend,South Bend,T,F_3dSupportsFigureLandmark_f_l,0.0
+South Bend,South Bend,T,F_avsResult_0_1_f_l,0.00896584258739
+South Bend,South Bend,T,F_avsResult_outside_-1_1_l_f,0.0
+South Bend,South Bend,T,F_rightOfFigureCentroid_l_f,0.0
+South Bend,South Bend,T,F_avsResult_1_0_f_l,0.00849425601625
+South Bend,South Bend,T,F_avsResult_outside_-1_-1_f_l,0.0
+South Bend,South Bend,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+South Bend,South Bend,T,F_avsResult_inside_1_1_l_f,0.0
+South Bend,South Bend,T,F_distBtwnCentroids_l_f,0.0
+South Bend,South Bend,T,F_avsResult_outside_0_-1_l_f,0.0
+South Bend,South Bend,T,F_avsResult_1_0_l_f,0.00849425601625
+South Bend,South Bend,T,F_avsResult_1_-1_l_f,0.0
+South Bend,South Bend,T,F_closeDistNormLandmark_f_l,0.0
+South Bend,South Bend,T,F_avsResult_inside_0_-1_l_f,0.00896584258739
+South Bend,South Bend,T,F_3dIntersectsFigureLandmark_l_f,1.0
+South Bend,South Bend,T,F_avsResult_outside_-1_0_l_f,0.0
+South Bend,South Bend,T,F_avsResult_1_1_f_l,0.0
+South Bend,South Bend,T,F_avsResult_0_1_l_f,0.00896584258739
+South Bend,South Bend,T,F_leftOfFigureCentroid_l_f,0.0
+South Bend,South Bend,T,F_closeDistNormUnion_l_f,0.0
+South Bend,South Bend,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+South Bend,South Bend,T,F_closeDistNormFigure_l_f,0.0
+South Bend,South Bend,T,F_rightOfFigureCentroid_f_l,0.0
+South Bend,South Bend,T,F_3dSupportsLandmarkFigure_f_l,0.0
+South Bend,South Bend,T,F_avsResult_outside_1_1_f_l,0.0
+South Bend,South Bend,T,F_avsResult_-1_1_l_f,0.0
+South Bend,South Bend,T,F_avsResult_outside_0_1_f_l,0.0
+South Bend,South Bend,T,F_math2dFigureIntersectionArea_l_f,1.0
+South Bend,South Bend,T,F_avsResult_inside_0_1_l_f,0.00896584258739
+South Bend,South Bend,T,F_closeDistNormUnion_f_l,0.0
+South Bend,South Bend,T,F_avsResult_outside_0_1_l_f,0.0
+South Bend,South Bend,T,F_avsResult_-1_1_f_l,0.0
+South Bend,South Bend,T,F_3dSupportsFigureLandmark_l_f,0.0
+South Bend,South Bend,T,F_avsResult_outside_1_1_l_f,0.0
+South Bend,South Bend,T,F_avsResult_outside_-1_-1_l_f,0.0
+South Bend,South Bend,T,F_avsResult_0_-1_f_l,0.00896584258739
+South Bend,South Bend,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+South Bend,South Bend,T,F_3dSupportsLandmarkFigure_l_f,0.0
+South Bend,South Bend,T,F_math2dFigureIntersectionArea_f_l,1.0
+South Bend,South Bend,T,F_distBtwnCentroids_f_l,0.0
+South Bend,South Bend,T,bias,1.0
+South Bend,South Bend,T,F_avsResult_-1_-1_f_l,0.0
+South Bend,South Bend,T,F_distHorizontalCentroid_f_l,0.0
+South Bend,South Bend,T,F_avsResult_inside_1_1_f_l,0.0
+South Bend,South Bend,T,F_avsResult_inside_1_-1_f_l,0.0
+South Bend,South Bend,T,F_belowFigureCentroid_l_f,0.0
+South Bend,South Bend,T,F_avsResult_inside_1_0_f_l,0.00849425601625
+South Bend,South Bend,T,F_avsResult_outside_0_-1_f_l,0.0
+South Bend,South Bend,T,F_aboveFigureCentroid_f_l,0.0
+South Bend,South Bend,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+South Bend,South Bend,T,F_avsResult_outside_-1_1_f_l,0.0
+South Bend,South Bend,T,F_avsResult_outside_1_0_l_f,0.0
+South Bend,South Bend,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+South Bend,South Bend,T,F_avsResult_1_1_l_f,0.0
+South Bend,South Bend,T,F_avsResult_inside_-1_1_l_f,0.0
+South Bend,South Bend,T,F_belowFigureCentroid_f_l,0.0
+South Bend,South Bend,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+South Bend,South Bend,T,F_closeDistNormFigure_f_l,0.0
+South Bend,South Bend,T,F_avsResult_inside_-1_0_f_l,0.0253843058717
+South Bend,South Bend,T,F_aboveFigureCentroid_l_f,0.0
+South Bend,South Bend,T,F_leftOfFigureCentroid_f_l,0.0
+South Bend,Lake Michigan,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_inside_-1_-1_f_l,0.0
+South Bend,Lake Michigan,T,F_distHorizontalCentroid_l_f,0.0325011659039
+South Bend,Lake Michigan,T,F_avsResult_outside_-1_0_f_l,0.311850359171
+South Bend,Lake Michigan,T,F_avsResult_inside_1_-1_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_inside_0_1_f_l,0.0
+South Bend,Lake Michigan,T,F_distVerticalCentroid_l_f,-0.160425598241
+South Bend,Lake Michigan,T,F_closeDistNormLandmark_l_f,1.0
+South Bend,Lake Michigan,T,F_avsResult_outside_1_-1_f_l,0.0
+South Bend,Lake Michigan,T,F_3dIntersectsFigureLandmark_f_l,0.0
+South Bend,Lake Michigan,T,F_math2dIntersectionArea_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_-1_0_f_l,0.311850359171
+South Bend,Lake Michigan,T,F_avsResult_inside_-1_-1_l_f,0.0
+South Bend,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_inside_0_-1_f_l,0.0
+South Bend,Lake Michigan,T,F_math2dIntersectionArea_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_-1_-1_l_f,0.0
+South Bend,Lake Michigan,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_inside_-1_0_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_0_-1_l_f,0.014283602979
+South Bend,Lake Michigan,T,F_avsResult_outside_1_0_f_l,0.184831877923
+South Bend,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_inside_1_0_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_outside_1_-1_l_f,0.131194763531
+South Bend,Lake Michigan,T,F_avsResult_inside_-1_1_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_-1_0_l_f,0.0618902635977
+South Bend,Lake Michigan,T,F_avsResult_1_-1_f_l,0.0
+South Bend,Lake Michigan,T,F_distVerticalCentroid_f_l,0.160425598241
+South Bend,Lake Michigan,T,F_3dSupportsFigureLandmark_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_0_1_f_l,0.693495892374
+South Bend,Lake Michigan,T,F_avsResult_outside_-1_1_l_f,0.0
+South Bend,Lake Michigan,T,F_rightOfFigureCentroid_l_f,1.0
+South Bend,Lake Michigan,T,F_avsResult_1_0_f_l,0.184831877923
+South Bend,Lake Michigan,T,F_avsResult_outside_-1_-1_f_l,0.0
+South Bend,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_inside_1_1_l_f,0.0
+South Bend,Lake Michigan,T,F_distBtwnCentroids_l_f,0.163684752974
+South Bend,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.014283602979
+South Bend,Lake Michigan,T,F_avsResult_1_0_l_f,0.265626985893
+South Bend,Lake Michigan,T,F_avsResult_1_-1_l_f,0.131194763531
+South Bend,Lake Michigan,T,F_closeDistNormLandmark_f_l,0.0135140111951
+South Bend,Lake Michigan,T,F_avsResult_inside_0_-1_l_f,0.0
+South Bend,Lake Michigan,T,F_3dIntersectsFigureLandmark_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.0618902635977
+South Bend,Lake Michigan,T,F_avsResult_1_1_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_0_1_l_f,0.014283602979
+South Bend,Lake Michigan,T,F_leftOfFigureCentroid_l_f,0.0
+South Bend,Lake Michigan,T,F_closeDistNormUnion_l_f,0.0134571222812
+South Bend,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+South Bend,Lake Michigan,T,F_closeDistNormFigure_l_f,0.0135140111951
+South Bend,Lake Michigan,T,F_rightOfFigureCentroid_f_l,0.0
+South Bend,Lake Michigan,T,F_3dSupportsLandmarkFigure_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_outside_1_1_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_-1_1_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_outside_0_1_f_l,0.693495892374
+South Bend,Lake Michigan,T,F_math2dFigureIntersectionArea_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_inside_0_1_l_f,0.0
+South Bend,Lake Michigan,T,F_closeDistNormUnion_f_l,0.0134571222812
+South Bend,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.014283602979
+South Bend,Lake Michigan,T,F_avsResult_-1_1_f_l,0.0
+South Bend,Lake Michigan,T,F_3dSupportsFigureLandmark_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_outside_1_1_l_f,0.131194763531
+South Bend,Lake Michigan,T,F_avsResult_outside_-1_-1_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_0_-1_f_l,0.693495892374
+South Bend,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+South Bend,Lake Michigan,T,F_3dSupportsLandmarkFigure_l_f,0.0
+South Bend,Lake Michigan,T,F_math2dFigureIntersectionArea_f_l,0.0
+South Bend,Lake Michigan,T,F_distBtwnCentroids_f_l,0.163684752974
+South Bend,Lake Michigan,T,bias,1.0
+South Bend,Lake Michigan,T,F_avsResult_-1_-1_f_l,0.0
+South Bend,Lake Michigan,T,F_distHorizontalCentroid_f_l,-0.0325011659039
+South Bend,Lake Michigan,T,F_avsResult_inside_1_1_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_inside_1_-1_f_l,0.0
+South Bend,Lake Michigan,T,F_belowFigureCentroid_l_f,1.0
+South Bend,Lake Michigan,T,F_avsResult_inside_1_0_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_outside_0_-1_f_l,0.693495892374
+South Bend,Lake Michigan,T,F_aboveFigureCentroid_f_l,1.0
+South Bend,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+South Bend,Lake Michigan,T,F_avsResult_outside_-1_1_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.265626985893
+South Bend,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+South Bend,Lake Michigan,T,F_avsResult_1_1_l_f,0.131194763531
+South Bend,Lake Michigan,T,F_avsResult_inside_-1_1_l_f,0.0
+South Bend,Lake Michigan,T,F_belowFigureCentroid_f_l,0.0
+South Bend,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+South Bend,Lake Michigan,T,F_closeDistNormFigure_f_l,1.0
+South Bend,Lake Michigan,T,F_avsResult_inside_-1_0_f_l,0.0
+South Bend,Lake Michigan,T,F_aboveFigureCentroid_l_f,0.0
+South Bend,Lake Michigan,T,F_leftOfFigureCentroid_f_l,1.0
+Lake Michigan,Kentucky,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_-1_-1_f_l,0.0
+Lake Michigan,Kentucky,T,F_distHorizontalCentroid_l_f,-0.0134643043158
+Lake Michigan,Kentucky,T,F_avsResult_outside_-1_0_f_l,0.113650844127
+Lake Michigan,Kentucky,T,F_avsResult_inside_1_-1_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_0_1_f_l,0.0
+Lake Michigan,Kentucky,T,F_distVerticalCentroid_l_f,0.0849563412837
+Lake Michigan,Kentucky,T,F_closeDistNormLandmark_l_f,1.0
+Lake Michigan,Kentucky,T,F_avsResult_outside_1_-1_f_l,0.0
+Lake Michigan,Kentucky,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Lake Michigan,Kentucky,T,F_math2dIntersectionArea_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_-1_0_f_l,0.113650844127
+Lake Michigan,Kentucky,T,F_avsResult_inside_-1_-1_l_f,0.0
+Lake Michigan,Kentucky,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_0_-1_f_l,0.0
+Lake Michigan,Kentucky,T,F_math2dIntersectionArea_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_-1_-1_l_f,0.0
+Lake Michigan,Kentucky,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_-1_0_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_0_-1_l_f,0.809719472575
+Lake Michigan,Kentucky,T,F_avsResult_outside_1_0_f_l,0.208028030518
+Lake Michigan,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_1_0_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_outside_1_-1_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_-1_1_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_-1_0_l_f,0.111345892796
+Lake Michigan,Kentucky,T,F_avsResult_1_-1_f_l,0.0
+Lake Michigan,Kentucky,T,F_distVerticalCentroid_f_l,-0.0849563412837
+Lake Michigan,Kentucky,T,F_3dSupportsFigureLandmark_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_0_1_f_l,0.00657277971713
+Lake Michigan,Kentucky,T,F_avsResult_outside_-1_1_l_f,0.0
+Lake Michigan,Kentucky,T,F_rightOfFigureCentroid_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_1_0_f_l,0.208028030518
+Lake Michigan,Kentucky,T,F_avsResult_outside_-1_-1_f_l,0.0
+Lake Michigan,Kentucky,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_1_1_l_f,0.0
+Lake Michigan,Kentucky,T,F_distBtwnCentroids_l_f,0.0860166694021
+Lake Michigan,Kentucky,T,F_avsResult_outside_0_-1_l_f,0.809719472575
+Lake Michigan,Kentucky,T,F_avsResult_1_0_l_f,0.0744954686624
+Lake Michigan,Kentucky,T,F_avsResult_1_-1_l_f,0.0
+Lake Michigan,Kentucky,T,F_closeDistNormLandmark_f_l,0.534101006611
+Lake Michigan,Kentucky,T,F_avsResult_inside_0_-1_l_f,0.0
+Lake Michigan,Kentucky,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_outside_-1_0_l_f,0.111345892796
+Lake Michigan,Kentucky,T,F_avsResult_1_1_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_0_1_l_f,0.809719472575
+Lake Michigan,Kentucky,T,F_leftOfFigureCentroid_l_f,1.0
+Lake Michigan,Kentucky,T,F_closeDistNormUnion_l_f,0.403564730854
+Lake Michigan,Kentucky,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,Kentucky,T,F_closeDistNormFigure_l_f,0.534101006611
+Lake Michigan,Kentucky,T,F_rightOfFigureCentroid_f_l,1.0
+Lake Michigan,Kentucky,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_outside_1_1_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_-1_1_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_outside_0_1_f_l,0.00657277971713
+Lake Michigan,Kentucky,T,F_math2dFigureIntersectionArea_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_0_1_l_f,0.0
+Lake Michigan,Kentucky,T,F_closeDistNormUnion_f_l,0.403564730854
+Lake Michigan,Kentucky,T,F_avsResult_outside_0_1_l_f,0.809719472575
+Lake Michigan,Kentucky,T,F_avsResult_-1_1_f_l,0.0
+Lake Michigan,Kentucky,T,F_3dSupportsFigureLandmark_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_outside_1_1_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_outside_-1_-1_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_0_-1_f_l,0.00657277971713
+Lake Michigan,Kentucky,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,Kentucky,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Lake Michigan,Kentucky,T,F_math2dFigureIntersectionArea_f_l,0.0
+Lake Michigan,Kentucky,T,F_distBtwnCentroids_f_l,0.0860166694021
+Lake Michigan,Kentucky,T,bias,1.0
+Lake Michigan,Kentucky,T,F_avsResult_-1_-1_f_l,0.0
+Lake Michigan,Kentucky,T,F_distHorizontalCentroid_f_l,0.0134643043158
+Lake Michigan,Kentucky,T,F_avsResult_inside_1_1_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_1_-1_f_l,0.0
+Lake Michigan,Kentucky,T,F_belowFigureCentroid_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_1_0_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_outside_0_-1_f_l,0.00657277971713
+Lake Michigan,Kentucky,T,F_aboveFigureCentroid_f_l,0.0
+Lake Michigan,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_outside_-1_1_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_outside_1_0_l_f,0.0744954686624
+Lake Michigan,Kentucky,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,Kentucky,T,F_avsResult_1_1_l_f,0.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_-1_1_l_f,0.0
+Lake Michigan,Kentucky,T,F_belowFigureCentroid_f_l,1.0
+Lake Michigan,Kentucky,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,Kentucky,T,F_closeDistNormFigure_f_l,1.0
+Lake Michigan,Kentucky,T,F_avsResult_inside_-1_0_f_l,0.0
+Lake Michigan,Kentucky,T,F_aboveFigureCentroid_l_f,1.0
+Lake Michigan,Kentucky,T,F_leftOfFigureCentroid_f_l,0.0
+Lake Michigan,Louisville,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_inside_-1_-1_f_l,0.0
+Lake Michigan,Louisville,T,F_distHorizontalCentroid_l_f,-0.0414634438192
+Lake Michigan,Louisville,T,F_avsResult_outside_-1_0_f_l,0.108033315249
+Lake Michigan,Louisville,T,F_avsResult_inside_1_-1_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_inside_0_1_f_l,0.0
+Lake Michigan,Louisville,T,F_distVerticalCentroid_l_f,0.221812815819
+Lake Michigan,Louisville,T,F_closeDistNormLandmark_l_f,1.0
+Lake Michigan,Louisville,T,F_avsResult_outside_1_-1_f_l,0.0
+Lake Michigan,Louisville,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Lake Michigan,Louisville,T,F_math2dIntersectionArea_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_-1_0_f_l,0.108033315249
+Lake Michigan,Louisville,T,F_avsResult_inside_-1_-1_l_f,0.0
+Lake Michigan,Louisville,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_inside_0_-1_f_l,0.0
+Lake Michigan,Louisville,T,F_math2dIntersectionArea_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_-1_-1_l_f,0.0
+Lake Michigan,Louisville,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_inside_-1_0_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_0_-1_l_f,0.788797726313
+Lake Michigan,Louisville,T,F_avsResult_outside_1_0_f_l,0.219563435258
+Lake Michigan,Louisville,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_inside_1_0_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_outside_1_-1_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_inside_-1_1_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_-1_0_l_f,0.33881501827
+Lake Michigan,Louisville,T,F_avsResult_1_-1_f_l,0.0
+Lake Michigan,Louisville,T,F_distVerticalCentroid_f_l,-0.221812815819
+Lake Michigan,Louisville,T,F_3dSupportsFigureLandmark_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_0_1_f_l,0.0079884208301
+Lake Michigan,Louisville,T,F_avsResult_outside_-1_1_l_f,0.0
+Lake Michigan,Louisville,T,F_rightOfFigureCentroid_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_1_0_f_l,0.219563435258
+Lake Michigan,Louisville,T,F_avsResult_outside_-1_-1_f_l,0.0
+Lake Michigan,Louisville,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_inside_1_1_l_f,0.0
+Lake Michigan,Louisville,T,F_distBtwnCentroids_l_f,0.225654918924
+Lake Michigan,Louisville,T,F_avsResult_outside_0_-1_l_f,0.788797726313
+Lake Michigan,Louisville,T,F_avsResult_1_0_l_f,0.146714390497
+Lake Michigan,Louisville,T,F_avsResult_1_-1_l_f,0.0
+Lake Michigan,Louisville,T,F_closeDistNormLandmark_f_l,1.0
+Lake Michigan,Louisville,T,F_avsResult_inside_0_-1_l_f,0.0
+Lake Michigan,Louisville,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_outside_-1_0_l_f,0.33881501827
+Lake Michigan,Louisville,T,F_avsResult_1_1_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_0_1_l_f,0.788797726313
+Lake Michigan,Louisville,T,F_leftOfFigureCentroid_l_f,1.0
+Lake Michigan,Louisville,T,F_closeDistNormUnion_l_f,1.0
+Lake Michigan,Louisville,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,Louisville,T,F_closeDistNormFigure_l_f,1.0
+Lake Michigan,Louisville,T,F_rightOfFigureCentroid_f_l,1.0
+Lake Michigan,Louisville,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_outside_1_1_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_-1_1_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_outside_0_1_f_l,0.0079884208301
+Lake Michigan,Louisville,T,F_math2dFigureIntersectionArea_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_inside_0_1_l_f,0.0
+Lake Michigan,Louisville,T,F_closeDistNormUnion_f_l,1.0
+Lake Michigan,Louisville,T,F_avsResult_outside_0_1_l_f,0.788797726313
+Lake Michigan,Louisville,T,F_avsResult_-1_1_f_l,0.0
+Lake Michigan,Louisville,T,F_3dSupportsFigureLandmark_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_outside_1_1_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_outside_-1_-1_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_0_-1_f_l,0.0079884208301
+Lake Michigan,Louisville,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,Louisville,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Lake Michigan,Louisville,T,F_math2dFigureIntersectionArea_f_l,0.0
+Lake Michigan,Louisville,T,F_distBtwnCentroids_f_l,0.225654918924
+Lake Michigan,Louisville,T,bias,1.0
+Lake Michigan,Louisville,T,F_avsResult_-1_-1_f_l,0.0
+Lake Michigan,Louisville,T,F_distHorizontalCentroid_f_l,0.0414634438192
+Lake Michigan,Louisville,T,F_avsResult_inside_1_1_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_inside_1_-1_f_l,0.0
+Lake Michigan,Louisville,T,F_belowFigureCentroid_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_inside_1_0_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_outside_0_-1_f_l,0.0079884208301
+Lake Michigan,Louisville,T,F_aboveFigureCentroid_f_l,0.0
+Lake Michigan,Louisville,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_outside_-1_1_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_outside_1_0_l_f,0.146714390497
+Lake Michigan,Louisville,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,Louisville,T,F_avsResult_1_1_l_f,0.0
+Lake Michigan,Louisville,T,F_avsResult_inside_-1_1_l_f,0.0
+Lake Michigan,Louisville,T,F_belowFigureCentroid_f_l,1.0
+Lake Michigan,Louisville,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,Louisville,T,F_closeDistNormFigure_f_l,1.0
+Lake Michigan,Louisville,T,F_avsResult_inside_-1_0_f_l,0.0
+Lake Michigan,Louisville,T,F_aboveFigureCentroid_l_f,1.0
+Lake Michigan,Louisville,T,F_leftOfFigureCentroid_f_l,0.0
+Lake Michigan,Indiana,T,F_math2dLandmarkIntersectionArea_f_l,0.000180747371497
+Lake Michigan,Indiana,T,F_avsResult_inside_-1_-1_f_l,0.0
+Lake Michigan,Indiana,T,F_distHorizontalCentroid_l_f,-0.0173246942762
+Lake Michigan,Indiana,T,F_avsResult_outside_-1_0_f_l,0.121436370818
+Lake Michigan,Indiana,T,F_avsResult_inside_1_-1_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_inside_0_1_f_l,0.0
+Lake Michigan,Indiana,T,F_distVerticalCentroid_l_f,0.149914216404
+Lake Michigan,Indiana,T,F_closeDistNormLandmark_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_outside_1_-1_f_l,0.0
+Lake Michigan,Indiana,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Lake Michigan,Indiana,T,F_math2dIntersectionArea_l_f,0.000108843075569
+Lake Michigan,Indiana,T,F_avsResult_-1_0_f_l,0.121436370818
+Lake Michigan,Indiana,T,F_avsResult_inside_-1_-1_l_f,0.0
+Lake Michigan,Indiana,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_inside_0_-1_f_l,0.0
+Lake Michigan,Indiana,T,F_math2dIntersectionArea_f_l,0.000108843075569
+Lake Michigan,Indiana,T,F_avsResult_-1_-1_l_f,0.0
+Lake Michigan,Indiana,T,F_math2dLandmarkIntersectionArea_l_f,0.000273526337333
+Lake Michigan,Indiana,T,F_avsResult_inside_-1_0_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_0_-1_l_f,0.719215179739
+Lake Michigan,Indiana,T,F_avsResult_outside_1_0_f_l,0.184935969482
+Lake Michigan,Indiana,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_inside_1_0_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_outside_1_-1_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_inside_-1_1_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_-1_0_l_f,0.175126516955
+Lake Michigan,Indiana,T,F_avsResult_1_-1_f_l,0.0
+Lake Michigan,Indiana,T,F_distVerticalCentroid_f_l,-0.149914216404
+Lake Michigan,Indiana,T,F_3dSupportsFigureLandmark_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_0_1_f_l,0.00723655153089
+Lake Michigan,Indiana,T,F_avsResult_outside_-1_1_l_f,0.0
+Lake Michigan,Indiana,T,F_rightOfFigureCentroid_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_1_0_f_l,0.184935969482
+Lake Michigan,Indiana,T,F_avsResult_outside_-1_-1_f_l,0.0
+Lake Michigan,Indiana,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_inside_1_1_l_f,0.0
+Lake Michigan,Indiana,T,F_distBtwnCentroids_l_f,0.150911952183
+Lake Michigan,Indiana,T,F_avsResult_outside_0_-1_l_f,0.719215179739
+Lake Michigan,Indiana,T,F_avsResult_1_0_l_f,0.126598009086
+Lake Michigan,Indiana,T,F_avsResult_1_-1_l_f,0.0
+Lake Michigan,Indiana,T,F_closeDistNormLandmark_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_inside_0_-1_l_f,0.0
+Lake Michigan,Indiana,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Lake Michigan,Indiana,T,F_avsResult_outside_-1_0_l_f,0.175126516955
+Lake Michigan,Indiana,T,F_avsResult_1_1_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_0_1_l_f,0.719215179739
+Lake Michigan,Indiana,T,F_leftOfFigureCentroid_l_f,1.0
+Lake Michigan,Indiana,T,F_closeDistNormUnion_l_f,0.0
+Lake Michigan,Indiana,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,Indiana,T,F_closeDistNormFigure_l_f,0.0
+Lake Michigan,Indiana,T,F_rightOfFigureCentroid_f_l,1.0
+Lake Michigan,Indiana,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_outside_1_1_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_-1_1_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_outside_0_1_f_l,0.00723655153089
+Lake Michigan,Indiana,T,F_math2dFigureIntersectionArea_l_f,0.000180747371497
+Lake Michigan,Indiana,T,F_avsResult_inside_0_1_l_f,0.0
+Lake Michigan,Indiana,T,F_closeDistNormUnion_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_outside_0_1_l_f,0.719215179739
+Lake Michigan,Indiana,T,F_avsResult_-1_1_f_l,0.0
+Lake Michigan,Indiana,T,F_3dSupportsFigureLandmark_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_outside_1_1_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_outside_-1_-1_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_0_-1_f_l,0.00723655153089
+Lake Michigan,Indiana,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,Indiana,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Lake Michigan,Indiana,T,F_math2dFigureIntersectionArea_f_l,0.000273526337333
+Lake Michigan,Indiana,T,F_distBtwnCentroids_f_l,0.150911952183
+Lake Michigan,Indiana,T,bias,1.0
+Lake Michigan,Indiana,T,F_avsResult_-1_-1_f_l,0.0
+Lake Michigan,Indiana,T,F_distHorizontalCentroid_f_l,0.0173246942762
+Lake Michigan,Indiana,T,F_avsResult_inside_1_1_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_inside_1_-1_f_l,0.0
+Lake Michigan,Indiana,T,F_belowFigureCentroid_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_inside_1_0_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_outside_0_-1_f_l,0.00723655153089
+Lake Michigan,Indiana,T,F_aboveFigureCentroid_f_l,0.0
+Lake Michigan,Indiana,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_outside_-1_1_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_outside_1_0_l_f,0.126598009086
+Lake Michigan,Indiana,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_1_1_l_f,0.0
+Lake Michigan,Indiana,T,F_avsResult_inside_-1_1_l_f,0.0
+Lake Michigan,Indiana,T,F_belowFigureCentroid_f_l,1.0
+Lake Michigan,Indiana,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,Indiana,T,F_closeDistNormFigure_f_l,0.0
+Lake Michigan,Indiana,T,F_avsResult_inside_-1_0_f_l,0.0
+Lake Michigan,Indiana,T,F_aboveFigureCentroid_l_f,1.0
+Lake Michigan,Indiana,T,F_leftOfFigureCentroid_f_l,0.0
+Lake Michigan,Indianapolis,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_-1_-1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_distHorizontalCentroid_l_f,-0.0287869228681
+Lake Michigan,Indianapolis,T,F_avsResult_outside_-1_0_f_l,0.117235050495
+Lake Michigan,Indianapolis,T,F_avsResult_inside_1_-1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_0_1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_distVerticalCentroid_l_f,0.206637464078
+Lake Michigan,Indianapolis,T,F_closeDistNormLandmark_l_f,0.666302244056
+Lake Michigan,Indianapolis,T,F_avsResult_outside_1_-1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Lake Michigan,Indianapolis,T,F_math2dIntersectionArea_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_-1_0_f_l,0.117235050495
+Lake Michigan,Indianapolis,T,F_avsResult_inside_-1_-1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_0_-1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_math2dIntersectionArea_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_-1_-1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_-1_0_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_0_-1_l_f,0.774955590187
+Lake Michigan,Indianapolis,T,F_avsResult_outside_1_0_f_l,0.191865536513
+Lake Michigan,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_1_0_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_outside_1_-1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_-1_1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_-1_0_l_f,0.31576165907
+Lake Michigan,Indianapolis,T,F_avsResult_1_-1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_distVerticalCentroid_f_l,-0.206637464078
+Lake Michigan,Indianapolis,T,F_3dSupportsFigureLandmark_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_0_1_f_l,0.00805344819226
+Lake Michigan,Indianapolis,T,F_avsResult_outside_-1_1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_rightOfFigureCentroid_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_1_0_f_l,0.191865536513
+Lake Michigan,Indianapolis,T,F_avsResult_outside_-1_-1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_1_1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_distBtwnCentroids_l_f,0.20863299952
+Lake Michigan,Indianapolis,T,F_avsResult_outside_0_-1_l_f,0.774955590187
+Lake Michigan,Indianapolis,T,F_avsResult_1_0_l_f,0.19012769215
+Lake Michigan,Indianapolis,T,F_avsResult_1_-1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_closeDistNormLandmark_f_l,1.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_0_-1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_outside_-1_0_l_f,0.31576165907
+Lake Michigan,Indianapolis,T,F_avsResult_1_1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_0_1_l_f,0.774955590187
+Lake Michigan,Indianapolis,T,F_leftOfFigureCentroid_l_f,1.0
+Lake Michigan,Indianapolis,T,F_closeDistNormUnion_l_f,0.666270157062
+Lake Michigan,Indianapolis,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,Indianapolis,T,F_closeDistNormFigure_l_f,1.0
+Lake Michigan,Indianapolis,T,F_rightOfFigureCentroid_f_l,1.0
+Lake Michigan,Indianapolis,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_outside_1_1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_-1_1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_outside_0_1_f_l,0.00805344819226
+Lake Michigan,Indianapolis,T,F_math2dFigureIntersectionArea_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_0_1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_closeDistNormUnion_f_l,0.666270157062
+Lake Michigan,Indianapolis,T,F_avsResult_outside_0_1_l_f,0.774955590187
+Lake Michigan,Indianapolis,T,F_avsResult_-1_1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_3dSupportsFigureLandmark_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_outside_1_1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_outside_-1_-1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_0_-1_f_l,0.00805344819226
+Lake Michigan,Indianapolis,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,Indianapolis,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Lake Michigan,Indianapolis,T,F_math2dFigureIntersectionArea_f_l,0.0
+Lake Michigan,Indianapolis,T,F_distBtwnCentroids_f_l,0.20863299952
+Lake Michigan,Indianapolis,T,bias,1.0
+Lake Michigan,Indianapolis,T,F_avsResult_-1_-1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_distHorizontalCentroid_f_l,0.0287869228681
+Lake Michigan,Indianapolis,T,F_avsResult_inside_1_1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_1_-1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_belowFigureCentroid_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_1_0_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_outside_0_-1_f_l,0.00805344819226
+Lake Michigan,Indianapolis,T,F_aboveFigureCentroid_f_l,0.0
+Lake Michigan,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_outside_-1_1_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_outside_1_0_l_f,0.19012769215
+Lake Michigan,Indianapolis,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_1_1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_avsResult_inside_-1_1_l_f,0.0
+Lake Michigan,Indianapolis,T,F_belowFigureCentroid_f_l,1.0
+Lake Michigan,Indianapolis,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,Indianapolis,T,F_closeDistNormFigure_f_l,0.666302244056
+Lake Michigan,Indianapolis,T,F_avsResult_inside_-1_0_f_l,0.0
+Lake Michigan,Indianapolis,T,F_aboveFigureCentroid_l_f,1.0
+Lake Michigan,Indianapolis,T,F_leftOfFigureCentroid_f_l,0.0
+Lake Michigan,South Bend,T,F_math2dLandmarkIntersectionArea_f_l,0.0
+Lake Michigan,South Bend,T,F_avsResult_inside_-1_-1_f_l,0.0
+Lake Michigan,South Bend,T,F_distHorizontalCentroid_l_f,-0.0325011659039
+Lake Michigan,South Bend,T,F_avsResult_outside_-1_0_f_l,0.0618902635977
+Lake Michigan,South Bend,T,F_avsResult_inside_1_-1_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_inside_0_1_f_l,0.0
+Lake Michigan,South Bend,T,F_distVerticalCentroid_l_f,0.160425598241
+Lake Michigan,South Bend,T,F_closeDistNormLandmark_l_f,0.0135140111951
+Lake Michigan,South Bend,T,F_avsResult_outside_1_-1_f_l,0.131194763531
+Lake Michigan,South Bend,T,F_3dIntersectsFigureLandmark_f_l,0.0
+Lake Michigan,South Bend,T,F_math2dIntersectionArea_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_-1_0_f_l,0.0618902635977
+Lake Michigan,South Bend,T,F_avsResult_inside_-1_-1_l_f,0.0
+Lake Michigan,South Bend,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_inside_0_-1_f_l,0.0
+Lake Michigan,South Bend,T,F_math2dIntersectionArea_f_l,0.0
+Lake Michigan,South Bend,T,F_avsResult_-1_-1_l_f,0.0
+Lake Michigan,South Bend,T,F_math2dLandmarkIntersectionArea_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_inside_-1_0_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_0_-1_l_f,0.693495892374
+Lake Michigan,South Bend,T,F_avsResult_outside_1_0_f_l,0.265626985893
+Lake Michigan,South Bend,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_inside_1_0_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_outside_1_-1_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_inside_-1_1_f_l,0.0
+Lake Michigan,South Bend,T,F_avsResult_-1_0_l_f,0.311850359171
+Lake Michigan,South Bend,T,F_avsResult_1_-1_f_l,0.131194763531
+Lake Michigan,South Bend,T,F_distVerticalCentroid_f_l,-0.160425598241
+Lake Michigan,South Bend,T,F_3dSupportsFigureLandmark_f_l,0.0
+Lake Michigan,South Bend,T,F_avsResult_0_1_f_l,0.014283602979
+Lake Michigan,South Bend,T,F_avsResult_outside_-1_1_l_f,0.0
+Lake Michigan,South Bend,T,F_rightOfFigureCentroid_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_1_0_f_l,0.265626985893
+Lake Michigan,South Bend,T,F_avsResult_outside_-1_-1_f_l,0.0
+Lake Michigan,South Bend,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,South Bend,T,F_avsResult_inside_1_1_l_f,0.0
+Lake Michigan,South Bend,T,F_distBtwnCentroids_l_f,0.163684752974
+Lake Michigan,South Bend,T,F_avsResult_outside_0_-1_l_f,0.693495892374
+Lake Michigan,South Bend,T,F_avsResult_1_0_l_f,0.184831877923
+Lake Michigan,South Bend,T,F_avsResult_1_-1_l_f,0.0
+Lake Michigan,South Bend,T,F_closeDistNormLandmark_f_l,1.0
+Lake Michigan,South Bend,T,F_avsResult_inside_0_-1_l_f,0.0
+Lake Michigan,South Bend,T,F_3dIntersectsFigureLandmark_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_outside_-1_0_l_f,0.311850359171
+Lake Michigan,South Bend,T,F_avsResult_1_1_f_l,0.131194763531
+Lake Michigan,South Bend,T,F_avsResult_0_1_l_f,0.693495892374
+Lake Michigan,South Bend,T,F_leftOfFigureCentroid_l_f,1.0
+Lake Michigan,South Bend,T,F_closeDistNormUnion_l_f,0.0134571222812
+Lake Michigan,South Bend,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,South Bend,T,F_closeDistNormFigure_l_f,1.0
+Lake Michigan,South Bend,T,F_rightOfFigureCentroid_f_l,1.0
+Lake Michigan,South Bend,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Lake Michigan,South Bend,T,F_avsResult_outside_1_1_f_l,0.131194763531
+Lake Michigan,South Bend,T,F_avsResult_-1_1_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_outside_0_1_f_l,0.014283602979
+Lake Michigan,South Bend,T,F_math2dFigureIntersectionArea_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_inside_0_1_l_f,0.0
+Lake Michigan,South Bend,T,F_closeDistNormUnion_f_l,0.0134571222812
+Lake Michigan,South Bend,T,F_avsResult_outside_0_1_l_f,0.693495892374
+Lake Michigan,South Bend,T,F_avsResult_-1_1_f_l,0.0
+Lake Michigan,South Bend,T,F_3dSupportsFigureLandmark_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_outside_1_1_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_outside_-1_-1_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_0_-1_f_l,0.014283602979
+Lake Michigan,South Bend,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,South Bend,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Lake Michigan,South Bend,T,F_math2dFigureIntersectionArea_f_l,0.0
+Lake Michigan,South Bend,T,F_distBtwnCentroids_f_l,0.163684752974
+Lake Michigan,South Bend,T,bias,1.0
+Lake Michigan,South Bend,T,F_avsResult_-1_-1_f_l,0.0
+Lake Michigan,South Bend,T,F_distHorizontalCentroid_f_l,0.0325011659039
+Lake Michigan,South Bend,T,F_avsResult_inside_1_1_f_l,0.0
+Lake Michigan,South Bend,T,F_avsResult_inside_1_-1_f_l,0.0
+Lake Michigan,South Bend,T,F_belowFigureCentroid_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_inside_1_0_f_l,0.0
+Lake Michigan,South Bend,T,F_avsResult_outside_0_-1_f_l,0.014283602979
+Lake Michigan,South Bend,T,F_aboveFigureCentroid_f_l,0.0
+Lake Michigan,South Bend,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_outside_-1_1_f_l,0.0
+Lake Michigan,South Bend,T,F_avsResult_outside_1_0_l_f,0.184831877923
+Lake Michigan,South Bend,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,South Bend,T,F_avsResult_1_1_l_f,0.0
+Lake Michigan,South Bend,T,F_avsResult_inside_-1_1_l_f,0.0
+Lake Michigan,South Bend,T,F_belowFigureCentroid_f_l,1.0
+Lake Michigan,South Bend,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,South Bend,T,F_closeDistNormFigure_f_l,0.0135140111951
+Lake Michigan,South Bend,T,F_avsResult_inside_-1_0_f_l,0.0
+Lake Michigan,South Bend,T,F_aboveFigureCentroid_l_f,1.0
+Lake Michigan,South Bend,T,F_leftOfFigureCentroid_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_-1_f_l,0.257883546474
+Lake Michigan,Lake Michigan,T,F_distHorizontalCentroid_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_-1_0_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_1_-1_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_0_1_f_l,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_distVerticalCentroid_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_closeDistNormLandmark_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_1_-1_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Lake Michigan,Lake Michigan,T,F_math2dIntersectionArea_l_f,1.0
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_0_f_l,0.268719027937
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_-1_l_f,0.257883546474
+Lake Michigan,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_0_-1_f_l,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_math2dIntersectionArea_f_l,1.0
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_-1_l_f,0.257883546474
+Lake Michigan,Lake Michigan,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_0_l_f,0.268719027937
+Lake Michigan,Lake Michigan,T,F_avsResult_0_-1_l_f,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_1_0_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_1_0_l_f,0.0672439525552
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_1_-1_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_1_f_l,0.257883546474
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_0_l_f,0.268719027937
+Lake Michigan,Lake Michigan,T,F_avsResult_1_-1_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_distVerticalCentroid_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_3dSupportsFigureLandmark_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_0_1_f_l,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_-1_1_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_rightOfFigureCentroid_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_1_0_f_l,0.0672439525552
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_-1_-1_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_1_1_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_distBtwnCentroids_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_0_-1_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_1_0_l_f,0.0672439525552
+Lake Michigan,Lake Michigan,T,F_avsResult_1_-1_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_closeDistNormLandmark_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_0_-1_l_f,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_-1_0_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_1_1_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_0_1_l_f,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_leftOfFigureCentroid_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_closeDistNormUnion_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_3dEndsHigherThanFigureLandmark_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_closeDistNormFigure_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_rightOfFigureCentroid_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_3dSupportsLandmarkFigure_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_1_1_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_1_l_f,0.257883546474
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_0_1_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_math2dFigureIntersectionArea_l_f,1.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_0_1_l_f,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_closeDistNormUnion_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_0_1_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_1_f_l,0.257883546474
+Lake Michigan,Lake Michigan,T,F_3dSupportsFigureLandmark_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_1_1_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_-1_-1_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_0_-1_f_l,0.0145715131091
+Lake Michigan,Lake Michigan,T,F_3dStartsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_3dSupportsLandmarkFigure_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_math2dFigureIntersectionArea_f_l,1.0
+Lake Michigan,Lake Michigan,T,F_distBtwnCentroids_f_l,0.0
+Lake Michigan,Lake Michigan,T,bias,1.0
+Lake Michigan,Lake Michigan,T,F_avsResult_-1_-1_f_l,0.257883546474
+Lake Michigan,Lake Michigan,T,F_distHorizontalCentroid_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_1_1_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_1_-1_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_belowFigureCentroid_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_1_0_f_l,0.0672439525552
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_0_-1_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_aboveFigureCentroid_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_-1_1_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_outside_1_0_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_3dStartsHigherThanFigureLandmark_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_1_1_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_1_l_f,0.257883546474
+Lake Michigan,Lake Michigan,T,F_belowFigureCentroid_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_3dEndsHigherThanLandmarkFigure_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_closeDistNormFigure_f_l,0.0
+Lake Michigan,Lake Michigan,T,F_avsResult_inside_-1_0_f_l,0.268719027937
+Lake Michigan,Lake Michigan,T,F_aboveFigureCentroid_l_f,0.0
+Lake Michigan,Lake Michigan,T,F_leftOfFigureCentroid_f_l,0.0

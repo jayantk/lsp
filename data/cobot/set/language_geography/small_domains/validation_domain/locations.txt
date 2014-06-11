@@ -1,0 +1,44 @@
+Pennsylvania;Pennsylvania, USA;162109
+New Jersey;New Jersey, USA;224951
+Ohio;Ohio, USA;162061
+New York;New York, USA;61320
+Connecticut;Connecticut, USA;165794
+Rhode Island;Rhode Island, USA;392915
+Massachusetts;Massachusetts, USA;61315
+Maine;Maine, USA;63512
+Vermont;Vermont, USA;60759
+New Hampshire;New Hampshire, USA;67213
+Ontario;Ontario, Canada;68841
+Michigan;Michigan, USA;165789
+Pittsburgh;Pittsburgh, Pennsylvania, USA;188553
+Harrisburg;Harrisburg, Pennsylvania, USA;188218
+Newark;Newark, New Jersey, USA;170486
+Trenton;Trenton, New Jersey, USA;170584
+Cleveland;Cleveland, Ohio, USA;182130
+Philadelphia;Philadelphia, USA;188022
+Buffalo;Buffalo, USA;175031
+Rochester;Rochester, USA;176069
+Albany;Albany, USA;175549
+Nashua;Nashua, USA;318807
+New York City;New York City, USA;175905
+Altoona;Altoona, Pennsylvania, USA;188252
+London;London, Ontario, Canada;485248691
+Markham;Markham, Ontario, Canada;324213
+Toronto;Toronto, Ontario, Canada;324211
+Kingston;Kingston, Ontario, Canada;30088324
+Lake Huron;Lake Huron, USA;144346927
+Lake Erie;Lake Erie, USA;585382683
+Utica;Utica, New York, USA;175487
+Detroit;Detroit, Michigan, USA;134591
+Burlington;Burlington, Vermont, USA;199071
+Columbus;Columbus, Ohio, USA;182706
+Richmond;Richmond, Virginia, USA;40821929
+Lake Superior;Lake Superior, USA;936282544
+Atlantic Ocean;Atlantic Ocean;305640306
+Montreal;Montreal, Canada;299790200
+Lake Ontario;Lake Ontario, USA;18594244
+Manchester;Manchester, New Hampshire, USA;305467
+Canton;Canton, Ohio, USA;182492
+Mansfield;Mansfield, Ohio, USA;182659
+Allentown;Allentown, Pennsylvania, USA;188525
+New Haven;New Haven, Connecticut, USA;270191

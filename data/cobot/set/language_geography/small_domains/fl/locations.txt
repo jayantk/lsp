@@ -1,0 +1,8 @@
+Florida;Florida;162050
+Tallahassee;Tallahassee;154051410
+Miami;Miami;1216769
+Everglades National Park;Everglades National Park;2163707
+Key Largo;Key Largo;153891314
+Daytona Beach;Daytona Beach;117945
+Georgia;Georgia;161957
+Atlanta;Atlanta;119557

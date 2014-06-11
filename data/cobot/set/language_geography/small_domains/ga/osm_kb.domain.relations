@@ -1,0 +1,1720 @@
+Alabama,Alabama,T,arg1 homes for sale by arg2,1
+Alabama,Alabama,T,arg1 kindergarten and arg2,1
+Alabama,Alabama,T,arg1 media lists arg2,1
+Alabama,Alabama,T,arg1 on the border of arg2,1
+Alabama,Alabama,T,arg1 or moving from arg2,1
+Alabama,Alabama,T,arg1 our local arg2,1
+Alabama,Alabama,T,arg1 provides detailed information on arg2,1
+Alabama,Alabama,T,arg1 real estate license classes and arg2,1
+Alabama,Alabama,T,arg1 see arg2,1
+Alabama,Alabama,T,arg2 homes for sale by arg1,1
+Alabama,Alabama,T,arg2 kindergarten and arg1,1
+Alabama,Alabama,T,arg2 media lists arg1,1
+Alabama,Alabama,T,arg2 on the border of arg1,1
+Alabama,Alabama,T,arg2 or moving from arg1,1
+Alabama,Alabama,T,arg2 our local arg1,1
+Alabama,Alabama,T,arg2 provides detailed information on arg1,1
+Alabama,Alabama,T,arg2 real estate license classes and arg1,1
+Alabama,Alabama,T,arg2 see arg1,1
+Alabama,Alabama,T,bias,1.0
+Alabama,Alabama,T,entity1=entity2,1
+Alabama,Alabama,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Alabama,Alabama,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Alabama,Alabama,T,F_avsResult_0_-1_f_l,0.255661248809
+Alabama,Alabama,T,F_avsResult_0_1_f_l,0.255661248809
+Alabama,Alabama,T,F_avsResult_0_-1_l_f,0.255661248809
+Alabama,Alabama,T,F_avsResult_0_1_l_f,0.255661248809
+Alabama,Alabama,T,F_avsResult_-1_0_f_l,0.000663651512204
+Alabama,Alabama,T,F_avsResult_1_0_f_l,0.00168469070805
+Alabama,Alabama,T,F_avsResult_-1_0_l_f,0.000663651512204
+Alabama,Alabama,T,F_avsResult_1_0_l_f,0.00168469070805
+Alabama,Alabama,T,F_avsResult_inside_0_-1_f_l,0.255661248809
+Alabama,Alabama,T,F_avsResult_inside_0_1_f_l,0.255661248809
+Alabama,Alabama,T,F_avsResult_inside_0_-1_l_f,0.255661248809
+Alabama,Alabama,T,F_avsResult_inside_0_1_l_f,0.255661248809
+Alabama,Alabama,T,F_avsResult_inside_-1_0_f_l,0.000663651512204
+Alabama,Alabama,T,F_avsResult_inside_1_0_f_l,0.00168469070805
+Alabama,Alabama,T,F_avsResult_inside_-1_0_l_f,0.000663651512204
+Alabama,Alabama,T,F_avsResult_inside_1_0_l_f,0.00168469070805
+Alabama,Alabama,T,F_math2dFigureIntersectionArea_f_l,1.0
+Alabama,Alabama,T,F_math2dFigureIntersectionArea_l_f,1.0
+Alabama,Alabama,T,F_math2dIntersectionArea_f_l,1.0
+Alabama,Alabama,T,F_math2dIntersectionArea_l_f,1.0
+Alabama,Alabama,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Alabama,Alabama,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Alabama,Atlanta,T,arg1 and presently resides in arg2,1
+Alabama,Atlanta,T,arg1 and raised in arg2,1
+Alabama,Atlanta,T,arg1 arrived in arg2,1
+Alabama,Atlanta,T,arg1 got to arg2,1
+Alabama,Atlanta,T,arg2 against arg1,1
+Alabama,Atlanta,T,arg2 includes arg1,1
+Alabama,Atlanta,T,arg2 including arg1,1
+Alabama,Atlanta,T,arg2 instead of arg1,1
+Alabama,Atlanta,T,arg2 or those in arg1,1
+Alabama,Atlanta,T,arg2 region includes arg1,1
+Alabama,Atlanta,T,arg2 this weekend for arg1,1
+Alabama,Atlanta,T,arg2 to go to arg1,1
+Alabama,Atlanta,T,arg2 to play arg1,1
+Alabama,Atlanta,T,arg2 versus arg1,1
+Alabama,Atlanta,T,bias,1.0
+Alabama,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Alabama,Atlanta,T,F_avsResult_0_-1_f_l,0.187477781639
+Alabama,Atlanta,T,F_avsResult_0_1_f_l,0.187477781639
+Alabama,Atlanta,T,F_avsResult_0_-1_l_f,0.132468833237
+Alabama,Atlanta,T,F_avsResult_0_1_l_f,0.132468833237
+Alabama,Atlanta,T,F_avsResult_-1_0_f_l,0.0140500219951
+Alabama,Atlanta,T,F_avsResult_1_0_f_l,0.538199443276
+Alabama,Atlanta,T,F_avsResult_1_0_l_f,0.0305628134752
+Alabama,Atlanta,T,F_avsResult_-1_0_l_f,0.648599326193
+Alabama,Atlanta,T,F_avsResult_-1_-1_l_f,0.474771189553
+Alabama,Atlanta,T,F_avsResult_-1_1_l_f,0.474771189553
+Alabama,Atlanta,T,F_avsResult_outside_0_-1_f_l,0.187477781639
+Alabama,Atlanta,T,F_avsResult_outside_0_1_f_l,0.187477781639
+Alabama,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.132468833237
+Alabama,Atlanta,T,F_avsResult_outside_0_1_l_f,0.132468833237
+Alabama,Atlanta,T,F_avsResult_outside_-1_0_f_l,0.0140500219951
+Alabama,Atlanta,T,F_avsResult_outside_1_0_f_l,0.538199443276
+Alabama,Atlanta,T,F_avsResult_outside_1_0_l_f,0.0305628134752
+Alabama,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.648599326193
+Alabama,Atlanta,T,F_avsResult_outside_-1_-1_l_f,0.474771189553
+Alabama,Atlanta,T,F_avsResult_outside_-1_1_l_f,0.474771189553
+Alabama,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Alabama,Atlanta,T,F_closeDistNormFigure_f_l,0.0532186649097
+Alabama,Atlanta,T,F_closeDistNormFigure_l_f,1.0
+Alabama,Atlanta,T,F_closeDistNormLandmark_f_l,1.0
+Alabama,Atlanta,T,F_closeDistNormLandmark_l_f,0.0532186649097
+Alabama,Atlanta,T,F_closeDistNormUnion_f_l,0.0529634760281
+Alabama,Atlanta,T,F_closeDistNormUnion_l_f,0.0529634760281
+Alabama,Atlanta,T,F_distBtwnCentroids_f_l,0.129830531579
+Alabama,Atlanta,T,F_distBtwnCentroids_l_f,0.129830531579
+Alabama,Atlanta,T,F_distHorizontalCentroid_f_l,0.119896153422
+Alabama,Atlanta,T,F_distHorizontalCentroid_l_f,-0.119896153422
+Alabama,Atlanta,T,F_distVerticalCentroid_f_l,0.0498084262429
+Alabama,Atlanta,T,F_distVerticalCentroid_l_f,-0.0498084262429
+Alabama,Atlanta,T,F_leftOfFigureCentroid_l_f,1.0
+Alabama,Atlanta,T,F_rightOfFigureCentroid_f_l,1.0
+Alabama,Birmingham,T,arg1 and has lived in arg2,1
+Alabama,Birmingham,T,arg1 cities like arg2,1
+Alabama,Birmingham,T,arg1 cities such as arg2,1
+Alabama,Birmingham,T,arg1 include arg2,1
+Alabama,Birmingham,T,arg1 including arg2,1
+Alabama,Birmingham,T,arg1 outside of arg2,1
+Alabama,Birmingham,T,arg1 serving the greater arg2,1
+Alabama,Birmingham,T,arg1 which includes arg2,1
+Alabama,Birmingham,T,arg2 and the state of arg1,1
+Alabama,Birmingham,T,arg2 and the surrounding parts of arg1,1
+Alabama,Birmingham,T,arg2 and throughout arg1,1
+Alabama,Birmingham,T,arg2 and throughout the state of arg1,1
+Alabama,Birmingham,T,arg2 area of arg1,1
+Alabama,Birmingham,T,arg2 is the largest city in arg1,1
+Alabama,Birmingham,T,arg2 or the state of arg1,1
+Alabama,Birmingham,T,arg2 putting greens and arg1,1
+Alabama,Birmingham,T,arg2 synthetic grass and arg1,1
+Alabama,Birmingham,T,arg2 the largest city in arg1,1
+Alabama,Birmingham,T,bias,1.0
+Alabama,Birmingham,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Alabama,Birmingham,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Alabama,Birmingham,T,F_aboveFigureCentroid_f_l,1.0
+Alabama,Birmingham,T,F_avsResult_0_-1_f_l,0.141980892245
+Alabama,Birmingham,T,F_avsResult_0_1_f_l,0.141980892245
+Alabama,Birmingham,T,F_avsResult_0_-1_l_f,0.0312206925512
+Alabama,Birmingham,T,F_avsResult_0_1_l_f,0.0312206925512
+Alabama,Birmingham,T,F_avsResult_-1_0_f_l,0.00950927156201
+Alabama,Birmingham,T,F_avsResult_1_0_f_l,0.0193151803135
+Alabama,Birmingham,T,F_avsResult_1_0_l_f,0.195827412531
+Alabama,Birmingham,T,F_avsResult_-1_0_l_f,0.307927514252
+Alabama,Birmingham,T,F_avsResult_-1_-1_f_l,0.178787985946
+Alabama,Birmingham,T,F_avsResult_-1_1_f_l,0.178787985946
+Alabama,Birmingham,T,F_avsResult_inside_0_-1_f_l,0.141980892245
+Alabama,Birmingham,T,F_avsResult_inside_0_1_f_l,0.141980892245
+Alabama,Birmingham,T,F_avsResult_inside_-1_0_f_l,0.00950927156201
+Alabama,Birmingham,T,F_avsResult_inside_1_0_f_l,0.0193151803135
+Alabama,Birmingham,T,F_avsResult_inside_-1_-1_f_l,0.178787985946
+Alabama,Birmingham,T,F_avsResult_inside_-1_1_f_l,0.178787985946
+Alabama,Birmingham,T,F_avsResult_outside_0_-1_l_f,0.0312206925512
+Alabama,Birmingham,T,F_avsResult_outside_0_1_l_f,0.0312206925512
+Alabama,Birmingham,T,F_avsResult_outside_1_0_l_f,0.195827412531
+Alabama,Birmingham,T,F_avsResult_outside_-1_0_l_f,0.307927514252
+Alabama,Birmingham,T,F_belowFigureCentroid_l_f,1.0
+Alabama,Birmingham,T,F_distBtwnCentroids_f_l,0.0505530946972
+Alabama,Birmingham,T,F_distBtwnCentroids_l_f,0.0505530946972
+Alabama,Birmingham,T,F_distHorizontalCentroid_f_l,0.0128162959491
+Alabama,Birmingham,T,F_distHorizontalCentroid_l_f,-0.0128162959491
+Alabama,Birmingham,T,F_distVerticalCentroid_f_l,0.048901512672
+Alabama,Birmingham,T,F_distVerticalCentroid_l_f,-0.048901512672
+Alabama,Birmingham,T,F_leftOfFigureCentroid_l_f,1.0
+Alabama,Birmingham,T,F_math2dFigureIntersectionArea_f_l,6.5872977417e-06
+Alabama,Birmingham,T,F_math2dFigureIntersectionArea_l_f,0.999999999994
+Alabama,Birmingham,T,F_math2dIntersectionArea_f_l,6.5872977417e-06
+Alabama,Birmingham,T,F_math2dIntersectionArea_l_f,6.5872977417e-06
+Alabama,Birmingham,T,F_math2dLandmarkIntersectionArea_f_l,0.999999999994
+Alabama,Birmingham,T,F_math2dLandmarkIntersectionArea_l_f,6.5872977417e-06
+Alabama,Birmingham,T,F_rightOfFigureCentroid_f_l,1.0
+Alabama,Georgia,T,arg1 and north arg2,1
+Alabama,Georgia,T,arg1 and northern arg2,1
+Alabama,Georgia,T,arg1 and parts of arg2,1
+Alabama,Georgia,T,arg1 and southern arg2,1
+Alabama,Georgia,T,arg1 and southwest arg2,1
+Alabama,Georgia,T,arg1 and west arg2,1
+Alabama,Georgia,T,arg1 and western arg2,1
+Alabama,Georgia,T,arg1 beat arg2,1
+Alabama,Georgia,T,arg1 through arg2,1
+Alabama,Georgia,T,arg2 and east arg1,1
+Alabama,Georgia,T,arg2 and eastern arg1,1
+Alabama,Georgia,T,arg2 and northeast arg1,1
+Alabama,Georgia,T,arg2 and northeastern arg1,1
+Alabama,Georgia,T,arg2 and northern arg1,1
+Alabama,Georgia,T,arg2 and one in arg1,1
+Alabama,Georgia,T,arg2 and parts of arg1,1
+Alabama,Georgia,T,arg2 and southeastern arg1,1
+Alabama,Georgia,T,arg2 and southern arg1,1
+Alabama,Georgia,T,arg2 as well as arg1,1
+Alabama,Georgia,T,bias,1.0
+Alabama,Georgia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Alabama,Georgia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Alabama,Georgia,T,F_aboveFigureCentroid_l_f,1.0
+Alabama,Georgia,T,F_avsResult_0_-1_f_l,0.13912922712
+Alabama,Georgia,T,F_avsResult_0_1_f_l,0.13912922712
+Alabama,Georgia,T,F_avsResult_0_-1_l_f,0.0847456541812
+Alabama,Georgia,T,F_avsResult_0_1_l_f,0.0847456541812
+Alabama,Georgia,T,F_avsResult_-1_0_f_l,0.00039598599841
+Alabama,Georgia,T,F_avsResult_1_0_f_l,0.647021462155
+Alabama,Georgia,T,F_avsResult_1_0_l_f,0.0155420574284
+Alabama,Georgia,T,F_avsResult_-1_0_l_f,0.606961392776
+Alabama,Georgia,T,F_avsResult_outside_0_-1_f_l,0.13912922712
+Alabama,Georgia,T,F_avsResult_outside_0_1_f_l,0.13912922712
+Alabama,Georgia,T,F_avsResult_outside_0_-1_l_f,0.0847456541812
+Alabama,Georgia,T,F_avsResult_outside_0_1_l_f,0.0847456541812
+Alabama,Georgia,T,F_avsResult_outside_-1_0_f_l,0.00039598599841
+Alabama,Georgia,T,F_avsResult_outside_1_0_f_l,0.647021462155
+Alabama,Georgia,T,F_avsResult_outside_1_0_l_f,0.0155420574284
+Alabama,Georgia,T,F_avsResult_outside_-1_0_l_f,0.606961392776
+Alabama,Georgia,T,F_belowFigureCentroid_f_l,1.0
+Alabama,Georgia,T,F_distBtwnCentroids_f_l,0.0922658518202
+Alabama,Georgia,T,F_distBtwnCentroids_l_f,0.0922658518202
+Alabama,Georgia,T,F_distHorizontalCentroid_f_l,0.0922121605164
+Alabama,Georgia,T,F_distHorizontalCentroid_l_f,-0.0922121605164
+Alabama,Georgia,T,F_distVerticalCentroid_f_l,-0.00314719954958
+Alabama,Georgia,T,F_distVerticalCentroid_l_f,0.00314719954958
+Alabama,Georgia,T,F_leftOfFigureCentroid_l_f,1.0
+Alabama,Georgia,T,F_math2dFigureIntersectionArea_f_l,0.000745315377175
+Alabama,Georgia,T,F_math2dFigureIntersectionArea_l_f,0.000665035939805
+Alabama,Georgia,T,F_math2dIntersectionArea_f_l,0.000351568978277
+Alabama,Georgia,T,F_math2dIntersectionArea_l_f,0.000351568978277
+Alabama,Georgia,T,F_math2dLandmarkIntersectionArea_f_l,0.000665035939805
+Alabama,Georgia,T,F_math2dLandmarkIntersectionArea_l_f,0.000745315377175
+Alabama,Georgia,T,F_rightOfFigureCentroid_f_l,1.0
+Alabama,Macon,T,arg1 home is worth and other arg2,1
+Alabama,Macon,T,arg1 toward arg2,1
+Alabama,Macon,T,arg1 will play arg2,1
+Alabama,Macon,T,arg2 counties in arg1,1
+Alabama,Macon,T,bias,1.0
+Alabama,Macon,T,F_aboveFigureCentroid_f_l,1.0
+Alabama,Macon,T,F_avsResult_0_-1_f_l,0.15406244652
+Alabama,Macon,T,F_avsResult_0_1_f_l,0.15406244652
+Alabama,Macon,T,F_avsResult_0_-1_l_f,0.236711785182
+Alabama,Macon,T,F_avsResult_0_1_l_f,0.236711785182
+Alabama,Macon,T,F_avsResult_-1_0_f_l,0.00251787623274
+Alabama,Macon,T,F_avsResult_1_0_f_l,0.606170739643
+Alabama,Macon,T,F_avsResult_1_0_l_f,0.0015234246614
+Alabama,Macon,T,F_avsResult_-1_0_l_f,0.773174263867
+Alabama,Macon,T,F_avsResult_outside_0_-1_f_l,0.15406244652
+Alabama,Macon,T,F_avsResult_outside_0_1_f_l,0.15406244652
+Alabama,Macon,T,F_avsResult_outside_0_-1_l_f,0.236711785182
+Alabama,Macon,T,F_avsResult_outside_0_1_l_f,0.236711785182
+Alabama,Macon,T,F_avsResult_outside_-1_0_f_l,0.00251787623274
+Alabama,Macon,T,F_avsResult_outside_1_0_f_l,0.606170739643
+Alabama,Macon,T,F_avsResult_outside_1_0_l_f,0.0015234246614
+Alabama,Macon,T,F_avsResult_outside_-1_0_l_f,0.773174263867
+Alabama,Macon,T,F_belowFigureCentroid_l_f,1.0
+Alabama,Macon,T,F_closeDistNormFigure_f_l,0.120610792245
+Alabama,Macon,T,F_closeDistNormFigure_l_f,1.0
+Alabama,Macon,T,F_closeDistNormLandmark_f_l,1.0
+Alabama,Macon,T,F_closeDistNormLandmark_l_f,0.120610792245
+Alabama,Macon,T,F_closeDistNormUnion_f_l,0.120374546341
+Alabama,Macon,T,F_closeDistNormUnion_l_f,0.120374546341
+Alabama,Macon,T,F_distBtwnCentroids_f_l,0.134522149933
+Alabama,Macon,T,F_distBtwnCentroids_l_f,0.134522149933
+Alabama,Macon,T,F_distHorizontalCentroid_f_l,0.134488125481
+Alabama,Macon,T,F_distHorizontalCentroid_l_f,-0.134488125481
+Alabama,Macon,T,F_distVerticalCentroid_f_l,0.00302538053966
+Alabama,Macon,T,F_distVerticalCentroid_l_f,-0.00302538053966
+Alabama,Macon,T,F_leftOfFigureCentroid_l_f,1.0
+Alabama,Macon,T,F_rightOfFigureCentroid_f_l,1.0
+Alabama,Montgomery,T,arg1 cities like arg2,1
+Alabama,Montgomery,T,arg1 including arg2,1
+Alabama,Montgomery,T,arg1 state capital of arg2,1
+Alabama,Montgomery,T,arg1 state capitol in arg2,1
+Alabama,Montgomery,T,arg2 and central arg1,1
+Alabama,Montgomery,T,arg2 and the state of arg1,1
+Alabama,Montgomery,T,arg2 and throughout arg1,1
+Alabama,Montgomery,T,arg2 area of arg1,1
+Alabama,Montgomery,T,arg2 bus boycott in arg1,1
+Alabama,Montgomery,T,arg2 florist shop in arg1,1
+Alabama,Montgomery,T,arg2 in central arg1,1
+Alabama,Montgomery,T,arg2 in the state of arg1,1
+Alabama,Montgomery,T,arg2 is the capital of arg1,1
+Alabama,Montgomery,T,arg2 is the capitol of arg1,1
+Alabama,Montgomery,T,arg2 is the state capital of arg1,1
+Alabama,Montgomery,T,arg2 or anywhere in arg1,1
+Alabama,Montgomery,T,bias,1.0
+Alabama,Montgomery,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Alabama,Montgomery,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Alabama,Montgomery,T,F_aboveFigureCentroid_l_f,1.0
+Alabama,Montgomery,T,F_avsResult_0_-1_f_l,0.20628616938
+Alabama,Montgomery,T,F_avsResult_0_1_f_l,0.20628616938
+Alabama,Montgomery,T,F_avsResult_0_-1_l_f,0.387212924293
+Alabama,Montgomery,T,F_avsResult_0_1_l_f,0.387212924293
+Alabama,Montgomery,T,F_avsResult_-1_0_f_l,0.00986892447653
+Alabama,Montgomery,T,F_avsResult_1_0_f_l,0.024961618113
+Alabama,Montgomery,T,F_avsResult_1_0_l_f,0.0843669012475
+Alabama,Montgomery,T,F_avsResult_-1_0_l_f,0.459609906091
+Alabama,Montgomery,T,F_avsResult_1_-1_l_f,0.192101791875
+Alabama,Montgomery,T,F_avsResult_1_1_l_f,0.192101791875
+Alabama,Montgomery,T,F_avsResult_inside_0_-1_f_l,0.20628616938
+Alabama,Montgomery,T,F_avsResult_inside_0_1_f_l,0.20628616938
+Alabama,Montgomery,T,F_avsResult_inside_-1_0_f_l,0.00986892447653
+Alabama,Montgomery,T,F_avsResult_inside_1_0_f_l,0.024961618113
+Alabama,Montgomery,T,F_avsResult_outside_0_-1_l_f,0.387212924293
+Alabama,Montgomery,T,F_avsResult_outside_0_1_l_f,0.387212924293
+Alabama,Montgomery,T,F_avsResult_outside_1_0_l_f,0.0843669012475
+Alabama,Montgomery,T,F_avsResult_outside_-1_0_l_f,0.459609906091
+Alabama,Montgomery,T,F_avsResult_outside_1_-1_l_f,0.192101791875
+Alabama,Montgomery,T,F_avsResult_outside_1_1_l_f,0.192101791875
+Alabama,Montgomery,T,F_belowFigureCentroid_f_l,1.0
+Alabama,Montgomery,T,F_distBtwnCentroids_f_l,0.038799707299
+Alabama,Montgomery,T,F_distBtwnCentroids_l_f,0.038799707299
+Alabama,Montgomery,T,F_distHorizontalCentroid_f_l,0.0314378339286
+Alabama,Montgomery,T,F_distHorizontalCentroid_l_f,-0.0314378339286
+Alabama,Montgomery,T,F_distVerticalCentroid_f_l,-0.0227393905891
+Alabama,Montgomery,T,F_distVerticalCentroid_l_f,0.0227393905891
+Alabama,Montgomery,T,F_leftOfFigureCentroid_l_f,1.0
+Alabama,Montgomery,T,F_math2dFigureIntersectionArea_f_l,2.40463947553e-05
+Alabama,Montgomery,T,F_math2dFigureIntersectionArea_l_f,1.0
+Alabama,Montgomery,T,F_math2dIntersectionArea_f_l,2.40463947553e-05
+Alabama,Montgomery,T,F_math2dIntersectionArea_l_f,2.40463947553e-05
+Alabama,Montgomery,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Alabama,Montgomery,T,F_math2dLandmarkIntersectionArea_l_f,2.40463947553e-05
+Alabama,Montgomery,T,F_rightOfFigureCentroid_f_l,1.0
+Atlanta,Alabama,T,arg1 against arg2,1
+Atlanta,Alabama,T,arg1 region includes arg2,1
+Atlanta,Alabama,T,arg2 and presently resides in arg1,1
+Atlanta,Alabama,T,arg2 and raised in arg1,1
+Atlanta,Alabama,T,arg2 arrived in arg1,1
+Atlanta,Alabama,T,arg2 got to arg1,1
+Atlanta,Alabama,T,arg2 state line to arg1,1
+Atlanta,Alabama,T,arg2 team in arg1,1
+Atlanta,Alabama,T,arg2 who now lives in arg1,1
+Atlanta,Alabama,T,bias,1.0
+Atlanta,Alabama,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Alabama,T,F_avsResult_0_-1_f_l,0.132468833237
+Atlanta,Alabama,T,F_avsResult_0_1_f_l,0.132468833237
+Atlanta,Alabama,T,F_avsResult_0_-1_l_f,0.187477781639
+Atlanta,Alabama,T,F_avsResult_0_1_l_f,0.187477781639
+Atlanta,Alabama,T,F_avsResult_1_0_f_l,0.0305628134752
+Atlanta,Alabama,T,F_avsResult_-1_0_f_l,0.648599326193
+Atlanta,Alabama,T,F_avsResult_-1_0_l_f,0.0140500219951
+Atlanta,Alabama,T,F_avsResult_1_0_l_f,0.538199443276
+Atlanta,Alabama,T,F_avsResult_-1_-1_f_l,0.474771189553
+Atlanta,Alabama,T,F_avsResult_-1_1_f_l,0.474771189553
+Atlanta,Alabama,T,F_avsResult_outside_0_-1_f_l,0.132468833237
+Atlanta,Alabama,T,F_avsResult_outside_0_1_f_l,0.132468833237
+Atlanta,Alabama,T,F_avsResult_outside_0_-1_l_f,0.187477781639
+Atlanta,Alabama,T,F_avsResult_outside_0_1_l_f,0.187477781639
+Atlanta,Alabama,T,F_avsResult_outside_1_0_f_l,0.0305628134752
+Atlanta,Alabama,T,F_avsResult_outside_-1_0_f_l,0.648599326193
+Atlanta,Alabama,T,F_avsResult_outside_-1_0_l_f,0.0140500219951
+Atlanta,Alabama,T,F_avsResult_outside_1_0_l_f,0.538199443276
+Atlanta,Alabama,T,F_avsResult_outside_-1_-1_f_l,0.474771189553
+Atlanta,Alabama,T,F_avsResult_outside_-1_1_f_l,0.474771189553
+Atlanta,Alabama,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Alabama,T,F_closeDistNormFigure_f_l,1.0
+Atlanta,Alabama,T,F_closeDistNormFigure_l_f,0.0532186649097
+Atlanta,Alabama,T,F_closeDistNormLandmark_f_l,0.0532186649097
+Atlanta,Alabama,T,F_closeDistNormLandmark_l_f,1.0
+Atlanta,Alabama,T,F_closeDistNormUnion_f_l,0.0529634760281
+Atlanta,Alabama,T,F_closeDistNormUnion_l_f,0.0529634760281
+Atlanta,Alabama,T,F_distBtwnCentroids_f_l,0.129830531579
+Atlanta,Alabama,T,F_distBtwnCentroids_l_f,0.129830531579
+Atlanta,Alabama,T,F_distHorizontalCentroid_f_l,-0.119896153422
+Atlanta,Alabama,T,F_distHorizontalCentroid_l_f,0.119896153422
+Atlanta,Alabama,T,F_distVerticalCentroid_f_l,-0.0498084262429
+Atlanta,Alabama,T,F_distVerticalCentroid_l_f,0.0498084262429
+Atlanta,Alabama,T,F_leftOfFigureCentroid_f_l,1.0
+Atlanta,Alabama,T,F_rightOfFigureCentroid_l_f,1.0
+Atlanta,Atlanta,T,arg1 and visit arg2,1
+Atlanta,Atlanta,T,arg1 foreclosures and arg2,1
+Atlanta,Atlanta,T,arg1 has been one of arg2,1
+Atlanta,Atlanta,T,arg1 is located in arg2,1
+Atlanta,Atlanta,T,arg1 jobs from employers in arg2,1
+Atlanta,Atlanta,T,arg1 or outside of arg2,1
+Atlanta,Atlanta,T,arg1 or relocating outside arg2,1
+Atlanta,Atlanta,T,arg1 or sending flowers to arg2,1
+Atlanta,Atlanta,T,arg1 or south of arg2,1
+Atlanta,Atlanta,T,arg1 vacation homes and arg2,1
+Atlanta,Atlanta,T,arg2 and visit arg1,1
+Atlanta,Atlanta,T,arg2 foreclosures and arg1,1
+Atlanta,Atlanta,T,arg2 has been one of arg1,1
+Atlanta,Atlanta,T,arg2 is located in arg1,1
+Atlanta,Atlanta,T,arg2 jobs from employers in arg1,1
+Atlanta,Atlanta,T,arg2 or outside of arg1,1
+Atlanta,Atlanta,T,arg2 or relocating outside arg1,1
+Atlanta,Atlanta,T,arg2 or sending flowers to arg1,1
+Atlanta,Atlanta,T,arg2 or south of arg1,1
+Atlanta,Atlanta,T,arg2 vacation homes and arg1,1
+Atlanta,Atlanta,T,bias,1.0
+Atlanta,Atlanta,T,entity1=entity2,1
+Atlanta,Atlanta,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Atlanta,Atlanta,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Atlanta,Atlanta,T,F_avsResult_0_-1_f_l,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_0_1_f_l,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_0_-1_l_f,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_0_1_l_f,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_1_0_f_l,0.000565623796278
+Atlanta,Atlanta,T,F_avsResult_-1_0_f_l,0.000565623797893
+Atlanta,Atlanta,T,F_avsResult_1_0_l_f,0.000565623796278
+Atlanta,Atlanta,T,F_avsResult_-1_0_l_f,0.000565623797893
+Atlanta,Atlanta,T,F_avsResult_inside_0_-1_f_l,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_inside_0_1_f_l,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_inside_0_-1_l_f,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_inside_0_1_l_f,0.000556637155765
+Atlanta,Atlanta,T,F_avsResult_inside_1_0_f_l,0.000565623796278
+Atlanta,Atlanta,T,F_avsResult_inside_-1_0_f_l,0.000565623797893
+Atlanta,Atlanta,T,F_avsResult_inside_1_0_l_f,0.000565623796278
+Atlanta,Atlanta,T,F_avsResult_inside_-1_0_l_f,0.000565623797893
+Atlanta,Atlanta,T,F_math2dFigureIntersectionArea_f_l,1.0
+Atlanta,Atlanta,T,F_math2dFigureIntersectionArea_l_f,1.0
+Atlanta,Atlanta,T,F_math2dIntersectionArea_f_l,1.0
+Atlanta,Atlanta,T,F_math2dIntersectionArea_l_f,1.0
+Atlanta,Atlanta,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Atlanta,Atlanta,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Atlanta,Birmingham,T,arg1 area and in arg2,1
+Atlanta,Birmingham,T,arg1 toward arg2,1
+Atlanta,Birmingham,T,arg2 and north of arg1,1
+Atlanta,Birmingham,T,arg2 and the other in arg1,1
+Atlanta,Birmingham,T,arg2 and the second in arg1,1
+Atlanta,Birmingham,T,arg2 and three hours from arg1,1
+Atlanta,Birmingham,T,arg2 and two hours from arg1,1
+Atlanta,Birmingham,T,arg2 as well as arg1,1
+Atlanta,Birmingham,T,arg2 before moving to arg1,1
+Atlanta,Birmingham,T,arg2 en route to arg1,1
+Atlanta,Birmingham,T,arg2 on my way to arg1,1
+Atlanta,Birmingham,T,arg2 to move to arg1,1
+Atlanta,Birmingham,T,arg2 toward arg1,1
+Atlanta,Birmingham,T,arg2 until arg1,1
+Atlanta,Birmingham,T,bias,1.0
+Atlanta,Birmingham,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Birmingham,T,F_avsResult_0_-1_f_l,0.219511977054
+Atlanta,Birmingham,T,F_avsResult_0_1_f_l,0.219511977054
+Atlanta,Birmingham,T,F_avsResult_0_-1_l_f,0.2728018454
+Atlanta,Birmingham,T,F_avsResult_0_1_l_f,0.2728018454
+Atlanta,Birmingham,T,F_avsResult_1_0_f_l,0.00580145812664
+Atlanta,Birmingham,T,F_avsResult_-1_0_f_l,0.711279740969
+Atlanta,Birmingham,T,F_avsResult_-1_0_l_f,0.00605598191425
+Atlanta,Birmingham,T,F_avsResult_1_0_l_f,0.718536454062
+Atlanta,Birmingham,T,F_avsResult_outside_0_-1_f_l,0.219511977054
+Atlanta,Birmingham,T,F_avsResult_outside_0_1_f_l,0.219511977054
+Atlanta,Birmingham,T,F_avsResult_outside_0_-1_l_f,0.2728018454
+Atlanta,Birmingham,T,F_avsResult_outside_0_1_l_f,0.2728018454
+Atlanta,Birmingham,T,F_avsResult_outside_1_0_f_l,0.00580145812664
+Atlanta,Birmingham,T,F_avsResult_outside_-1_0_f_l,0.711279740969
+Atlanta,Birmingham,T,F_avsResult_outside_-1_0_l_f,0.00605598191425
+Atlanta,Birmingham,T,F_avsResult_outside_1_0_l_f,0.718536454062
+Atlanta,Birmingham,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Birmingham,T,F_closeDistNormFigure_f_l,1.0
+Atlanta,Birmingham,T,F_closeDistNormFigure_l_f,1.0
+Atlanta,Birmingham,T,F_closeDistNormLandmark_f_l,1.0
+Atlanta,Birmingham,T,F_closeDistNormLandmark_l_f,1.0
+Atlanta,Birmingham,T,F_closeDistNormUnion_f_l,1.0
+Atlanta,Birmingham,T,F_closeDistNormUnion_l_f,1.0
+Atlanta,Birmingham,T,F_distBtwnCentroids_f_l,3.29449919526
+Atlanta,Birmingham,T,F_distBtwnCentroids_l_f,3.29449919526
+Atlanta,Birmingham,T,F_distHorizontalCentroid_f_l,-3.28585139891
+Atlanta,Birmingham,T,F_distHorizontalCentroid_l_f,3.28585139891
+Atlanta,Birmingham,T,F_distVerticalCentroid_f_l,-0.238548803949
+Atlanta,Birmingham,T,F_distVerticalCentroid_l_f,0.238548803949
+Atlanta,Birmingham,T,F_leftOfFigureCentroid_f_l,1.0
+Atlanta,Birmingham,T,F_rightOfFigureCentroid_l_f,1.0
+Atlanta,Georgia,T,arg1 and across arg2,1
+Atlanta,Georgia,T,arg1 and north arg2,1
+Atlanta,Georgia,T,arg1 and other parts of arg2,1
+Atlanta,Georgia,T,arg1 and the state of arg2,1
+Atlanta,Georgia,T,arg1 and throughout arg2,1
+Atlanta,Georgia,T,arg1 and throughout the state of arg2,1
+Atlanta,Georgia,T,arg1 area and throughout arg2,1
+Atlanta,Georgia,T,arg1 area of arg2,1
+Atlanta,Georgia,T,arg1 escorts in arg2,1
+Atlanta,Georgia,T,arg1 is a beautiful city in arg2,1
+Atlanta,Georgia,T,arg1 is the capital of arg2,1
+Atlanta,Georgia,T,arg1 or anywhere in arg2,1
+Atlanta,Georgia,T,arg2 and metro arg1,1
+Atlanta,Georgia,T,arg2 a suburb of arg1,1
+Atlanta,Georgia,T,arg2 including arg1,1
+Atlanta,Georgia,T,arg2 north of arg1,1
+Atlanta,Georgia,T,arg2 outside arg1,1
+Atlanta,Georgia,T,arg2 outside of arg1,1
+Atlanta,Georgia,T,arg2 which includes arg1,1
+Atlanta,Georgia,T,bias,1.0
+Atlanta,Georgia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Atlanta,Georgia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Atlanta,Georgia,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Georgia,T,F_avsResult_0_-1_f_l,0.0772841518464
+Atlanta,Georgia,T,F_avsResult_0_1_f_l,0.0772841518464
+Atlanta,Georgia,T,F_avsResult_0_-1_l_f,0.0034089560146
+Atlanta,Georgia,T,F_avsResult_0_1_l_f,0.0034089560146
+Atlanta,Georgia,T,F_avsResult_-1_0_f_l,0.0963588192763
+Atlanta,Georgia,T,F_avsResult_1_0_f_l,0.446421103784
+Atlanta,Georgia,T,F_avsResult_-1_0_l_f,0.0128323904794
+Atlanta,Georgia,T,F_avsResult_1_0_l_f,0.0836044404074
+Atlanta,Georgia,T,F_avsResult_1_-1_f_l,0.209464967708
+Atlanta,Georgia,T,F_avsResult_1_1_f_l,0.209464967708
+Atlanta,Georgia,T,F_avsResult_-1_-1_l_f,0.176830637264
+Atlanta,Georgia,T,F_avsResult_-1_1_l_f,0.176830637264
+Atlanta,Georgia,T,F_avsResult_inside_0_-1_l_f,0.0034089560146
+Atlanta,Georgia,T,F_avsResult_inside_0_1_l_f,0.0034089560146
+Atlanta,Georgia,T,F_avsResult_inside_-1_0_l_f,0.0128323904794
+Atlanta,Georgia,T,F_avsResult_inside_1_0_l_f,0.0836044404074
+Atlanta,Georgia,T,F_avsResult_inside_-1_-1_l_f,0.176830637264
+Atlanta,Georgia,T,F_avsResult_inside_-1_1_l_f,0.176830637264
+Atlanta,Georgia,T,F_avsResult_outside_0_-1_f_l,0.0772841518464
+Atlanta,Georgia,T,F_avsResult_outside_0_1_f_l,0.0772841518464
+Atlanta,Georgia,T,F_avsResult_outside_-1_0_f_l,0.0963588192763
+Atlanta,Georgia,T,F_avsResult_outside_1_0_f_l,0.446421103784
+Atlanta,Georgia,T,F_avsResult_outside_1_-1_f_l,0.209464967708
+Atlanta,Georgia,T,F_avsResult_outside_1_1_f_l,0.209464967708
+Atlanta,Georgia,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Georgia,T,F_distBtwnCentroids_f_l,0.0674925953042
+Atlanta,Georgia,T,F_distBtwnCentroids_l_f,0.0674925953042
+Atlanta,Georgia,T,F_distHorizontalCentroid_f_l,0.0442921598795
+Atlanta,Georgia,T,F_distHorizontalCentroid_l_f,-0.0442921598795
+Atlanta,Georgia,T,F_distVerticalCentroid_f_l,-0.0509259756323
+Atlanta,Georgia,T,F_distVerticalCentroid_l_f,0.0509259756323
+Atlanta,Georgia,T,F_leftOfFigureCentroid_l_f,1.0
+Atlanta,Georgia,T,F_math2dFigureIntersectionArea_f_l,1.0
+Atlanta,Georgia,T,F_math2dFigureIntersectionArea_l_f,0.00429922626838
+Atlanta,Georgia,T,F_math2dIntersectionArea_f_l,0.00429922626838
+Atlanta,Georgia,T,F_math2dIntersectionArea_l_f,0.00429922626838
+Atlanta,Georgia,T,F_math2dLandmarkIntersectionArea_f_l,0.00429922626838
+Atlanta,Georgia,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Atlanta,Georgia,T,F_rightOfFigureCentroid_f_l,1.0
+Atlanta,Macon,T,arg1 and north of arg2,1
+Atlanta,Macon,T,arg1 is the city of arg2,1
+Atlanta,Macon,T,arg1 toward arg2,1
+Atlanta,Macon,T,arg1 was just like arg2,1
+Atlanta,Macon,T,arg1 with additional offices in arg2,1
+Atlanta,Macon,T,arg2 and went to arg1,1
+Atlanta,Macon,T,arg2 then back to arg1,1
+Atlanta,Macon,T,arg2 through arg1,1
+Atlanta,Macon,T,arg2 thru arg1,1
+Atlanta,Macon,T,bias,1.0
+Atlanta,Macon,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Macon,T,F_avsResult_0_-1_f_l,0.0789415799162
+Atlanta,Macon,T,F_avsResult_0_1_f_l,0.0789415799162
+Atlanta,Macon,T,F_avsResult_0_-1_l_f,0.480849836487
+Atlanta,Macon,T,F_avsResult_0_1_l_f,0.480849836487
+Atlanta,Macon,T,F_avsResult_-1_0_f_l,0.105021672387
+Atlanta,Macon,T,F_avsResult_1_0_f_l,0.423716257329
+Atlanta,Macon,T,F_avsResult_1_0_l_f,0.10676199959
+Atlanta,Macon,T,F_avsResult_-1_0_l_f,0.426946511092
+Atlanta,Macon,T,F_avsResult_1_-1_f_l,0.201934050093
+Atlanta,Macon,T,F_avsResult_1_1_f_l,0.201934050093
+Atlanta,Macon,T,F_avsResult_1_-1_l_f,0.280062844523
+Atlanta,Macon,T,F_avsResult_1_1_l_f,0.280062844523
+Atlanta,Macon,T,F_avsResult_outside_0_-1_f_l,0.0789415799162
+Atlanta,Macon,T,F_avsResult_outside_0_1_f_l,0.0789415799162
+Atlanta,Macon,T,F_avsResult_outside_0_-1_l_f,0.480849836487
+Atlanta,Macon,T,F_avsResult_outside_0_1_l_f,0.480849836487
+Atlanta,Macon,T,F_avsResult_outside_-1_0_f_l,0.105021672387
+Atlanta,Macon,T,F_avsResult_outside_1_0_f_l,0.423716257329
+Atlanta,Macon,T,F_avsResult_outside_1_0_l_f,0.10676199959
+Atlanta,Macon,T,F_avsResult_outside_-1_0_l_f,0.426946511092
+Atlanta,Macon,T,F_avsResult_outside_1_-1_f_l,0.201934050093
+Atlanta,Macon,T,F_avsResult_outside_1_1_f_l,0.201934050093
+Atlanta,Macon,T,F_avsResult_outside_1_-1_l_f,0.280062844523
+Atlanta,Macon,T,F_avsResult_outside_1_1_l_f,0.280062844523
+Atlanta,Macon,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Macon,T,F_closeDistNormFigure_f_l,1.0
+Atlanta,Macon,T,F_closeDistNormFigure_l_f,1.0
+Atlanta,Macon,T,F_closeDistNormLandmark_f_l,1.0
+Atlanta,Macon,T,F_closeDistNormLandmark_l_f,1.0
+Atlanta,Macon,T,F_closeDistNormUnion_f_l,1.0
+Atlanta,Macon,T,F_closeDistNormUnion_l_f,1.0
+Atlanta,Macon,T,F_distBtwnCentroids_f_l,1.07976141128
+Atlanta,Macon,T,F_distBtwnCentroids_l_f,1.07976141128
+Atlanta,Macon,T,F_distHorizontalCentroid_f_l,0.689806254694
+Atlanta,Macon,T,F_distHorizontalCentroid_l_f,-0.689806254694
+Atlanta,Macon,T,F_distVerticalCentroid_f_l,-0.830693707863
+Atlanta,Macon,T,F_distVerticalCentroid_l_f,0.830693707863
+Atlanta,Macon,T,F_leftOfFigureCentroid_l_f,1.0
+Atlanta,Macon,T,F_rightOfFigureCentroid_f_l,1.0
+Atlanta,Montgomery,T,arg1 and all the way to arg2,1
+Atlanta,Montgomery,T,arg1 through arg2,1
+Atlanta,Montgomery,T,arg2 and return to arg1,1
+Atlanta,Montgomery,T,bias,1.0
+Atlanta,Montgomery,T,F_aboveFigureCentroid_l_f,1.0
+Atlanta,Montgomery,T,F_avsResult_0_-1_f_l,0.0930457435162
+Atlanta,Montgomery,T,F_avsResult_0_1_f_l,0.0930457435162
+Atlanta,Montgomery,T,F_avsResult_0_-1_l_f,0.473780004742
+Atlanta,Montgomery,T,F_avsResult_0_1_l_f,0.473780004742
+Atlanta,Montgomery,T,F_avsResult_1_0_f_l,0.0562015728565
+Atlanta,Montgomery,T,F_avsResult_-1_0_f_l,0.560750041938
+Atlanta,Montgomery,T,F_avsResult_-1_0_l_f,0.0580848774663
+Atlanta,Montgomery,T,F_avsResult_1_0_l_f,0.568140043937
+Atlanta,Montgomery,T,F_avsResult_-1_-1_f_l,0.310070430282
+Atlanta,Montgomery,T,F_avsResult_-1_1_f_l,0.310070430282
+Atlanta,Montgomery,T,F_avsResult_-1_-1_l_f,0.183539151962
+Atlanta,Montgomery,T,F_avsResult_-1_1_l_f,0.183539151962
+Atlanta,Montgomery,T,F_avsResult_outside_0_-1_f_l,0.0930457435162
+Atlanta,Montgomery,T,F_avsResult_outside_0_1_f_l,0.0930457435162
+Atlanta,Montgomery,T,F_avsResult_outside_0_-1_l_f,0.473780004742
+Atlanta,Montgomery,T,F_avsResult_outside_0_1_l_f,0.473780004742
+Atlanta,Montgomery,T,F_avsResult_outside_1_0_f_l,0.0562015728565
+Atlanta,Montgomery,T,F_avsResult_outside_-1_0_f_l,0.560750041938
+Atlanta,Montgomery,T,F_avsResult_outside_-1_0_l_f,0.0580848774663
+Atlanta,Montgomery,T,F_avsResult_outside_1_0_l_f,0.568140043937
+Atlanta,Montgomery,T,F_avsResult_outside_-1_-1_f_l,0.310070430282
+Atlanta,Montgomery,T,F_avsResult_outside_-1_1_f_l,0.310070430282
+Atlanta,Montgomery,T,F_avsResult_outside_-1_-1_l_f,0.183539151962
+Atlanta,Montgomery,T,F_avsResult_outside_-1_1_l_f,0.183539151962
+Atlanta,Montgomery,T,F_belowFigureCentroid_f_l,1.0
+Atlanta,Montgomery,T,F_closeDistNormFigure_f_l,1.0
+Atlanta,Montgomery,T,F_closeDistNormFigure_l_f,1.0
+Atlanta,Montgomery,T,F_closeDistNormLandmark_f_l,1.0
+Atlanta,Montgomery,T,F_closeDistNormLandmark_l_f,1.0
+Atlanta,Montgomery,T,F_closeDistNormUnion_f_l,1.0
+Atlanta,Montgomery,T,F_closeDistNormUnion_l_f,1.0
+Atlanta,Montgomery,T,F_distBtwnCentroids_f_l,0.757822070252
+Atlanta,Montgomery,T,F_distBtwnCentroids_l_f,0.757822070252
+Atlanta,Montgomery,T,F_distHorizontalCentroid_f_l,-0.6075922079
+Atlanta,Montgomery,T,F_distHorizontalCentroid_l_f,0.6075922079
+Atlanta,Montgomery,T,F_distVerticalCentroid_f_l,-0.452908378219
+Atlanta,Montgomery,T,F_distVerticalCentroid_l_f,0.452908378219
+Atlanta,Montgomery,T,F_leftOfFigureCentroid_f_l,1.0
+Atlanta,Montgomery,T,F_rightOfFigureCentroid_l_f,1.0
+Birmingham,Alabama,T,arg1 and the state of arg2,1
+Birmingham,Alabama,T,arg1 and the surrounding parts of arg2,1
+Birmingham,Alabama,T,arg1 and throughout arg2,1
+Birmingham,Alabama,T,arg1 and throughout the state of arg2,1
+Birmingham,Alabama,T,arg1 area of arg2,1
+Birmingham,Alabama,T,arg1 is the largest city in arg2,1
+Birmingham,Alabama,T,arg1 putting greens and arg2,1
+Birmingham,Alabama,T,arg2 and has lived in arg1,1
+Birmingham,Alabama,T,arg2 cities like arg1,1
+Birmingham,Alabama,T,arg2 cities such as arg1,1
+Birmingham,Alabama,T,arg2 hospital in arg1,1
+Birmingham,Alabama,T,arg2 include arg1,1
+Birmingham,Alabama,T,arg2 including arg1,1
+Birmingham,Alabama,T,arg2 or fitness certification in arg1,1
+Birmingham,Alabama,T,arg2 outside of arg1,1
+Birmingham,Alabama,T,arg2 serving the greater arg1,1
+Birmingham,Alabama,T,arg2 town of arg1,1
+Birmingham,Alabama,T,arg2 which includes arg1,1
+Birmingham,Alabama,T,bias,1.0
+Birmingham,Alabama,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Birmingham,Alabama,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Birmingham,Alabama,T,F_aboveFigureCentroid_l_f,1.0
+Birmingham,Alabama,T,F_avsResult_0_-1_f_l,0.0312206925512
+Birmingham,Alabama,T,F_avsResult_0_1_f_l,0.0312206925512
+Birmingham,Alabama,T,F_avsResult_0_-1_l_f,0.141980892245
+Birmingham,Alabama,T,F_avsResult_0_1_l_f,0.141980892245
+Birmingham,Alabama,T,F_avsResult_1_0_f_l,0.195827412531
+Birmingham,Alabama,T,F_avsResult_-1_0_f_l,0.307927514252
+Birmingham,Alabama,T,F_avsResult_-1_0_l_f,0.00950927156201
+Birmingham,Alabama,T,F_avsResult_1_0_l_f,0.0193151803135
+Birmingham,Alabama,T,F_avsResult_-1_-1_l_f,0.178787985946
+Birmingham,Alabama,T,F_avsResult_-1_1_l_f,0.178787985946
+Birmingham,Alabama,T,F_avsResult_inside_0_-1_l_f,0.141980892245
+Birmingham,Alabama,T,F_avsResult_inside_0_1_l_f,0.141980892245
+Birmingham,Alabama,T,F_avsResult_inside_-1_0_l_f,0.00950927156201
+Birmingham,Alabama,T,F_avsResult_inside_1_0_l_f,0.0193151803135
+Birmingham,Alabama,T,F_avsResult_inside_-1_-1_l_f,0.178787985946
+Birmingham,Alabama,T,F_avsResult_inside_-1_1_l_f,0.178787985946
+Birmingham,Alabama,T,F_avsResult_outside_0_-1_f_l,0.0312206925512
+Birmingham,Alabama,T,F_avsResult_outside_0_1_f_l,0.0312206925512
+Birmingham,Alabama,T,F_avsResult_outside_1_0_f_l,0.195827412531
+Birmingham,Alabama,T,F_avsResult_outside_-1_0_f_l,0.307927514252
+Birmingham,Alabama,T,F_belowFigureCentroid_f_l,1.0
+Birmingham,Alabama,T,F_distBtwnCentroids_f_l,0.0505530946972
+Birmingham,Alabama,T,F_distBtwnCentroids_l_f,0.0505530946972
+Birmingham,Alabama,T,F_distHorizontalCentroid_f_l,-0.0128162959491
+Birmingham,Alabama,T,F_distHorizontalCentroid_l_f,0.0128162959491
+Birmingham,Alabama,T,F_distVerticalCentroid_f_l,-0.048901512672
+Birmingham,Alabama,T,F_distVerticalCentroid_l_f,0.048901512672
+Birmingham,Alabama,T,F_leftOfFigureCentroid_f_l,1.0
+Birmingham,Alabama,T,F_math2dFigureIntersectionArea_f_l,0.999999999994
+Birmingham,Alabama,T,F_math2dFigureIntersectionArea_l_f,6.5872977417e-06
+Birmingham,Alabama,T,F_math2dIntersectionArea_f_l,6.5872977417e-06
+Birmingham,Alabama,T,F_math2dIntersectionArea_l_f,6.5872977417e-06
+Birmingham,Alabama,T,F_math2dLandmarkIntersectionArea_f_l,6.5872977417e-06
+Birmingham,Alabama,T,F_math2dLandmarkIntersectionArea_l_f,0.999999999994
+Birmingham,Alabama,T,F_rightOfFigureCentroid_l_f,1.0
+Birmingham,Atlanta,T,arg1 and two hours from arg2,1
+Birmingham,Atlanta,T,arg1 before moving to arg2,1
+Birmingham,Atlanta,T,arg1 toward arg2,1
+Birmingham,Atlanta,T,arg2 and two in arg1,1
+Birmingham,Atlanta,T,arg2 area and in arg1,1
+Birmingham,Atlanta,T,arg2 before returning home to arg1,1
+Birmingham,Atlanta,T,arg2 defeated arg1,1
+Birmingham,Atlanta,T,arg2 flight from arg1,1
+Birmingham,Atlanta,T,arg2 home to arg1,1
+Birmingham,Atlanta,T,arg2 is right in line with arg1,1
+Birmingham,Atlanta,T,arg2 through arg1,1
+Birmingham,Atlanta,T,arg2 toward arg1,1
+Birmingham,Atlanta,T,bias,1.0
+Birmingham,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Birmingham,Atlanta,T,F_avsResult_0_-1_f_l,0.2728018454
+Birmingham,Atlanta,T,F_avsResult_0_1_f_l,0.2728018454
+Birmingham,Atlanta,T,F_avsResult_0_-1_l_f,0.219511977054
+Birmingham,Atlanta,T,F_avsResult_0_1_l_f,0.219511977054
+Birmingham,Atlanta,T,F_avsResult_-1_0_f_l,0.00605598191425
+Birmingham,Atlanta,T,F_avsResult_1_0_f_l,0.718536454062
+Birmingham,Atlanta,T,F_avsResult_1_0_l_f,0.00580145812664
+Birmingham,Atlanta,T,F_avsResult_-1_0_l_f,0.711279740969
+Birmingham,Atlanta,T,F_avsResult_outside_0_-1_f_l,0.2728018454
+Birmingham,Atlanta,T,F_avsResult_outside_0_1_f_l,0.2728018454
+Birmingham,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.219511977054
+Birmingham,Atlanta,T,F_avsResult_outside_0_1_l_f,0.219511977054
+Birmingham,Atlanta,T,F_avsResult_outside_-1_0_f_l,0.00605598191425
+Birmingham,Atlanta,T,F_avsResult_outside_1_0_f_l,0.718536454062
+Birmingham,Atlanta,T,F_avsResult_outside_1_0_l_f,0.00580145812664
+Birmingham,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.711279740969
+Birmingham,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Birmingham,Atlanta,T,F_closeDistNormFigure_f_l,1.0
+Birmingham,Atlanta,T,F_closeDistNormFigure_l_f,1.0
+Birmingham,Atlanta,T,F_closeDistNormLandmark_f_l,1.0
+Birmingham,Atlanta,T,F_closeDistNormLandmark_l_f,1.0
+Birmingham,Atlanta,T,F_closeDistNormUnion_f_l,1.0
+Birmingham,Atlanta,T,F_closeDistNormUnion_l_f,1.0
+Birmingham,Atlanta,T,F_distBtwnCentroids_f_l,3.29449919526
+Birmingham,Atlanta,T,F_distBtwnCentroids_l_f,3.29449919526
+Birmingham,Atlanta,T,F_distHorizontalCentroid_f_l,3.28585139891
+Birmingham,Atlanta,T,F_distHorizontalCentroid_l_f,-3.28585139891
+Birmingham,Atlanta,T,F_distVerticalCentroid_f_l,0.238548803949
+Birmingham,Atlanta,T,F_distVerticalCentroid_l_f,-0.238548803949
+Birmingham,Atlanta,T,F_leftOfFigureCentroid_l_f,1.0
+Birmingham,Atlanta,T,F_rightOfFigureCentroid_f_l,1.0
+Birmingham,Birmingham,T,arg1 classified ads around arg2,1
+Birmingham,Birmingham,T,arg1 dating arg2,1
+Birmingham,Birmingham,T,arg1 guests and families in arg2,1
+Birmingham,Birmingham,T,arg1 is located in arg2,1
+Birmingham,Birmingham,T,arg1 needs arg2,1
+Birmingham,Birmingham,T,arg1 or sending flowers to arg2,1
+Birmingham,Birmingham,T,arg1 or shipped to arg2,1
+Birmingham,Birmingham,T,arg1 used car inventory search arg2,1
+Birmingham,Birmingham,T,arg1 vacation homes or houses in arg2,1
+Birmingham,Birmingham,T,arg1 with hotel videos from arg2,1
+Birmingham,Birmingham,T,arg1 within arg2,1
+Birmingham,Birmingham,T,arg2 classified ads around arg1,1
+Birmingham,Birmingham,T,arg2 dating arg1,1
+Birmingham,Birmingham,T,arg2 guests and families in arg1,1
+Birmingham,Birmingham,T,arg2 is located in arg1,1
+Birmingham,Birmingham,T,arg2 needs arg1,1
+Birmingham,Birmingham,T,arg2 or sending flowers to arg1,1
+Birmingham,Birmingham,T,arg2 or shipped to arg1,1
+Birmingham,Birmingham,T,arg2 used car inventory search arg1,1
+Birmingham,Birmingham,T,arg2 vacation homes or houses in arg1,1
+Birmingham,Birmingham,T,arg2 with hotel videos from arg1,1
+Birmingham,Birmingham,T,arg2 within arg1,1
+Birmingham,Birmingham,T,bias,1.0
+Birmingham,Birmingham,T,entity1=entity2,1
+Birmingham,Birmingham,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Birmingham,Birmingham,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Birmingham,Birmingham,T,F_avsResult_0_-1_f_l,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_0_1_f_l,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_0_-1_l_f,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_0_1_l_f,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_1_0_f_l,0.144001409175
+Birmingham,Birmingham,T,F_avsResult_-1_0_f_l,0.374103304216
+Birmingham,Birmingham,T,F_avsResult_1_0_l_f,0.144001409175
+Birmingham,Birmingham,T,F_avsResult_-1_0_l_f,0.374103304216
+Birmingham,Birmingham,T,F_avsResult_1_-1_f_l,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_1_1_f_l,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_1_-1_l_f,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_1_1_l_f,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_inside_0_-1_f_l,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_inside_0_1_f_l,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_inside_0_-1_l_f,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_inside_0_1_l_f,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_inside_1_0_f_l,0.144001409175
+Birmingham,Birmingham,T,F_avsResult_inside_-1_0_f_l,0.374103304216
+Birmingham,Birmingham,T,F_avsResult_inside_1_0_l_f,0.144001409175
+Birmingham,Birmingham,T,F_avsResult_inside_-1_0_l_f,0.374103304216
+Birmingham,Birmingham,T,F_avsResult_inside_1_-1_f_l,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_inside_1_1_f_l,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_inside_1_-1_l_f,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_inside_1_1_l_f,0.201686562427
+Birmingham,Birmingham,T,F_math2dFigureIntersectionArea_f_l,0.999999999994
+Birmingham,Birmingham,T,F_math2dFigureIntersectionArea_l_f,0.999999999994
+Birmingham,Birmingham,T,F_math2dIntersectionArea_f_l,1.0
+Birmingham,Birmingham,T,F_math2dIntersectionArea_l_f,1.0
+Birmingham,Birmingham,T,F_math2dLandmarkIntersectionArea_f_l,0.999999999994
+Birmingham,Birmingham,T,F_math2dLandmarkIntersectionArea_l_f,0.999999999994
+Birmingham,Georgia,T,arg1 and into northern arg2,1
+Birmingham,Georgia,T,arg1 and then moved to arg2,1
+Birmingham,Georgia,T,arg2 and goes to arg1,1
+Birmingham,Georgia,T,arg2 and has lived in arg1,1
+Birmingham,Georgia,T,arg2 and moved to arg1,1
+Birmingham,Georgia,T,arg2 and now live in arg1,1
+Birmingham,Georgia,T,arg2 and sales offices in arg1,1
+Birmingham,Georgia,T,arg2 and through arg1,1
+Birmingham,Georgia,T,arg2 but grew up in arg1,1
+Birmingham,Georgia,T,arg2 but moved to arg1,1
+Birmingham,Georgia,T,arg2 with offices in arg1,1
+Birmingham,Georgia,T,bias,1.0
+Birmingham,Georgia,T,F_aboveFigureCentroid_l_f,1.0
+Birmingham,Georgia,T,F_avsResult_0_-1_f_l,0.150995608622
+Birmingham,Georgia,T,F_avsResult_0_1_f_l,0.150995608622
+Birmingham,Georgia,T,F_avsResult_0_-1_l_f,0.106012083124
+Birmingham,Georgia,T,F_avsResult_0_1_l_f,0.106012083124
+Birmingham,Georgia,T,F_avsResult_-1_0_f_l,0.0204492904464
+Birmingham,Georgia,T,F_avsResult_1_0_f_l,0.707851813014
+Birmingham,Georgia,T,F_avsResult_1_0_l_f,0.00636205742098
+Birmingham,Georgia,T,F_avsResult_-1_0_l_f,0.590130946693
+Birmingham,Georgia,T,F_avsResult_1_-1_f_l,0.614136447295
+Birmingham,Georgia,T,F_avsResult_1_1_f_l,0.614136447295
+Birmingham,Georgia,T,F_avsResult_outside_0_-1_f_l,0.150995608622
+Birmingham,Georgia,T,F_avsResult_outside_0_1_f_l,0.150995608622
+Birmingham,Georgia,T,F_avsResult_outside_0_-1_l_f,0.106012083124
+Birmingham,Georgia,T,F_avsResult_outside_0_1_l_f,0.106012083124
+Birmingham,Georgia,T,F_avsResult_outside_-1_0_f_l,0.0204492904464
+Birmingham,Georgia,T,F_avsResult_outside_1_0_f_l,0.707851813014
+Birmingham,Georgia,T,F_avsResult_outside_1_0_l_f,0.00636205742098
+Birmingham,Georgia,T,F_avsResult_outside_-1_0_l_f,0.590130946693
+Birmingham,Georgia,T,F_avsResult_outside_1_-1_f_l,0.614136447295
+Birmingham,Georgia,T,F_avsResult_outside_1_1_f_l,0.614136447295
+Birmingham,Georgia,T,F_belowFigureCentroid_f_l,1.0
+Birmingham,Georgia,T,F_closeDistNormFigure_f_l,1.0
+Birmingham,Georgia,T,F_closeDistNormFigure_l_f,0.175407943923
+Birmingham,Georgia,T,F_closeDistNormLandmark_f_l,0.175407943923
+Birmingham,Georgia,T,F_closeDistNormLandmark_l_f,1.0
+Birmingham,Georgia,T,F_closeDistNormUnion_f_l,0.175406912922
+Birmingham,Georgia,T,F_closeDistNormUnion_l_f,0.175406912922
+Birmingham,Georgia,T,F_distBtwnCentroids_f_l,0.123908865935
+Birmingham,Georgia,T,F_distBtwnCentroids_l_f,0.123908865935
+Birmingham,Georgia,T,F_distHorizontalCentroid_f_l,0.118584318775
+Birmingham,Georgia,T,F_distHorizontalCentroid_l_f,-0.118584318775
+Birmingham,Georgia,T,F_distVerticalCentroid_f_l,-0.0359328039254
+Birmingham,Georgia,T,F_distVerticalCentroid_l_f,0.0359328039254
+Birmingham,Georgia,T,F_leftOfFigureCentroid_l_f,1.0
+Birmingham,Georgia,T,F_rightOfFigureCentroid_f_l,1.0
+Birmingham,Macon,T,bias,1.0
+Birmingham,Macon,T,F_aboveFigureCentroid_l_f,1.0
+Birmingham,Macon,T,F_avsResult_0_-1_f_l,0.165139219042
+Birmingham,Macon,T,F_avsResult_0_1_f_l,0.165139219042
+Birmingham,Macon,T,F_avsResult_0_-1_l_f,0.34662937726
+Birmingham,Macon,T,F_avsResult_0_1_l_f,0.34662937726
+Birmingham,Macon,T,F_avsResult_-1_0_f_l,0.0182917640659
+Birmingham,Macon,T,F_avsResult_1_0_f_l,0.710888056341
+Birmingham,Macon,T,F_avsResult_1_0_l_f,0.0180083872385
+Birmingham,Macon,T,F_avsResult_-1_0_l_f,0.707739389642
+Birmingham,Macon,T,F_avsResult_outside_0_-1_f_l,0.165139219042
+Birmingham,Macon,T,F_avsResult_outside_0_1_f_l,0.165139219042
+Birmingham,Macon,T,F_avsResult_outside_0_-1_l_f,0.34662937726
+Birmingham,Macon,T,F_avsResult_outside_0_1_l_f,0.34662937726
+Birmingham,Macon,T,F_avsResult_outside_-1_0_f_l,0.0182917640659
+Birmingham,Macon,T,F_avsResult_outside_1_0_f_l,0.710888056341
+Birmingham,Macon,T,F_avsResult_outside_1_0_l_f,0.0180083872385
+Birmingham,Macon,T,F_avsResult_outside_-1_0_l_f,0.707739389642
+Birmingham,Macon,T,F_belowFigureCentroid_f_l,1.0
+Birmingham,Macon,T,F_closeDistNormFigure_f_l,1.0
+Birmingham,Macon,T,F_closeDistNormFigure_l_f,1.0
+Birmingham,Macon,T,F_closeDistNormLandmark_f_l,1.0
+Birmingham,Macon,T,F_closeDistNormLandmark_l_f,1.0
+Birmingham,Macon,T,F_closeDistNormUnion_f_l,1.0
+Birmingham,Macon,T,F_closeDistNormUnion_l_f,1.0
+Birmingham,Macon,T,F_distBtwnCentroids_f_l,1.17586130998
+Birmingham,Macon,T,F_distBtwnCentroids_l_f,1.17586130998
+Birmingham,Macon,T,F_distHorizontalCentroid_f_l,1.13795428691
+Birmingham,Macon,T,F_distHorizontalCentroid_l_f,-1.13795428691
+Birmingham,Macon,T,F_distVerticalCentroid_f_l,-0.296158506898
+Birmingham,Macon,T,F_distVerticalCentroid_l_f,0.296158506898
+Birmingham,Macon,T,F_leftOfFigureCentroid_l_f,1.0
+Birmingham,Macon,T,F_rightOfFigureCentroid_f_l,1.0
+Birmingham,Montgomery,T,arg1 south to arg2,1
+Birmingham,Montgomery,T,arg1 with additional offices in arg2,1
+Birmingham,Montgomery,T,arg1 with a satellite office in arg2,1
+Birmingham,Montgomery,T,arg2 and as far away as arg1,1
+Birmingham,Montgomery,T,arg2 and its largest city is arg1,1
+Birmingham,Montgomery,T,arg2 and moved to arg1,1
+Birmingham,Montgomery,T,arg2 and one in arg1,1
+Birmingham,Montgomery,T,arg2 and raised in arg1,1
+Birmingham,Montgomery,T,arg2 and the largest city is arg1,1
+Birmingham,Montgomery,T,arg2 and then moved to arg1,1
+Birmingham,Montgomery,T,arg2 is located in arg1,1
+Birmingham,Montgomery,T,arg2 is the capital and arg1,1
+Birmingham,Montgomery,T,arg2 was born in arg1,1
+Birmingham,Montgomery,T,bias,1.0
+Birmingham,Montgomery,T,F_aboveFigureCentroid_l_f,1.0
+Birmingham,Montgomery,T,F_avsResult_0_-1_f_l,0.0277267420563
+Birmingham,Montgomery,T,F_avsResult_0_1_f_l,0.0277267420563
+Birmingham,Montgomery,T,F_avsResult_0_-1_l_f,0.603924465344
+Birmingham,Montgomery,T,F_avsResult_0_1_l_f,0.603924465344
+Birmingham,Montgomery,T,F_avsResult_-1_0_f_l,0.189873874853
+Birmingham,Montgomery,T,F_avsResult_1_0_f_l,0.316183308256
+Birmingham,Montgomery,T,F_avsResult_1_0_l_f,0.189980354136
+Birmingham,Montgomery,T,F_avsResult_-1_0_l_f,0.315962751059
+Birmingham,Montgomery,T,F_avsResult_outside_0_-1_f_l,0.0277267420563
+Birmingham,Montgomery,T,F_avsResult_outside_0_1_f_l,0.0277267420563
+Birmingham,Montgomery,T,F_avsResult_outside_0_-1_l_f,0.603924465344
+Birmingham,Montgomery,T,F_avsResult_outside_0_1_l_f,0.603924465344
+Birmingham,Montgomery,T,F_avsResult_outside_-1_0_f_l,0.189873874853
+Birmingham,Montgomery,T,F_avsResult_outside_1_0_f_l,0.316183308256
+Birmingham,Montgomery,T,F_avsResult_outside_1_0_l_f,0.189980354136
+Birmingham,Montgomery,T,F_avsResult_outside_-1_0_l_f,0.315962751059
+Birmingham,Montgomery,T,F_belowFigureCentroid_f_l,1.0
+Birmingham,Montgomery,T,F_closeDistNormFigure_f_l,1.0
+Birmingham,Montgomery,T,F_closeDistNormFigure_l_f,1.0
+Birmingham,Montgomery,T,F_closeDistNormLandmark_f_l,1.0
+Birmingham,Montgomery,T,F_closeDistNormLandmark_l_f,1.0
+Birmingham,Montgomery,T,F_closeDistNormUnion_f_l,1.0
+Birmingham,Montgomery,T,F_closeDistNormUnion_l_f,1.0
+Birmingham,Montgomery,T,F_distBtwnCentroids_f_l,2.98193019206
+Birmingham,Montgomery,T,F_distBtwnCentroids_l_f,2.98193019206
+Birmingham,Montgomery,T,F_distHorizontalCentroid_f_l,0.750162253803
+Birmingham,Montgomery,T,F_distHorizontalCentroid_l_f,-0.750162253803
+Birmingham,Montgomery,T,F_distVerticalCentroid_f_l,-2.8860291515
+Birmingham,Montgomery,T,F_distVerticalCentroid_l_f,2.8860291515
+Birmingham,Montgomery,T,F_leftOfFigureCentroid_l_f,1.0
+Birmingham,Montgomery,T,F_rightOfFigureCentroid_f_l,1.0
+Georgia,Alabama,T,arg1 and east arg2,1
+Georgia,Alabama,T,arg1 and eastern arg2,1
+Georgia,Alabama,T,arg1 and northeast arg2,1
+Georgia,Alabama,T,arg1 and northeastern arg2,1
+Georgia,Alabama,T,arg1 and northern arg2,1
+Georgia,Alabama,T,arg1 and one in arg2,1
+Georgia,Alabama,T,arg1 and parts of arg2,1
+Georgia,Alabama,T,arg1 and southeastern arg2,1
+Georgia,Alabama,T,arg1 and southern arg2,1
+Georgia,Alabama,T,arg1 as well as arg2,1
+Georgia,Alabama,T,arg2 and north arg1,1
+Georgia,Alabama,T,arg2 and northern arg1,1
+Georgia,Alabama,T,arg2 and parts of arg1,1
+Georgia,Alabama,T,arg2 and southern arg1,1
+Georgia,Alabama,T,arg2 and southwest arg1,1
+Georgia,Alabama,T,arg2 and west arg1,1
+Georgia,Alabama,T,arg2 and western arg1,1
+Georgia,Alabama,T,arg2 beat arg1,1
+Georgia,Alabama,T,arg2 through arg1,1
+Georgia,Alabama,T,bias,1.0
+Georgia,Alabama,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Georgia,Alabama,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Georgia,Alabama,T,F_aboveFigureCentroid_f_l,1.0
+Georgia,Alabama,T,F_avsResult_0_-1_f_l,0.0847456541812
+Georgia,Alabama,T,F_avsResult_0_1_f_l,0.0847456541812
+Georgia,Alabama,T,F_avsResult_0_-1_l_f,0.13912922712
+Georgia,Alabama,T,F_avsResult_0_1_l_f,0.13912922712
+Georgia,Alabama,T,F_avsResult_1_0_f_l,0.0155420574284
+Georgia,Alabama,T,F_avsResult_-1_0_f_l,0.606961392776
+Georgia,Alabama,T,F_avsResult_-1_0_l_f,0.00039598599841
+Georgia,Alabama,T,F_avsResult_1_0_l_f,0.647021462155
+Georgia,Alabama,T,F_avsResult_outside_0_-1_f_l,0.0847456541812
+Georgia,Alabama,T,F_avsResult_outside_0_1_f_l,0.0847456541812
+Georgia,Alabama,T,F_avsResult_outside_0_-1_l_f,0.13912922712
+Georgia,Alabama,T,F_avsResult_outside_0_1_l_f,0.13912922712
+Georgia,Alabama,T,F_avsResult_outside_1_0_f_l,0.0155420574284
+Georgia,Alabama,T,F_avsResult_outside_-1_0_f_l,0.606961392776
+Georgia,Alabama,T,F_avsResult_outside_-1_0_l_f,0.00039598599841
+Georgia,Alabama,T,F_avsResult_outside_1_0_l_f,0.647021462155
+Georgia,Alabama,T,F_belowFigureCentroid_l_f,1.0
+Georgia,Alabama,T,F_distBtwnCentroids_f_l,0.0922658518202
+Georgia,Alabama,T,F_distBtwnCentroids_l_f,0.0922658518202
+Georgia,Alabama,T,F_distHorizontalCentroid_f_l,-0.0922121605164
+Georgia,Alabama,T,F_distHorizontalCentroid_l_f,0.0922121605164
+Georgia,Alabama,T,F_distVerticalCentroid_f_l,0.00314719954958
+Georgia,Alabama,T,F_distVerticalCentroid_l_f,-0.00314719954958
+Georgia,Alabama,T,F_leftOfFigureCentroid_f_l,1.0
+Georgia,Alabama,T,F_math2dFigureIntersectionArea_f_l,0.000665035939805
+Georgia,Alabama,T,F_math2dFigureIntersectionArea_l_f,0.000745315377175
+Georgia,Alabama,T,F_math2dIntersectionArea_f_l,0.000351568978277
+Georgia,Alabama,T,F_math2dIntersectionArea_l_f,0.000351568978277
+Georgia,Alabama,T,F_math2dLandmarkIntersectionArea_f_l,0.000745315377175
+Georgia,Alabama,T,F_math2dLandmarkIntersectionArea_l_f,0.000665035939805
+Georgia,Alabama,T,F_rightOfFigureCentroid_l_f,1.0
+Georgia,Atlanta,T,arg1 and metro arg2,1
+Georgia,Atlanta,T,arg1 a suburb of arg2,1
+Georgia,Atlanta,T,arg1 including arg2,1
+Georgia,Atlanta,T,arg1 north of arg2,1
+Georgia,Atlanta,T,arg1 outside arg2,1
+Georgia,Atlanta,T,arg1 outside of arg2,1
+Georgia,Atlanta,T,arg1 which includes arg2,1
+Georgia,Atlanta,T,arg2 and across arg1,1
+Georgia,Atlanta,T,arg2 and north arg1,1
+Georgia,Atlanta,T,arg2 and other parts of arg1,1
+Georgia,Atlanta,T,arg2 and the state of arg1,1
+Georgia,Atlanta,T,arg2 and throughout arg1,1
+Georgia,Atlanta,T,arg2 and throughout the state of arg1,1
+Georgia,Atlanta,T,arg2 area and throughout arg1,1
+Georgia,Atlanta,T,arg2 area of arg1,1
+Georgia,Atlanta,T,arg2 escorts in arg1,1
+Georgia,Atlanta,T,arg2 is a beautiful city in arg1,1
+Georgia,Atlanta,T,arg2 is the capital of arg1,1
+Georgia,Atlanta,T,arg2 or anywhere in arg1,1
+Georgia,Atlanta,T,bias,1.0
+Georgia,Atlanta,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Georgia,Atlanta,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Georgia,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Georgia,Atlanta,T,F_avsResult_0_-1_f_l,0.0034089560146
+Georgia,Atlanta,T,F_avsResult_0_1_f_l,0.0034089560146
+Georgia,Atlanta,T,F_avsResult_0_-1_l_f,0.0772841518464
+Georgia,Atlanta,T,F_avsResult_0_1_l_f,0.0772841518464
+Georgia,Atlanta,T,F_avsResult_-1_0_f_l,0.0128323904794
+Georgia,Atlanta,T,F_avsResult_1_0_f_l,0.0836044404074
+Georgia,Atlanta,T,F_avsResult_-1_0_l_f,0.0963588192763
+Georgia,Atlanta,T,F_avsResult_1_0_l_f,0.446421103784
+Georgia,Atlanta,T,F_avsResult_-1_-1_f_l,0.176830637264
+Georgia,Atlanta,T,F_avsResult_-1_1_f_l,0.176830637264
+Georgia,Atlanta,T,F_avsResult_1_-1_l_f,0.209464967708
+Georgia,Atlanta,T,F_avsResult_1_1_l_f,0.209464967708
+Georgia,Atlanta,T,F_avsResult_inside_0_-1_f_l,0.0034089560146
+Georgia,Atlanta,T,F_avsResult_inside_0_1_f_l,0.0034089560146
+Georgia,Atlanta,T,F_avsResult_inside_-1_0_f_l,0.0128323904794
+Georgia,Atlanta,T,F_avsResult_inside_1_0_f_l,0.0836044404074
+Georgia,Atlanta,T,F_avsResult_inside_-1_-1_f_l,0.176830637264
+Georgia,Atlanta,T,F_avsResult_inside_-1_1_f_l,0.176830637264
+Georgia,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.0772841518464
+Georgia,Atlanta,T,F_avsResult_outside_0_1_l_f,0.0772841518464
+Georgia,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.0963588192763
+Georgia,Atlanta,T,F_avsResult_outside_1_0_l_f,0.446421103784
+Georgia,Atlanta,T,F_avsResult_outside_1_-1_l_f,0.209464967708
+Georgia,Atlanta,T,F_avsResult_outside_1_1_l_f,0.209464967708
+Georgia,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Georgia,Atlanta,T,F_distBtwnCentroids_f_l,0.0674925953042
+Georgia,Atlanta,T,F_distBtwnCentroids_l_f,0.0674925953042
+Georgia,Atlanta,T,F_distHorizontalCentroid_f_l,-0.0442921598795
+Georgia,Atlanta,T,F_distHorizontalCentroid_l_f,0.0442921598795
+Georgia,Atlanta,T,F_distVerticalCentroid_f_l,0.0509259756323
+Georgia,Atlanta,T,F_distVerticalCentroid_l_f,-0.0509259756323
+Georgia,Atlanta,T,F_leftOfFigureCentroid_f_l,1.0
+Georgia,Atlanta,T,F_math2dFigureIntersectionArea_f_l,0.00429922626838
+Georgia,Atlanta,T,F_math2dFigureIntersectionArea_l_f,1.0
+Georgia,Atlanta,T,F_math2dIntersectionArea_f_l,0.00429922626838
+Georgia,Atlanta,T,F_math2dIntersectionArea_l_f,0.00429922626838
+Georgia,Atlanta,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Georgia,Atlanta,T,F_math2dLandmarkIntersectionArea_l_f,0.00429922626838
+Georgia,Atlanta,T,F_rightOfFigureCentroid_l_f,1.0
+Georgia,Birmingham,T,arg1 and goes to arg2,1
+Georgia,Birmingham,T,arg1 and has lived in arg2,1
+Georgia,Birmingham,T,arg1 and moved to arg2,1
+Georgia,Birmingham,T,arg1 and now live in arg2,1
+Georgia,Birmingham,T,arg1 and sales offices in arg2,1
+Georgia,Birmingham,T,arg1 and through arg2,1
+Georgia,Birmingham,T,arg1 but grew up in arg2,1
+Georgia,Birmingham,T,arg1 but moved to arg2,1
+Georgia,Birmingham,T,arg1 with offices in arg2,1
+Georgia,Birmingham,T,arg2 and into northern arg1,1
+Georgia,Birmingham,T,arg2 and then moved to arg1,1
+Georgia,Birmingham,T,bias,1.0
+Georgia,Birmingham,T,F_aboveFigureCentroid_f_l,1.0
+Georgia,Birmingham,T,F_avsResult_0_-1_f_l,0.106012083124
+Georgia,Birmingham,T,F_avsResult_0_1_f_l,0.106012083124
+Georgia,Birmingham,T,F_avsResult_0_-1_l_f,0.150995608622
+Georgia,Birmingham,T,F_avsResult_0_1_l_f,0.150995608622
+Georgia,Birmingham,T,F_avsResult_1_0_f_l,0.00636205742098
+Georgia,Birmingham,T,F_avsResult_-1_0_f_l,0.590130946693
+Georgia,Birmingham,T,F_avsResult_-1_0_l_f,0.0204492904464
+Georgia,Birmingham,T,F_avsResult_1_0_l_f,0.707851813014
+Georgia,Birmingham,T,F_avsResult_1_-1_l_f,0.614136447295
+Georgia,Birmingham,T,F_avsResult_1_1_l_f,0.614136447295
+Georgia,Birmingham,T,F_avsResult_outside_0_-1_f_l,0.106012083124
+Georgia,Birmingham,T,F_avsResult_outside_0_1_f_l,0.106012083124
+Georgia,Birmingham,T,F_avsResult_outside_0_-1_l_f,0.150995608622
+Georgia,Birmingham,T,F_avsResult_outside_0_1_l_f,0.150995608622
+Georgia,Birmingham,T,F_avsResult_outside_1_0_f_l,0.00636205742098
+Georgia,Birmingham,T,F_avsResult_outside_-1_0_f_l,0.590130946693
+Georgia,Birmingham,T,F_avsResult_outside_-1_0_l_f,0.0204492904464
+Georgia,Birmingham,T,F_avsResult_outside_1_0_l_f,0.707851813014
+Georgia,Birmingham,T,F_avsResult_outside_1_-1_l_f,0.614136447295
+Georgia,Birmingham,T,F_avsResult_outside_1_1_l_f,0.614136447295
+Georgia,Birmingham,T,F_belowFigureCentroid_l_f,1.0
+Georgia,Birmingham,T,F_closeDistNormFigure_f_l,0.175407943923
+Georgia,Birmingham,T,F_closeDistNormFigure_l_f,1.0
+Georgia,Birmingham,T,F_closeDistNormLandmark_f_l,1.0
+Georgia,Birmingham,T,F_closeDistNormLandmark_l_f,0.175407943923
+Georgia,Birmingham,T,F_closeDistNormUnion_f_l,0.175406912922
+Georgia,Birmingham,T,F_closeDistNormUnion_l_f,0.175406912922
+Georgia,Birmingham,T,F_distBtwnCentroids_f_l,0.123908865935
+Georgia,Birmingham,T,F_distBtwnCentroids_l_f,0.123908865935
+Georgia,Birmingham,T,F_distHorizontalCentroid_f_l,-0.118584318775
+Georgia,Birmingham,T,F_distHorizontalCentroid_l_f,0.118584318775
+Georgia,Birmingham,T,F_distVerticalCentroid_f_l,0.0359328039254
+Georgia,Birmingham,T,F_distVerticalCentroid_l_f,-0.0359328039254
+Georgia,Birmingham,T,F_leftOfFigureCentroid_f_l,1.0
+Georgia,Birmingham,T,F_rightOfFigureCentroid_l_f,1.0
+Georgia,Georgia,T,arg1 and view arg2,1
+Georgia,Georgia,T,arg1 as well as arg2,1
+Georgia,Georgia,T,arg1 following arg2,1
+Georgia,Georgia,T,arg1 kindergarten and arg2,1
+Georgia,Georgia,T,arg1 or moving from arg2,1
+Georgia,Georgia,T,arg1 or outside of arg2,1
+Georgia,Georgia,T,arg1 our local arg2,1
+Georgia,Georgia,T,arg1 real estate license classes and arg2,1
+Georgia,Georgia,T,arg1 that borders arg2,1
+Georgia,Georgia,T,arg2 and view arg1,1
+Georgia,Georgia,T,arg2 as well as arg1,1
+Georgia,Georgia,T,arg2 following arg1,1
+Georgia,Georgia,T,arg2 kindergarten and arg1,1
+Georgia,Georgia,T,arg2 or moving from arg1,1
+Georgia,Georgia,T,arg2 or outside of arg1,1
+Georgia,Georgia,T,arg2 our local arg1,1
+Georgia,Georgia,T,arg2 real estate license classes and arg1,1
+Georgia,Georgia,T,arg2 that borders arg1,1
+Georgia,Georgia,T,bias,1.0
+Georgia,Georgia,T,entity1=entity2,1
+Georgia,Georgia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Georgia,Georgia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Georgia,Georgia,T,F_avsResult_0_-1_f_l,0.0426470131134
+Georgia,Georgia,T,F_avsResult_0_1_f_l,0.0426470131134
+Georgia,Georgia,T,F_avsResult_0_-1_l_f,0.0426470131134
+Georgia,Georgia,T,F_avsResult_0_1_l_f,0.0426470131134
+Georgia,Georgia,T,F_avsResult_1_0_f_l,0.0707422670971
+Georgia,Georgia,T,F_avsResult_-1_0_f_l,0.221548630458
+Georgia,Georgia,T,F_avsResult_1_0_l_f,0.0707422670971
+Georgia,Georgia,T,F_avsResult_-1_0_l_f,0.221548630458
+Georgia,Georgia,T,F_avsResult_inside_0_-1_f_l,0.0426470131134
+Georgia,Georgia,T,F_avsResult_inside_0_1_f_l,0.0426470131134
+Georgia,Georgia,T,F_avsResult_inside_0_-1_l_f,0.0426470131134
+Georgia,Georgia,T,F_avsResult_inside_0_1_l_f,0.0426470131134
+Georgia,Georgia,T,F_avsResult_inside_1_0_f_l,0.0707422670971
+Georgia,Georgia,T,F_avsResult_inside_-1_0_f_l,0.221548630458
+Georgia,Georgia,T,F_avsResult_inside_1_0_l_f,0.0707422670971
+Georgia,Georgia,T,F_avsResult_inside_-1_0_l_f,0.221548630458
+Georgia,Georgia,T,F_math2dFigureIntersectionArea_f_l,1.0
+Georgia,Georgia,T,F_math2dFigureIntersectionArea_l_f,1.0
+Georgia,Georgia,T,F_math2dIntersectionArea_f_l,1.0
+Georgia,Georgia,T,F_math2dIntersectionArea_l_f,1.0
+Georgia,Georgia,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Georgia,Georgia,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Georgia,Macon,T,arg1 is just west of arg2,1
+Georgia,Macon,T,arg1 is located in arg2,1
+Georgia,Macon,T,arg1 just south of arg2,1
+Georgia,Macon,T,arg1 was held in arg2,1
+Georgia,Macon,T,arg2 and central arg1,1
+Georgia,Macon,T,arg2 and middle arg1,1
+Georgia,Macon,T,arg2 and throughout arg1,1
+Georgia,Macon,T,arg2 area of arg1,1
+Georgia,Macon,T,arg2 in the heart of arg1,1
+Georgia,Macon,T,arg2 is located in central arg1,1
+Georgia,Macon,T,arg2 is located on arg1,1
+Georgia,Macon,T,arg2 is one of arg1,1
+Georgia,Macon,T,arg2 is the heart of arg1,1
+Georgia,Macon,T,arg2 moved into arg1,1
+Georgia,Macon,T,arg2 or select towns in arg1,1
+Georgia,Macon,T,arg2 real estate agent in arg1,1
+Georgia,Macon,T,bias,1.0
+Georgia,Macon,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Georgia,Macon,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Georgia,Macon,T,F_aboveFigureCentroid_f_l,1.0
+Georgia,Macon,T,F_avsResult_0_-1_f_l,0.0369940129575
+Georgia,Macon,T,F_avsResult_0_1_f_l,0.0369940129575
+Georgia,Macon,T,F_avsResult_0_-1_l_f,0.10917832108
+Georgia,Macon,T,F_avsResult_0_1_l_f,0.10917832108
+Georgia,Macon,T,F_avsResult_1_0_f_l,0.0653522640719
+Georgia,Macon,T,F_avsResult_-1_0_f_l,0.219716088607
+Georgia,Macon,T,F_avsResult_-1_0_l_f,0.10450546987
+Georgia,Macon,T,F_avsResult_1_0_l_f,0.383152724538
+Georgia,Macon,T,F_avsResult_1_-1_l_f,0.236934393168
+Georgia,Macon,T,F_avsResult_1_1_l_f,0.236934393168
+Georgia,Macon,T,F_avsResult_inside_0_-1_f_l,0.0369940129575
+Georgia,Macon,T,F_avsResult_inside_0_1_f_l,0.0369940129575
+Georgia,Macon,T,F_avsResult_inside_1_0_f_l,0.0653522640719
+Georgia,Macon,T,F_avsResult_inside_-1_0_f_l,0.219716088607
+Georgia,Macon,T,F_avsResult_outside_0_-1_l_f,0.10917832108
+Georgia,Macon,T,F_avsResult_outside_0_1_l_f,0.10917832108
+Georgia,Macon,T,F_avsResult_outside_-1_0_l_f,0.10450546987
+Georgia,Macon,T,F_avsResult_outside_1_0_l_f,0.383152724538
+Georgia,Macon,T,F_avsResult_outside_1_-1_l_f,0.236934393168
+Georgia,Macon,T,F_avsResult_outside_1_1_l_f,0.236934393168
+Georgia,Macon,T,F_belowFigureCentroid_l_f,1.0
+Georgia,Macon,T,F_distBtwnCentroids_f_l,0.01246023024
+Georgia,Macon,T,F_distBtwnCentroids_l_f,0.01246023024
+Georgia,Macon,T,F_distHorizontalCentroid_f_l,-0.0090848132221
+Georgia,Macon,T,F_distHorizontalCentroid_l_f,0.0090848132221
+Georgia,Macon,T,F_distVerticalCentroid_f_l,0.00852780782815
+Georgia,Macon,T,F_distVerticalCentroid_l_f,-0.00852780782815
+Georgia,Macon,T,F_leftOfFigureCentroid_f_l,1.0
+Georgia,Macon,T,F_math2dFigureIntersectionArea_f_l,0.0017511956045
+Georgia,Macon,T,F_math2dFigureIntersectionArea_l_f,1.0
+Georgia,Macon,T,F_math2dIntersectionArea_f_l,0.0017511956045
+Georgia,Macon,T,F_math2dIntersectionArea_l_f,0.0017511956045
+Georgia,Macon,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Georgia,Macon,T,F_math2dLandmarkIntersectionArea_l_f,0.0017511956045
+Georgia,Macon,T,F_rightOfFigureCentroid_l_f,1.0
+Georgia,Montgomery,T,arg1 bought arg2,1
+Georgia,Montgomery,T,arg1 from his home in arg2,1
+Georgia,Montgomery,T,arg1 state line to arg2,1
+Georgia,Montgomery,T,arg2 to the border of arg1,1
+Georgia,Montgomery,T,bias,1.0
+Georgia,Montgomery,T,F_aboveFigureCentroid_l_f,1.0
+Georgia,Montgomery,T,F_avsResult_0_-1_f_l,0.0708311936833
+Georgia,Montgomery,T,F_avsResult_0_1_f_l,0.0708311936833
+Georgia,Montgomery,T,F_avsResult_0_-1_l_f,0.285431176461
+Georgia,Montgomery,T,F_avsResult_0_1_l_f,0.285431176461
+Georgia,Montgomery,T,F_avsResult_1_0_f_l,0.0260153462586
+Georgia,Montgomery,T,F_avsResult_-1_0_f_l,0.525542882954
+Georgia,Montgomery,T,F_avsResult_-1_0_l_f,0.00711608245051
+Georgia,Montgomery,T,F_avsResult_1_0_l_f,0.744905065282
+Georgia,Montgomery,T,F_avsResult_-1_-1_f_l,0.264845959568
+Georgia,Montgomery,T,F_avsResult_-1_1_f_l,0.264845959568
+Georgia,Montgomery,T,F_avsResult_outside_0_-1_f_l,0.0708311936833
+Georgia,Montgomery,T,F_avsResult_outside_0_1_f_l,0.0708311936833
+Georgia,Montgomery,T,F_avsResult_outside_0_-1_l_f,0.285431176461
+Georgia,Montgomery,T,F_avsResult_outside_0_1_l_f,0.285431176461
+Georgia,Montgomery,T,F_avsResult_outside_1_0_f_l,0.0260153462586
+Georgia,Montgomery,T,F_avsResult_outside_-1_0_f_l,0.525542882954
+Georgia,Montgomery,T,F_avsResult_outside_-1_0_l_f,0.00711608245051
+Georgia,Montgomery,T,F_avsResult_outside_1_0_l_f,0.744905065282
+Georgia,Montgomery,T,F_avsResult_outside_-1_-1_f_l,0.264845959568
+Georgia,Montgomery,T,F_avsResult_outside_-1_1_f_l,0.264845959568
+Georgia,Montgomery,T,F_belowFigureCentroid_f_l,1.0
+Georgia,Montgomery,T,F_closeDistNormFigure_f_l,0.101065520671
+Georgia,Montgomery,T,F_closeDistNormFigure_l_f,1.0
+Georgia,Montgomery,T,F_closeDistNormLandmark_f_l,1.0
+Georgia,Montgomery,T,F_closeDistNormLandmark_l_f,0.101065520671
+Georgia,Montgomery,T,F_closeDistNormUnion_f_l,0.101063352224
+Georgia,Montgomery,T,F_closeDistNormUnion_l_f,0.101063352224
+Georgia,Montgomery,T,F_distBtwnCentroids_f_l,0.113354635644
+Georgia,Montgomery,T,F_distBtwnCentroids_l_f,0.113354635644
+Georgia,Montgomery,T,F_distHorizontalCentroid_f_l,-0.112822023562
+Georgia,Montgomery,T,F_distHorizontalCentroid_l_f,0.112822023562
+Georgia,Montgomery,T,F_distVerticalCentroid_f_l,-0.0109756285206
+Georgia,Montgomery,T,F_distVerticalCentroid_l_f,0.0109756285206
+Georgia,Montgomery,T,F_leftOfFigureCentroid_f_l,1.0
+Georgia,Montgomery,T,F_rightOfFigureCentroid_l_f,1.0
+Macon,Alabama,T,arg1 counties in arg2,1
+Macon,Alabama,T,arg2 home is worth and other arg1,1
+Macon,Alabama,T,arg2 toward arg1,1
+Macon,Alabama,T,arg2 will play arg1,1
+Macon,Alabama,T,bias,1.0
+Macon,Alabama,T,F_aboveFigureCentroid_l_f,1.0
+Macon,Alabama,T,F_avsResult_0_-1_f_l,0.236711785182
+Macon,Alabama,T,F_avsResult_0_1_f_l,0.236711785182
+Macon,Alabama,T,F_avsResult_0_-1_l_f,0.15406244652
+Macon,Alabama,T,F_avsResult_0_1_l_f,0.15406244652
+Macon,Alabama,T,F_avsResult_1_0_f_l,0.0015234246614
+Macon,Alabama,T,F_avsResult_-1_0_f_l,0.773174263867
+Macon,Alabama,T,F_avsResult_-1_0_l_f,0.00251787623274
+Macon,Alabama,T,F_avsResult_1_0_l_f,0.606170739643
+Macon,Alabama,T,F_avsResult_outside_0_-1_f_l,0.236711785182
+Macon,Alabama,T,F_avsResult_outside_0_1_f_l,0.236711785182
+Macon,Alabama,T,F_avsResult_outside_0_-1_l_f,0.15406244652
+Macon,Alabama,T,F_avsResult_outside_0_1_l_f,0.15406244652
+Macon,Alabama,T,F_avsResult_outside_1_0_f_l,0.0015234246614
+Macon,Alabama,T,F_avsResult_outside_-1_0_f_l,0.773174263867
+Macon,Alabama,T,F_avsResult_outside_-1_0_l_f,0.00251787623274
+Macon,Alabama,T,F_avsResult_outside_1_0_l_f,0.606170739643
+Macon,Alabama,T,F_belowFigureCentroid_f_l,1.0
+Macon,Alabama,T,F_closeDistNormFigure_f_l,1.0
+Macon,Alabama,T,F_closeDistNormFigure_l_f,0.120610792245
+Macon,Alabama,T,F_closeDistNormLandmark_f_l,0.120610792245
+Macon,Alabama,T,F_closeDistNormLandmark_l_f,1.0
+Macon,Alabama,T,F_closeDistNormUnion_f_l,0.120374546341
+Macon,Alabama,T,F_closeDistNormUnion_l_f,0.120374546341
+Macon,Alabama,T,F_distBtwnCentroids_f_l,0.134522149933
+Macon,Alabama,T,F_distBtwnCentroids_l_f,0.134522149933
+Macon,Alabama,T,F_distHorizontalCentroid_f_l,-0.134488125481
+Macon,Alabama,T,F_distHorizontalCentroid_l_f,0.134488125481
+Macon,Alabama,T,F_distVerticalCentroid_f_l,-0.00302538053966
+Macon,Alabama,T,F_distVerticalCentroid_l_f,0.00302538053966
+Macon,Alabama,T,F_leftOfFigureCentroid_f_l,1.0
+Macon,Alabama,T,F_rightOfFigureCentroid_l_f,1.0
+Macon,Atlanta,T,arg1 thru arg2,1
+Macon,Atlanta,T,arg2 and later to arg1,1
+Macon,Atlanta,T,arg2 and north of arg1,1
+Macon,Atlanta,T,arg2 and one in arg1,1
+Macon,Atlanta,T,arg2 and sent to arg1,1
+Macon,Atlanta,T,arg2 and south to arg1,1
+Macon,Atlanta,T,arg2 as well as arg1,1
+Macon,Atlanta,T,arg2 is the city of arg1,1
+Macon,Atlanta,T,arg2 toward arg1,1
+Macon,Atlanta,T,arg2 was just like arg1,1
+Macon,Atlanta,T,arg2 with additional offices in arg1,1
+Macon,Atlanta,T,bias,1.0
+Macon,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Macon,Atlanta,T,F_avsResult_0_-1_f_l,0.480849836487
+Macon,Atlanta,T,F_avsResult_0_1_f_l,0.480849836487
+Macon,Atlanta,T,F_avsResult_0_-1_l_f,0.0789415799162
+Macon,Atlanta,T,F_avsResult_0_1_l_f,0.0789415799162
+Macon,Atlanta,T,F_avsResult_1_0_f_l,0.10676199959
+Macon,Atlanta,T,F_avsResult_-1_0_f_l,0.426946511092
+Macon,Atlanta,T,F_avsResult_-1_0_l_f,0.105021672387
+Macon,Atlanta,T,F_avsResult_1_0_l_f,0.423716257329
+Macon,Atlanta,T,F_avsResult_1_-1_f_l,0.280062844523
+Macon,Atlanta,T,F_avsResult_1_1_f_l,0.280062844523
+Macon,Atlanta,T,F_avsResult_1_-1_l_f,0.201934050093
+Macon,Atlanta,T,F_avsResult_1_1_l_f,0.201934050093
+Macon,Atlanta,T,F_avsResult_outside_0_-1_f_l,0.480849836487
+Macon,Atlanta,T,F_avsResult_outside_0_1_f_l,0.480849836487
+Macon,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.0789415799162
+Macon,Atlanta,T,F_avsResult_outside_0_1_l_f,0.0789415799162
+Macon,Atlanta,T,F_avsResult_outside_1_0_f_l,0.10676199959
+Macon,Atlanta,T,F_avsResult_outside_-1_0_f_l,0.426946511092
+Macon,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.105021672387
+Macon,Atlanta,T,F_avsResult_outside_1_0_l_f,0.423716257329
+Macon,Atlanta,T,F_avsResult_outside_1_-1_f_l,0.280062844523
+Macon,Atlanta,T,F_avsResult_outside_1_1_f_l,0.280062844523
+Macon,Atlanta,T,F_avsResult_outside_1_-1_l_f,0.201934050093
+Macon,Atlanta,T,F_avsResult_outside_1_1_l_f,0.201934050093
+Macon,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Macon,Atlanta,T,F_closeDistNormFigure_f_l,1.0
+Macon,Atlanta,T,F_closeDistNormFigure_l_f,1.0
+Macon,Atlanta,T,F_closeDistNormLandmark_f_l,1.0
+Macon,Atlanta,T,F_closeDistNormLandmark_l_f,1.0
+Macon,Atlanta,T,F_closeDistNormUnion_f_l,1.0
+Macon,Atlanta,T,F_closeDistNormUnion_l_f,1.0
+Macon,Atlanta,T,F_distBtwnCentroids_f_l,1.07976141128
+Macon,Atlanta,T,F_distBtwnCentroids_l_f,1.07976141128
+Macon,Atlanta,T,F_distHorizontalCentroid_f_l,-0.689806254694
+Macon,Atlanta,T,F_distHorizontalCentroid_l_f,0.689806254694
+Macon,Atlanta,T,F_distVerticalCentroid_f_l,0.830693707863
+Macon,Atlanta,T,F_distVerticalCentroid_l_f,-0.830693707863
+Macon,Atlanta,T,F_leftOfFigureCentroid_f_l,1.0
+Macon,Atlanta,T,F_rightOfFigureCentroid_l_f,1.0
+Macon,Birmingham,T,bias,1.0
+Macon,Birmingham,T,F_aboveFigureCentroid_f_l,1.0
+Macon,Birmingham,T,F_avsResult_0_-1_f_l,0.34662937726
+Macon,Birmingham,T,F_avsResult_0_1_f_l,0.34662937726
+Macon,Birmingham,T,F_avsResult_0_-1_l_f,0.165139219042
+Macon,Birmingham,T,F_avsResult_0_1_l_f,0.165139219042
+Macon,Birmingham,T,F_avsResult_1_0_f_l,0.0180083872385
+Macon,Birmingham,T,F_avsResult_-1_0_f_l,0.707739389642
+Macon,Birmingham,T,F_avsResult_-1_0_l_f,0.0182917640659
+Macon,Birmingham,T,F_avsResult_1_0_l_f,0.710888056341
+Macon,Birmingham,T,F_avsResult_outside_0_-1_f_l,0.34662937726
+Macon,Birmingham,T,F_avsResult_outside_0_1_f_l,0.34662937726
+Macon,Birmingham,T,F_avsResult_outside_0_-1_l_f,0.165139219042
+Macon,Birmingham,T,F_avsResult_outside_0_1_l_f,0.165139219042
+Macon,Birmingham,T,F_avsResult_outside_1_0_f_l,0.0180083872385
+Macon,Birmingham,T,F_avsResult_outside_-1_0_f_l,0.707739389642
+Macon,Birmingham,T,F_avsResult_outside_-1_0_l_f,0.0182917640659
+Macon,Birmingham,T,F_avsResult_outside_1_0_l_f,0.710888056341
+Macon,Birmingham,T,F_belowFigureCentroid_l_f,1.0
+Macon,Birmingham,T,F_closeDistNormFigure_f_l,1.0
+Macon,Birmingham,T,F_closeDistNormFigure_l_f,1.0
+Macon,Birmingham,T,F_closeDistNormLandmark_f_l,1.0
+Macon,Birmingham,T,F_closeDistNormLandmark_l_f,1.0
+Macon,Birmingham,T,F_closeDistNormUnion_f_l,1.0
+Macon,Birmingham,T,F_closeDistNormUnion_l_f,1.0
+Macon,Birmingham,T,F_distBtwnCentroids_f_l,1.17586130998
+Macon,Birmingham,T,F_distBtwnCentroids_l_f,1.17586130998
+Macon,Birmingham,T,F_distHorizontalCentroid_f_l,-1.13795428691
+Macon,Birmingham,T,F_distHorizontalCentroid_l_f,1.13795428691
+Macon,Birmingham,T,F_distVerticalCentroid_f_l,0.296158506898
+Macon,Birmingham,T,F_distVerticalCentroid_l_f,-0.296158506898
+Macon,Birmingham,T,F_leftOfFigureCentroid_f_l,1.0
+Macon,Birmingham,T,F_rightOfFigureCentroid_l_f,1.0
+Macon,Georgia,T,arg1 and central arg2,1
+Macon,Georgia,T,arg1 and middle arg2,1
+Macon,Georgia,T,arg1 and throughout arg2,1
+Macon,Georgia,T,arg1 area of arg2,1
+Macon,Georgia,T,arg1 in the heart of arg2,1
+Macon,Georgia,T,arg1 is located in central arg2,1
+Macon,Georgia,T,arg1 is the heart of arg2,1
+Macon,Georgia,T,arg2 is just west of arg1,1
+Macon,Georgia,T,arg2 is located in arg1,1
+Macon,Georgia,T,arg2 just south of arg1,1
+Macon,Georgia,T,arg2 south of arg1,1
+Macon,Georgia,T,arg2 towns of arg1,1
+Macon,Georgia,T,arg2 using an interactive map of arg1,1
+Macon,Georgia,T,arg2 was held in arg1,1
+Macon,Georgia,T,bias,1.0
+Macon,Georgia,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Macon,Georgia,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Macon,Georgia,T,F_aboveFigureCentroid_l_f,1.0
+Macon,Georgia,T,F_avsResult_0_-1_f_l,0.10917832108
+Macon,Georgia,T,F_avsResult_0_1_f_l,0.10917832108
+Macon,Georgia,T,F_avsResult_0_-1_l_f,0.0369940129575
+Macon,Georgia,T,F_avsResult_0_1_l_f,0.0369940129575
+Macon,Georgia,T,F_avsResult_-1_0_f_l,0.10450546987
+Macon,Georgia,T,F_avsResult_1_0_f_l,0.383152724538
+Macon,Georgia,T,F_avsResult_1_0_l_f,0.0653522640719
+Macon,Georgia,T,F_avsResult_-1_0_l_f,0.219716088607
+Macon,Georgia,T,F_avsResult_1_-1_f_l,0.236934393168
+Macon,Georgia,T,F_avsResult_1_1_f_l,0.236934393168
+Macon,Georgia,T,F_avsResult_inside_0_-1_l_f,0.0369940129575
+Macon,Georgia,T,F_avsResult_inside_0_1_l_f,0.0369940129575
+Macon,Georgia,T,F_avsResult_inside_1_0_l_f,0.0653522640719
+Macon,Georgia,T,F_avsResult_inside_-1_0_l_f,0.219716088607
+Macon,Georgia,T,F_avsResult_outside_0_-1_f_l,0.10917832108
+Macon,Georgia,T,F_avsResult_outside_0_1_f_l,0.10917832108
+Macon,Georgia,T,F_avsResult_outside_-1_0_f_l,0.10450546987
+Macon,Georgia,T,F_avsResult_outside_1_0_f_l,0.383152724538
+Macon,Georgia,T,F_avsResult_outside_1_-1_f_l,0.236934393168
+Macon,Georgia,T,F_avsResult_outside_1_1_f_l,0.236934393168
+Macon,Georgia,T,F_belowFigureCentroid_f_l,1.0
+Macon,Georgia,T,F_distBtwnCentroids_f_l,0.01246023024
+Macon,Georgia,T,F_distBtwnCentroids_l_f,0.01246023024
+Macon,Georgia,T,F_distHorizontalCentroid_f_l,0.0090848132221
+Macon,Georgia,T,F_distHorizontalCentroid_l_f,-0.0090848132221
+Macon,Georgia,T,F_distVerticalCentroid_f_l,-0.00852780782815
+Macon,Georgia,T,F_distVerticalCentroid_l_f,0.00852780782815
+Macon,Georgia,T,F_leftOfFigureCentroid_l_f,1.0
+Macon,Georgia,T,F_math2dFigureIntersectionArea_f_l,1.0
+Macon,Georgia,T,F_math2dFigureIntersectionArea_l_f,0.0017511956045
+Macon,Georgia,T,F_math2dIntersectionArea_f_l,0.0017511956045
+Macon,Georgia,T,F_math2dIntersectionArea_l_f,0.0017511956045
+Macon,Georgia,T,F_math2dLandmarkIntersectionArea_f_l,0.0017511956045
+Macon,Georgia,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Macon,Georgia,T,F_rightOfFigureCentroid_f_l,1.0
+Macon,Macon,T,arg1 area or accept students from arg2,1
+Macon,Macon,T,arg1 dates and arg2,1
+Macon,Macon,T,arg1 executive suite categories including arg2,1
+Macon,Macon,T,arg1 guests and families in arg2,1
+Macon,Macon,T,arg1 industrial real estate categories including arg2,1
+Macon,Macon,T,arg1 in the city arg2,1
+Macon,Macon,T,arg1 is located in arg2,1
+Macon,Macon,T,arg1 is part of arg2,1
+Macon,Macon,T,arg1 is served by arg2,1
+Macon,Macon,T,arg1 matchmaking and arg2,1
+Macon,Macon,T,arg1 office space categories including arg2,1
+Macon,Macon,T,arg1 or sending flowers to arg2,1
+Macon,Macon,T,arg1 personals and arg2,1
+Macon,Macon,T,arg1 singles groups and arg2,1
+Macon,Macon,T,arg1 to help you move within arg2,1
+Macon,Macon,T,arg2 area or accept students from arg1,1
+Macon,Macon,T,arg2 dates and arg1,1
+Macon,Macon,T,arg2 executive suite categories including arg1,1
+Macon,Macon,T,arg2 guests and families in arg1,1
+Macon,Macon,T,arg2 industrial real estate categories including arg1,1
+Macon,Macon,T,arg2 in the city arg1,1
+Macon,Macon,T,arg2 is located in arg1,1
+Macon,Macon,T,arg2 is part of arg1,1
+Macon,Macon,T,arg2 is served by arg1,1
+Macon,Macon,T,arg2 matchmaking and arg1,1
+Macon,Macon,T,arg2 office space categories including arg1,1
+Macon,Macon,T,arg2 or sending flowers to arg1,1
+Macon,Macon,T,arg2 personals and arg1,1
+Macon,Macon,T,arg2 singles groups and arg1,1
+Macon,Macon,T,arg2 to help you move within arg1,1
+Macon,Macon,T,bias,1.0
+Macon,Macon,T,entity1=entity2,1
+Macon,Macon,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Macon,Macon,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Macon,Macon,T,F_avsResult_0_-1_f_l,0.000199717017738
+Macon,Macon,T,F_avsResult_0_1_f_l,0.000199717017738
+Macon,Macon,T,F_avsResult_0_-1_l_f,0.000199717017738
+Macon,Macon,T,F_avsResult_0_1_l_f,0.000199717017738
+Macon,Macon,T,F_avsResult_-1_0_f_l,0.000190323106036
+Macon,Macon,T,F_avsResult_1_0_f_l,0.00019032311173
+Macon,Macon,T,F_avsResult_-1_0_l_f,0.000190323106036
+Macon,Macon,T,F_avsResult_1_0_l_f,0.00019032311173
+Macon,Macon,T,F_avsResult_inside_0_-1_f_l,0.000199717017738
+Macon,Macon,T,F_avsResult_inside_0_1_f_l,0.000199717017738
+Macon,Macon,T,F_avsResult_inside_0_-1_l_f,0.000199717017738
+Macon,Macon,T,F_avsResult_inside_0_1_l_f,0.000199717017738
+Macon,Macon,T,F_avsResult_inside_-1_0_f_l,0.000190323106036
+Macon,Macon,T,F_avsResult_inside_1_0_f_l,0.00019032311173
+Macon,Macon,T,F_avsResult_inside_-1_0_l_f,0.000190323106036
+Macon,Macon,T,F_avsResult_inside_1_0_l_f,0.00019032311173
+Macon,Macon,T,F_math2dFigureIntersectionArea_f_l,1.0
+Macon,Macon,T,F_math2dFigureIntersectionArea_l_f,1.0
+Macon,Macon,T,F_math2dIntersectionArea_f_l,1.0
+Macon,Macon,T,F_math2dIntersectionArea_l_f,1.0
+Macon,Macon,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Macon,Macon,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Macon,Montgomery,T,bias,1.0
+Macon,Montgomery,T,F_aboveFigureCentroid_l_f,1.0
+Macon,Montgomery,T,F_avsResult_0_-1_f_l,0.189473777292
+Macon,Montgomery,T,F_avsResult_0_1_f_l,0.189473777292
+Macon,Montgomery,T,F_avsResult_0_-1_l_f,0.312891810452
+Macon,Montgomery,T,F_avsResult_0_1_l_f,0.312891810452
+Macon,Montgomery,T,F_avsResult_1_0_f_l,0.0129909331798
+Macon,Montgomery,T,F_avsResult_-1_0_f_l,0.713926213393
+Macon,Montgomery,T,F_avsResult_-1_0_l_f,0.0132278571332
+Macon,Montgomery,T,F_avsResult_1_0_l_f,0.71777146032
+Macon,Montgomery,T,F_avsResult_outside_0_-1_f_l,0.189473777292
+Macon,Montgomery,T,F_avsResult_outside_0_1_f_l,0.189473777292
+Macon,Montgomery,T,F_avsResult_outside_0_-1_l_f,0.312891810452
+Macon,Montgomery,T,F_avsResult_outside_0_1_l_f,0.312891810452
+Macon,Montgomery,T,F_avsResult_outside_1_0_f_l,0.0129909331798
+Macon,Montgomery,T,F_avsResult_outside_-1_0_f_l,0.713926213393
+Macon,Montgomery,T,F_avsResult_outside_-1_0_l_f,0.0132278571332
+Macon,Montgomery,T,F_avsResult_outside_1_0_l_f,0.71777146032
+Macon,Montgomery,T,F_belowFigureCentroid_f_l,1.0
+Macon,Montgomery,T,F_closeDistNormFigure_f_l,1.0
+Macon,Montgomery,T,F_closeDistNormFigure_l_f,1.0
+Macon,Montgomery,T,F_closeDistNormLandmark_f_l,1.0
+Macon,Montgomery,T,F_closeDistNormLandmark_l_f,1.0
+Macon,Montgomery,T,F_closeDistNormUnion_f_l,1.0
+Macon,Montgomery,T,F_closeDistNormUnion_l_f,1.0
+Macon,Montgomery,T,F_distBtwnCentroids_f_l,1.79833362691
+Macon,Montgomery,T,F_distBtwnCentroids_l_f,1.79833362691
+Macon,Montgomery,T,F_distHorizontalCentroid_f_l,-1.77128290829
+Macon,Montgomery,T,F_distHorizontalCentroid_l_f,1.77128290829
+Macon,Montgomery,T,F_distVerticalCentroid_f_l,-0.310742164014
+Macon,Montgomery,T,F_distVerticalCentroid_l_f,0.310742164014
+Macon,Montgomery,T,F_leftOfFigureCentroid_f_l,1.0
+Macon,Montgomery,T,F_rightOfFigureCentroid_l_f,1.0
+Montgomery,Alabama,T,arg1 and central arg2,1
+Montgomery,Alabama,T,arg1 and the state of arg2,1
+Montgomery,Alabama,T,arg1 and throughout arg2,1
+Montgomery,Alabama,T,arg1 area of arg2,1
+Montgomery,Alabama,T,arg1 bus boycott in arg2,1
+Montgomery,Alabama,T,arg1 florist shop in arg2,1
+Montgomery,Alabama,T,arg1 in central arg2,1
+Montgomery,Alabama,T,arg1 in the state of arg2,1
+Montgomery,Alabama,T,arg1 is the capital of arg2,1
+Montgomery,Alabama,T,arg1 is the capitol of arg2,1
+Montgomery,Alabama,T,arg1 is the state capital of arg2,1
+Montgomery,Alabama,T,arg1 or anywhere in arg2,1
+Montgomery,Alabama,T,arg2 cities like arg1,1
+Montgomery,Alabama,T,arg2 including arg1,1
+Montgomery,Alabama,T,arg2 state capital of arg1,1
+Montgomery,Alabama,T,arg2 state capitol in arg1,1
+Montgomery,Alabama,T,bias,1.0
+Montgomery,Alabama,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Montgomery,Alabama,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Montgomery,Alabama,T,F_aboveFigureCentroid_f_l,1.0
+Montgomery,Alabama,T,F_avsResult_0_-1_f_l,0.387212924293
+Montgomery,Alabama,T,F_avsResult_0_1_f_l,0.387212924293
+Montgomery,Alabama,T,F_avsResult_0_-1_l_f,0.20628616938
+Montgomery,Alabama,T,F_avsResult_0_1_l_f,0.20628616938
+Montgomery,Alabama,T,F_avsResult_1_0_f_l,0.0843669012475
+Montgomery,Alabama,T,F_avsResult_-1_0_f_l,0.459609906091
+Montgomery,Alabama,T,F_avsResult_-1_0_l_f,0.00986892447653
+Montgomery,Alabama,T,F_avsResult_1_0_l_f,0.024961618113
+Montgomery,Alabama,T,F_avsResult_1_-1_f_l,0.192101791875
+Montgomery,Alabama,T,F_avsResult_1_1_f_l,0.192101791875
+Montgomery,Alabama,T,F_avsResult_inside_0_-1_l_f,0.20628616938
+Montgomery,Alabama,T,F_avsResult_inside_0_1_l_f,0.20628616938
+Montgomery,Alabama,T,F_avsResult_inside_-1_0_l_f,0.00986892447653
+Montgomery,Alabama,T,F_avsResult_inside_1_0_l_f,0.024961618113
+Montgomery,Alabama,T,F_avsResult_outside_0_-1_f_l,0.387212924293
+Montgomery,Alabama,T,F_avsResult_outside_0_1_f_l,0.387212924293
+Montgomery,Alabama,T,F_avsResult_outside_1_0_f_l,0.0843669012475
+Montgomery,Alabama,T,F_avsResult_outside_-1_0_f_l,0.459609906091
+Montgomery,Alabama,T,F_avsResult_outside_1_-1_f_l,0.192101791875
+Montgomery,Alabama,T,F_avsResult_outside_1_1_f_l,0.192101791875
+Montgomery,Alabama,T,F_belowFigureCentroid_l_f,1.0
+Montgomery,Alabama,T,F_distBtwnCentroids_f_l,0.038799707299
+Montgomery,Alabama,T,F_distBtwnCentroids_l_f,0.038799707299
+Montgomery,Alabama,T,F_distHorizontalCentroid_f_l,-0.0314378339286
+Montgomery,Alabama,T,F_distHorizontalCentroid_l_f,0.0314378339286
+Montgomery,Alabama,T,F_distVerticalCentroid_f_l,0.0227393905891
+Montgomery,Alabama,T,F_distVerticalCentroid_l_f,-0.0227393905891
+Montgomery,Alabama,T,F_leftOfFigureCentroid_f_l,1.0
+Montgomery,Alabama,T,F_math2dFigureIntersectionArea_f_l,1.0
+Montgomery,Alabama,T,F_math2dFigureIntersectionArea_l_f,2.40463947553e-05
+Montgomery,Alabama,T,F_math2dIntersectionArea_f_l,2.40463947553e-05
+Montgomery,Alabama,T,F_math2dIntersectionArea_l_f,2.40463947553e-05
+Montgomery,Alabama,T,F_math2dLandmarkIntersectionArea_f_l,2.40463947553e-05
+Montgomery,Alabama,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Montgomery,Alabama,T,F_rightOfFigureCentroid_l_f,1.0
+Montgomery,Atlanta,T,arg1 and return to arg2,1
+Montgomery,Atlanta,T,arg2 and all the way to arg1,1
+Montgomery,Atlanta,T,arg2 through arg1,1
+Montgomery,Atlanta,T,bias,1.0
+Montgomery,Atlanta,T,F_aboveFigureCentroid_f_l,1.0
+Montgomery,Atlanta,T,F_avsResult_0_-1_f_l,0.473780004742
+Montgomery,Atlanta,T,F_avsResult_0_1_f_l,0.473780004742
+Montgomery,Atlanta,T,F_avsResult_0_-1_l_f,0.0930457435162
+Montgomery,Atlanta,T,F_avsResult_0_1_l_f,0.0930457435162
+Montgomery,Atlanta,T,F_avsResult_-1_0_f_l,0.0580848774663
+Montgomery,Atlanta,T,F_avsResult_1_0_f_l,0.568140043937
+Montgomery,Atlanta,T,F_avsResult_1_0_l_f,0.0562015728565
+Montgomery,Atlanta,T,F_avsResult_-1_0_l_f,0.560750041938
+Montgomery,Atlanta,T,F_avsResult_-1_-1_f_l,0.183539151962
+Montgomery,Atlanta,T,F_avsResult_-1_1_f_l,0.183539151962
+Montgomery,Atlanta,T,F_avsResult_-1_-1_l_f,0.310070430282
+Montgomery,Atlanta,T,F_avsResult_-1_1_l_f,0.310070430282
+Montgomery,Atlanta,T,F_avsResult_outside_0_-1_f_l,0.473780004742
+Montgomery,Atlanta,T,F_avsResult_outside_0_1_f_l,0.473780004742
+Montgomery,Atlanta,T,F_avsResult_outside_0_-1_l_f,0.0930457435162
+Montgomery,Atlanta,T,F_avsResult_outside_0_1_l_f,0.0930457435162
+Montgomery,Atlanta,T,F_avsResult_outside_-1_0_f_l,0.0580848774663
+Montgomery,Atlanta,T,F_avsResult_outside_1_0_f_l,0.568140043937
+Montgomery,Atlanta,T,F_avsResult_outside_1_0_l_f,0.0562015728565
+Montgomery,Atlanta,T,F_avsResult_outside_-1_0_l_f,0.560750041938
+Montgomery,Atlanta,T,F_avsResult_outside_-1_-1_f_l,0.183539151962
+Montgomery,Atlanta,T,F_avsResult_outside_-1_1_f_l,0.183539151962
+Montgomery,Atlanta,T,F_avsResult_outside_-1_-1_l_f,0.310070430282
+Montgomery,Atlanta,T,F_avsResult_outside_-1_1_l_f,0.310070430282
+Montgomery,Atlanta,T,F_belowFigureCentroid_l_f,1.0
+Montgomery,Atlanta,T,F_closeDistNormFigure_f_l,1.0
+Montgomery,Atlanta,T,F_closeDistNormFigure_l_f,1.0
+Montgomery,Atlanta,T,F_closeDistNormLandmark_f_l,1.0
+Montgomery,Atlanta,T,F_closeDistNormLandmark_l_f,1.0
+Montgomery,Atlanta,T,F_closeDistNormUnion_f_l,1.0
+Montgomery,Atlanta,T,F_closeDistNormUnion_l_f,1.0
+Montgomery,Atlanta,T,F_distBtwnCentroids_f_l,0.757822070252
+Montgomery,Atlanta,T,F_distBtwnCentroids_l_f,0.757822070252
+Montgomery,Atlanta,T,F_distHorizontalCentroid_f_l,0.6075922079
+Montgomery,Atlanta,T,F_distHorizontalCentroid_l_f,-0.6075922079
+Montgomery,Atlanta,T,F_distVerticalCentroid_f_l,0.452908378219
+Montgomery,Atlanta,T,F_distVerticalCentroid_l_f,-0.452908378219
+Montgomery,Atlanta,T,F_leftOfFigureCentroid_l_f,1.0
+Montgomery,Atlanta,T,F_rightOfFigureCentroid_f_l,1.0
+Montgomery,Birmingham,T,arg1 and the largest city is arg2,1
+Montgomery,Birmingham,T,arg1 is the capital and arg2,1
+Montgomery,Birmingham,T,arg1 was born in arg2,1
+Montgomery,Birmingham,T,arg2 and moved on to arg1,1
+Montgomery,Birmingham,T,arg2 and serves arg1,1
+Montgomery,Birmingham,T,arg2 and she moved to arg1,1
+Montgomery,Birmingham,T,arg2 and the other in arg1,1
+Montgomery,Birmingham,T,arg2 and the second in arg1,1
+Montgomery,Birmingham,T,arg2 and the state capital of arg1,1
+Montgomery,Birmingham,T,arg2 and two others in arg1,1
+Montgomery,Birmingham,T,arg2 as well as arg1,1
+Montgomery,Birmingham,T,arg2 south to arg1,1
+Montgomery,Birmingham,T,arg2 with additional offices in arg1,1
+Montgomery,Birmingham,T,arg2 with a satellite office in arg1,1
+Montgomery,Birmingham,T,bias,1.0
+Montgomery,Birmingham,T,F_aboveFigureCentroid_f_l,1.0
+Montgomery,Birmingham,T,F_avsResult_0_-1_f_l,0.603924465344
+Montgomery,Birmingham,T,F_avsResult_0_1_f_l,0.603924465344
+Montgomery,Birmingham,T,F_avsResult_0_-1_l_f,0.0277267420563
+Montgomery,Birmingham,T,F_avsResult_0_1_l_f,0.0277267420563
+Montgomery,Birmingham,T,F_avsResult_1_0_f_l,0.189980354136
+Montgomery,Birmingham,T,F_avsResult_-1_0_f_l,0.315962751059
+Montgomery,Birmingham,T,F_avsResult_-1_0_l_f,0.189873874853
+Montgomery,Birmingham,T,F_avsResult_1_0_l_f,0.316183308256
+Montgomery,Birmingham,T,F_avsResult_outside_0_-1_f_l,0.603924465344
+Montgomery,Birmingham,T,F_avsResult_outside_0_1_f_l,0.603924465344
+Montgomery,Birmingham,T,F_avsResult_outside_0_-1_l_f,0.0277267420563
+Montgomery,Birmingham,T,F_avsResult_outside_0_1_l_f,0.0277267420563
+Montgomery,Birmingham,T,F_avsResult_outside_1_0_f_l,0.189980354136
+Montgomery,Birmingham,T,F_avsResult_outside_-1_0_f_l,0.315962751059
+Montgomery,Birmingham,T,F_avsResult_outside_-1_0_l_f,0.189873874853
+Montgomery,Birmingham,T,F_avsResult_outside_1_0_l_f,0.316183308256
+Montgomery,Birmingham,T,F_belowFigureCentroid_l_f,1.0
+Montgomery,Birmingham,T,F_closeDistNormFigure_f_l,1.0
+Montgomery,Birmingham,T,F_closeDistNormFigure_l_f,1.0
+Montgomery,Birmingham,T,F_closeDistNormLandmark_f_l,1.0
+Montgomery,Birmingham,T,F_closeDistNormLandmark_l_f,1.0
+Montgomery,Birmingham,T,F_closeDistNormUnion_f_l,1.0
+Montgomery,Birmingham,T,F_closeDistNormUnion_l_f,1.0
+Montgomery,Birmingham,T,F_distBtwnCentroids_f_l,2.98193019206
+Montgomery,Birmingham,T,F_distBtwnCentroids_l_f,2.98193019206
+Montgomery,Birmingham,T,F_distHorizontalCentroid_f_l,-0.750162253803
+Montgomery,Birmingham,T,F_distHorizontalCentroid_l_f,0.750162253803
+Montgomery,Birmingham,T,F_distVerticalCentroid_f_l,2.8860291515
+Montgomery,Birmingham,T,F_distVerticalCentroid_l_f,-2.8860291515
+Montgomery,Birmingham,T,F_leftOfFigureCentroid_f_l,1.0
+Montgomery,Birmingham,T,F_rightOfFigureCentroid_l_f,1.0
+Montgomery,Georgia,T,arg1 to the border of arg2,1
+Montgomery,Georgia,T,arg2 bought arg1,1
+Montgomery,Georgia,T,arg2 from his home in arg1,1
+Montgomery,Georgia,T,arg2 state line to arg1,1
+Montgomery,Georgia,T,bias,1.0
+Montgomery,Georgia,T,F_aboveFigureCentroid_f_l,1.0
+Montgomery,Georgia,T,F_avsResult_0_-1_f_l,0.285431176461
+Montgomery,Georgia,T,F_avsResult_0_1_f_l,0.285431176461
+Montgomery,Georgia,T,F_avsResult_0_-1_l_f,0.0708311936833
+Montgomery,Georgia,T,F_avsResult_0_1_l_f,0.0708311936833
+Montgomery,Georgia,T,F_avsResult_-1_0_f_l,0.00711608245051
+Montgomery,Georgia,T,F_avsResult_1_0_f_l,0.744905065282
+Montgomery,Georgia,T,F_avsResult_1_0_l_f,0.0260153462586
+Montgomery,Georgia,T,F_avsResult_-1_0_l_f,0.525542882954
+Montgomery,Georgia,T,F_avsResult_-1_-1_l_f,0.264845959568
+Montgomery,Georgia,T,F_avsResult_-1_1_l_f,0.264845959568
+Montgomery,Georgia,T,F_avsResult_outside_0_-1_f_l,0.285431176461
+Montgomery,Georgia,T,F_avsResult_outside_0_1_f_l,0.285431176461
+Montgomery,Georgia,T,F_avsResult_outside_0_-1_l_f,0.0708311936833
+Montgomery,Georgia,T,F_avsResult_outside_0_1_l_f,0.0708311936833
+Montgomery,Georgia,T,F_avsResult_outside_-1_0_f_l,0.00711608245051
+Montgomery,Georgia,T,F_avsResult_outside_1_0_f_l,0.744905065282
+Montgomery,Georgia,T,F_avsResult_outside_1_0_l_f,0.0260153462586
+Montgomery,Georgia,T,F_avsResult_outside_-1_0_l_f,0.525542882954
+Montgomery,Georgia,T,F_avsResult_outside_-1_-1_l_f,0.264845959568
+Montgomery,Georgia,T,F_avsResult_outside_-1_1_l_f,0.264845959568
+Montgomery,Georgia,T,F_belowFigureCentroid_l_f,1.0
+Montgomery,Georgia,T,F_closeDistNormFigure_f_l,1.0
+Montgomery,Georgia,T,F_closeDistNormFigure_l_f,0.101065520671
+Montgomery,Georgia,T,F_closeDistNormLandmark_f_l,0.101065520671
+Montgomery,Georgia,T,F_closeDistNormLandmark_l_f,1.0
+Montgomery,Georgia,T,F_closeDistNormUnion_f_l,0.101063352224
+Montgomery,Georgia,T,F_closeDistNormUnion_l_f,0.101063352224
+Montgomery,Georgia,T,F_distBtwnCentroids_f_l,0.113354635644
+Montgomery,Georgia,T,F_distBtwnCentroids_l_f,0.113354635644
+Montgomery,Georgia,T,F_distHorizontalCentroid_f_l,0.112822023562
+Montgomery,Georgia,T,F_distHorizontalCentroid_l_f,-0.112822023562
+Montgomery,Georgia,T,F_distVerticalCentroid_f_l,0.0109756285206
+Montgomery,Georgia,T,F_distVerticalCentroid_l_f,-0.0109756285206
+Montgomery,Georgia,T,F_leftOfFigureCentroid_l_f,1.0
+Montgomery,Georgia,T,F_rightOfFigureCentroid_f_l,1.0
+Montgomery,Macon,T,bias,1.0
+Montgomery,Macon,T,F_aboveFigureCentroid_f_l,1.0
+Montgomery,Macon,T,F_avsResult_0_-1_f_l,0.312891810452
+Montgomery,Macon,T,F_avsResult_0_1_f_l,0.312891810452
+Montgomery,Macon,T,F_avsResult_0_-1_l_f,0.189473777292
+Montgomery,Macon,T,F_avsResult_0_1_l_f,0.189473777292
+Montgomery,Macon,T,F_avsResult_-1_0_f_l,0.0132278571332
+Montgomery,Macon,T,F_avsResult_1_0_f_l,0.71777146032
+Montgomery,Macon,T,F_avsResult_1_0_l_f,0.0129909331798
+Montgomery,Macon,T,F_avsResult_-1_0_l_f,0.713926213393
+Montgomery,Macon,T,F_avsResult_outside_0_-1_f_l,0.312891810452
+Montgomery,Macon,T,F_avsResult_outside_0_1_f_l,0.312891810452
+Montgomery,Macon,T,F_avsResult_outside_0_-1_l_f,0.189473777292
+Montgomery,Macon,T,F_avsResult_outside_0_1_l_f,0.189473777292
+Montgomery,Macon,T,F_avsResult_outside_-1_0_f_l,0.0132278571332
+Montgomery,Macon,T,F_avsResult_outside_1_0_f_l,0.71777146032
+Montgomery,Macon,T,F_avsResult_outside_1_0_l_f,0.0129909331798
+Montgomery,Macon,T,F_avsResult_outside_-1_0_l_f,0.713926213393
+Montgomery,Macon,T,F_belowFigureCentroid_l_f,1.0
+Montgomery,Macon,T,F_closeDistNormFigure_f_l,1.0
+Montgomery,Macon,T,F_closeDistNormFigure_l_f,1.0
+Montgomery,Macon,T,F_closeDistNormLandmark_f_l,1.0
+Montgomery,Macon,T,F_closeDistNormLandmark_l_f,1.0
+Montgomery,Macon,T,F_closeDistNormUnion_f_l,1.0
+Montgomery,Macon,T,F_closeDistNormUnion_l_f,1.0
+Montgomery,Macon,T,F_distBtwnCentroids_f_l,1.79833362691
+Montgomery,Macon,T,F_distBtwnCentroids_l_f,1.79833362691
+Montgomery,Macon,T,F_distHorizontalCentroid_f_l,1.77128290829
+Montgomery,Macon,T,F_distHorizontalCentroid_l_f,-1.77128290829
+Montgomery,Macon,T,F_distVerticalCentroid_f_l,0.310742164014
+Montgomery,Macon,T,F_distVerticalCentroid_l_f,-0.310742164014
+Montgomery,Macon,T,F_leftOfFigureCentroid_l_f,1.0
+Montgomery,Macon,T,F_rightOfFigureCentroid_f_l,1.0
+Montgomery,Montgomery,T,arg1 bus boycott in arg2,1
+Montgomery,Montgomery,T,arg1 is one of arg2,1
+Montgomery,Montgomery,T,arg1 job in arg2,1
+Montgomery,Montgomery,T,arg1 matchmaking and arg2,1
+Montgomery,Montgomery,T,arg1 needs arg2,1
+Montgomery,Montgomery,T,arg1 office space categories including arg2,1
+Montgomery,Montgomery,T,arg1 or add new placemark for arg2,1
+Montgomery,Montgomery,T,arg1 or sending flowers to arg2,1
+Montgomery,Montgomery,T,arg1 personals and arg2,1
+Montgomery,Montgomery,T,arg1 pool builders in arg2,1
+Montgomery,Montgomery,T,arg1 schools pages to research arg2,1
+Montgomery,Montgomery,T,arg1 single men and arg2,1
+Montgomery,Montgomery,T,arg1 staffing location serves arg2,1
+Montgomery,Montgomery,T,arg1 to visit arg2,1
+Montgomery,Montgomery,T,arg2 bus boycott in arg1,1
+Montgomery,Montgomery,T,arg2 is one of arg1,1
+Montgomery,Montgomery,T,arg2 job in arg1,1
+Montgomery,Montgomery,T,arg2 matchmaking and arg1,1
+Montgomery,Montgomery,T,arg2 needs arg1,1
+Montgomery,Montgomery,T,arg2 office space categories including arg1,1
+Montgomery,Montgomery,T,arg2 or add new placemark for arg1,1
+Montgomery,Montgomery,T,arg2 or sending flowers to arg1,1
+Montgomery,Montgomery,T,arg2 personals and arg1,1
+Montgomery,Montgomery,T,arg2 pool builders in arg1,1
+Montgomery,Montgomery,T,arg2 schools pages to research arg1,1
+Montgomery,Montgomery,T,arg2 single men and arg1,1
+Montgomery,Montgomery,T,arg2 staffing location serves arg1,1
+Montgomery,Montgomery,T,arg2 to visit arg1,1
+Montgomery,Montgomery,T,bias,1.0
+Montgomery,Montgomery,T,entity1=entity2,1
+Montgomery,Montgomery,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Montgomery,Montgomery,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Montgomery,Montgomery,T,F_avsResult_0_-1_f_l,0.00122471593004
+Montgomery,Montgomery,T,F_avsResult_0_1_f_l,0.00122471593004
+Montgomery,Montgomery,T,F_avsResult_0_-1_l_f,0.00122471593004
+Montgomery,Montgomery,T,F_avsResult_0_1_l_f,0.00122471593004
+Montgomery,Montgomery,T,F_avsResult_1_0_f_l,0.00266116709248
+Montgomery,Montgomery,T,F_avsResult_-1_0_f_l,4.92689400771e-06
+Montgomery,Montgomery,T,F_avsResult_1_0_l_f,0.00266116709248
+Montgomery,Montgomery,T,F_avsResult_-1_0_l_f,4.92689400771e-06
+Montgomery,Montgomery,T,F_avsResult_inside_0_-1_f_l,0.00122471593004
+Montgomery,Montgomery,T,F_avsResult_inside_0_1_f_l,0.00122471593004
+Montgomery,Montgomery,T,F_avsResult_inside_0_-1_l_f,0.00122471593004
+Montgomery,Montgomery,T,F_avsResult_inside_0_1_l_f,0.00122471593004
+Montgomery,Montgomery,T,F_avsResult_inside_1_0_f_l,0.00266116709248
+Montgomery,Montgomery,T,F_avsResult_inside_-1_0_f_l,4.92689400771e-06
+Montgomery,Montgomery,T,F_avsResult_inside_1_0_l_f,0.00266116709248
+Montgomery,Montgomery,T,F_avsResult_inside_-1_0_l_f,4.92689400771e-06
+Montgomery,Montgomery,T,F_math2dFigureIntersectionArea_f_l,1.0
+Montgomery,Montgomery,T,F_math2dFigureIntersectionArea_l_f,1.0
+Montgomery,Montgomery,T,F_math2dIntersectionArea_f_l,1.0
+Montgomery,Montgomery,T,F_math2dIntersectionArea_l_f,1.0
+Montgomery,Montgomery,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Montgomery,Montgomery,T,F_math2dLandmarkIntersectionArea_l_f,1.0

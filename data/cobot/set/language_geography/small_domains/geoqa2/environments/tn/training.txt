@@ -1,0 +1,20 @@
+what cities are in Tennessee ?;Memphis,Nashville,Knoxville;1;(lambda $x (exists $y (and (city $x) (in-rel $x $y) (kb-Tennessee $y))))
+what are the states ?;Alabama,Tennessee;0;(lambda $x (and (state $x)))
+what are the national parks ?;Great Smoky Mountains National Park;0;(lambda $x (and (park $x)))
+in which state is Knoxville ?;Tennessee;1;(lambda $x (exists $y (and (state $x) (in-rel $y $x) (kb-Knoxville $y))))
+what city is located in eastern Tennessee ?;Knoxville;4
+what city is located in western Tennessee ?;Memphis;4
+what city is located in central Tennessee ?;Nashville;4
+what cities are west of Nashville ?;Memphis;1;(lambda $x (exists $y (and (city $x) (west-rel $x $y) (kb-Nashville $y))))
+what national parks are near Knoxville ?;Great Smoky Mountains National Park;1;(lambda $x (exists $y (and (park $x) (near-rel $x $y) (kb-Knoxville $y))))
+what state is south of Tennessee ?;Alabama;1;(lambda $x (exists $y (and (state $x) (south-rel $x $y) (kb-Tennessee $y))))
+what city is in Tennessee and east of Nashville ?;Knoxville;3;(lambda $x (exists $y $z (and (city $x) (in-rel $x $y) (kb-Tennessee $y) (east-rel $x $z) (kb-Nashville $z))))
+what city is in Tennessee and west of Nashville ?;Memphis;3;(lambda $x (exists $y $z (and (city $x) (in-rel $x $y) (kb-Tennessee $y) (west-rel $x $z) (kb-Nashville $z))))
+what national parks are in Tennessee ?;Great Smoky Mountains National Park;1;(lambda $x (exists $y (and (park $x) (in-rel $x $y) (kb-Tennessee $y))))
+what major city in Tennessee is closest to Alabama ?;Nashville;4
+is Tennessee bigger than Alabama ?;;1;(lambda $x (exists $y (and (kb-Tennessee $x) (bigger-rel $x $y) (kb-Alabama $y))))
+does Alabama border Tennessee ?;Alabama;1;(lambda $x (exists $y (and (kb-Alabama $x) (border-rel $x $y) (kb-Tennessee $y))))
+what cities are in Tennessee , but west of Knoxville ?;Nashville,Memphis;3;(lambda $x (exists $y $z (and (city $x) (in-rel $x $y) (kb-Tennessee $y) (west-rel $x $z) (kb-Knoxville $z))))
+what cities are in Tennessee , but east of Memphis ?;Nashville,Knoxville;3;(lambda $x (exists $y $z (and (city $x) (in-rel $x $y) (kb-Tennessee $y) (east-rel $x $z) (kb-Memphis $z))))
+what major cities and national parks are east of Nashville ?;Knoxville,Great Smoky Mountains National Park;3;
+what city is in Tennessee , but between Knoxville and Memphis ?;Nashville;4

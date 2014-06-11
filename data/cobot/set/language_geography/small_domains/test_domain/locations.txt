@@ -1,0 +1,52 @@
+Anaheim;Anaheim, California, USA;1837296118
+Arizona;Arizona, USA;162018
+Bakersfield;Bakersfield, California, USA;113006
+California;California, USA;165475
+Concord;Concord, California, USA;33112864
+Death Valley National Park;Death Valley National Park, USA;10374479
+Elko;Elko, Nevada, USA;150960267
+Eugene;Eugene, Oregon, USA;904722443
+Fern Ridge Lake;Fern Ridge Lake, USA;357280568
+Flagstaff;Flagstaff, Arizona, USA;33017664
+Fremont;Fremont, California, USA;111943
+Fresno;Fresno, California, USA;112444
+Grand Canyon National Park;Grand Canyon National Park, USA;183377
+Grand Staircase-Escalante National Monument;Grand Staircase-Escalante National Monument, USA;356685490
+Great Salt Lake;Great Salt Lake, Utah, USA;1206317
+Henderson;Henderson, Nevada, USA;150950536
+Huntington Beach;Huntington Beach, California, USA;33149401
+Lake Tahoe;Lake Tahoe, USA;1823287
+Las Vegas;Las Vegas, USA;31551114
+Long Beach;Long Beach, California, USA;112100
+Los Angeles;Los Angeles, USA;316944811
+Nevada;Nevada, USA;165473
+Oregon;Oregon, USA;165476
+Oswego Lake;Oswego Lake, USA;55153696
+Oxnard;Oxnard, California, USA;33126498
+Pacific Ocean;Pacific Ocean;305640005
+Phoenix;Phoenix, USA;150964064
+Portland;Portland, Oregon, USA;186579
+Provo;Provo, USA;198903
+Red Bluff;Red Bluff, California, USA;33113372
+Redding;Redding, California, USA;112503
+Reno;Reno, Nevada, USA;150959273
+Sacramento;Sacramento, USA;150959789
+Salem;Salem, Oregon, USA;186479
+Salt Lake City;Salt Lake City, USA;150935219
+San Diego;San Diego, California, USA;111891
+San Francisco Bay;San Francisco Bay, USA;369171005
+San Francisco;San Francisco, USA;316944780
+San Jose;San Jose, California, USA;1690212988
+Santa Rosa;Santa Rosa, California, USA;33162004
+Sierra Nevada Mountains;Sequoia National Forest, California, USA;319499
+Stockton;Stockton, California, USA;112382
+Tucson;Tucson, USA;150964034
+Utah Lake;Utah Lake, USA;107814
+Utah;Utah, USA;161993
+St. George;St. George, Utah, USA;198918
+Great Basin National Park;Great Basin National Park, Nevada, USA;27457442
+Yosemite National Park;Yosemite National Park, California;1643367
+Oregon;Oregon, USA;165476
+Mount Whitney;Mount Whitney, California;358794655
+Twin Peaks;Twin Peaks, Utah;356676395
+Redondo Beach;Redondo Beach, California;150963509

@@ -1,0 +1,28 @@
+*city;Myrtle Beach,Greenville,Charleston,Raleigh
+*state;South Carolina,North Carolina
+*lake;Lake Moultrie
+*body;Lake Moultrie,Atlantic Ocean
+*ocean;Atlantic Ocean
+*water;Lake Moultrie,Atlantic Ocean
+*forest;Francis Marion National Forest
+*park;Francis Marion National Forest
+*place;South Carolina,Myrtle Beach,Lake Moultrie,Francis Marion National Forest,Greenville,Charleston,Hilton Head Island,Atlantic Ocean,North Carolina,Raleigh
+*salt;Atlantic Ocean
+*fresh;Lake Moultrie
+*major;Charleston,Raleigh
+*island;Hilton Head Island
+*beach;Myrtle Beach
+
+*in-rel;Myrtle Beach#South Carolina,Lake Moultrie#South Carolina,Francis Marion National Forest#South Carolina,Greenville#South Carolina,Charleston#South Carolina,Hilton Head Island#South Carolina,Raleigh#North Carolina
+*surround-rel;Hilton Head Island#Atlantic Ocean,Greenville#South Carolina,Raleigh#North Carolina,Lake Moultrie#South Carolina,Francis Marion National Forest#South Carolina,
+*border-rel;South Carolina#North Carolina,North Carolina#South Carolina,North Carolina#Atlantic Ocean,Atlantic Ocean#North Carolina,Atlantic Ocean#South Carolina,Hilton Head Island#Atlantic Ocean,Atlantic Ocean#Hilton Head Island,Myrtle Beach#Atlantic Ocean,Atlantic Ocean#Myrtle Beach
+*on-rel;North Carolina#Atlantic Ocean,South Carolina#Atlantic Ocean,Myrtle Beach#Atlantic Ocean,Hilton Head Island#Atlantic Ocean,Charleston#Atlantic Ocean,Francis Marion National Forest#Atlantic Ocean
+
+*north-rel;North Carolina#South Carolina,North Carolina#Myrtle Beach,Francis Marion National Forest#Charleston,Lake Moultrie#Charleston,North Carolina#Greenville,Raleigh#Myrtle Beach,Raleigh#Charleston,Raleigh#Lake Moultrie,Raleigh#Francis Marion National Forest,Raleigh#Hilton Head Island
+*northeast-rel;North Carolina#South Carolina,Francis Marion National Forest#Charleston,Myrtle Beach#Charleston,Charleston#Hilton Head Island,Francis Marion National Forest#Hilton Head Island,Lake Moultrie#Hilton Head Island,Raleigh#Greenville
+*northwest-rel;Lake Moultrie#Francis Marion National Forest,Greenville#Charleston,Greenville#Lake Moultrie,Greenville#Francis Marion National Forest,Greenville#Hilton Head Island
+*southeast-rel;Francis Marion National Forest#Lake Moultrie,Charleston#Greenville,Lake Moultrie#Greenville,Francis Marion National Forest#Greenville,Hilton Head Island#Greenville
+*southwest-rel;South Carolina#North Carolina,Charleston#Francis Marion National Forest,Charleston#Myrtle Beach,Hilton Head Island#Charleston,Hilton Head Island#Francis Marion National Forest,Hilton Head Island#Lake Moultrie,Greenville#Raleigh
+*capital-rel;Raleigh#North Carolina
+*near-rel;Francis Marion National Forest#Charleston,Lake Moultrie#Charleston,Francis Marion National Forest#Lake Moultrie,Lake Moultrie#Francis Marion National Forest,Charleston#Francis Marion National Forest,Charleston#Lake Moultrie,Hilton Head Island#Charleston,Charleston#Hilton Head Island,Greenville#North Carolina,North Carolina#Greenville,Myrtle Beach#North Carolina,North Carolina#Myrtle Beach
+*close-rel;Francis Marion National Forest#Charleston,Lake Moultrie#Charleston,Francis Marion National Forest#Lake Moultrie,Lake Moultrie#Francis Marion National Forest,Charleston#Francis Marion National Forest,Charleston#Lake Moultrie,Hilton Head Island#Charleston,Charleston#Hilton Head Island,Greenville#North Carolina,North Carolina#Greenville,Myrtle Beach#North Carolina,North Carolina#Myrtle Beach

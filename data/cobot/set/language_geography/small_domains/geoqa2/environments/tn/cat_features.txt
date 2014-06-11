@@ -1,0 +1,167 @@
+Alabama,T,Alabama,1
+Alabama,T,area of _,1
+Alabama,T,areas of _,1
+Alabama,T,bias,1.0
+Alabama,T,citizens of _,1
+Alabama,T,city in _,1
+Alabama,T,counties in _,1
+Alabama,T,directory of _,1
+Alabama,T,f_f__F_landmarkArea,1.30646713647
+Alabama,T,f_f__F_landmarkPerimeter,1.7374270411
+Alabama,T,governor of _,1
+Alabama,T,home in _,1
+Alabama,T,_ is located in,1
+Alabama,T,native of _,1
+Alabama,T,part of _,1
+Alabama,T,parts of _,1
+Alabama,T,people in _,1
+Alabama,T,people of _,1
+Alabama,T,places in _,1
+Alabama,T,school in _,1
+Alabama,T,state of _,1
+Alabama,T,states of _,1
+Alabama,T,town in _,1
+Alabama,T,trip to _,1
+Birmingham,T,area of _,1
+Birmingham,T,bias,1.0
+Birmingham,T,Birmingham,1
+Birmingham,T,centre of _,1
+Birmingham,T,city of _,1
+Birmingham,T,conference in _,1
+Birmingham,T,events in _,1
+Birmingham,T,f_f__F_landmarkArea,8.6046620936e-06
+Birmingham,T,f_f__F_landmarkPerimeter,0.00703565167392
+Birmingham,T,flights from _,1
+Birmingham,T,heart of _,1
+Birmingham,T,home in _,1
+Birmingham,T,hotels in _,1
+Birmingham,T,jobs in _,1
+Birmingham,T,meeting in _,1
+Birmingham,T,native of _,1
+Birmingham,T,office in _,1
+Birmingham,T,offices in _,1
+Birmingham,T,people of _,1
+Birmingham,T,place in _,1
+Birmingham,T,school in _,1
+Birmingham,T,services in _,1
+Birmingham,T,suburb of _,1
+Birmingham,T,trip to _,1
+Great Smoky Mountains National Park,T,area of _,1
+Great Smoky Mountains National Park,T,beauty of _,1
+Great Smoky Mountains National Park,T,bias,1.0
+Great Smoky Mountains National Park,T,border of _,1
+Great Smoky Mountains National Park,T,edge of _,1
+Great Smoky Mountains National Park,T,entrance of _,1
+Great Smoky Mountains National Park,T,entrance to _,1
+Great Smoky Mountains National Park,T,f_f__F_landmarkArea,8.16521535398e-06
+Great Smoky Mountains National Park,T,f_f__F_landmarkPerimeter,0.00443490887849
+Great Smoky Mountains National Park,T,foothills of _,1
+Great Smoky Mountains National Park,T,gateway to _,1
+Great Smoky Mountains National Park,T,Great Smoky Mountains National Park,1
+Great Smoky Mountains National Park,T,heart of _,1
+Great Smoky Mountains National Park,T,minutes from _,1
+Great Smoky Mountains National Park,T,part of _,1
+Great Smoky Mountains National Park,T,peak in _,1
+Great Smoky Mountains National Park,T,side of _,1
+Great Smoky Mountains National Park,T,trails in _,1
+Great Smoky Mountains National Park,T,trip to _,1
+Great Smoky Mountains National Park,T,view of _,1
+Great Smoky Mountains National Park,T,views of _,1
+Great Smoky Mountains National Park,T,views overlooking _,1
+Great Smoky Mountains National Park,T,visit to _,1
+Knoxville,T,area of _,1
+Knoxville,T,bias,1.0
+Knoxville,T,church in _,1
+Knoxville,T,city of _,1
+Knoxville,T,company in _,1
+Knoxville,T,f_f__F_landmarkArea,0.0103102478024
+Knoxville,T,f_f__F_landmarkPerimeter,0.138204956055
+Knoxville,T,headquarters in _,1
+Knoxville,T,home in _,1
+Knoxville,T,_ is home,1
+Knoxville,T,Knoxville,1
+Knoxville,T,locations in _,1
+Knoxville,T,mayor of _,1
+Knoxville,T,offerings from _,1
+Knoxville,T,office in _,1
+Knoxville,T,offices in _,1
+Knoxville,T,practice in _,1
+Knoxville,T,rate offerings from _,1
+Knoxville,T,school in _,1
+Knoxville,T,siege of _,1
+Knoxville,T,time in _,1
+Knoxville,T,trip to _,1
+Knoxville,T,visit to _,1
+Knoxville,T,way to _,1
+Memphis,T,area of _,1
+Memphis,T,bias,1.0
+Memphis,T,city of _,1
+Memphis,T,facility in _,1
+Memphis,T,f_f__F_landmarkArea,0.00839077996918
+Memphis,T,f_f__F_landmarkPerimeter,0.243909838327
+Memphis,T,home in _,1
+Memphis,T,home to _,1
+Memphis,T,hometown of _,1
+Memphis,T,hotel in _,1
+Memphis,T,Memphis,1
+Memphis,T,native of _,1
+Memphis,T,night in _,1
+Memphis,T,office in _,1
+Memphis,T,part of _,1
+Memphis,T,place in _,1
+Memphis,T,school in _,1
+Memphis,T,streets of _,1
+Memphis,T,suburb of _,1
+Memphis,T,time in _,1
+Memphis,T,trip to _,1
+Memphis,T,visit to _,1
+Memphis,T,way to _,1
+Memphis,T,workers in _,1
+Nashville,T,bias,1.0
+Nashville,T,city of _,1
+Nashville,T,conference in _,1
+Nashville,T,convention in _,1
+Nashville,T,f_f__F_landmarkArea,3.14146472192e-05
+Nashville,T,f_f__F_landmarkPerimeter,0.00628312135213
+Nashville,T,heart of _,1
+Nashville,T,he moved to _,1
+Nashville,T,home in _,1
+Nashville,T,meeting in _,1
+Nashville,T,move to _,1
+Nashville,T,Nashville,1
+Nashville,T,native of _,1
+Nashville,T,office in _,1
+Nashville,T,offices in _,1
+Nashville,T,place in _,1
+Nashville,T,school in _,1
+Nashville,T,show in _,1
+Nashville,T,studio in _,1
+Nashville,T,time in _,1
+Nashville,T,trip to _,1
+Nashville,T,way to _,1
+Nashville,T,week in _,1
+Nashville,T,year in _,1
+Tennessee,T,area of _,1
+Tennessee,T,areas of _,1
+Tennessee,T,bias,1.0
+Tennessee,T,city in _,1
+Tennessee,T,counties in _,1
+Tennessee,T,farm in _,1
+Tennessee,T,f_f__F_landmarkArea,1.08896057567
+Tennessee,T,f_f__F_landmarkPerimeter,2.22247727758
+Tennessee,T,governor of _,1
+Tennessee,T,hills of _,1
+Tennessee,T,home in _,1
+Tennessee,T,home state of _,1
+Tennessee,T,mountains of _,1
+Tennessee,T,native of _,1
+Tennessee,T,part of _,1
+Tennessee,T,parts of _,1
+Tennessee,T,people of _,1
+Tennessee,T,school in _,1
+Tennessee,T,schools in _,1
+Tennessee,T,state of _,1
+Tennessee,T,states of _,1
+Tennessee,T,Tennessee,1
+Tennessee,T,town in _,1
+Tennessee,T,trip to _,1

@@ -1,0 +1,6 @@
+Pennsylvania;Pennsylvania, USA;162109
+New Jersey;New Jersey, USA;224951
+Pittsburgh;Pittsburgh, Pennsylvania, USA;188553
+Harrisburg;Harrisburg, Pennsylvania, USA;188218
+Newark;Newark, New Jersey, USA;170486
+Trenton;Trenton, New Jersey, USA;170584

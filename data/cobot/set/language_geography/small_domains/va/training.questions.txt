@@ -1,0 +1,47 @@
+what states are there;Virginia,West Virginia,North Carolina;0;(lambda $x (and (state $x)))
+what 's the capital of Virginia;Richmond;1;(lambda $x (exists $y (and (capital-rel $x $y) (kb-Virginia $y))))
+what cities are in Virginia;Richmond,Virginia Beach;1;(lambda $x (exists $y (and (city $x) (in-rel $x $y) (kb-Virginia $y))))
+what city is on the ocean;Virginia Beach;1;(lambda $x (exists $y (and (city $x) (on-rel $x $y) (ocean $y))))
+what oceans are there;Atlantic Ocean;0;(lambda $x (and (ocean $x)))
+what is the capital of Virginia;Richmond;1;(lambda $x (exists $y (and (capital-rel $x $y) (kb-Virginia $y))))
+what is the closest large city to Virginia Beach;Richmond;4;
+does West Virginia abut the Atlantic Ocean;;1;(lambda $x (exists $y (and (kb-West_Virginia $x) (abut-rel $x $y) (kb-Atlantic_Ocean $y))))
+what state is south of Virginia;North Carolina;1;(lambda $x (exists $y (and (state $x) (south-rel $x $y) (kb-Virginia $y))))
+what state is east of West Virginia;Virginia;1;(lambda $x (exists $y (and (state $x) (east-rel $x $y) (kb-West_Virginia $y))))
+what cities are in Virginia;Virginia Beach,Richmond;1;(lambda $x (exists $y (and (city $x) (in-rel $x $y) (kb-Virginia $y))))
+what cities in West Virginia;;1;(lambda $x (exists $y (and (city $x) (in-rel $x $y) (kb-West_Virginia $y))))
+what city is the northernmost in Virginia;Richmond;4;
+what is the southernmost city in West Virginia;;4
+what states have borders on the Atlantic Ocean;Virginia,North Carolina,West Virginia;1;(lambda $x (exists $y (and (state $x) (border-rel $x $y) (kb-Atlantic_Ocean $y))))
+what cities are along the Atlantic Ocean;Virginia Beach;1;(lambda $x (exists $y (and (city $x) (along-rel $x $y) (kb-Atlantic_Ocean $y))))
+what cities are near Richmond;Virginia Beach;1;(lambda $x (exists $y (and (city $x) (near-rel $x $y) (kb-Richmond $y))))
+what state is west of Virginia;West Virginia;1;(lambda $x (exists $y (and (state $x) (west-rel $x $y) (kb-Virginia $y))))
+what state is south of West Virginia;Virginia;1;(lambda $x (exists $y (and (state $x) (south-rel $x $y) (kb-West_Virginia $y))))
+what cities are near Richmond;Virginia Beach;1;(lambda $x (exists $y (and (city $x) (near-rel $x $y) (kb-Richmond $y))))
+what city is south east of Richmond;Virginia Beach;1;(lambda $x (exists $y (and (city $x) (southeast-rel $x $y) (kb-Richmond $y))))
+
+what states have a coast on the Atlantic Ocean ?;Virginia,North Carolina,West Virginia;1;(lambda $x (exists $y (and (state $x) (on-rel $x $y) (kb-Atlantic_Ocean $y))))
+
+what state contains Virginia Beach ?;Virginia;1;(lambda $x (exists $y (and (state $x) (contain-rel $x $y) (kb-Virginia_Beach $y))))
+what ocean borders Virginia ?;Atlantic Ocean;1;(lambda $x (exists $y (and (ocean $x) (border-rel $x $y) (kb-Virginia $y))))
+what ocean borders West Virginia ?;Atlantic Ocean;1;(lambda $x (exists $y (and (ocean $x) (border-rel $x $y) (kb-West_Virginia $y))))
+what is the capital of Virginia ?;Richmond;1;(lambda $x (exists $y (and (capital-rel $x $y) (kb-Virginia $y))))
+what state is east of West Virginia , and shares a common word in its name ?;Virginia;4
+what state west of Virginia also has Virginia in its name ?;West Virginia;4
+is Richmond the capital of West Virginia ?;;1;(lambda $x (exists $y (and (kb-Richmond $x) (capital-rel $x $y) (kb-West_Virginia $y))))
+is Virginia inside of West Virginia ?;;1;(lambda $x (exists $y (and (kb-Virginia $x) (inside-rel $x $y) (kb-West_Virginia $y))))
+is Virginia Beach inside of West Virginia ?;;1;(lambda $x (exists $y (and (kb-Virginia_Beach $x) (inside-rel $x $y) (kb-West_Virginia $y))))
+what states have Virginia in their name ?;Virginia;4;
+is Richmond the capital of Virginia ?;Richmond;1;(lambda $x (exists $y (and (kb-Richmond $x) (capital-rel $x $y) (kb-Virginia $y))))
+is Virginia Beach in the Atlantic Ocean ?;;1;(lambda $x (exists $y (and (kb-Virginia_Beach $x) (in-rel $x $y) (kb-Atlantic_Ocean $y))))
+is the Atlantic Ocean in Virginia ?;;1;(lambda $y (exists $x (and (kb-Atlantic_Ocean $y) (in-rel $y $x) (kb-Virginia $x))))
+is Richmond in the Atlantic Ocean ?;;1;(lambda $x (exists $y (and (kb-Richmond $x) (in-rel $x $y) (kb-Atlantic_Ocean $y))))
+is the Atlantic Ocean in West Virginia ?;;1;(lambda $y (exists $x (and (kb-Atlantic_Ocean $y) (in-rel $y $x) (kb-West_Virginia $x))))
+is the Atlantic Ocean between Virginia and West Virginia ?;;4
+
+#what is the closest river to Virginia Beach
+#what rivers go through Charlston
+#what forests are in Virginia
+#how many lakes are in West Virginia
+#what is the capital of West Virginia
+#what parks are in Virginia Beach

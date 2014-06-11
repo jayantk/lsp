@@ -1,0 +1,6 @@
+Kentucky;Kentucky;161655
+Louisville;Louisville;1804307
+Indiana;Indiana;161816
+Indianapolis;Indianapolis;153353016
+South Bend;South Bend;127646
+Lake Michigan;Lake Michigan;1205149

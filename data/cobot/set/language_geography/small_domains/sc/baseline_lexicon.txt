@@ -1,0 +1,149 @@
+ocean,N,ocean 0 0
+ocean,N/N,ocean 0 0
+to,N,to 0 0
+to,N,kb-ignore 0 0
+to,N/N,to 0 0
+to,N/N,kb-ignore 0 0
+'s,N/N,kb-ignore 0 0
+'s,N,kb-ignore 0 0
+fresh water,N,freshwater 0 0
+fresh water,N/N,freshwater 0 0
+bodies,N,body 0 0
+bodies,N/N,body 0 0
+cities,N,city 0 0
+cities,N/N,city 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+oceans,N,ocean 0 0
+oceans,N/N,ocean 0 0
+north,N/N,kb-ignore 0 0
+state,N,state 0 0
+state,N/N,state 0 0
+is,N/N,kb-ignore 0 0
+is,N,kb-ignore 0 0
+in,N,in 0 0
+in,N,kb-ignore 0 0
+in,N/N,in 0 0
+in,N/N,kb-ignore 0 0
+fresh,N,fresh 0 0
+fresh,N/N,fresh 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+lake,N,lake 0 0
+lake,N/N,lake 0 0
+there,N,kb-ignore 0 0
+there,N/N,kb-ignore 0 0
+southeast,N,southeast 0 0
+southeast,N/N,southeast 0 0
+city,N,city 0 0
+city,N/N,city 0 0
+beach city,N,beachcity 0 0
+beach city,N/N,beachcity 0 0
+beach,N,beach 0 0
+beach,N/N,beach 0 0
+surrounded,N,surround 0 0
+surrounded,N/N,surround 0 0
+by,N,by 0 0
+by,N,kb-ignore 0 0
+by,N/N,by 0 0
+by,N/N,kb-ignore 0 0
+which,N/N,kb-ignore 0 0
+which,N,kb-ignore 0 0
+which,N,which 0 0
+borders,N,border 0 0
+borders,N/N,border 0 0
+of,N,of 0 0
+of,N,kb-ignore 0 0
+of,N/N,of 0 0
+of,N/N,kb-ignore 0 0
+national parks,N,nationalpark 0 0
+national parks,N/N,nationalpark 0 0
+are,N/N,kb-ignore 0 0
+are,N,kb-ignore 0 0
+major city,N,majorcity 0 0
+major city,N/N,majorcity 0 0
+parks,N,park 0 0
+parks,N/N,park 0 0
+major,N,major 0 0
+major,N/N,major 0 0
+close,N,close 0 0
+close,N/N,close 0 0
+national,N,national 0 0
+national,N/N,national 0 0
+island,N,island 0 0
+island,N/N,island 0 0
+the,N,kb-ignore 0 0
+the,N/N,kb-ignore 0 0
+salt water,N,saltwater 0 0
+salt water,N/N,saltwater 0 0
+beaches,N,beach 0 0
+beaches,N/N,beach 0 0
+places,N,place 0 0
+places,N/N,place 0 0
+on,N,on 0 0
+on,N,kb-ignore 0 0
+on,N/N,on 0 0
+on,N/N,kb-ignore 0 0
+water,N,water 0 0
+water,N/N,water 0 0
+southwest,N,southwest 0 0
+southwest,N/N,southwest 0 0
+salt,N,salt 0 0
+salt,N/N,salt 0 0
+capital,N,capital 0 0
+capital,N/N,capital 0 0
+near,N,near 0 0
+near,N,kb-ignore 0 0
+near,N/N,near 0 0
+near,N/N,kb-ignore 0 0
+lakes,N,lake 0 0
+lakes,N/N,lake 0 0
+northeast,N,northeast 0 0
+northeast,N/N,northeast 0 0
+forests,N,forest 0 0
+forests,N/N,forest 0 0
+northwest,N/N,kb-ignore 0 0
+states,N,state 0 0
+states,N/N,state 0 0
+South Carolina,N,kb-South_Carolina 0 0
+South Carolina,N/N,kb-South_Carolina 0 0
+South Carolina,N,kb-ignore 0 0
+South Carolina,N/N,kb-ignore 0 0
+Myrtle Beach,N,kb-Myrtle_Beach 0 0
+Myrtle Beach,N/N,kb-Myrtle_Beach 0 0
+Myrtle Beach,N,kb-ignore 0 0
+Myrtle Beach,N/N,kb-ignore 0 0
+Lake Moultrie,N,kb-Lake_Moultrie 0 0
+Lake Moultrie,N/N,kb-Lake_Moultrie 0 0
+Lake Moultrie,N,kb-ignore 0 0
+Lake Moultrie,N/N,kb-ignore 0 0
+Francis Marion National Forest,N,kb-Francis_Marion_National_Forest 0 0
+Francis Marion National Forest,N/N,kb-Francis_Marion_National_Forest 0 0
+Francis Marion National Forest,N,kb-ignore 0 0
+Francis Marion National Forest,N/N,kb-ignore 0 0
+Greenville,N,kb-Greenville 0 0
+Greenville,N/N,kb-Greenville 0 0
+Greenville,N,kb-ignore 0 0
+Greenville,N/N,kb-ignore 0 0
+Charleston,N,kb-Charleston 0 0
+Charleston,N/N,kb-Charleston 0 0
+Charleston,N,kb-ignore 0 0
+Charleston,N/N,kb-ignore 0 0
+Hilton Head Island,N,kb-Hilton_Head_Island 0 0
+Hilton Head Island,N/N,kb-Hilton_Head_Island 0 0
+Hilton Head Island,N,kb-ignore 0 0
+Hilton Head Island,N/N,kb-ignore 0 0
+Atlantic Ocean,N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N/N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N,kb-ignore 0 0
+Atlantic Ocean,N/N,kb-ignore 0 0
+North Carolina,N,kb-North_Carolina 0 0
+North Carolina,N/N,kb-North_Carolina 0 0
+North Carolina,N,kb-ignore 0 0
+North Carolina,N/N,kb-ignore 0 0
+Raleigh,N,kb-Raleigh 0 0
+Raleigh,N/N,kb-Raleigh 0 0
+Raleigh,N,kb-ignore 0 0
+Raleigh,N/N,kb-ignore 0 0

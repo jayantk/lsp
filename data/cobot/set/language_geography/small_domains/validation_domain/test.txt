@@ -1,0 +1,70 @@
+# Categories only
+
+## One relation, no categories
+#is New York larger than Massachusetts ?;New York;1
+#is Utica in New Hampshire ?;;1
+#is New York west of Maine ?;New York;1
+#is London north of Markham ?;;1
+#is Burlington north of Buffalo ?;Burlington;1
+#is Columbus south of Richmond ?;;1
+#is Pittsburgh located inside Pennsylvania ?;Pittsburgh;1
+#is Toronto close to Rochester ?;Toronto;1
+#
+## one relation, arbitrary # of categories
+#which state is Pittsburgh in ?;Pennsylvania;2
+#which states border Connecticut ?;New York,Massachusetts,Rhode Island;2
+#which bodies of water border Michigan;Lake Huron;2
+#what states border Pennsylvania ?;Ohio,New Jersey,New York;2
+#is Toronto near the lake ?;Toronto;2
+#what states surround Pennsylvania ?;Ohio,New Jersey,New York;2
+#what is the capital of Pennsylvania ?;Harrisburg;2
+#name a few cities in New York;Buffalo,Rochester,Albany,New York City;2
+#what is the capital of New York ?;Albany;2
+#which states border Pennsylvania ?;Ohio,New Jersey,New York;2
+#what state is Utica located in ?;New York;2
+#which city is located in western Pennsylvania ?;Pittsburgh;2
+#what states are adjacent to New York ?;Vermont,Massachusetts,Connecticut,Pennsylvania,New Jersey;2
+#what ocean is east of New Jersey ?;Atlantic Ocean;2
+#find a city in New Hampshire .;Nashua,Manchester;2
+#find a city north of Burlington .;Montreal;2
+#what city is north of Toronto ?;Markham;2
+#which states border New Jersey ?;Pennsylvania,New York;2
+#what state is south east of New York ?;Connecticut;2
+#what state is north of Pennsylvania ?;New York;2
+#what are the other states that border New York .;Vermont,Massachusetts,Connecticut,Pennsylvania,New Jersey;2
+#what cities on this map are located in the borders of New York ?;Buffalo,Rochester,Albany,New York City;2
+#what cities on the map are located north of Toronto ?;Markham,Kingston,Montreal;2
+#what states border New York ?;Vermont,Massachusetts,Connecticut,Pennsylvania,New Jersey;2
+#which states have state boundary lines extending into lakes ?;Pennsylvania,Ohio,Michigan,New York;2
+#what is a state that borders New York ?;Vermont,Massachusetts,Connecticut,Pennsylvania,New Jersey;2
+#what state is directly west of Pensylvania ?;Ohio;2
+#what state is east of New York ?;Vermont,Massachusetts,Connecticut;2
+#what city is located in southwestern PA ?;Pittsburgh;2
+#what are two cities located in New York ?;Buffalo,Rochester,Albany,New York City;2
+#what state is directly west of New Hampshire ?;Vermont;2
+#
+## > 1 relation
+#name the city that 's located on south west of Rochester ?;Buffalo;3
+#name New Hampshire 's city that 's right on the north east of Massachusetts ?;Nashua;3
+#find a city in Pennsylvania that is not Pittsburgh .;Harrisburg,Altoona,Philadelphia,Allentown;3
+#what city in New York state is near the Vermont - Mass. border ?;Albany;3
+#which great lake is just north of Rochester , NY ?;Lake Ontario;3
+#what city is north of Nashua in New Hampshire ?;Manchester;3
+#
+## superlative or comparative
+#what 's the name of city that located on the most west of Pennsylvania ?;Pittsburgh;4
+#which state is larger Vermont or New Hampshire ?;Vermont;4
+#which state is larger New Jersey or Massachusetts ?;Massachusetts;4
+#city closest to Ohio ?;Pittsburgh;4
+#which New York city is closest to the border of Massachusetts ?;Albany;4
+#what city is closest Buffalo , New York ?;Toronto;4
+#which states have at least 4 states touching it ?;New York,Massachusetts;4
+#is Mansfield , OH or Canton , OH closer to Akron , OH ?;Canton;4
+#what is the west most major city in New York state .;Buffalo;4
+#what is the southern most major city in New York state .;New York City;4
+#is Vermont closer to Connecticut or Maryland ?;Connecticut;4
+#what is the closest city to Allentown , PA ?;Trenton;4
+#which city is located more north on the map , Cleveland or Columbus ?;Cleveland;4
+#what is the southern most city listed in Connecticut ?;New Haven;4
+#which city is closer to Pittsburgh , Altoona or Rochester ?;Altoona;4
+#which city is furthest west in Pennsylvania ?;Pittsburgh;4

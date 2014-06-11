@@ -1,0 +1,230 @@
+second largest city,N/P,secondlargestcity-rel 0 1
+second largest city,N,secondlargestcity 0 0
+second largest city,N/N,secondlargestcity 0 0
+cities,N/P,city-rel 0 1
+cities,N,city 0 0
+cities,N/N,city 0 0
+islands,N/P,island-rel 0 1
+islands,N,island 0 0
+islands,N/N,island 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+rivers,N/P,river-rel 0 1
+rivers,N,river 0 0
+rivers,N/N,river 0 0
+capital,N/P,capital-rel 0 1
+capital,N,capital 0 0
+capital,N/N,capital 0 0
+to,N\N/N,to-rel 0 0 1
+to,N\N/N,kb-equal 0 0 1
+to,A/N,to-rel 0 1
+to,A\N,to-rel 1 0
+to,P/N,kb-ignore 0 0
+to,P/P,kb-ignore 0 0
+to,P\N,kb-ignore 0 0
+to,P\P,kb-ignore 0 0
+#what rivers,N/P,#whatriver-rel 0 1
+#what rivers,N,#whatriver 0 0
+#what rivers,N/N,#whatriver 0 0
+west,N/P,west-rel 0 1
+west,N,west 0 0
+west,N/N,west 0 0
+is,S\N/N,kb-equal 0 0 1
+is,S\N/A,kb-equal 0 0 1
+is,S\N/P,kb-equal 0 0 1
+is,S\A/N,kb-equal 0 0 1
+is,S\P/N,kb-equal 0 0 1
+is,S/N/N,kb-equal 0 1 0
+is,S/A/N,kb-equal 0 1 0
+is,S/P/N,kb-equal 0 1 0
+into,N\N/N,into-rel 0 0 1
+into,N\N/N,kb-equal 0 0 1
+into,A/N,into-rel 0 1
+into,A\N,into-rel 1 0
+into,P/N,kb-ignore 0 0
+into,P/P,kb-ignore 0 0
+into,P\N,kb-ignore 0 0
+into,P\P,kb-ignore 0 0
+in,N\N/N,in-rel 0 0 1
+in,N\N/N,kb-equal 0 0 1
+in,A/N,in-rel 0 1
+in,A\N,in-rel 1 0
+in,P/N,kb-ignore 0 0
+in,P/P,kb-ignore 0 0
+in,P\N,kb-ignore 0 0
+in,P\P,kb-ignore 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+lake,N/P,lake-rel 0 1
+lake,N,lake 0 0
+lake,N/N,lake 0 0
+#what national parks,N/P,#whatnationalpark-rel 0 1
+#what national parks,N,#whatnationalpark 0 0
+#what national parks,N/N,#whatnationalpark 0 0
+these,N,kb-ignore 0 0
+these,N/N,kb-ignore 0 0
+city,N/P,city-rel 0 1
+city,N,city 0 0
+city,N/N,city 0 0
+#which,N/N,#which 0 0
+#which,N/N,kb-ignore 0 0
+#which,N/P,#which-rel 0 1
+#which,N,#which 0 0
+state,N/P,state-rel 0 1
+state,N,state 0 0
+state,N/N,state 0 0
+border,N\N/N,border-rel 0 0 1
+border,S\N/N,border-rel 0 0 1
+border,S\N/P,border-rel 0 0 1
+border,S/N/N,border-rel 0 1 0
+border,S/P/N,border-rel 0 1 0
+border,S\N/N,kb-ignore-equal 0 0 1
+border,S\N/P,kb-ignore-equal 0 0 1
+border,S/N/N,kb-ignore-equal 0 1 0
+border,S/P/N,kb-ignore-equal 0 1 0
+border,S/N,kb-ignore 0 0
+which,N/N,kb-ignore 0 0
+which,N,kb-ignore 0 0
+which,N,which 0 0
+bordering,N,border 0 0
+bordering,N/P,border-rel 0 1
+bordering,N\N/P,border-rel 0 0 1
+bordering,N\N/N,border-rel 0 0 1
+bordering,N\N/N,border-rel 0 0 1
+bordering,S\N/N,border-rel 0 0 1
+bordering,S\N/P,border-rel 0 0 1
+bordering,S/N/N,border-rel 0 1 0
+bordering,S/P/N,border-rel 0 1 0
+bordering,S\N/N,kb-ignore-equal 0 0 1
+bordering,S\N/P,kb-ignore-equal 0 0 1
+bordering,S/N/N,kb-ignore-equal 0 1 0
+bordering,S/P/N,kb-ignore-equal 0 1 0
+bordering,S/N,kb-ignore 0 0
+borders,N/P,border-rel 0 1
+borders,N,border 0 0
+borders,N/N,border 0 0
+flow,N\N/N,flow-rel 0 0 1
+flow,S\N/N,flow-rel 0 0 1
+flow,S\N/P,flow-rel 0 0 1
+flow,S/N/N,flow-rel 0 1 0
+flow,S/P/N,flow-rel 0 1 0
+flow,S\N/N,kb-ignore-equal 0 0 1
+flow,S\N/P,kb-ignore-equal 0 0 1
+flow,S/N/N,kb-ignore-equal 0 1 0
+flow,S/P/N,kb-ignore-equal 0 1 0
+flow,S/N,kb-ignore 0 0
+of,N\N/N,of-rel 0 0 1
+of,N\N/N,kb-equal 0 0 1
+of,A/N,of-rel 0 1
+of,A\N,of-rel 1 0
+of,P/N,kb-ignore 0 0
+of,P/P,kb-ignore 0 0
+of,P\N,kb-ignore 0 0
+of,P\P,kb-ignore 0 0
+second,N/N,second 0 0
+second,N/N,kb-ignore 0 0
+second,N/P,second-rel 0 1
+second,N,second 0 0
+are,S\N/N,kb-equal 0 0 1
+are,S\N/A,kb-equal 0 0 1
+are,S\N/P,kb-equal 0 0 1
+are,S\A/N,kb-equal 0 0 1
+are,S\P/N,kb-equal 0 0 1
+are,S/N/N,kb-equal 0 1 0
+are,S/A/N,kb-equal 0 1 0
+are,S/P/N,kb-equal 0 1 0
+parks,N/P,park-rel 0 1
+parks,N,park 0 0
+parks,N/N,park 0 0
+national,N/N,national 0 0
+national,N/N,kb-ignore 0 0
+national,N/P,national-rel 0 1
+national,N,national 0 0
+#what,N/P,#what-rel 0 1
+#what,N,#what 0 0
+#what,N/N,#what 0 0
+east,N/N,east 0 0
+east,N/N,kb-ignore 0 0
+east,N/P,east-rel 0 1
+east,N,east 0 0
+the,N,kb-ignore 0 0
+the,N/N,kb-ignore 0 0
+near,N\N/N,near-rel 0 0 1
+near,N\N/N,kb-equal 0 0 1
+near,A/N,near-rel 0 1
+near,A\N,near-rel 1 0
+near,P/N,kb-ignore 0 0
+near,P/P,kb-ignore 0 0
+near,P\N,kb-ignore 0 0
+near,P\P,kb-ignore 0 0
+closest,N/N,closest 0 0
+closest,N/N,kb-ignore 0 0
+closest,N/P,closest-rel 0 1
+closest,N,closest 0 0
+#what,N/N,#what 0 0
+#what,N/N,kb-ignore 0 0
+#what,N/P,#what-rel 0 1
+#what,N,#what 0 0
+#which state borders,N/P,#whichstateborder-rel 0 1
+#which state borders,N,#whichstateborder 0 0
+#which state borders,N/N,#whichstateborder 0 0
+middle,N/P,middle-rel 0 1
+middle,N,middle 0 0
+middle,N/N,middle 0 0
+on,N\N/N,on-rel 0 0 1
+on,N\N/N,kb-equal 0 0 1
+on,A/N,on-rel 0 1
+on,A\N,on-rel 1 0
+on,P/N,kb-ignore 0 0
+on,P/P,kb-ignore 0 0
+on,P\N,kb-ignore 0 0
+on,P\P,kb-ignore 0 0
+#what city,N/P,#whatcity-rel 0 1
+#what city,N,#whatcity 0 0
+#what city,N/N,#whatcity 0 0
+with,N\N/N,with-rel 0 0 1
+with,N\N/N,kb-equal 0 0 1
+with,A/N,with-rel 0 1
+with,A\N,with-rel 1 0
+with,P/N,kb-ignore 0 0
+with,P/P,kb-ignore 0 0
+with,P\N,kb-ignore 0 0
+with,P\P,kb-ignore 0 0
+lakes,N/P,lake-rel 0 1
+lakes,N,lake 0 0
+lakes,N/N,lake 0 0
+largest,N/N,largest 0 0
+largest,N/N,kb-ignore 0 0
+largest,N/P,largest-rel 0 1
+largest,N,largest 0 0
+lakes,N/P,lake-rel 0 1
+lakes,N,lake 0 0
+lakes,N/N,lake 0 0
+name,N/P,name-rel 0 1
+name,N,name 0 0
+name,N/N,name 0 0
+#what islands,N/P,#whatisland-rel 0 1
+#what islands,N,#whatisland 0 0
+#what islands,N/N,#whatisland 0 0
+states,N/P,state-rel 0 1
+states,N,state 0 0
+states,N/N,state 0 0
+largest city,N/P,largestcity-rel 0 1
+largest city,N,largestcity 0 0
+largest city,N/N,largestcity 0 0
+Michigan,N,kb-Michigan 0 0
+Michigan,N/N,kb-Michigan 0 0
+Detroit,N,kb-Detroit 0 0
+Detroit,N/N,kb-Detroit 0 0
+Grand Rapids,N,kb-Grand_Rapids 0 0
+Grand Rapids,N/N,kb-Grand_Rapids 0 0
+Lake Michigan,N,kb-Lake_Michigan 0 0
+Lake Michigan,N/N,kb-Lake_Michigan 0 0
+Lake Huron,N,kb-Lake_Huron 0 0
+Lake Huron,N/N,kb-Lake_Huron 0 0
+Wisconsin,N,kb-Wisconsin 0 0
+Wisconsin,N/N,kb-Wisconsin 0 0
+Milwaukee,N,kb-Milwaukee 0 0
+Milwaukee,N/N,kb-Milwaukee 0 0

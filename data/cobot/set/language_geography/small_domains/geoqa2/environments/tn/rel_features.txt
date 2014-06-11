@@ -1,0 +1,2307 @@
+Alabama,Alabama,T,arg1 homes for sale by arg2,1
+Alabama,Alabama,T,arg1 kindergarten and arg2,1
+Alabama,Alabama,T,arg1 media lists arg2,1
+Alabama,Alabama,T,arg1 on the border of arg2,1
+Alabama,Alabama,T,arg1 or moving from arg2,1
+Alabama,Alabama,T,arg1 our local arg2,1
+Alabama,Alabama,T,arg1 provides detailed information on arg2,1
+Alabama,Alabama,T,arg1 real estate license classes and arg2,1
+Alabama,Alabama,T,arg1 see arg2,1
+Alabama,Alabama,T,arg2 homes for sale by arg1,1
+Alabama,Alabama,T,arg2 kindergarten and arg1,1
+Alabama,Alabama,T,arg2 media lists arg1,1
+Alabama,Alabama,T,arg2 on the border of arg1,1
+Alabama,Alabama,T,arg2 or moving from arg1,1
+Alabama,Alabama,T,arg2 our local arg1,1
+Alabama,Alabama,T,arg2 provides detailed information on arg1,1
+Alabama,Alabama,T,arg2 real estate license classes and arg1,1
+Alabama,Alabama,T,arg2 see arg1,1
+Alabama,Alabama,T,bias,1.0
+Alabama,Alabama,T,entity1=entity2,1
+Alabama,Alabama,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Alabama,Alabama,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Alabama,Alabama,T,F_avsResult_0_-1_f_l,0.255661248809
+Alabama,Alabama,T,F_avsResult_0_1_f_l,0.255661248809
+Alabama,Alabama,T,F_avsResult_0_-1_l_f,0.255661248809
+Alabama,Alabama,T,F_avsResult_0_1_l_f,0.255661248809
+Alabama,Alabama,T,F_avsResult_-1_0_f_l,0.000663651512204
+Alabama,Alabama,T,F_avsResult_1_0_f_l,0.00168469070805
+Alabama,Alabama,T,F_avsResult_-1_0_l_f,0.000663651512204
+Alabama,Alabama,T,F_avsResult_1_0_l_f,0.00168469070805
+Alabama,Alabama,T,F_avsResult_inside_0_-1_f_l,0.255661248809
+Alabama,Alabama,T,F_avsResult_inside_0_1_f_l,0.255661248809
+Alabama,Alabama,T,F_avsResult_inside_0_-1_l_f,0.255661248809
+Alabama,Alabama,T,F_avsResult_inside_0_1_l_f,0.255661248809
+Alabama,Alabama,T,F_avsResult_inside_-1_0_f_l,0.000663651512204
+Alabama,Alabama,T,F_avsResult_inside_1_0_f_l,0.00168469070805
+Alabama,Alabama,T,F_avsResult_inside_-1_0_l_f,0.000663651512204
+Alabama,Alabama,T,F_avsResult_inside_1_0_l_f,0.00168469070805
+Alabama,Alabama,T,F_math2dFigureIntersectionArea_f_l,1.0
+Alabama,Alabama,T,F_math2dFigureIntersectionArea_l_f,1.0
+Alabama,Alabama,T,F_math2dIntersectionArea_f_l,1.0
+Alabama,Alabama,T,F_math2dIntersectionArea_l_f,1.0
+Alabama,Alabama,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Alabama,Alabama,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Alabama,Birmingham,T,arg1 and has lived in arg2,1
+Alabama,Birmingham,T,arg1 cities like arg2,1
+Alabama,Birmingham,T,arg1 cities such as arg2,1
+Alabama,Birmingham,T,arg1 include arg2,1
+Alabama,Birmingham,T,arg1 including arg2,1
+Alabama,Birmingham,T,arg1 outside of arg2,1
+Alabama,Birmingham,T,arg1 serving the greater arg2,1
+Alabama,Birmingham,T,arg1 which includes arg2,1
+Alabama,Birmingham,T,arg2 and the state of arg1,1
+Alabama,Birmingham,T,arg2 and the surrounding parts of arg1,1
+Alabama,Birmingham,T,arg2 and throughout arg1,1
+Alabama,Birmingham,T,arg2 and throughout the state of arg1,1
+Alabama,Birmingham,T,arg2 area of arg1,1
+Alabama,Birmingham,T,arg2 is the largest city in arg1,1
+Alabama,Birmingham,T,arg2 or the state of arg1,1
+Alabama,Birmingham,T,arg2 putting greens and arg1,1
+Alabama,Birmingham,T,arg2 synthetic grass and arg1,1
+Alabama,Birmingham,T,arg2 the largest city in arg1,1
+Alabama,Birmingham,T,bias,1.0
+Alabama,Birmingham,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Alabama,Birmingham,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Alabama,Birmingham,T,F_aboveFigureCentroid_f_l,1.0
+Alabama,Birmingham,T,F_avsResult_0_-1_f_l,0.141980892245
+Alabama,Birmingham,T,F_avsResult_0_1_f_l,0.141980892245
+Alabama,Birmingham,T,F_avsResult_0_-1_l_f,0.0312206925512
+Alabama,Birmingham,T,F_avsResult_0_1_l_f,0.0312206925512
+Alabama,Birmingham,T,F_avsResult_-1_0_f_l,0.00950927156201
+Alabama,Birmingham,T,F_avsResult_1_0_f_l,0.0193151803135
+Alabama,Birmingham,T,F_avsResult_1_0_l_f,0.195827412531
+Alabama,Birmingham,T,F_avsResult_-1_0_l_f,0.307927514252
+Alabama,Birmingham,T,F_avsResult_-1_-1_f_l,0.178787985946
+Alabama,Birmingham,T,F_avsResult_-1_1_f_l,0.178787985946
+Alabama,Birmingham,T,F_avsResult_inside_0_-1_f_l,0.141980892245
+Alabama,Birmingham,T,F_avsResult_inside_0_1_f_l,0.141980892245
+Alabama,Birmingham,T,F_avsResult_inside_-1_0_f_l,0.00950927156201
+Alabama,Birmingham,T,F_avsResult_inside_1_0_f_l,0.0193151803135
+Alabama,Birmingham,T,F_avsResult_inside_-1_-1_f_l,0.178787985946
+Alabama,Birmingham,T,F_avsResult_inside_-1_1_f_l,0.178787985946
+Alabama,Birmingham,T,F_avsResult_outside_0_-1_l_f,0.0312206925512
+Alabama,Birmingham,T,F_avsResult_outside_0_1_l_f,0.0312206925512
+Alabama,Birmingham,T,F_avsResult_outside_1_0_l_f,0.195827412531
+Alabama,Birmingham,T,F_avsResult_outside_-1_0_l_f,0.307927514252
+Alabama,Birmingham,T,F_belowFigureCentroid_l_f,1.0
+Alabama,Birmingham,T,F_distBtwnCentroids_f_l,0.0505530946972
+Alabama,Birmingham,T,F_distBtwnCentroids_l_f,0.0505530946972
+Alabama,Birmingham,T,F_distHorizontalCentroid_f_l,0.0128162959491
+Alabama,Birmingham,T,F_distHorizontalCentroid_l_f,-0.0128162959491
+Alabama,Birmingham,T,F_distVerticalCentroid_f_l,0.048901512672
+Alabama,Birmingham,T,F_distVerticalCentroid_l_f,-0.048901512672
+Alabama,Birmingham,T,F_leftOfFigureCentroid_l_f,1.0
+Alabama,Birmingham,T,F_math2dFigureIntersectionArea_f_l,6.5872977417e-06
+Alabama,Birmingham,T,F_math2dFigureIntersectionArea_l_f,0.999999999994
+Alabama,Birmingham,T,F_math2dIntersectionArea_f_l,6.5872977417e-06
+Alabama,Birmingham,T,F_math2dIntersectionArea_l_f,6.5872977417e-06
+Alabama,Birmingham,T,F_math2dLandmarkIntersectionArea_f_l,0.999999999994
+Alabama,Birmingham,T,F_math2dLandmarkIntersectionArea_l_f,6.5872977417e-06
+Alabama,Birmingham,T,F_rightOfFigureCentroid_f_l,1.0
+Alabama,Great Smoky Mountains National Park,T,bias,1.0
+Alabama,Great Smoky Mountains National Park,T,F_aboveFigureCentroid_f_l,1.0
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_0_-1_f_l,0.393055370239
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_0_1_f_l,0.393055370239
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_0_-1_l_f,0.0605368339196
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_0_1_l_f,0.0605368339196
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_-1_0_f_l,0.035994631694
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_1_0_f_l,0.502190261007
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_1_0_l_f,0.0560296976058
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_-1_0_l_f,0.582104818862
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_-1_-1_f_l,0.0920183053187
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_-1_1_f_l,0.0920183053187
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_-1_-1_l_f,0.262668464826
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_-1_1_l_f,0.262668464826
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_0_-1_f_l,0.393055370239
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_0_1_f_l,0.393055370239
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_0_-1_l_f,0.0605368339196
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_0_1_l_f,0.0605368339196
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_0_f_l,0.035994631694
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_1_0_f_l,0.502190261007
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_1_0_l_f,0.0560296976058
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_0_l_f,0.582104818862
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_-1_f_l,0.0920183053187
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_1_f_l,0.0920183053187
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_-1_l_f,0.262668464826
+Alabama,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_1_l_f,0.262668464826
+Alabama,Great Smoky Mountains National Park,T,F_belowFigureCentroid_l_f,1.0
+Alabama,Great Smoky Mountains National Park,T,F_closeDistNormFigure_f_l,0.221656274202
+Alabama,Great Smoky Mountains National Park,T,F_closeDistNormFigure_l_f,1.0
+Alabama,Great Smoky Mountains National Park,T,F_closeDistNormLandmark_f_l,1.0
+Alabama,Great Smoky Mountains National Park,T,F_closeDistNormLandmark_l_f,0.221656274202
+Alabama,Great Smoky Mountains National Park,T,F_closeDistNormUnion_f_l,0.221654888664
+Alabama,Great Smoky Mountains National Park,T,F_closeDistNormUnion_l_f,0.221654888664
+Alabama,Great Smoky Mountains National Park,T,F_distBtwnCentroids_f_l,0.165070225792
+Alabama,Great Smoky Mountains National Park,T,F_distBtwnCentroids_l_f,0.165070225792
+Alabama,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_f_l,0.119234560099
+Alabama,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_l_f,-0.119234560099
+Alabama,Great Smoky Mountains National Park,T,F_distVerticalCentroid_f_l,0.114154715719
+Alabama,Great Smoky Mountains National Park,T,F_distVerticalCentroid_l_f,-0.114154715719
+Alabama,Great Smoky Mountains National Park,T,F_leftOfFigureCentroid_l_f,1.0
+Alabama,Great Smoky Mountains National Park,T,F_rightOfFigureCentroid_f_l,1.0
+Alabama,Knoxville,T,arg1 and move to arg2,1
+Alabama,Knoxville,T,arg1 before moving to arg2,1
+Alabama,Knoxville,T,arg1 coming to arg2,1
+Alabama,Knoxville,T,arg1 football game in arg2,1
+Alabama,Knoxville,T,arg1 game at arg2,1
+Alabama,Knoxville,T,arg1 line to arg2,1
+Alabama,Knoxville,T,arg1 this weekend in arg2,1
+Alabama,Knoxville,T,arg1 woman in arg2,1
+Alabama,Knoxville,T,bias,1.0
+Alabama,Knoxville,T,F_aboveFigureCentroid_f_l,1.0
+Alabama,Knoxville,T,F_avsResult_0_-1_f_l,0.456977259052
+Alabama,Knoxville,T,F_avsResult_0_1_f_l,0.456977259052
+Alabama,Knoxville,T,F_avsResult_0_-1_l_f,0.050371946649
+Alabama,Knoxville,T,F_avsResult_0_1_l_f,0.050371946649
+Alabama,Knoxville,T,F_avsResult_-1_0_f_l,0.0409856367191
+Alabama,Knoxville,T,F_avsResult_1_0_f_l,0.483768916174
+Alabama,Knoxville,T,F_avsResult_1_0_l_f,0.0580074712304
+Alabama,Knoxville,T,F_avsResult_-1_0_l_f,0.559750108079
+Alabama,Knoxville,T,F_avsResult_-1_-1_f_l,0.117852238179
+Alabama,Knoxville,T,F_avsResult_-1_1_f_l,0.117852238179
+Alabama,Knoxville,T,F_avsResult_-1_-1_l_f,0.206152306144
+Alabama,Knoxville,T,F_avsResult_-1_1_l_f,0.206152306144
+Alabama,Knoxville,T,F_avsResult_outside_0_-1_f_l,0.456977259052
+Alabama,Knoxville,T,F_avsResult_outside_0_1_f_l,0.456977259052
+Alabama,Knoxville,T,F_avsResult_outside_0_-1_l_f,0.050371946649
+Alabama,Knoxville,T,F_avsResult_outside_0_1_l_f,0.050371946649
+Alabama,Knoxville,T,F_avsResult_outside_-1_0_f_l,0.0409856367191
+Alabama,Knoxville,T,F_avsResult_outside_1_0_f_l,0.483768916174
+Alabama,Knoxville,T,F_avsResult_outside_1_0_l_f,0.0580074712304
+Alabama,Knoxville,T,F_avsResult_outside_-1_0_l_f,0.559750108079
+Alabama,Knoxville,T,F_avsResult_outside_-1_-1_f_l,0.117852238179
+Alabama,Knoxville,T,F_avsResult_outside_-1_1_f_l,0.117852238179
+Alabama,Knoxville,T,F_avsResult_outside_-1_-1_l_f,0.206152306144
+Alabama,Knoxville,T,F_avsResult_outside_-1_1_l_f,0.206152306144
+Alabama,Knoxville,T,F_belowFigureCentroid_l_f,1.0
+Alabama,Knoxville,T,F_closeDistNormFigure_f_l,0.218153081475
+Alabama,Knoxville,T,F_closeDistNormFigure_l_f,1.0
+Alabama,Knoxville,T,F_closeDistNormLandmark_f_l,1.0
+Alabama,Knoxville,T,F_closeDistNormLandmark_l_f,0.218153081475
+Alabama,Knoxville,T,F_closeDistNormUnion_f_l,0.216444681748
+Alabama,Knoxville,T,F_closeDistNormUnion_l_f,0.216444681748
+Alabama,Knoxville,T,F_distBtwnCentroids_f_l,0.153486263263
+Alabama,Knoxville,T,F_distBtwnCentroids_l_f,0.153486263263
+Alabama,Knoxville,T,F_distHorizontalCentroid_f_l,0.103487505076
+Alabama,Knoxville,T,F_distHorizontalCentroid_l_f,-0.103487505076
+Alabama,Knoxville,T,F_distVerticalCentroid_f_l,0.113350647566
+Alabama,Knoxville,T,F_distVerticalCentroid_l_f,-0.113350647566
+Alabama,Knoxville,T,F_leftOfFigureCentroid_l_f,1.0
+Alabama,Knoxville,T,F_rightOfFigureCentroid_f_l,1.0
+Alabama,Memphis,T,arg1 and grew up in arg2,1
+Alabama,Memphis,T,arg1 and had lived in arg2,1
+Alabama,Memphis,T,arg1 and her mother from arg2,1
+Alabama,Memphis,T,arg1 and the rest in arg2,1
+Alabama,Memphis,T,arg1 before transferring to arg2,1
+Alabama,Memphis,T,arg1 but grew up in arg2,1
+Alabama,Memphis,T,arg1 defeated arg2,1
+Alabama,Memphis,T,arg1 native who has lived in arg2,1
+Alabama,Memphis,T,arg1 rather than in arg2,1
+Alabama,Memphis,T,arg2 and four others in arg1,1
+Alabama,Memphis,T,arg2 and others in arg1,1
+Alabama,Memphis,T,arg2 on the way home from arg1,1
+Alabama,Memphis,T,bias,1.0
+Alabama,Memphis,T,F_aboveFigureCentroid_f_l,1.0
+Alabama,Memphis,T,F_avsResult_0_-1_f_l,0.320883408127
+Alabama,Memphis,T,F_avsResult_0_1_f_l,0.320883408127
+Alabama,Memphis,T,F_avsResult_0_-1_l_f,0.0727938527849
+Alabama,Memphis,T,F_avsResult_0_1_l_f,0.0727938527849
+Alabama,Memphis,T,F_avsResult_1_0_f_l,0.024039652221
+Alabama,Memphis,T,F_avsResult_-1_0_f_l,0.599040075102
+Alabama,Memphis,T,F_avsResult_-1_0_l_f,0.0429267213144
+Alabama,Memphis,T,F_avsResult_1_0_l_f,0.609085836598
+Alabama,Memphis,T,F_avsResult_1_-1_f_l,0.0493369152744
+Alabama,Memphis,T,F_avsResult_1_1_f_l,0.0493369152744
+Alabama,Memphis,T,F_avsResult_1_-1_l_f,0.315501189667
+Alabama,Memphis,T,F_avsResult_1_1_l_f,0.315501189667
+Alabama,Memphis,T,F_avsResult_outside_0_-1_f_l,0.320883408127
+Alabama,Memphis,T,F_avsResult_outside_0_1_f_l,0.320883408127
+Alabama,Memphis,T,F_avsResult_outside_0_-1_l_f,0.0727938527849
+Alabama,Memphis,T,F_avsResult_outside_0_1_l_f,0.0727938527849
+Alabama,Memphis,T,F_avsResult_outside_1_0_f_l,0.024039652221
+Alabama,Memphis,T,F_avsResult_outside_-1_0_f_l,0.599040075102
+Alabama,Memphis,T,F_avsResult_outside_-1_0_l_f,0.0429267213144
+Alabama,Memphis,T,F_avsResult_outside_1_0_l_f,0.609085836598
+Alabama,Memphis,T,F_avsResult_outside_1_-1_f_l,0.0493369152744
+Alabama,Memphis,T,F_avsResult_outside_1_1_f_l,0.0493369152744
+Alabama,Memphis,T,F_avsResult_outside_1_-1_l_f,0.315501189667
+Alabama,Memphis,T,F_avsResult_outside_1_1_l_f,0.315501189667
+Alabama,Memphis,T,F_belowFigureCentroid_l_f,1.0
+Alabama,Memphis,T,F_closeDistNormFigure_f_l,0.165218766585
+Alabama,Memphis,T,F_closeDistNormFigure_l_f,1.0
+Alabama,Memphis,T,F_closeDistNormLandmark_f_l,1.0
+Alabama,Memphis,T,F_closeDistNormLandmark_l_f,0.165218766585
+Alabama,Memphis,T,F_closeDistNormUnion_f_l,0.164162790978
+Alabama,Memphis,T,F_closeDistNormUnion_l_f,0.164162790978
+Alabama,Memphis,T,F_distBtwnCentroids_f_l,0.141780160281
+Alabama,Memphis,T,F_distBtwnCentroids_l_f,0.141780160281
+Alabama,Memphis,T,F_distHorizontalCentroid_f_l,-0.113516494108
+Alabama,Memphis,T,F_distHorizontalCentroid_l_f,0.113516494108
+Alabama,Memphis,T,F_distVerticalCentroid_f_l,0.084944802164
+Alabama,Memphis,T,F_distVerticalCentroid_l_f,-0.084944802164
+Alabama,Memphis,T,F_leftOfFigureCentroid_f_l,1.0
+Alabama,Memphis,T,F_rightOfFigureCentroid_l_f,1.0
+Alabama,Nashville,T,arg1 and later arg2,1
+Alabama,Nashville,T,arg1 and now live in arg2,1
+Alabama,Nashville,T,arg1 and now lives in arg2,1
+Alabama,Nashville,T,arg1 and resides in arg2,1
+Alabama,Nashville,T,arg1 and south of arg2,1
+Alabama,Nashville,T,arg1 and toward arg2,1
+Alabama,Nashville,T,arg1 before he came to arg2,1
+Alabama,Nashville,T,arg1 before moving to arg2,1
+Alabama,Nashville,T,arg1 before returning to arg2,1
+Alabama,Nashville,T,arg1 gathered in arg2,1
+Alabama,Nashville,T,arg1 through arg2,1
+Alabama,Nashville,T,arg2 and throughout arg1,1
+Alabama,Nashville,T,arg2 and was enroute to arg1,1
+Alabama,Nashville,T,arg2 from northern arg1,1
+Alabama,Nashville,T,bias,1.0
+Alabama,Nashville,T,F_aboveFigureCentroid_f_l,1.0
+Alabama,Nashville,T,F_avsResult_0_-1_f_l,0.647724285937
+Alabama,Nashville,T,F_avsResult_0_1_f_l,0.647724285937
+Alabama,Nashville,T,F_avsResult_0_-1_l_f,0.00199972118302
+Alabama,Nashville,T,F_avsResult_0_1_l_f,0.00199972118302
+Alabama,Nashville,T,F_avsResult_-1_0_f_l,0.123963449869
+Alabama,Nashville,T,F_avsResult_1_0_f_l,0.141456682697
+Alabama,Nashville,T,F_avsResult_1_0_l_f,0.237423946275
+Alabama,Nashville,T,F_avsResult_-1_0_l_f,0.261442096807
+Alabama,Nashville,T,F_avsResult_outside_0_-1_f_l,0.647724285937
+Alabama,Nashville,T,F_avsResult_outside_0_1_f_l,0.647724285937
+Alabama,Nashville,T,F_avsResult_outside_0_-1_l_f,0.00199972118302
+Alabama,Nashville,T,F_avsResult_outside_0_1_l_f,0.00199972118302
+Alabama,Nashville,T,F_avsResult_outside_-1_0_f_l,0.123963449869
+Alabama,Nashville,T,F_avsResult_outside_1_0_f_l,0.141456682697
+Alabama,Nashville,T,F_avsResult_outside_1_0_l_f,0.237423946275
+Alabama,Nashville,T,F_avsResult_outside_-1_0_l_f,0.261442096807
+Alabama,Nashville,T,F_belowFigureCentroid_l_f,1.0
+Alabama,Nashville,T,F_closeDistNormFigure_f_l,0.112513286283
+Alabama,Nashville,T,F_closeDistNormFigure_l_f,1.0
+Alabama,Nashville,T,F_closeDistNormLandmark_f_l,1.0
+Alabama,Nashville,T,F_closeDistNormLandmark_l_f,0.112513286283
+Alabama,Nashville,T,F_closeDistNormUnion_f_l,0.112510580809
+Alabama,Nashville,T,F_closeDistNormUnion_l_f,0.112510580809
+Alabama,Nashville,T,F_distBtwnCentroids_f_l,0.158841444298
+Alabama,Nashville,T,F_distBtwnCentroids_l_f,0.158841444298
+Alabama,Nashville,T,F_distHorizontalCentroid_f_l,0.00475267163386
+Alabama,Nashville,T,F_distHorizontalCentroid_l_f,-0.00475267163386
+Alabama,Nashville,T,F_distVerticalCentroid_f_l,0.15877032638
+Alabama,Nashville,T,F_distVerticalCentroid_l_f,-0.15877032638
+Alabama,Nashville,T,F_leftOfFigureCentroid_l_f,1.0
+Alabama,Nashville,T,F_rightOfFigureCentroid_f_l,1.0
+Alabama,Tennessee,T,arg1 and eastern arg2,1
+Alabama,Tennessee,T,arg1 and middle arg2,1
+Alabama,Tennessee,T,arg1 and portions of arg2,1
+Alabama,Tennessee,T,arg1 and south central arg2,1
+Alabama,Tennessee,T,arg1 and southern arg2,1
+Alabama,Tennessee,T,arg1 and western arg2,1
+Alabama,Tennessee,T,arg1 as well as arg2,1
+Alabama,Tennessee,T,arg1 include arg2,1
+Alabama,Tennessee,T,arg1 is bordered by arg2,1
+Alabama,Tennessee,T,arg1 through arg2,1
+Alabama,Tennessee,T,arg2 and join arg1,1
+Alabama,Tennessee,T,arg2 and north arg1,1
+Alabama,Tennessee,T,arg2 and northeast arg1,1
+Alabama,Tennessee,T,arg2 and northeastern arg1,1
+Alabama,Tennessee,T,arg2 and northern arg1,1
+Alabama,Tennessee,T,arg2 and one in arg1,1
+Alabama,Tennessee,T,arg2 and parts of arg1,1
+Alabama,Tennessee,T,arg2 into northern arg1,1
+Alabama,Tennessee,T,arg2 marched into arg1,1
+Alabama,Tennessee,T,bias,1.0
+Alabama,Tennessee,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Alabama,Tennessee,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Alabama,Tennessee,T,F_aboveFigureCentroid_f_l,1.0
+Alabama,Tennessee,T,F_avsResult_0_-1_f_l,0.600349336144
+Alabama,Tennessee,T,F_avsResult_0_1_f_l,0.600349336144
+Alabama,Tennessee,T,F_avsResult_0_-1_l_f,0.00866053931679
+Alabama,Tennessee,T,F_avsResult_0_1_l_f,0.00866053931679
+Alabama,Tennessee,T,F_avsResult_-1_0_f_l,0.0937971224185
+Alabama,Tennessee,T,F_avsResult_1_0_f_l,0.167079793401
+Alabama,Tennessee,T,F_avsResult_1_0_l_f,0.0724069944856
+Alabama,Tennessee,T,F_avsResult_-1_0_l_f,0.102094487476
+Alabama,Tennessee,T,F_avsResult_outside_0_-1_f_l,0.600349336144
+Alabama,Tennessee,T,F_avsResult_outside_0_1_f_l,0.600349336144
+Alabama,Tennessee,T,F_avsResult_outside_0_-1_l_f,0.00866053931679
+Alabama,Tennessee,T,F_avsResult_outside_0_1_l_f,0.00866053931679
+Alabama,Tennessee,T,F_avsResult_outside_-1_0_f_l,0.0937971224185
+Alabama,Tennessee,T,F_avsResult_outside_1_0_f_l,0.167079793401
+Alabama,Tennessee,T,F_avsResult_outside_1_0_l_f,0.0724069944856
+Alabama,Tennessee,T,F_avsResult_outside_-1_0_l_f,0.102094487476
+Alabama,Tennessee,T,F_belowFigureCentroid_l_f,1.0
+Alabama,Tennessee,T,F_distBtwnCentroids_f_l,0.0557040823395
+Alabama,Tennessee,T,F_distBtwnCentroids_l_f,0.0557040823395
+Alabama,Tennessee,T,F_distHorizontalCentroid_f_l,0.00895101516446
+Alabama,Tennessee,T,F_distHorizontalCentroid_l_f,-0.00895101516446
+Alabama,Tennessee,T,F_distVerticalCentroid_f_l,0.0549802156854
+Alabama,Tennessee,T,F_distVerticalCentroid_l_f,-0.0549802156854
+Alabama,Tennessee,T,F_leftOfFigureCentroid_l_f,1.0
+Alabama,Tennessee,T,F_math2dFigureIntersectionArea_f_l,2.26160917473e-05
+Alabama,Tennessee,T,F_math2dFigureIntersectionArea_l_f,2.7203560492e-05
+Alabama,Tennessee,T,F_math2dIntersectionArea_f_l,1.23494603062e-05
+Alabama,Tennessee,T,F_math2dIntersectionArea_l_f,1.23494603062e-05
+Alabama,Tennessee,T,F_math2dLandmarkIntersectionArea_f_l,2.7203560492e-05
+Alabama,Tennessee,T,F_math2dLandmarkIntersectionArea_l_f,2.26160917473e-05
+Alabama,Tennessee,T,F_rightOfFigureCentroid_f_l,1.0
+Birmingham,Alabama,T,arg1 and the state of arg2,1
+Birmingham,Alabama,T,arg1 and the surrounding parts of arg2,1
+Birmingham,Alabama,T,arg1 and throughout arg2,1
+Birmingham,Alabama,T,arg1 and throughout the state of arg2,1
+Birmingham,Alabama,T,arg1 area of arg2,1
+Birmingham,Alabama,T,arg1 is the largest city in arg2,1
+Birmingham,Alabama,T,arg1 putting greens and arg2,1
+Birmingham,Alabama,T,arg2 and has lived in arg1,1
+Birmingham,Alabama,T,arg2 cities like arg1,1
+Birmingham,Alabama,T,arg2 cities such as arg1,1
+Birmingham,Alabama,T,arg2 hospital in arg1,1
+Birmingham,Alabama,T,arg2 include arg1,1
+Birmingham,Alabama,T,arg2 including arg1,1
+Birmingham,Alabama,T,arg2 or fitness certification in arg1,1
+Birmingham,Alabama,T,arg2 outside of arg1,1
+Birmingham,Alabama,T,arg2 serving the greater arg1,1
+Birmingham,Alabama,T,arg2 town of arg1,1
+Birmingham,Alabama,T,arg2 which includes arg1,1
+Birmingham,Alabama,T,bias,1.0
+Birmingham,Alabama,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Birmingham,Alabama,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Birmingham,Alabama,T,F_aboveFigureCentroid_l_f,1.0
+Birmingham,Alabama,T,F_avsResult_0_-1_f_l,0.0312206925512
+Birmingham,Alabama,T,F_avsResult_0_1_f_l,0.0312206925512
+Birmingham,Alabama,T,F_avsResult_0_-1_l_f,0.141980892245
+Birmingham,Alabama,T,F_avsResult_0_1_l_f,0.141980892245
+Birmingham,Alabama,T,F_avsResult_1_0_f_l,0.195827412531
+Birmingham,Alabama,T,F_avsResult_-1_0_f_l,0.307927514252
+Birmingham,Alabama,T,F_avsResult_-1_0_l_f,0.00950927156201
+Birmingham,Alabama,T,F_avsResult_1_0_l_f,0.0193151803135
+Birmingham,Alabama,T,F_avsResult_-1_-1_l_f,0.178787985946
+Birmingham,Alabama,T,F_avsResult_-1_1_l_f,0.178787985946
+Birmingham,Alabama,T,F_avsResult_inside_0_-1_l_f,0.141980892245
+Birmingham,Alabama,T,F_avsResult_inside_0_1_l_f,0.141980892245
+Birmingham,Alabama,T,F_avsResult_inside_-1_0_l_f,0.00950927156201
+Birmingham,Alabama,T,F_avsResult_inside_1_0_l_f,0.0193151803135
+Birmingham,Alabama,T,F_avsResult_inside_-1_-1_l_f,0.178787985946
+Birmingham,Alabama,T,F_avsResult_inside_-1_1_l_f,0.178787985946
+Birmingham,Alabama,T,F_avsResult_outside_0_-1_f_l,0.0312206925512
+Birmingham,Alabama,T,F_avsResult_outside_0_1_f_l,0.0312206925512
+Birmingham,Alabama,T,F_avsResult_outside_1_0_f_l,0.195827412531
+Birmingham,Alabama,T,F_avsResult_outside_-1_0_f_l,0.307927514252
+Birmingham,Alabama,T,F_belowFigureCentroid_f_l,1.0
+Birmingham,Alabama,T,F_distBtwnCentroids_f_l,0.0505530946972
+Birmingham,Alabama,T,F_distBtwnCentroids_l_f,0.0505530946972
+Birmingham,Alabama,T,F_distHorizontalCentroid_f_l,-0.0128162959491
+Birmingham,Alabama,T,F_distHorizontalCentroid_l_f,0.0128162959491
+Birmingham,Alabama,T,F_distVerticalCentroid_f_l,-0.048901512672
+Birmingham,Alabama,T,F_distVerticalCentroid_l_f,0.048901512672
+Birmingham,Alabama,T,F_leftOfFigureCentroid_f_l,1.0
+Birmingham,Alabama,T,F_math2dFigureIntersectionArea_f_l,0.999999999994
+Birmingham,Alabama,T,F_math2dFigureIntersectionArea_l_f,6.5872977417e-06
+Birmingham,Alabama,T,F_math2dIntersectionArea_f_l,6.5872977417e-06
+Birmingham,Alabama,T,F_math2dIntersectionArea_l_f,6.5872977417e-06
+Birmingham,Alabama,T,F_math2dLandmarkIntersectionArea_f_l,6.5872977417e-06
+Birmingham,Alabama,T,F_math2dLandmarkIntersectionArea_l_f,0.999999999994
+Birmingham,Alabama,T,F_rightOfFigureCentroid_l_f,1.0
+Birmingham,Birmingham,T,arg1 classified ads around arg2,1
+Birmingham,Birmingham,T,arg1 dating arg2,1
+Birmingham,Birmingham,T,arg1 guests and families in arg2,1
+Birmingham,Birmingham,T,arg1 is located in arg2,1
+Birmingham,Birmingham,T,arg1 needs arg2,1
+Birmingham,Birmingham,T,arg1 or sending flowers to arg2,1
+Birmingham,Birmingham,T,arg1 or shipped to arg2,1
+Birmingham,Birmingham,T,arg1 used car inventory search arg2,1
+Birmingham,Birmingham,T,arg1 vacation homes or houses in arg2,1
+Birmingham,Birmingham,T,arg1 with hotel videos from arg2,1
+Birmingham,Birmingham,T,arg1 within arg2,1
+Birmingham,Birmingham,T,arg2 classified ads around arg1,1
+Birmingham,Birmingham,T,arg2 dating arg1,1
+Birmingham,Birmingham,T,arg2 guests and families in arg1,1
+Birmingham,Birmingham,T,arg2 is located in arg1,1
+Birmingham,Birmingham,T,arg2 needs arg1,1
+Birmingham,Birmingham,T,arg2 or sending flowers to arg1,1
+Birmingham,Birmingham,T,arg2 or shipped to arg1,1
+Birmingham,Birmingham,T,arg2 used car inventory search arg1,1
+Birmingham,Birmingham,T,arg2 vacation homes or houses in arg1,1
+Birmingham,Birmingham,T,arg2 with hotel videos from arg1,1
+Birmingham,Birmingham,T,arg2 within arg1,1
+Birmingham,Birmingham,T,bias,1.0
+Birmingham,Birmingham,T,entity1=entity2,1
+Birmingham,Birmingham,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Birmingham,Birmingham,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Birmingham,Birmingham,T,F_avsResult_0_-1_f_l,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_0_1_f_l,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_0_-1_l_f,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_0_1_l_f,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_1_0_f_l,0.144001409175
+Birmingham,Birmingham,T,F_avsResult_-1_0_f_l,0.374103304216
+Birmingham,Birmingham,T,F_avsResult_1_0_l_f,0.144001409175
+Birmingham,Birmingham,T,F_avsResult_-1_0_l_f,0.374103304216
+Birmingham,Birmingham,T,F_avsResult_1_-1_f_l,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_1_1_f_l,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_1_-1_l_f,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_1_1_l_f,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_inside_0_-1_f_l,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_inside_0_1_f_l,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_inside_0_-1_l_f,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_inside_0_1_l_f,0.0858128391806
+Birmingham,Birmingham,T,F_avsResult_inside_1_0_f_l,0.144001409175
+Birmingham,Birmingham,T,F_avsResult_inside_-1_0_f_l,0.374103304216
+Birmingham,Birmingham,T,F_avsResult_inside_1_0_l_f,0.144001409175
+Birmingham,Birmingham,T,F_avsResult_inside_-1_0_l_f,0.374103304216
+Birmingham,Birmingham,T,F_avsResult_inside_1_-1_f_l,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_inside_1_1_f_l,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_inside_1_-1_l_f,0.201686562427
+Birmingham,Birmingham,T,F_avsResult_inside_1_1_l_f,0.201686562427
+Birmingham,Birmingham,T,F_math2dFigureIntersectionArea_f_l,0.999999999994
+Birmingham,Birmingham,T,F_math2dFigureIntersectionArea_l_f,0.999999999994
+Birmingham,Birmingham,T,F_math2dIntersectionArea_f_l,1.0
+Birmingham,Birmingham,T,F_math2dIntersectionArea_l_f,1.0
+Birmingham,Birmingham,T,F_math2dLandmarkIntersectionArea_f_l,0.999999999994
+Birmingham,Birmingham,T,F_math2dLandmarkIntersectionArea_l_f,0.999999999994
+Birmingham,Great Smoky Mountains National Park,T,bias,1.0
+Birmingham,Great Smoky Mountains National Park,T,F_aboveFigureCentroid_f_l,1.0
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_0_-1_f_l,0.498833119302
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_0_1_f_l,0.498833119302
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_0_-1_l_f,0.0858052456875
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_0_1_l_f,0.0858052456875
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_-1_0_f_l,0.0475131664787
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_1_0_f_l,0.608811290906
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_1_0_l_f,0.0475719284639
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_-1_0_l_f,0.60889788788
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_-1_-1_f_l,0.167840931471
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_-1_1_f_l,0.167840931471
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_-1_-1_l_f,0.346469216047
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_-1_1_l_f,0.346469216047
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_0_-1_f_l,0.498833119302
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_0_1_f_l,0.498833119302
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_0_-1_l_f,0.0858052456875
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_0_1_l_f,0.0858052456875
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_0_f_l,0.0475131664787
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_1_0_f_l,0.608811290906
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_1_0_l_f,0.0475719284639
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_0_l_f,0.60889788788
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_-1_f_l,0.167840931471
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_1_f_l,0.167840931471
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_-1_l_f,0.346469216047
+Birmingham,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_1_l_f,0.346469216047
+Birmingham,Great Smoky Mountains National Park,T,F_belowFigureCentroid_l_f,1.0
+Birmingham,Great Smoky Mountains National Park,T,F_closeDistNormFigure_f_l,1.0
+Birmingham,Great Smoky Mountains National Park,T,F_closeDistNormFigure_l_f,1.0
+Birmingham,Great Smoky Mountains National Park,T,F_closeDistNormLandmark_f_l,1.0
+Birmingham,Great Smoky Mountains National Park,T,F_closeDistNormLandmark_l_f,1.0
+Birmingham,Great Smoky Mountains National Park,T,F_closeDistNormUnion_f_l,1.0
+Birmingham,Great Smoky Mountains National Park,T,F_closeDistNormUnion_l_f,1.0
+Birmingham,Great Smoky Mountains National Park,T,F_distBtwnCentroids_f_l,0.64168342399
+Birmingham,Great Smoky Mountains National Park,T,F_distBtwnCentroids_l_f,0.64168342399
+Birmingham,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_f_l,0.521513412567
+Birmingham,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_l_f,-0.521513412567
+Birmingham,Great Smoky Mountains National Park,T,F_distVerticalCentroid_f_l,0.373873477444
+Birmingham,Great Smoky Mountains National Park,T,F_distVerticalCentroid_l_f,-0.373873477444
+Birmingham,Great Smoky Mountains National Park,T,F_leftOfFigureCentroid_l_f,1.0
+Birmingham,Great Smoky Mountains National Park,T,F_rightOfFigureCentroid_f_l,1.0
+Birmingham,Knoxville,T,bias,1.0
+Birmingham,Knoxville,T,F_aboveFigureCentroid_f_l,1.0
+Birmingham,Knoxville,T,F_avsResult_0_-1_f_l,0.541893575083
+Birmingham,Knoxville,T,F_avsResult_0_1_f_l,0.541893575083
+Birmingham,Knoxville,T,F_avsResult_0_-1_l_f,0.0676215949361
+Birmingham,Knoxville,T,F_avsResult_0_1_l_f,0.0676215949361
+Birmingham,Knoxville,T,F_avsResult_-1_0_f_l,0.0541439472288
+Birmingham,Knoxville,T,F_avsResult_1_0_f_l,0.588014269669
+Birmingham,Knoxville,T,F_avsResult_1_0_l_f,0.0519271202213
+Birmingham,Knoxville,T,F_avsResult_-1_0_l_f,0.578910792652
+Birmingham,Knoxville,T,F_avsResult_-1_-1_f_l,0.21172219477
+Birmingham,Knoxville,T,F_avsResult_-1_1_f_l,0.21172219477
+Birmingham,Knoxville,T,F_avsResult_-1_-1_l_f,0.271353412984
+Birmingham,Knoxville,T,F_avsResult_-1_1_l_f,0.271353412984
+Birmingham,Knoxville,T,F_avsResult_outside_0_-1_f_l,0.541893575083
+Birmingham,Knoxville,T,F_avsResult_outside_0_1_f_l,0.541893575083
+Birmingham,Knoxville,T,F_avsResult_outside_0_-1_l_f,0.0676215949361
+Birmingham,Knoxville,T,F_avsResult_outside_0_1_l_f,0.0676215949361
+Birmingham,Knoxville,T,F_avsResult_outside_-1_0_f_l,0.0541439472288
+Birmingham,Knoxville,T,F_avsResult_outside_1_0_f_l,0.588014269669
+Birmingham,Knoxville,T,F_avsResult_outside_1_0_l_f,0.0519271202213
+Birmingham,Knoxville,T,F_avsResult_outside_-1_0_l_f,0.578910792652
+Birmingham,Knoxville,T,F_avsResult_outside_-1_-1_f_l,0.21172219477
+Birmingham,Knoxville,T,F_avsResult_outside_-1_1_f_l,0.21172219477
+Birmingham,Knoxville,T,F_avsResult_outside_-1_-1_l_f,0.271353412984
+Birmingham,Knoxville,T,F_avsResult_outside_-1_1_l_f,0.271353412984
+Birmingham,Knoxville,T,F_belowFigureCentroid_l_f,1.0
+Birmingham,Knoxville,T,F_closeDistNormFigure_f_l,1.0
+Birmingham,Knoxville,T,F_closeDistNormFigure_l_f,1.0
+Birmingham,Knoxville,T,F_closeDistNormLandmark_f_l,1.0
+Birmingham,Knoxville,T,F_closeDistNormLandmark_l_f,1.0
+Birmingham,Knoxville,T,F_closeDistNormUnion_f_l,1.0
+Birmingham,Knoxville,T,F_closeDistNormUnion_l_f,1.0
+Birmingham,Knoxville,T,F_distBtwnCentroids_f_l,0.4929708598
+Birmingham,Knoxville,T,F_distBtwnCentroids_l_f,0.4929708598
+Birmingham,Knoxville,T,F_distHorizontalCentroid_f_l,0.37165838143
+Birmingham,Knoxville,T,F_distHorizontalCentroid_l_f,-0.37165838143
+Birmingham,Knoxville,T,F_distVerticalCentroid_f_l,0.323867744805
+Birmingham,Knoxville,T,F_distVerticalCentroid_l_f,-0.323867744805
+Birmingham,Knoxville,T,F_leftOfFigureCentroid_l_f,1.0
+Birmingham,Knoxville,T,F_rightOfFigureCentroid_f_l,1.0
+Birmingham,Memphis,T,arg1 and suburban arg2,1
+Birmingham,Memphis,T,arg1 and two hours from arg2,1
+Birmingham,Memphis,T,arg1 beat out arg2,1
+Birmingham,Memphis,T,arg1 before heading to arg2,1
+Birmingham,Memphis,T,arg1 toward arg2,1
+Birmingham,Memphis,T,arg2 all the way down to arg1,1
+Birmingham,Memphis,T,arg2 and come back to arg1,1
+Birmingham,Memphis,T,bias,1.0
+Birmingham,Memphis,T,F_aboveFigureCentroid_f_l,1.0
+Birmingham,Memphis,T,F_avsResult_0_-1_f_l,0.432417686149
+Birmingham,Memphis,T,F_avsResult_0_1_f_l,0.432417686149
+Birmingham,Memphis,T,F_avsResult_0_-1_l_f,0.110755411549
+Birmingham,Memphis,T,F_avsResult_0_1_l_f,0.110755411549
+Birmingham,Memphis,T,F_avsResult_1_0_f_l,0.0283963682398
+Birmingham,Memphis,T,F_avsResult_-1_0_f_l,0.681752951148
+Birmingham,Memphis,T,F_avsResult_-1_0_l_f,0.0272265236073
+Birmingham,Memphis,T,F_avsResult_1_0_l_f,0.670967574455
+Birmingham,Memphis,T,F_avsResult_1_-1_f_l,0.0821629472069
+Birmingham,Memphis,T,F_avsResult_1_1_f_l,0.0821629472069
+Birmingham,Memphis,T,F_avsResult_1_-1_l_f,0.474471019913
+Birmingham,Memphis,T,F_avsResult_1_1_l_f,0.474471019913
+Birmingham,Memphis,T,F_avsResult_outside_0_-1_f_l,0.432417686149
+Birmingham,Memphis,T,F_avsResult_outside_0_1_f_l,0.432417686149
+Birmingham,Memphis,T,F_avsResult_outside_0_-1_l_f,0.110755411549
+Birmingham,Memphis,T,F_avsResult_outside_0_1_l_f,0.110755411549
+Birmingham,Memphis,T,F_avsResult_outside_1_0_f_l,0.0283963682398
+Birmingham,Memphis,T,F_avsResult_outside_-1_0_f_l,0.681752951148
+Birmingham,Memphis,T,F_avsResult_outside_-1_0_l_f,0.0272265236073
+Birmingham,Memphis,T,F_avsResult_outside_1_0_l_f,0.670967574455
+Birmingham,Memphis,T,F_avsResult_outside_1_-1_f_l,0.0821629472069
+Birmingham,Memphis,T,F_avsResult_outside_1_1_f_l,0.0821629472069
+Birmingham,Memphis,T,F_avsResult_outside_1_-1_l_f,0.474471019913
+Birmingham,Memphis,T,F_avsResult_outside_1_1_l_f,0.474471019913
+Birmingham,Memphis,T,F_belowFigureCentroid_l_f,1.0
+Birmingham,Memphis,T,F_closeDistNormFigure_f_l,1.0
+Birmingham,Memphis,T,F_closeDistNormFigure_l_f,1.0
+Birmingham,Memphis,T,F_closeDistNormLandmark_f_l,1.0
+Birmingham,Memphis,T,F_closeDistNormLandmark_l_f,1.0
+Birmingham,Memphis,T,F_closeDistNormUnion_f_l,1.0
+Birmingham,Memphis,T,F_closeDistNormUnion_l_f,1.0
+Birmingham,Memphis,T,F_distBtwnCentroids_f_l,0.598212372727
+Birmingham,Memphis,T,F_distBtwnCentroids_l_f,0.598212372727
+Birmingham,Memphis,T,F_distHorizontalCentroid_f_l,-0.54627425904
+Birmingham,Memphis,T,F_distHorizontalCentroid_l_f,0.54627425904
+Birmingham,Memphis,T,F_distVerticalCentroid_f_l,0.243808278766
+Birmingham,Memphis,T,F_distVerticalCentroid_l_f,-0.243808278766
+Birmingham,Memphis,T,F_leftOfFigureCentroid_f_l,1.0
+Birmingham,Memphis,T,F_rightOfFigureCentroid_l_f,1.0
+Birmingham,Nashville,T,arg1 and later to arg2,1
+Birmingham,Nashville,T,arg1 and two in arg2,1
+Birmingham,Nashville,T,arg1 thru arg2,1
+Birmingham,Nashville,T,arg2 and raised in arg1,1
+Birmingham,Nashville,T,arg2 and then migrated to arg1,1
+Birmingham,Nashville,T,arg2 area and one in arg1,1
+Birmingham,Nashville,T,arg2 by way of arg1,1
+Birmingham,Nashville,T,arg2 on down to arg1,1
+Birmingham,Nashville,T,arg2 students from arg1,1
+Birmingham,Nashville,T,bias,1.0
+Birmingham,Nashville,T,F_aboveFigureCentroid_f_l,1.0
+Birmingham,Nashville,T,F_avsResult_0_-1_f_l,0.745691902295
+Birmingham,Nashville,T,F_avsResult_0_1_f_l,0.745691902295
+Birmingham,Nashville,T,F_avsResult_0_-1_l_f,0.00355351421546
+Birmingham,Nashville,T,F_avsResult_0_1_l_f,0.00355351421546
+Birmingham,Nashville,T,F_avsResult_1_0_f_l,0.233937520462
+Birmingham,Nashville,T,F_avsResult_-1_0_f_l,0.265228244205
+Birmingham,Nashville,T,F_avsResult_-1_0_l_f,0.233817868025
+Birmingham,Nashville,T,F_avsResult_1_0_l_f,0.265265884193
+Birmingham,Nashville,T,F_avsResult_outside_0_-1_f_l,0.745691902295
+Birmingham,Nashville,T,F_avsResult_outside_0_1_f_l,0.745691902295
+Birmingham,Nashville,T,F_avsResult_outside_0_-1_l_f,0.00355351421546
+Birmingham,Nashville,T,F_avsResult_outside_0_1_l_f,0.00355351421546
+Birmingham,Nashville,T,F_avsResult_outside_1_0_f_l,0.233937520462
+Birmingham,Nashville,T,F_avsResult_outside_-1_0_f_l,0.265228244205
+Birmingham,Nashville,T,F_avsResult_outside_-1_0_l_f,0.233817868025
+Birmingham,Nashville,T,F_avsResult_outside_1_0_l_f,0.265265884193
+Birmingham,Nashville,T,F_belowFigureCentroid_l_f,1.0
+Birmingham,Nashville,T,F_closeDistNormFigure_f_l,1.0
+Birmingham,Nashville,T,F_closeDistNormFigure_l_f,1.0
+Birmingham,Nashville,T,F_closeDistNormLandmark_f_l,1.0
+Birmingham,Nashville,T,F_closeDistNormLandmark_l_f,1.0
+Birmingham,Nashville,T,F_closeDistNormUnion_f_l,1.0
+Birmingham,Nashville,T,F_closeDistNormUnion_l_f,1.0
+Birmingham,Nashville,T,F_distBtwnCentroids_f_l,7.1743274199
+Birmingham,Nashville,T,F_distBtwnCentroids_l_f,7.1743274199
+Birmingham,Nashville,T,F_distHorizontalCentroid_f_l,-0.33025959166
+Birmingham,Nashville,T,F_distHorizontalCentroid_l_f,0.33025959166
+Birmingham,Nashville,T,F_distVerticalCentroid_f_l,7.16672188173
+Birmingham,Nashville,T,F_distVerticalCentroid_l_f,-7.16672188173
+Birmingham,Nashville,T,F_leftOfFigureCentroid_f_l,1.0
+Birmingham,Nashville,T,F_rightOfFigureCentroid_l_f,1.0
+Birmingham,Tennessee,T,arg1 to southern arg2,1
+Birmingham,Tennessee,T,arg2 and currently reside in arg1,1
+Birmingham,Tennessee,T,arg2 and south to arg1,1
+Birmingham,Tennessee,T,arg2 as well as arg1,1
+Birmingham,Tennessee,T,arg2 but have lived in arg1,1
+Birmingham,Tennessee,T,arg2 game in arg1,1
+Birmingham,Tennessee,T,arg2 to just north of arg1,1
+Birmingham,Tennessee,T,bias,1.0
+Birmingham,Tennessee,T,F_aboveFigureCentroid_f_l,1.0
+Birmingham,Tennessee,T,F_avsResult_0_-1_f_l,0.708267225658
+Birmingham,Tennessee,T,F_avsResult_0_1_f_l,0.708267225658
+Birmingham,Tennessee,T,F_avsResult_0_-1_l_f,0.0110160024118
+Birmingham,Tennessee,T,F_avsResult_0_1_l_f,0.0110160024118
+Birmingham,Tennessee,T,F_avsResult_-1_0_f_l,0.211374734648
+Birmingham,Tennessee,T,F_avsResult_1_0_f_l,0.290456673002
+Birmingham,Tennessee,T,F_avsResult_1_0_l_f,0.068693332331
+Birmingham,Tennessee,T,F_avsResult_-1_0_l_f,0.101653463351
+Birmingham,Tennessee,T,F_avsResult_outside_0_-1_f_l,0.708267225658
+Birmingham,Tennessee,T,F_avsResult_outside_0_1_f_l,0.708267225658
+Birmingham,Tennessee,T,F_avsResult_outside_0_-1_l_f,0.0110160024118
+Birmingham,Tennessee,T,F_avsResult_outside_0_1_l_f,0.0110160024118
+Birmingham,Tennessee,T,F_avsResult_outside_-1_0_f_l,0.211374734648
+Birmingham,Tennessee,T,F_avsResult_outside_1_0_f_l,0.290456673002
+Birmingham,Tennessee,T,F_avsResult_outside_1_0_l_f,0.068693332331
+Birmingham,Tennessee,T,F_avsResult_outside_-1_0_l_f,0.101653463351
+Birmingham,Tennessee,T,F_belowFigureCentroid_l_f,1.0
+Birmingham,Tennessee,T,F_closeDistNormFigure_f_l,1.0
+Birmingham,Tennessee,T,F_closeDistNormFigure_l_f,0.175023946485
+Birmingham,Tennessee,T,F_closeDistNormLandmark_f_l,0.175023946485
+Birmingham,Tennessee,T,F_closeDistNormLandmark_l_f,1.0
+Birmingham,Tennessee,T,F_closeDistNormUnion_f_l,0.175022559699
+Birmingham,Tennessee,T,F_closeDistNormUnion_l_f,0.175022559699
+Birmingham,Tennessee,T,F_distBtwnCentroids_f_l,0.0851290968642
+Birmingham,Tennessee,T,F_distBtwnCentroids_l_f,0.0851290968642
+Birmingham,Tennessee,T,F_distHorizontalCentroid_f_l,0.0105746445369
+Birmingham,Tennessee,T,F_distHorizontalCentroid_l_f,-0.0105746445369
+Birmingham,Tennessee,T,F_distVerticalCentroid_f_l,0.0844697580548
+Birmingham,Tennessee,T,F_distVerticalCentroid_l_f,-0.0844697580548
+Birmingham,Tennessee,T,F_leftOfFigureCentroid_l_f,1.0
+Birmingham,Tennessee,T,F_rightOfFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Alabama,T,bias,1.0
+Great Smoky Mountains National Park,Alabama,T,F_aboveFigureCentroid_l_f,1.0
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_0_-1_f_l,0.0605368339196
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_0_1_f_l,0.0605368339196
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_0_-1_l_f,0.393055370239
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_0_1_l_f,0.393055370239
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_1_0_f_l,0.0560296976058
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_-1_0_f_l,0.582104818862
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_-1_0_l_f,0.035994631694
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_1_0_l_f,0.502190261007
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_-1_-1_f_l,0.262668464826
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_-1_1_f_l,0.262668464826
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_-1_-1_l_f,0.0920183053187
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_-1_1_l_f,0.0920183053187
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_0_-1_f_l,0.0605368339196
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_0_1_f_l,0.0605368339196
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_0_-1_l_f,0.393055370239
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_0_1_l_f,0.393055370239
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_1_0_f_l,0.0560296976058
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_-1_0_f_l,0.582104818862
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_-1_0_l_f,0.035994631694
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_1_0_l_f,0.502190261007
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_-1_-1_f_l,0.262668464826
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_-1_1_f_l,0.262668464826
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_-1_-1_l_f,0.0920183053187
+Great Smoky Mountains National Park,Alabama,T,F_avsResult_outside_-1_1_l_f,0.0920183053187
+Great Smoky Mountains National Park,Alabama,T,F_belowFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Alabama,T,F_closeDistNormFigure_f_l,1.0
+Great Smoky Mountains National Park,Alabama,T,F_closeDistNormFigure_l_f,0.221656274202
+Great Smoky Mountains National Park,Alabama,T,F_closeDistNormLandmark_f_l,0.221656274202
+Great Smoky Mountains National Park,Alabama,T,F_closeDistNormLandmark_l_f,1.0
+Great Smoky Mountains National Park,Alabama,T,F_closeDistNormUnion_f_l,0.221654888664
+Great Smoky Mountains National Park,Alabama,T,F_closeDistNormUnion_l_f,0.221654888664
+Great Smoky Mountains National Park,Alabama,T,F_distBtwnCentroids_f_l,0.165070225792
+Great Smoky Mountains National Park,Alabama,T,F_distBtwnCentroids_l_f,0.165070225792
+Great Smoky Mountains National Park,Alabama,T,F_distHorizontalCentroid_f_l,-0.119234560099
+Great Smoky Mountains National Park,Alabama,T,F_distHorizontalCentroid_l_f,0.119234560099
+Great Smoky Mountains National Park,Alabama,T,F_distVerticalCentroid_f_l,-0.114154715719
+Great Smoky Mountains National Park,Alabama,T,F_distVerticalCentroid_l_f,0.114154715719
+Great Smoky Mountains National Park,Alabama,T,F_leftOfFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Alabama,T,F_rightOfFigureCentroid_l_f,1.0
+Great Smoky Mountains National Park,Birmingham,T,bias,1.0
+Great Smoky Mountains National Park,Birmingham,T,F_aboveFigureCentroid_l_f,1.0
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_0_-1_f_l,0.0858052456875
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_0_1_f_l,0.0858052456875
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_0_-1_l_f,0.498833119302
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_0_1_l_f,0.498833119302
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_1_0_f_l,0.0475719284639
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_-1_0_f_l,0.60889788788
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_-1_0_l_f,0.0475131664787
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_1_0_l_f,0.608811290906
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_-1_-1_f_l,0.346469216047
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_-1_1_f_l,0.346469216047
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_-1_-1_l_f,0.167840931471
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_-1_1_l_f,0.167840931471
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_0_-1_f_l,0.0858052456875
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_0_1_f_l,0.0858052456875
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_0_-1_l_f,0.498833119302
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_0_1_l_f,0.498833119302
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_1_0_f_l,0.0475719284639
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_-1_0_f_l,0.60889788788
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_-1_0_l_f,0.0475131664787
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_1_0_l_f,0.608811290906
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_-1_-1_f_l,0.346469216047
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_-1_1_f_l,0.346469216047
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_-1_-1_l_f,0.167840931471
+Great Smoky Mountains National Park,Birmingham,T,F_avsResult_outside_-1_1_l_f,0.167840931471
+Great Smoky Mountains National Park,Birmingham,T,F_belowFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Birmingham,T,F_closeDistNormFigure_f_l,1.0
+Great Smoky Mountains National Park,Birmingham,T,F_closeDistNormFigure_l_f,1.0
+Great Smoky Mountains National Park,Birmingham,T,F_closeDistNormLandmark_f_l,1.0
+Great Smoky Mountains National Park,Birmingham,T,F_closeDistNormLandmark_l_f,1.0
+Great Smoky Mountains National Park,Birmingham,T,F_closeDistNormUnion_f_l,1.0
+Great Smoky Mountains National Park,Birmingham,T,F_closeDistNormUnion_l_f,1.0
+Great Smoky Mountains National Park,Birmingham,T,F_distBtwnCentroids_f_l,0.64168342399
+Great Smoky Mountains National Park,Birmingham,T,F_distBtwnCentroids_l_f,0.64168342399
+Great Smoky Mountains National Park,Birmingham,T,F_distHorizontalCentroid_f_l,-0.521513412567
+Great Smoky Mountains National Park,Birmingham,T,F_distHorizontalCentroid_l_f,0.521513412567
+Great Smoky Mountains National Park,Birmingham,T,F_distVerticalCentroid_f_l,-0.373873477444
+Great Smoky Mountains National Park,Birmingham,T,F_distVerticalCentroid_l_f,0.373873477444
+Great Smoky Mountains National Park,Birmingham,T,F_leftOfFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Birmingham,T,F_rightOfFigureCentroid_l_f,1.0
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,bias,1.0
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,entity1=entity2,1
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_0_-1_f_l,0.243751255784
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_0_1_f_l,0.243751255784
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_0_-1_l_f,0.243751255784
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_0_1_l_f,0.243751255784
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_1_0_f_l,0.00558142078468
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_-1_0_f_l,0.499232447084
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_1_0_l_f,0.00558142078468
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_-1_0_l_f,0.499232447084
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_inside_0_-1_f_l,0.243751255784
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_inside_0_1_f_l,0.243751255784
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_inside_0_-1_l_f,0.243751255784
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_inside_0_1_l_f,0.243751255784
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_inside_1_0_f_l,0.00558142078468
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_inside_-1_0_f_l,0.499232447084
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_inside_1_0_l_f,0.00558142078468
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_avsResult_inside_-1_0_l_f,0.499232447084
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_math2dFigureIntersectionArea_f_l,1.00000000001
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_math2dFigureIntersectionArea_l_f,1.00000000001
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_math2dIntersectionArea_f_l,1.0
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_math2dIntersectionArea_l_f,1.0
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_math2dLandmarkIntersectionArea_f_l,1.00000000001
+Great Smoky Mountains National Park,Great Smoky Mountains National Park,T,F_math2dLandmarkIntersectionArea_l_f,1.00000000001
+Great Smoky Mountains National Park,Knoxville,T,arg1 and minutes from arg2,1
+Great Smoky Mountains National Park,Knoxville,T,arg1 towards arg2,1
+Great Smoky Mountains National Park,Knoxville,T,arg2 close to arg1,1
+Great Smoky Mountains National Park,Knoxville,T,bias,1.0
+Great Smoky Mountains National Park,Knoxville,T,F_aboveFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_0_-1_f_l,0.539942827075
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_0_1_f_l,0.539942827075
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_0_-1_l_f,0.0116563110749
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_0_1_l_f,0.0116563110749
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_-1_0_f_l,0.225571073818
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_1_0_f_l,0.274312673266
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_1_0_l_f,0.195535768088
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_-1_0_l_f,0.232602094271
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_outside_0_-1_f_l,0.539942827075
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_outside_0_1_f_l,0.539942827075
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_outside_0_-1_l_f,0.0116563110749
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_outside_0_1_l_f,0.0116563110749
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_outside_-1_0_f_l,0.225571073818
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_outside_1_0_f_l,0.274312673266
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_outside_1_0_l_f,0.195535768088
+Great Smoky Mountains National Park,Knoxville,T,F_avsResult_outside_-1_0_l_f,0.232602094271
+Great Smoky Mountains National Park,Knoxville,T,F_belowFigureCentroid_l_f,1.0
+Great Smoky Mountains National Park,Knoxville,T,F_closeDistNormFigure_f_l,1.0
+Great Smoky Mountains National Park,Knoxville,T,F_closeDistNormFigure_l_f,1.0
+Great Smoky Mountains National Park,Knoxville,T,F_closeDistNormLandmark_f_l,1.0
+Great Smoky Mountains National Park,Knoxville,T,F_closeDistNormLandmark_l_f,1.0
+Great Smoky Mountains National Park,Knoxville,T,F_closeDistNormUnion_f_l,1.0
+Great Smoky Mountains National Park,Knoxville,T,F_closeDistNormUnion_l_f,1.0
+Great Smoky Mountains National Park,Knoxville,T,F_distBtwnCentroids_f_l,1.70329862131
+Great Smoky Mountains National Park,Knoxville,T,F_distBtwnCentroids_l_f,1.70329862131
+Great Smoky Mountains National Park,Knoxville,T,F_distHorizontalCentroid_f_l,0.216707612463
+Great Smoky Mountains National Park,Knoxville,T,F_distHorizontalCentroid_l_f,-0.216707612463
+Great Smoky Mountains National Park,Knoxville,T,F_distVerticalCentroid_f_l,1.68945671861
+Great Smoky Mountains National Park,Knoxville,T,F_distVerticalCentroid_l_f,-1.68945671861
+Great Smoky Mountains National Park,Knoxville,T,F_leftOfFigureCentroid_l_f,1.0
+Great Smoky Mountains National Park,Knoxville,T,F_rightOfFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Memphis,T,bias,1.0
+Great Smoky Mountains National Park,Memphis,T,F_aboveFigureCentroid_l_f,1.0
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_0_-1_f_l,0.212631786019
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_0_1_f_l,0.212631786019
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_0_-1_l_f,0.277694397117
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_0_1_l_f,0.277694397117
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_1_0_f_l,0.0032999569698
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_-1_0_f_l,0.824475303834
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_-1_0_l_f,0.00319656229427
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_1_0_l_f,0.819407296863
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_outside_0_-1_f_l,0.212631786019
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_outside_0_1_f_l,0.212631786019
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_outside_0_-1_l_f,0.277694397117
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_outside_0_1_l_f,0.277694397117
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_outside_1_0_f_l,0.0032999569698
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_outside_-1_0_f_l,0.824475303834
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_outside_-1_0_l_f,0.00319656229427
+Great Smoky Mountains National Park,Memphis,T,F_avsResult_outside_1_0_l_f,0.819407296863
+Great Smoky Mountains National Park,Memphis,T,F_belowFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Memphis,T,F_closeDistNormFigure_f_l,1.0
+Great Smoky Mountains National Park,Memphis,T,F_closeDistNormFigure_l_f,1.0
+Great Smoky Mountains National Park,Memphis,T,F_closeDistNormLandmark_f_l,1.0
+Great Smoky Mountains National Park,Memphis,T,F_closeDistNormLandmark_l_f,1.0
+Great Smoky Mountains National Park,Memphis,T,F_closeDistNormUnion_f_l,1.0
+Great Smoky Mountains National Park,Memphis,T,F_closeDistNormUnion_l_f,1.0
+Great Smoky Mountains National Park,Memphis,T,F_distBtwnCentroids_f_l,1.84907189741
+Great Smoky Mountains National Park,Memphis,T,F_distBtwnCentroids_l_f,1.84907189741
+Great Smoky Mountains National Park,Memphis,T,F_distHorizontalCentroid_f_l,-1.84508760344
+Great Smoky Mountains National Park,Memphis,T,F_distHorizontalCentroid_l_f,1.84508760344
+Great Smoky Mountains National Park,Memphis,T,F_distVerticalCentroid_f_l,-0.121320309179
+Great Smoky Mountains National Park,Memphis,T,F_distVerticalCentroid_l_f,0.121320309179
+Great Smoky Mountains National Park,Memphis,T,F_leftOfFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Memphis,T,F_rightOfFigureCentroid_l_f,1.0
+Great Smoky Mountains National Park,Nashville,T,bias,1.0
+Great Smoky Mountains National Park,Nashville,T,F_aboveFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_0_-1_f_l,0.343662981098
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_0_1_f_l,0.343662981098
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_0_-1_l_f,0.170090297922
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_0_1_l_f,0.170090297922
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_1_0_f_l,0.0184570011557
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_-1_0_f_l,0.704571682336
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_-1_0_l_f,0.0184785243052
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_1_0_l_f,0.704228402312
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_outside_0_-1_f_l,0.343662981098
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_outside_0_1_f_l,0.343662981098
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_outside_0_-1_l_f,0.170090297922
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_outside_0_1_l_f,0.170090297922
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_outside_1_0_f_l,0.0184570011557
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_outside_-1_0_f_l,0.704571682336
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_outside_-1_0_l_f,0.0184785243052
+Great Smoky Mountains National Park,Nashville,T,F_avsResult_outside_1_0_l_f,0.704228402312
+Great Smoky Mountains National Park,Nashville,T,F_belowFigureCentroid_l_f,1.0
+Great Smoky Mountains National Park,Nashville,T,F_closeDistNormFigure_f_l,1.0
+Great Smoky Mountains National Park,Nashville,T,F_closeDistNormFigure_l_f,1.0
+Great Smoky Mountains National Park,Nashville,T,F_closeDistNormLandmark_f_l,1.0
+Great Smoky Mountains National Park,Nashville,T,F_closeDistNormLandmark_l_f,1.0
+Great Smoky Mountains National Park,Nashville,T,F_closeDistNormUnion_f_l,1.0
+Great Smoky Mountains National Park,Nashville,T,F_closeDistNormUnion_l_f,1.0
+Great Smoky Mountains National Park,Nashville,T,F_distBtwnCentroids_f_l,1.44012718434
+Great Smoky Mountains National Park,Nashville,T,F_distBtwnCentroids_l_f,1.44012718434
+Great Smoky Mountains National Park,Nashville,T,F_distHorizontalCentroid_f_l,-1.39640950596
+Great Smoky Mountains National Park,Nashville,T,F_distHorizontalCentroid_l_f,1.39640950596
+Great Smoky Mountains National Park,Nashville,T,F_distVerticalCentroid_f_l,0.352145990664
+Great Smoky Mountains National Park,Nashville,T,F_distVerticalCentroid_l_f,-0.352145990664
+Great Smoky Mountains National Park,Nashville,T,F_leftOfFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Nashville,T,F_rightOfFigureCentroid_l_f,1.0
+Great Smoky Mountains National Park,Tennessee,T,arg1 in east arg2,1
+Great Smoky Mountains National Park,Tennessee,T,arg1 in eastern arg2,1
+Great Smoky Mountains National Park,Tennessee,T,arg2 adjacent to arg1,1
+Great Smoky Mountains National Park,Tennessee,T,arg2 entrance to arg1,1
+Great Smoky Mountains National Park,Tennessee,T,arg2 just outside arg1,1
+Great Smoky Mountains National Park,Tennessee,T,arg2 located within arg1,1
+Great Smoky Mountains National Park,Tennessee,T,arg2 portion of arg1,1
+Great Smoky Mountains National Park,Tennessee,T,arg2 side of arg1,1
+Great Smoky Mountains National Park,Tennessee,T,arg2 southwest of arg1,1
+Great Smoky Mountains National Park,Tennessee,T,arg2 with easy access to arg1,1
+Great Smoky Mountains National Park,Tennessee,T,bias,1.0
+Great Smoky Mountains National Park,Tennessee,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Great Smoky Mountains National Park,Tennessee,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Great Smoky Mountains National Park,Tennessee,T,F_aboveFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_0_-1_f_l,0.298790101696
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_0_1_f_l,0.298790101696
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_0_-1_l_f,0.0613300210647
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_0_1_l_f,0.0613300210647
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_1_0_f_l,0.0117262632077
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_-1_0_f_l,0.710576061012
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_-1_0_l_f,0.00105571018583
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_1_0_l_f,0.197185166777
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_1_-1_l_f,0.00417595457081
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_1_1_l_f,0.00417595457081
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_inside_0_-1_l_f,0.0613300210647
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_inside_0_1_l_f,0.0613300210647
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_inside_-1_0_l_f,0.00105571018583
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_inside_1_0_l_f,0.197185166777
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_inside_1_-1_l_f,0.00417595457081
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_inside_1_1_l_f,0.00417595457081
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_outside_0_-1_f_l,0.298790101696
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_outside_0_1_f_l,0.298790101696
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_outside_1_0_f_l,0.0117262632077
+Great Smoky Mountains National Park,Tennessee,T,F_avsResult_outside_-1_0_f_l,0.710576061012
+Great Smoky Mountains National Park,Tennessee,T,F_belowFigureCentroid_l_f,1.0
+Great Smoky Mountains National Park,Tennessee,T,F_distBtwnCentroids_f_l,0.163965517053
+Great Smoky Mountains National Park,Tennessee,T,F_distBtwnCentroids_l_f,0.163965517053
+Great Smoky Mountains National Park,Tennessee,T,F_distHorizontalCentroid_f_l,-0.162246857529
+Great Smoky Mountains National Park,Tennessee,T,F_distHorizontalCentroid_l_f,0.162246857529
+Great Smoky Mountains National Park,Tennessee,T,F_distVerticalCentroid_f_l,0.0236780067676
+Great Smoky Mountains National Park,Tennessee,T,F_distVerticalCentroid_l_f,-0.0236780067676
+Great Smoky Mountains National Park,Tennessee,T,F_leftOfFigureCentroid_f_l,1.0
+Great Smoky Mountains National Park,Tennessee,T,F_math2dFigureIntersectionArea_f_l,1.00000000001
+Great Smoky Mountains National Park,Tennessee,T,F_math2dFigureIntersectionArea_l_f,7.51881337703e-06
+Great Smoky Mountains National Park,Tennessee,T,F_math2dIntersectionArea_f_l,7.51881337703e-06
+Great Smoky Mountains National Park,Tennessee,T,F_math2dIntersectionArea_l_f,7.51881337703e-06
+Great Smoky Mountains National Park,Tennessee,T,F_math2dLandmarkIntersectionArea_f_l,7.51881337703e-06
+Great Smoky Mountains National Park,Tennessee,T,F_math2dLandmarkIntersectionArea_l_f,1.00000000001
+Great Smoky Mountains National Park,Tennessee,T,F_rightOfFigureCentroid_l_f,1.0
+Knoxville,Alabama,T,arg2 and move to arg1,1
+Knoxville,Alabama,T,arg2 before moving to arg1,1
+Knoxville,Alabama,T,arg2 coming to arg1,1
+Knoxville,Alabama,T,arg2 football game in arg1,1
+Knoxville,Alabama,T,arg2 game at arg1,1
+Knoxville,Alabama,T,arg2 line to arg1,1
+Knoxville,Alabama,T,arg2 this weekend in arg1,1
+Knoxville,Alabama,T,arg2 woman in arg1,1
+Knoxville,Alabama,T,bias,1.0
+Knoxville,Alabama,T,F_aboveFigureCentroid_l_f,1.0
+Knoxville,Alabama,T,F_avsResult_0_-1_f_l,0.050371946649
+Knoxville,Alabama,T,F_avsResult_0_1_f_l,0.050371946649
+Knoxville,Alabama,T,F_avsResult_0_-1_l_f,0.456977259052
+Knoxville,Alabama,T,F_avsResult_0_1_l_f,0.456977259052
+Knoxville,Alabama,T,F_avsResult_1_0_f_l,0.0580074712304
+Knoxville,Alabama,T,F_avsResult_-1_0_f_l,0.559750108079
+Knoxville,Alabama,T,F_avsResult_-1_0_l_f,0.0409856367191
+Knoxville,Alabama,T,F_avsResult_1_0_l_f,0.483768916174
+Knoxville,Alabama,T,F_avsResult_-1_-1_f_l,0.206152306144
+Knoxville,Alabama,T,F_avsResult_-1_1_f_l,0.206152306144
+Knoxville,Alabama,T,F_avsResult_-1_-1_l_f,0.117852238179
+Knoxville,Alabama,T,F_avsResult_-1_1_l_f,0.117852238179
+Knoxville,Alabama,T,F_avsResult_outside_0_-1_f_l,0.050371946649
+Knoxville,Alabama,T,F_avsResult_outside_0_1_f_l,0.050371946649
+Knoxville,Alabama,T,F_avsResult_outside_0_-1_l_f,0.456977259052
+Knoxville,Alabama,T,F_avsResult_outside_0_1_l_f,0.456977259052
+Knoxville,Alabama,T,F_avsResult_outside_1_0_f_l,0.0580074712304
+Knoxville,Alabama,T,F_avsResult_outside_-1_0_f_l,0.559750108079
+Knoxville,Alabama,T,F_avsResult_outside_-1_0_l_f,0.0409856367191
+Knoxville,Alabama,T,F_avsResult_outside_1_0_l_f,0.483768916174
+Knoxville,Alabama,T,F_avsResult_outside_-1_-1_f_l,0.206152306144
+Knoxville,Alabama,T,F_avsResult_outside_-1_1_f_l,0.206152306144
+Knoxville,Alabama,T,F_avsResult_outside_-1_-1_l_f,0.117852238179
+Knoxville,Alabama,T,F_avsResult_outside_-1_1_l_f,0.117852238179
+Knoxville,Alabama,T,F_belowFigureCentroid_f_l,1.0
+Knoxville,Alabama,T,F_closeDistNormFigure_f_l,1.0
+Knoxville,Alabama,T,F_closeDistNormFigure_l_f,0.218153081475
+Knoxville,Alabama,T,F_closeDistNormLandmark_f_l,0.218153081475
+Knoxville,Alabama,T,F_closeDistNormLandmark_l_f,1.0
+Knoxville,Alabama,T,F_closeDistNormUnion_f_l,0.216444681748
+Knoxville,Alabama,T,F_closeDistNormUnion_l_f,0.216444681748
+Knoxville,Alabama,T,F_distBtwnCentroids_f_l,0.153486263263
+Knoxville,Alabama,T,F_distBtwnCentroids_l_f,0.153486263263
+Knoxville,Alabama,T,F_distHorizontalCentroid_f_l,-0.103487505076
+Knoxville,Alabama,T,F_distHorizontalCentroid_l_f,0.103487505076
+Knoxville,Alabama,T,F_distVerticalCentroid_f_l,-0.113350647566
+Knoxville,Alabama,T,F_distVerticalCentroid_l_f,0.113350647566
+Knoxville,Alabama,T,F_leftOfFigureCentroid_f_l,1.0
+Knoxville,Alabama,T,F_rightOfFigureCentroid_l_f,1.0
+Knoxville,Birmingham,T,bias,1.0
+Knoxville,Birmingham,T,F_aboveFigureCentroid_l_f,1.0
+Knoxville,Birmingham,T,F_avsResult_0_-1_f_l,0.0676215949361
+Knoxville,Birmingham,T,F_avsResult_0_1_f_l,0.0676215949361
+Knoxville,Birmingham,T,F_avsResult_0_-1_l_f,0.541893575083
+Knoxville,Birmingham,T,F_avsResult_0_1_l_f,0.541893575083
+Knoxville,Birmingham,T,F_avsResult_1_0_f_l,0.0519271202213
+Knoxville,Birmingham,T,F_avsResult_-1_0_f_l,0.578910792652
+Knoxville,Birmingham,T,F_avsResult_-1_0_l_f,0.0541439472288
+Knoxville,Birmingham,T,F_avsResult_1_0_l_f,0.588014269669
+Knoxville,Birmingham,T,F_avsResult_-1_-1_f_l,0.271353412984
+Knoxville,Birmingham,T,F_avsResult_-1_1_f_l,0.271353412984
+Knoxville,Birmingham,T,F_avsResult_-1_-1_l_f,0.21172219477
+Knoxville,Birmingham,T,F_avsResult_-1_1_l_f,0.21172219477
+Knoxville,Birmingham,T,F_avsResult_outside_0_-1_f_l,0.0676215949361
+Knoxville,Birmingham,T,F_avsResult_outside_0_1_f_l,0.0676215949361
+Knoxville,Birmingham,T,F_avsResult_outside_0_-1_l_f,0.541893575083
+Knoxville,Birmingham,T,F_avsResult_outside_0_1_l_f,0.541893575083
+Knoxville,Birmingham,T,F_avsResult_outside_1_0_f_l,0.0519271202213
+Knoxville,Birmingham,T,F_avsResult_outside_-1_0_f_l,0.578910792652
+Knoxville,Birmingham,T,F_avsResult_outside_-1_0_l_f,0.0541439472288
+Knoxville,Birmingham,T,F_avsResult_outside_1_0_l_f,0.588014269669
+Knoxville,Birmingham,T,F_avsResult_outside_-1_-1_f_l,0.271353412984
+Knoxville,Birmingham,T,F_avsResult_outside_-1_1_f_l,0.271353412984
+Knoxville,Birmingham,T,F_avsResult_outside_-1_-1_l_f,0.21172219477
+Knoxville,Birmingham,T,F_avsResult_outside_-1_1_l_f,0.21172219477
+Knoxville,Birmingham,T,F_belowFigureCentroid_f_l,1.0
+Knoxville,Birmingham,T,F_closeDistNormFigure_f_l,1.0
+Knoxville,Birmingham,T,F_closeDistNormFigure_l_f,1.0
+Knoxville,Birmingham,T,F_closeDistNormLandmark_f_l,1.0
+Knoxville,Birmingham,T,F_closeDistNormLandmark_l_f,1.0
+Knoxville,Birmingham,T,F_closeDistNormUnion_f_l,1.0
+Knoxville,Birmingham,T,F_closeDistNormUnion_l_f,1.0
+Knoxville,Birmingham,T,F_distBtwnCentroids_f_l,0.4929708598
+Knoxville,Birmingham,T,F_distBtwnCentroids_l_f,0.4929708598
+Knoxville,Birmingham,T,F_distHorizontalCentroid_f_l,-0.37165838143
+Knoxville,Birmingham,T,F_distHorizontalCentroid_l_f,0.37165838143
+Knoxville,Birmingham,T,F_distVerticalCentroid_f_l,-0.323867744805
+Knoxville,Birmingham,T,F_distVerticalCentroid_l_f,0.323867744805
+Knoxville,Birmingham,T,F_leftOfFigureCentroid_f_l,1.0
+Knoxville,Birmingham,T,F_rightOfFigureCentroid_l_f,1.0
+Knoxville,Great Smoky Mountains National Park,T,arg1 close to arg2,1
+Knoxville,Great Smoky Mountains National Park,T,arg2 and minutes from arg1,1
+Knoxville,Great Smoky Mountains National Park,T,arg2 towards arg1,1
+Knoxville,Great Smoky Mountains National Park,T,bias,1.0
+Knoxville,Great Smoky Mountains National Park,T,F_aboveFigureCentroid_l_f,1.0
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_0_-1_f_l,0.0116563110749
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_0_1_f_l,0.0116563110749
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_0_-1_l_f,0.539942827075
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_0_1_l_f,0.539942827075
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_1_0_f_l,0.195535768088
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_-1_0_f_l,0.232602094271
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_-1_0_l_f,0.225571073818
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_1_0_l_f,0.274312673266
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_outside_0_-1_f_l,0.0116563110749
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_outside_0_1_f_l,0.0116563110749
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_outside_0_-1_l_f,0.539942827075
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_outside_0_1_l_f,0.539942827075
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_outside_1_0_f_l,0.195535768088
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_0_f_l,0.232602094271
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_0_l_f,0.225571073818
+Knoxville,Great Smoky Mountains National Park,T,F_avsResult_outside_1_0_l_f,0.274312673266
+Knoxville,Great Smoky Mountains National Park,T,F_belowFigureCentroid_f_l,1.0
+Knoxville,Great Smoky Mountains National Park,T,F_closeDistNormFigure_f_l,1.0
+Knoxville,Great Smoky Mountains National Park,T,F_closeDistNormFigure_l_f,1.0
+Knoxville,Great Smoky Mountains National Park,T,F_closeDistNormLandmark_f_l,1.0
+Knoxville,Great Smoky Mountains National Park,T,F_closeDistNormLandmark_l_f,1.0
+Knoxville,Great Smoky Mountains National Park,T,F_closeDistNormUnion_f_l,1.0
+Knoxville,Great Smoky Mountains National Park,T,F_closeDistNormUnion_l_f,1.0
+Knoxville,Great Smoky Mountains National Park,T,F_distBtwnCentroids_f_l,1.70329862131
+Knoxville,Great Smoky Mountains National Park,T,F_distBtwnCentroids_l_f,1.70329862131
+Knoxville,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_f_l,-0.216707612463
+Knoxville,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_l_f,0.216707612463
+Knoxville,Great Smoky Mountains National Park,T,F_distVerticalCentroid_f_l,-1.68945671861
+Knoxville,Great Smoky Mountains National Park,T,F_distVerticalCentroid_l_f,1.68945671861
+Knoxville,Great Smoky Mountains National Park,T,F_leftOfFigureCentroid_f_l,1.0
+Knoxville,Great Smoky Mountains National Park,T,F_rightOfFigureCentroid_l_f,1.0
+Knoxville,Knoxville,T,arg1 is part of arg2,1
+Knoxville,Knoxville,T,arg1 matchmaking and arg2,1
+Knoxville,Knoxville,T,arg1 needs arg2,1
+Knoxville,Knoxville,T,arg1 office space categories including arg2,1
+Knoxville,Knoxville,T,arg1 online dating and arg2,1
+Knoxville,Knoxville,T,arg1 or north of arg2,1
+Knoxville,Knoxville,T,arg1 or relocating outside arg2,1
+Knoxville,Knoxville,T,arg1 or sending flowers to arg2,1
+Knoxville,Knoxville,T,arg1 personal injury lawyer visit our arg2,1
+Knoxville,Knoxville,T,arg1 pool builders in arg2,1
+Knoxville,Knoxville,T,arg1 properties or browse arg2,1
+Knoxville,Knoxville,T,arg1 real estate or apartments in arg2,1
+Knoxville,Knoxville,T,arg1 schools pages to research arg2,1
+Knoxville,Knoxville,T,arg1 staffing location serves arg2,1
+Knoxville,Knoxville,T,arg1 to help you move within arg2,1
+Knoxville,Knoxville,T,arg1 used car inventory search arg2,1
+Knoxville,Knoxville,T,arg2 is part of arg1,1
+Knoxville,Knoxville,T,arg2 matchmaking and arg1,1
+Knoxville,Knoxville,T,arg2 needs arg1,1
+Knoxville,Knoxville,T,arg2 office space categories including arg1,1
+Knoxville,Knoxville,T,arg2 online dating and arg1,1
+Knoxville,Knoxville,T,arg2 or north of arg1,1
+Knoxville,Knoxville,T,arg2 or relocating outside arg1,1
+Knoxville,Knoxville,T,arg2 or sending flowers to arg1,1
+Knoxville,Knoxville,T,arg2 personal injury lawyer visit our arg1,1
+Knoxville,Knoxville,T,arg2 pool builders in arg1,1
+Knoxville,Knoxville,T,arg2 properties or browse arg1,1
+Knoxville,Knoxville,T,arg2 real estate or apartments in arg1,1
+Knoxville,Knoxville,T,arg2 schools pages to research arg1,1
+Knoxville,Knoxville,T,arg2 staffing location serves arg1,1
+Knoxville,Knoxville,T,arg2 to help you move within arg1,1
+Knoxville,Knoxville,T,arg2 used car inventory search arg1,1
+Knoxville,Knoxville,T,bias,1.0
+Knoxville,Knoxville,T,entity1=entity2,1
+Knoxville,Knoxville,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Knoxville,Knoxville,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Knoxville,Knoxville,T,F_avsResult_0_-1_f_l,0.0114324409414
+Knoxville,Knoxville,T,F_avsResult_0_1_f_l,0.0114324409414
+Knoxville,Knoxville,T,F_avsResult_0_-1_l_f,0.0114324409414
+Knoxville,Knoxville,T,F_avsResult_0_1_l_f,0.0114324409414
+Knoxville,Knoxville,T,F_avsResult_-1_0_f_l,0.0013583739525
+Knoxville,Knoxville,T,F_avsResult_1_0_f_l,0.00135837395504
+Knoxville,Knoxville,T,F_avsResult_-1_0_l_f,0.0013583739525
+Knoxville,Knoxville,T,F_avsResult_1_0_l_f,0.00135837395504
+Knoxville,Knoxville,T,F_avsResult_inside_0_-1_f_l,0.0114324409414
+Knoxville,Knoxville,T,F_avsResult_inside_0_1_f_l,0.0114324409414
+Knoxville,Knoxville,T,F_avsResult_inside_0_-1_l_f,0.0114324409414
+Knoxville,Knoxville,T,F_avsResult_inside_0_1_l_f,0.0114324409414
+Knoxville,Knoxville,T,F_avsResult_inside_-1_0_f_l,0.0013583739525
+Knoxville,Knoxville,T,F_avsResult_inside_1_0_f_l,0.00135837395504
+Knoxville,Knoxville,T,F_avsResult_inside_-1_0_l_f,0.0013583739525
+Knoxville,Knoxville,T,F_avsResult_inside_1_0_l_f,0.00135837395504
+Knoxville,Knoxville,T,F_math2dFigureIntersectionArea_f_l,1.0
+Knoxville,Knoxville,T,F_math2dFigureIntersectionArea_l_f,1.0
+Knoxville,Knoxville,T,F_math2dIntersectionArea_f_l,1.0
+Knoxville,Knoxville,T,F_math2dIntersectionArea_l_f,1.0
+Knoxville,Knoxville,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Knoxville,Knoxville,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Knoxville,Memphis,T,arg1 and later to arg2,1
+Knoxville,Memphis,T,arg1 andmoved to arg2,1
+Knoxville,Memphis,T,arg1 and west to arg2,1
+Knoxville,Memphis,T,arg1 back to arg2,1
+Knoxville,Memphis,T,arg1 he went to arg2,1
+Knoxville,Memphis,T,arg1 or printing in arg2,1
+Knoxville,Memphis,T,arg1 prior to moving to arg2,1
+Knoxville,Memphis,T,arg2 and moved to arg1,1
+Knoxville,Memphis,T,arg2 and one in arg1,1
+Knoxville,Memphis,T,arg2 headed for arg1,1
+Knoxville,Memphis,T,arg2 in the west to arg1,1
+Knoxville,Memphis,T,bias,1.0
+Knoxville,Memphis,T,F_aboveFigureCentroid_l_f,1.0
+Knoxville,Memphis,T,F_avsResult_0_-1_f_l,0.169616558665
+Knoxville,Memphis,T,F_avsResult_0_1_f_l,0.169616558665
+Knoxville,Memphis,T,F_avsResult_0_-1_l_f,0.323934595096
+Knoxville,Memphis,T,F_avsResult_0_1_l_f,0.323934595096
+Knoxville,Memphis,T,F_avsResult_1_0_f_l,0.00683038194321
+Knoxville,Memphis,T,F_avsResult_-1_0_f_l,0.801989537688
+Knoxville,Memphis,T,F_avsResult_-1_0_l_f,0.00678150123602
+Knoxville,Memphis,T,F_avsResult_1_0_l_f,0.80045384606
+Knoxville,Memphis,T,F_avsResult_outside_0_-1_f_l,0.169616558665
+Knoxville,Memphis,T,F_avsResult_outside_0_1_f_l,0.169616558665
+Knoxville,Memphis,T,F_avsResult_outside_0_-1_l_f,0.323934595096
+Knoxville,Memphis,T,F_avsResult_outside_0_1_l_f,0.323934595096
+Knoxville,Memphis,T,F_avsResult_outside_1_0_f_l,0.00683038194321
+Knoxville,Memphis,T,F_avsResult_outside_-1_0_f_l,0.801989537688
+Knoxville,Memphis,T,F_avsResult_outside_-1_0_l_f,0.00678150123602
+Knoxville,Memphis,T,F_avsResult_outside_1_0_l_f,0.80045384606
+Knoxville,Memphis,T,F_belowFigureCentroid_f_l,1.0
+Knoxville,Memphis,T,F_closeDistNormFigure_f_l,1.0
+Knoxville,Memphis,T,F_closeDistNormFigure_l_f,1.0
+Knoxville,Memphis,T,F_closeDistNormLandmark_f_l,1.0
+Knoxville,Memphis,T,F_closeDistNormLandmark_l_f,1.0
+Knoxville,Memphis,T,F_closeDistNormUnion_f_l,1.0
+Knoxville,Memphis,T,F_closeDistNormUnion_l_f,1.0
+Knoxville,Memphis,T,F_distBtwnCentroids_f_l,0.860416225894
+Knoxville,Memphis,T,F_distBtwnCentroids_l_f,0.860416225894
+Knoxville,Memphis,T,F_distHorizontalCentroid_f_l,-0.851994992379
+Knoxville,Memphis,T,F_distHorizontalCentroid_l_f,0.851994992379
+Knoxville,Memphis,T,F_distVerticalCentroid_f_l,-0.120085864044
+Knoxville,Memphis,T,F_distVerticalCentroid_l_f,0.120085864044
+Knoxville,Memphis,T,F_leftOfFigureCentroid_f_l,1.0
+Knoxville,Memphis,T,F_rightOfFigureCentroid_l_f,1.0
+Knoxville,Nashville,T,arg1 and back to arg2,1
+Knoxville,Nashville,T,arg1 was moved to arg2,1
+Knoxville,Nashville,T,arg1 with offices in arg2,1
+Knoxville,Nashville,T,arg2 and ending in arg1,1
+Knoxville,Nashville,T,arg2 and has regional offices in arg1,1
+Knoxville,Nashville,T,arg2 and once in arg1,1
+Knoxville,Nashville,T,arg2 and the other in arg1,1
+Knoxville,Nashville,T,arg2 and two in arg1,1
+Knoxville,Nashville,T,arg2 as well as arg1,1
+Knoxville,Nashville,T,arg2 before returning to arg1,1
+Knoxville,Nashville,T,arg2 instead of arg1,1
+Knoxville,Nashville,T,arg2 is the new arg1,1
+Knoxville,Nashville,T,arg2 will be arg1,1
+Knoxville,Nashville,T,bias,1.0
+Knoxville,Nashville,T,F_aboveFigureCentroid_f_l,1.0
+Knoxville,Nashville,T,F_avsResult_0_-1_f_l,0.27282767826
+Knoxville,Nashville,T,F_avsResult_0_1_f_l,0.27282767826
+Knoxville,Nashville,T,F_avsResult_0_-1_l_f,0.220202614046
+Knoxville,Nashville,T,F_avsResult_0_1_l_f,0.220202614046
+Knoxville,Nashville,T,F_avsResult_1_0_f_l,0.00591216020155
+Knoxville,Nashville,T,F_avsResult_-1_0_f_l,0.736443220181
+Knoxville,Nashville,T,F_avsResult_-1_0_l_f,0.0062133539369
+Knoxville,Nashville,T,F_avsResult_1_0_l_f,0.746441132354
+Knoxville,Nashville,T,F_avsResult_outside_0_-1_f_l,0.27282767826
+Knoxville,Nashville,T,F_avsResult_outside_0_1_f_l,0.27282767826
+Knoxville,Nashville,T,F_avsResult_outside_0_-1_l_f,0.220202614046
+Knoxville,Nashville,T,F_avsResult_outside_0_1_l_f,0.220202614046
+Knoxville,Nashville,T,F_avsResult_outside_1_0_f_l,0.00591216020155
+Knoxville,Nashville,T,F_avsResult_outside_-1_0_f_l,0.736443220181
+Knoxville,Nashville,T,F_avsResult_outside_-1_0_l_f,0.0062133539369
+Knoxville,Nashville,T,F_avsResult_outside_1_0_l_f,0.746441132354
+Knoxville,Nashville,T,F_belowFigureCentroid_l_f,1.0
+Knoxville,Nashville,T,F_closeDistNormFigure_f_l,1.0
+Knoxville,Nashville,T,F_closeDistNormFigure_l_f,1.0
+Knoxville,Nashville,T,F_closeDistNormLandmark_f_l,1.0
+Knoxville,Nashville,T,F_closeDistNormLandmark_l_f,1.0
+Knoxville,Nashville,T,F_closeDistNormUnion_f_l,1.0
+Knoxville,Nashville,T,F_closeDistNormUnion_l_f,1.0
+Knoxville,Nashville,T,F_distBtwnCentroids_f_l,2.59613351559
+Knoxville,Nashville,T,F_distBtwnCentroids_l_f,2.59613351559
+Knoxville,Nashville,T,F_distHorizontalCentroid_f_l,-2.58703296741
+Knoxville,Nashville,T,F_distHorizontalCentroid_l_f,2.58703296741
+Knoxville,Nashville,T,F_distVerticalCentroid_f_l,0.217185764554
+Knoxville,Nashville,T,F_distVerticalCentroid_l_f,-0.217185764554
+Knoxville,Nashville,T,F_leftOfFigureCentroid_f_l,1.0
+Knoxville,Nashville,T,F_rightOfFigureCentroid_l_f,1.0
+Knoxville,Tennessee,T,arg1 and the state of arg2,1
+Knoxville,Tennessee,T,arg1 and throughout arg2,1
+Knoxville,Tennessee,T,arg1 in east arg2,1
+Knoxville,Tennessee,T,arg1 in eastern arg2,1
+Knoxville,Tennessee,T,arg1 or other arg2,1
+Knoxville,Tennessee,T,arg1 to establish arg2,1
+Knoxville,Tennessee,T,arg2 and downtown arg1,1
+Knoxville,Tennessee,T,arg2 campus in arg1,1
+Knoxville,Tennessee,T,arg2 here in arg1,1
+Knoxville,Tennessee,T,arg2 including arg1,1
+Knoxville,Tennessee,T,arg2 in the city of arg1,1
+Knoxville,Tennessee,T,arg2 is located in arg1,1
+Knoxville,Tennessee,T,arg2 located between arg1,1
+Knoxville,Tennessee,T,arg2 north of arg1,1
+Knoxville,Tennessee,T,arg2 serves arg1,1
+Knoxville,Tennessee,T,arg2 with others in arg1,1
+Knoxville,Tennessee,T,bias,1.0
+Knoxville,Tennessee,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Knoxville,Tennessee,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Knoxville,Tennessee,T,F_aboveFigureCentroid_l_f,1.0
+Knoxville,Tennessee,T,F_avsResult_0_-1_f_l,0.227024773819
+Knoxville,Tennessee,T,F_avsResult_0_1_f_l,0.227024773819
+Knoxville,Tennessee,T,F_avsResult_0_-1_l_f,0.0809965886775
+Knoxville,Tennessee,T,F_avsResult_0_1_l_f,0.0809965886775
+Knoxville,Tennessee,T,F_avsResult_1_0_f_l,0.0035618338702
+Knoxville,Tennessee,T,F_avsResult_-1_0_f_l,0.723860808779
+Knoxville,Tennessee,T,F_avsResult_-1_0_l_f,0.0106415058433
+Knoxville,Tennessee,T,F_avsResult_1_0_l_f,0.168628324531
+Knoxville,Tennessee,T,F_avsResult_1_-1_l_f,0.0673531807325
+Knoxville,Tennessee,T,F_avsResult_1_1_l_f,0.0673531807325
+Knoxville,Tennessee,T,F_avsResult_inside_0_-1_l_f,0.0809965886775
+Knoxville,Tennessee,T,F_avsResult_inside_0_1_l_f,0.0809965886775
+Knoxville,Tennessee,T,F_avsResult_inside_-1_0_l_f,0.0106415058433
+Knoxville,Tennessee,T,F_avsResult_inside_1_0_l_f,0.168628324531
+Knoxville,Tennessee,T,F_avsResult_inside_1_-1_l_f,0.0673531807325
+Knoxville,Tennessee,T,F_avsResult_inside_1_1_l_f,0.0673531807325
+Knoxville,Tennessee,T,F_avsResult_outside_0_-1_f_l,0.227024773819
+Knoxville,Tennessee,T,F_avsResult_outside_0_1_f_l,0.227024773819
+Knoxville,Tennessee,T,F_avsResult_outside_1_0_f_l,0.0035618338702
+Knoxville,Tennessee,T,F_avsResult_outside_-1_0_f_l,0.723860808779
+Knoxville,Tennessee,T,F_belowFigureCentroid_f_l,1.0
+Knoxville,Tennessee,T,F_distBtwnCentroids_f_l,0.166484049272
+Knoxville,Tennessee,T,F_distBtwnCentroids_l_f,0.166484049272
+Knoxville,Tennessee,T,F_distHorizontalCentroid_f_l,-0.166296745736
+Knoxville,Tennessee,T,F_distHorizontalCentroid_l_f,0.166296745736
+Knoxville,Tennessee,T,F_distVerticalCentroid_f_l,-0.00789499966
+Knoxville,Tennessee,T,F_distVerticalCentroid_l_f,0.00789499966
+Knoxville,Tennessee,T,F_leftOfFigureCentroid_f_l,1.0
+Knoxville,Tennessee,T,F_math2dFigureIntersectionArea_f_l,1.0
+Knoxville,Tennessee,T,F_math2dFigureIntersectionArea_l_f,0.00949403364702
+Knoxville,Tennessee,T,F_math2dIntersectionArea_f_l,0.00949403364702
+Knoxville,Tennessee,T,F_math2dIntersectionArea_l_f,0.00949403364702
+Knoxville,Tennessee,T,F_math2dLandmarkIntersectionArea_f_l,0.00949403364702
+Knoxville,Tennessee,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Knoxville,Tennessee,T,F_rightOfFigureCentroid_l_f,1.0
+Memphis,Alabama,T,arg1 and four others in arg2,1
+Memphis,Alabama,T,arg1 and others in arg2,1
+Memphis,Alabama,T,arg1 on the way home from arg2,1
+Memphis,Alabama,T,arg2 and grew up in arg1,1
+Memphis,Alabama,T,arg2 and had lived in arg1,1
+Memphis,Alabama,T,arg2 and her mother from arg1,1
+Memphis,Alabama,T,arg2 and the rest in arg1,1
+Memphis,Alabama,T,arg2 before transferring to arg1,1
+Memphis,Alabama,T,arg2 but grew up in arg1,1
+Memphis,Alabama,T,arg2 defeated arg1,1
+Memphis,Alabama,T,arg2 native who has lived in arg1,1
+Memphis,Alabama,T,arg2 rather than in arg1,1
+Memphis,Alabama,T,bias,1.0
+Memphis,Alabama,T,F_aboveFigureCentroid_l_f,1.0
+Memphis,Alabama,T,F_avsResult_0_-1_f_l,0.0727938527849
+Memphis,Alabama,T,F_avsResult_0_1_f_l,0.0727938527849
+Memphis,Alabama,T,F_avsResult_0_-1_l_f,0.320883408127
+Memphis,Alabama,T,F_avsResult_0_1_l_f,0.320883408127
+Memphis,Alabama,T,F_avsResult_-1_0_f_l,0.0429267213144
+Memphis,Alabama,T,F_avsResult_1_0_f_l,0.609085836598
+Memphis,Alabama,T,F_avsResult_1_0_l_f,0.024039652221
+Memphis,Alabama,T,F_avsResult_-1_0_l_f,0.599040075102
+Memphis,Alabama,T,F_avsResult_1_-1_f_l,0.315501189667
+Memphis,Alabama,T,F_avsResult_1_1_f_l,0.315501189667
+Memphis,Alabama,T,F_avsResult_1_-1_l_f,0.0493369152744
+Memphis,Alabama,T,F_avsResult_1_1_l_f,0.0493369152744
+Memphis,Alabama,T,F_avsResult_outside_0_-1_f_l,0.0727938527849
+Memphis,Alabama,T,F_avsResult_outside_0_1_f_l,0.0727938527849
+Memphis,Alabama,T,F_avsResult_outside_0_-1_l_f,0.320883408127
+Memphis,Alabama,T,F_avsResult_outside_0_1_l_f,0.320883408127
+Memphis,Alabama,T,F_avsResult_outside_-1_0_f_l,0.0429267213144
+Memphis,Alabama,T,F_avsResult_outside_1_0_f_l,0.609085836598
+Memphis,Alabama,T,F_avsResult_outside_1_0_l_f,0.024039652221
+Memphis,Alabama,T,F_avsResult_outside_-1_0_l_f,0.599040075102
+Memphis,Alabama,T,F_avsResult_outside_1_-1_f_l,0.315501189667
+Memphis,Alabama,T,F_avsResult_outside_1_1_f_l,0.315501189667
+Memphis,Alabama,T,F_avsResult_outside_1_-1_l_f,0.0493369152744
+Memphis,Alabama,T,F_avsResult_outside_1_1_l_f,0.0493369152744
+Memphis,Alabama,T,F_belowFigureCentroid_f_l,1.0
+Memphis,Alabama,T,F_closeDistNormFigure_f_l,1.0
+Memphis,Alabama,T,F_closeDistNormFigure_l_f,0.165218766585
+Memphis,Alabama,T,F_closeDistNormLandmark_f_l,0.165218766585
+Memphis,Alabama,T,F_closeDistNormLandmark_l_f,1.0
+Memphis,Alabama,T,F_closeDistNormUnion_f_l,0.164162790978
+Memphis,Alabama,T,F_closeDistNormUnion_l_f,0.164162790978
+Memphis,Alabama,T,F_distBtwnCentroids_f_l,0.141780160281
+Memphis,Alabama,T,F_distBtwnCentroids_l_f,0.141780160281
+Memphis,Alabama,T,F_distHorizontalCentroid_f_l,0.113516494108
+Memphis,Alabama,T,F_distHorizontalCentroid_l_f,-0.113516494108
+Memphis,Alabama,T,F_distVerticalCentroid_f_l,-0.084944802164
+Memphis,Alabama,T,F_distVerticalCentroid_l_f,0.084944802164
+Memphis,Alabama,T,F_leftOfFigureCentroid_l_f,1.0
+Memphis,Alabama,T,F_rightOfFigureCentroid_f_l,1.0
+Memphis,Birmingham,T,arg1 all the way down to arg2,1
+Memphis,Birmingham,T,arg1 and come back to arg2,1
+Memphis,Birmingham,T,arg2 and suburban arg1,1
+Memphis,Birmingham,T,arg2 and two hours from arg1,1
+Memphis,Birmingham,T,arg2 beat out arg1,1
+Memphis,Birmingham,T,arg2 before heading to arg1,1
+Memphis,Birmingham,T,arg2 toward arg1,1
+Memphis,Birmingham,T,bias,1.0
+Memphis,Birmingham,T,F_aboveFigureCentroid_l_f,1.0
+Memphis,Birmingham,T,F_avsResult_0_-1_f_l,0.110755411549
+Memphis,Birmingham,T,F_avsResult_0_1_f_l,0.110755411549
+Memphis,Birmingham,T,F_avsResult_0_-1_l_f,0.432417686149
+Memphis,Birmingham,T,F_avsResult_0_1_l_f,0.432417686149
+Memphis,Birmingham,T,F_avsResult_-1_0_f_l,0.0272265236073
+Memphis,Birmingham,T,F_avsResult_1_0_f_l,0.670967574455
+Memphis,Birmingham,T,F_avsResult_1_0_l_f,0.0283963682398
+Memphis,Birmingham,T,F_avsResult_-1_0_l_f,0.681752951148
+Memphis,Birmingham,T,F_avsResult_1_-1_f_l,0.474471019913
+Memphis,Birmingham,T,F_avsResult_1_1_f_l,0.474471019913
+Memphis,Birmingham,T,F_avsResult_1_-1_l_f,0.0821629472069
+Memphis,Birmingham,T,F_avsResult_1_1_l_f,0.0821629472069
+Memphis,Birmingham,T,F_avsResult_outside_0_-1_f_l,0.110755411549
+Memphis,Birmingham,T,F_avsResult_outside_0_1_f_l,0.110755411549
+Memphis,Birmingham,T,F_avsResult_outside_0_-1_l_f,0.432417686149
+Memphis,Birmingham,T,F_avsResult_outside_0_1_l_f,0.432417686149
+Memphis,Birmingham,T,F_avsResult_outside_-1_0_f_l,0.0272265236073
+Memphis,Birmingham,T,F_avsResult_outside_1_0_f_l,0.670967574455
+Memphis,Birmingham,T,F_avsResult_outside_1_0_l_f,0.0283963682398
+Memphis,Birmingham,T,F_avsResult_outside_-1_0_l_f,0.681752951148
+Memphis,Birmingham,T,F_avsResult_outside_1_-1_f_l,0.474471019913
+Memphis,Birmingham,T,F_avsResult_outside_1_1_f_l,0.474471019913
+Memphis,Birmingham,T,F_avsResult_outside_1_-1_l_f,0.0821629472069
+Memphis,Birmingham,T,F_avsResult_outside_1_1_l_f,0.0821629472069
+Memphis,Birmingham,T,F_belowFigureCentroid_f_l,1.0
+Memphis,Birmingham,T,F_closeDistNormFigure_f_l,1.0
+Memphis,Birmingham,T,F_closeDistNormFigure_l_f,1.0
+Memphis,Birmingham,T,F_closeDistNormLandmark_f_l,1.0
+Memphis,Birmingham,T,F_closeDistNormLandmark_l_f,1.0
+Memphis,Birmingham,T,F_closeDistNormUnion_f_l,1.0
+Memphis,Birmingham,T,F_closeDistNormUnion_l_f,1.0
+Memphis,Birmingham,T,F_distBtwnCentroids_f_l,0.598212372727
+Memphis,Birmingham,T,F_distBtwnCentroids_l_f,0.598212372727
+Memphis,Birmingham,T,F_distHorizontalCentroid_f_l,0.54627425904
+Memphis,Birmingham,T,F_distHorizontalCentroid_l_f,-0.54627425904
+Memphis,Birmingham,T,F_distVerticalCentroid_f_l,-0.243808278766
+Memphis,Birmingham,T,F_distVerticalCentroid_l_f,0.243808278766
+Memphis,Birmingham,T,F_leftOfFigureCentroid_l_f,1.0
+Memphis,Birmingham,T,F_rightOfFigureCentroid_f_l,1.0
+Memphis,Great Smoky Mountains National Park,T,bias,1.0
+Memphis,Great Smoky Mountains National Park,T,F_aboveFigureCentroid_f_l,1.0
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_0_-1_f_l,0.277694397117
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_0_1_f_l,0.277694397117
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_0_-1_l_f,0.212631786019
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_0_1_l_f,0.212631786019
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_-1_0_f_l,0.00319656229427
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_1_0_f_l,0.819407296863
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_1_0_l_f,0.0032999569698
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_-1_0_l_f,0.824475303834
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_outside_0_-1_f_l,0.277694397117
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_outside_0_1_f_l,0.277694397117
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_outside_0_-1_l_f,0.212631786019
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_outside_0_1_l_f,0.212631786019
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_0_f_l,0.00319656229427
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_outside_1_0_f_l,0.819407296863
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_outside_1_0_l_f,0.0032999569698
+Memphis,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_0_l_f,0.824475303834
+Memphis,Great Smoky Mountains National Park,T,F_belowFigureCentroid_l_f,1.0
+Memphis,Great Smoky Mountains National Park,T,F_closeDistNormFigure_f_l,1.0
+Memphis,Great Smoky Mountains National Park,T,F_closeDistNormFigure_l_f,1.0
+Memphis,Great Smoky Mountains National Park,T,F_closeDistNormLandmark_f_l,1.0
+Memphis,Great Smoky Mountains National Park,T,F_closeDistNormLandmark_l_f,1.0
+Memphis,Great Smoky Mountains National Park,T,F_closeDistNormUnion_f_l,1.0
+Memphis,Great Smoky Mountains National Park,T,F_closeDistNormUnion_l_f,1.0
+Memphis,Great Smoky Mountains National Park,T,F_distBtwnCentroids_f_l,1.84907189741
+Memphis,Great Smoky Mountains National Park,T,F_distBtwnCentroids_l_f,1.84907189741
+Memphis,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_f_l,1.84508760344
+Memphis,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_l_f,-1.84508760344
+Memphis,Great Smoky Mountains National Park,T,F_distVerticalCentroid_f_l,0.121320309179
+Memphis,Great Smoky Mountains National Park,T,F_distVerticalCentroid_l_f,-0.121320309179
+Memphis,Great Smoky Mountains National Park,T,F_leftOfFigureCentroid_l_f,1.0
+Memphis,Great Smoky Mountains National Park,T,F_rightOfFigureCentroid_f_l,1.0
+Memphis,Knoxville,T,arg1 and moved to arg2,1
+Memphis,Knoxville,T,arg1 and one in arg2,1
+Memphis,Knoxville,T,arg1 headed for arg2,1
+Memphis,Knoxville,T,arg1 in the west to arg2,1
+Memphis,Knoxville,T,arg2 and later to arg1,1
+Memphis,Knoxville,T,arg2 andmoved to arg1,1
+Memphis,Knoxville,T,arg2 and west to arg1,1
+Memphis,Knoxville,T,arg2 back to arg1,1
+Memphis,Knoxville,T,arg2 he went to arg1,1
+Memphis,Knoxville,T,arg2 or printing in arg1,1
+Memphis,Knoxville,T,arg2 prior to moving to arg1,1
+Memphis,Knoxville,T,bias,1.0
+Memphis,Knoxville,T,F_aboveFigureCentroid_f_l,1.0
+Memphis,Knoxville,T,F_avsResult_0_-1_f_l,0.323934595096
+Memphis,Knoxville,T,F_avsResult_0_1_f_l,0.323934595096
+Memphis,Knoxville,T,F_avsResult_0_-1_l_f,0.169616558665
+Memphis,Knoxville,T,F_avsResult_0_1_l_f,0.169616558665
+Memphis,Knoxville,T,F_avsResult_-1_0_f_l,0.00678150123602
+Memphis,Knoxville,T,F_avsResult_1_0_f_l,0.80045384606
+Memphis,Knoxville,T,F_avsResult_1_0_l_f,0.00683038194321
+Memphis,Knoxville,T,F_avsResult_-1_0_l_f,0.801989537688
+Memphis,Knoxville,T,F_avsResult_outside_0_-1_f_l,0.323934595096
+Memphis,Knoxville,T,F_avsResult_outside_0_1_f_l,0.323934595096
+Memphis,Knoxville,T,F_avsResult_outside_0_-1_l_f,0.169616558665
+Memphis,Knoxville,T,F_avsResult_outside_0_1_l_f,0.169616558665
+Memphis,Knoxville,T,F_avsResult_outside_-1_0_f_l,0.00678150123602
+Memphis,Knoxville,T,F_avsResult_outside_1_0_f_l,0.80045384606
+Memphis,Knoxville,T,F_avsResult_outside_1_0_l_f,0.00683038194321
+Memphis,Knoxville,T,F_avsResult_outside_-1_0_l_f,0.801989537688
+Memphis,Knoxville,T,F_belowFigureCentroid_l_f,1.0
+Memphis,Knoxville,T,F_closeDistNormFigure_f_l,1.0
+Memphis,Knoxville,T,F_closeDistNormFigure_l_f,1.0
+Memphis,Knoxville,T,F_closeDistNormLandmark_f_l,1.0
+Memphis,Knoxville,T,F_closeDistNormLandmark_l_f,1.0
+Memphis,Knoxville,T,F_closeDistNormUnion_f_l,1.0
+Memphis,Knoxville,T,F_closeDistNormUnion_l_f,1.0
+Memphis,Knoxville,T,F_distBtwnCentroids_f_l,0.860416225894
+Memphis,Knoxville,T,F_distBtwnCentroids_l_f,0.860416225894
+Memphis,Knoxville,T,F_distHorizontalCentroid_f_l,0.851994992379
+Memphis,Knoxville,T,F_distHorizontalCentroid_l_f,-0.851994992379
+Memphis,Knoxville,T,F_distVerticalCentroid_f_l,0.120085864044
+Memphis,Knoxville,T,F_distVerticalCentroid_l_f,-0.120085864044
+Memphis,Knoxville,T,F_leftOfFigureCentroid_l_f,1.0
+Memphis,Knoxville,T,F_rightOfFigureCentroid_f_l,1.0
+Memphis,Memphis,T,arg1 as part of arg2,1
+Memphis,Memphis,T,arg1 dates and arg2,1
+Memphis,Memphis,T,arg1 is a neighborhood in arg2,1
+Memphis,Memphis,T,arg1 is located in arg2,1
+Memphis,Memphis,T,arg1 is located within arg2,1
+Memphis,Memphis,T,arg1 is still arg2,1
+Memphis,Memphis,T,arg1 is within arg2,1
+Memphis,Memphis,T,arg1 matchmaking and arg2,1
+Memphis,Memphis,T,arg1 personals and arg2,1
+Memphis,Memphis,T,arg1 provides detailed information on arg2,1
+Memphis,Memphis,T,arg1 shopping in arg2,1
+Memphis,Memphis,T,arg1 stays in arg2,1
+Memphis,Memphis,T,arg1 wedding buses and arg2,1
+Memphis,Memphis,T,arg1 win at arg2,1
+Memphis,Memphis,T,arg2 as part of arg1,1
+Memphis,Memphis,T,arg2 dates and arg1,1
+Memphis,Memphis,T,arg2 is a neighborhood in arg1,1
+Memphis,Memphis,T,arg2 is located in arg1,1
+Memphis,Memphis,T,arg2 is located within arg1,1
+Memphis,Memphis,T,arg2 is still arg1,1
+Memphis,Memphis,T,arg2 is within arg1,1
+Memphis,Memphis,T,arg2 matchmaking and arg1,1
+Memphis,Memphis,T,arg2 personals and arg1,1
+Memphis,Memphis,T,arg2 provides detailed information on arg1,1
+Memphis,Memphis,T,arg2 shopping in arg1,1
+Memphis,Memphis,T,arg2 stays in arg1,1
+Memphis,Memphis,T,arg2 wedding buses and arg1,1
+Memphis,Memphis,T,arg2 win at arg1,1
+Memphis,Memphis,T,bias,1.0
+Memphis,Memphis,T,entity1=entity2,1
+Memphis,Memphis,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Memphis,Memphis,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Memphis,Memphis,T,F_avsResult_0_-1_f_l,0.0712787564314
+Memphis,Memphis,T,F_avsResult_0_1_f_l,0.0712787564314
+Memphis,Memphis,T,F_avsResult_0_-1_l_f,0.0712787564314
+Memphis,Memphis,T,F_avsResult_0_1_l_f,0.0712787564314
+Memphis,Memphis,T,F_avsResult_1_0_f_l,0.00993952710059
+Memphis,Memphis,T,F_avsResult_-1_0_f_l,0.420422120347
+Memphis,Memphis,T,F_avsResult_1_0_l_f,0.00993952710059
+Memphis,Memphis,T,F_avsResult_-1_0_l_f,0.420422120347
+Memphis,Memphis,T,F_avsResult_1_-1_f_l,0.300469508129
+Memphis,Memphis,T,F_avsResult_1_1_f_l,0.300469508129
+Memphis,Memphis,T,F_avsResult_1_-1_l_f,0.300469508129
+Memphis,Memphis,T,F_avsResult_1_1_l_f,0.300469508129
+Memphis,Memphis,T,F_avsResult_inside_0_-1_f_l,0.0712787564314
+Memphis,Memphis,T,F_avsResult_inside_0_1_f_l,0.0712787564314
+Memphis,Memphis,T,F_avsResult_inside_0_-1_l_f,0.0712787564314
+Memphis,Memphis,T,F_avsResult_inside_0_1_l_f,0.0712787564314
+Memphis,Memphis,T,F_avsResult_inside_1_0_f_l,0.00993952710059
+Memphis,Memphis,T,F_avsResult_inside_-1_0_f_l,0.420422120347
+Memphis,Memphis,T,F_avsResult_inside_1_0_l_f,0.00993952710059
+Memphis,Memphis,T,F_avsResult_inside_-1_0_l_f,0.420422120347
+Memphis,Memphis,T,F_avsResult_inside_1_-1_f_l,0.300469508129
+Memphis,Memphis,T,F_avsResult_inside_1_1_f_l,0.300469508129
+Memphis,Memphis,T,F_avsResult_inside_1_-1_l_f,0.300469508129
+Memphis,Memphis,T,F_avsResult_inside_1_1_l_f,0.300469508129
+Memphis,Memphis,T,F_math2dFigureIntersectionArea_f_l,0.999957889036
+Memphis,Memphis,T,F_math2dFigureIntersectionArea_l_f,0.999957889036
+Memphis,Memphis,T,F_math2dIntersectionArea_f_l,1.0
+Memphis,Memphis,T,F_math2dIntersectionArea_l_f,1.0
+Memphis,Memphis,T,F_math2dLandmarkIntersectionArea_f_l,0.999957889036
+Memphis,Memphis,T,F_math2dLandmarkIntersectionArea_l_f,0.999957889036
+Memphis,Nashville,T,arg1 and one in arg2,1
+Memphis,Nashville,T,arg1 and two hours from arg2,1
+Memphis,Nashville,T,arg2 and its largest city is arg1,1
+Memphis,Nashville,T,arg2 and the largest city is arg1,1
+Memphis,Nashville,T,arg2 and the other in arg1,1
+Memphis,Nashville,T,arg2 before moving to arg1,1
+Memphis,Nashville,T,arg2 is the capital and arg1,1
+Memphis,Nashville,T,arg2 tomorrow and arg1,1
+Memphis,Nashville,T,arg2 to return to arg1,1
+Memphis,Nashville,T,arg2 we went to arg1,1
+Memphis,Nashville,T,arg2 with regional offices in arg1,1
+Memphis,Nashville,T,bias,1.0
+Memphis,Nashville,T,F_aboveFigureCentroid_f_l,1.0
+Memphis,Nashville,T,F_avsResult_0_-1_f_l,0.376586744272
+Memphis,Nashville,T,F_avsResult_0_1_f_l,0.376586744272
+Memphis,Nashville,T,F_avsResult_0_-1_l_f,0.141538623265
+Memphis,Nashville,T,F_avsResult_0_1_l_f,0.141538623265
+Memphis,Nashville,T,F_avsResult_-1_0_f_l,0.021339670522
+Memphis,Nashville,T,F_avsResult_1_0_f_l,0.690836671584
+Memphis,Nashville,T,F_avsResult_1_0_l_f,0.0223851198988
+Memphis,Nashville,T,F_avsResult_-1_0_l_f,0.701951111193
+Memphis,Nashville,T,F_avsResult_-1_-1_f_l,0.0458998696103
+Memphis,Nashville,T,F_avsResult_-1_1_f_l,0.0458998696103
+Memphis,Nashville,T,F_avsResult_-1_-1_l_f,0.580211503828
+Memphis,Nashville,T,F_avsResult_-1_1_l_f,0.580211503828
+Memphis,Nashville,T,F_avsResult_outside_0_-1_f_l,0.376586744272
+Memphis,Nashville,T,F_avsResult_outside_0_1_f_l,0.376586744272
+Memphis,Nashville,T,F_avsResult_outside_0_-1_l_f,0.141538623265
+Memphis,Nashville,T,F_avsResult_outside_0_1_l_f,0.141538623265
+Memphis,Nashville,T,F_avsResult_outside_-1_0_f_l,0.021339670522
+Memphis,Nashville,T,F_avsResult_outside_1_0_f_l,0.690836671584
+Memphis,Nashville,T,F_avsResult_outside_1_0_l_f,0.0223851198988
+Memphis,Nashville,T,F_avsResult_outside_-1_0_l_f,0.701951111193
+Memphis,Nashville,T,F_avsResult_outside_-1_-1_f_l,0.0458998696103
+Memphis,Nashville,T,F_avsResult_outside_-1_1_f_l,0.0458998696103
+Memphis,Nashville,T,F_avsResult_outside_-1_-1_l_f,0.580211503828
+Memphis,Nashville,T,F_avsResult_outside_-1_1_l_f,0.580211503828
+Memphis,Nashville,T,F_belowFigureCentroid_l_f,1.0
+Memphis,Nashville,T,F_closeDistNormFigure_f_l,1.0
+Memphis,Nashville,T,F_closeDistNormFigure_l_f,1.0
+Memphis,Nashville,T,F_closeDistNormLandmark_f_l,1.0
+Memphis,Nashville,T,F_closeDistNormLandmark_l_f,1.0
+Memphis,Nashville,T,F_closeDistNormUnion_f_l,1.0
+Memphis,Nashville,T,F_closeDistNormUnion_l_f,1.0
+Memphis,Nashville,T,F_distBtwnCentroids_f_l,0.788569406937
+Memphis,Nashville,T,F_distBtwnCentroids_l_f,0.788569406937
+Memphis,Nashville,T,F_distHorizontalCentroid_f_l,0.747344348304
+Memphis,Nashville,T,F_distHorizontalCentroid_l_f,-0.747344348304
+Memphis,Nashville,T,F_distVerticalCentroid_f_l,0.251630949239
+Memphis,Nashville,T,F_distVerticalCentroid_l_f,-0.251630949239
+Memphis,Nashville,T,F_leftOfFigureCentroid_l_f,1.0
+Memphis,Nashville,T,F_rightOfFigureCentroid_f_l,1.0
+Memphis,Tennessee,T,arg1 and the state of arg2,1
+Memphis,Tennessee,T,arg1 and throughout arg2,1
+Memphis,Tennessee,T,arg1 area of arg2,1
+Memphis,Tennessee,T,arg1 is one of arg2,1
+Memphis,Tennessee,T,arg1 is the largest city in arg2,1
+Memphis,Tennessee,T,arg1 takes on arg2,1
+Memphis,Tennessee,T,arg2 cities such as arg1,1
+Memphis,Tennessee,T,arg2 include arg1,1
+Memphis,Tennessee,T,arg2 including arg1,1
+Memphis,Tennessee,T,arg2 including but not limited to arg1,1
+Memphis,Tennessee,T,arg2 not far from arg1,1
+Memphis,Tennessee,T,arg2 outside arg1,1
+Memphis,Tennessee,T,arg2 outside of arg1,1
+Memphis,Tennessee,T,arg2 plays arg1,1
+Memphis,Tennessee,T,arg2 which includes arg1,1
+Memphis,Tennessee,T,arg2 with locations in arg1,1
+Memphis,Tennessee,T,arg2 with offices in arg1,1
+Memphis,Tennessee,T,bias,1.0
+Memphis,Tennessee,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Memphis,Tennessee,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Memphis,Tennessee,T,F_aboveFigureCentroid_f_l,1.0
+Memphis,Tennessee,T,F_avsResult_0_-1_f_l,0.32698608086
+Memphis,Tennessee,T,F_avsResult_0_1_f_l,0.32698608086
+Memphis,Tennessee,T,F_avsResult_0_-1_l_f,0.184763070104
+Memphis,Tennessee,T,F_avsResult_0_1_l_f,0.184763070104
+Memphis,Tennessee,T,F_avsResult_-1_0_f_l,0.0124933013991
+Memphis,Tennessee,T,F_avsResult_1_0_f_l,0.735209693004
+Memphis,Tennessee,T,F_avsResult_1_0_l_f,0.0177210307826
+Memphis,Tennessee,T,F_avsResult_-1_0_l_f,0.0424946451876
+Memphis,Tennessee,T,F_avsResult_-1_-1_l_f,0.0450579206277
+Memphis,Tennessee,T,F_avsResult_-1_1_l_f,0.0450579206277
+Memphis,Tennessee,T,F_avsResult_inside_0_-1_l_f,0.184763070104
+Memphis,Tennessee,T,F_avsResult_inside_0_1_l_f,0.184763070104
+Memphis,Tennessee,T,F_avsResult_inside_1_0_l_f,0.0177210307826
+Memphis,Tennessee,T,F_avsResult_inside_-1_0_l_f,0.0424946451876
+Memphis,Tennessee,T,F_avsResult_inside_-1_-1_l_f,0.0450579206277
+Memphis,Tennessee,T,F_avsResult_inside_-1_1_l_f,0.0450579206277
+Memphis,Tennessee,T,F_avsResult_outside_0_-1_f_l,0.32698608086
+Memphis,Tennessee,T,F_avsResult_outside_0_1_f_l,0.32698608086
+Memphis,Tennessee,T,F_avsResult_outside_-1_0_f_l,0.0124933013991
+Memphis,Tennessee,T,F_avsResult_outside_1_0_f_l,0.735209693004
+Memphis,Tennessee,T,F_belowFigureCentroid_l_f,1.0
+Memphis,Tennessee,T,F_distBtwnCentroids_f_l,0.255157364518
+Memphis,Tennessee,T,F_distBtwnCentroids_l_f,0.255157364518
+Memphis,Tennessee,T,F_distHorizontalCentroid_f_l,0.25005172738
+Memphis,Tennessee,T,F_distHorizontalCentroid_l_f,-0.25005172738
+Memphis,Tennessee,T,F_distVerticalCentroid_f_l,0.0507879346117
+Memphis,Tennessee,T,F_distVerticalCentroid_l_f,-0.0507879346117
+Memphis,Tennessee,T,F_leftOfFigureCentroid_l_f,1.0
+Memphis,Tennessee,T,F_math2dFigureIntersectionArea_f_l,0.989517700857
+Memphis,Tennessee,T,F_math2dFigureIntersectionArea_l_f,0.00765648097102
+Memphis,Tennessee,T,F_math2dIntersectionArea_f_l,0.00765586251604
+Memphis,Tennessee,T,F_math2dIntersectionArea_l_f,0.00765586251604
+Memphis,Tennessee,T,F_math2dLandmarkIntersectionArea_f_l,0.00765648097102
+Memphis,Tennessee,T,F_math2dLandmarkIntersectionArea_l_f,0.989517700857
+Memphis,Tennessee,T,F_rightOfFigureCentroid_f_l,1.0
+Nashville,Alabama,T,arg2 and arrived in arg1,1
+Nashville,Alabama,T,arg2 and back to arg1,1
+Nashville,Alabama,T,arg2 and is now based in arg1,1
+Nashville,Alabama,T,arg2 and later arg1,1
+Nashville,Alabama,T,arg2 and now live in arg1,1
+Nashville,Alabama,T,arg2 and now lives in arg1,1
+Nashville,Alabama,T,arg2 and resides in arg1,1
+Nashville,Alabama,T,arg2 and south of arg1,1
+Nashville,Alabama,T,arg2 and toward arg1,1
+Nashville,Alabama,T,arg2 before he came to arg1,1
+Nashville,Alabama,T,arg2 before moving to arg1,1
+Nashville,Alabama,T,arg2 before returning to arg1,1
+Nashville,Alabama,T,arg2 gathered in arg1,1
+Nashville,Alabama,T,arg2 through arg1,1
+Nashville,Alabama,T,bias,1.0
+Nashville,Alabama,T,F_aboveFigureCentroid_l_f,1.0
+Nashville,Alabama,T,F_avsResult_0_-1_f_l,0.00199972118302
+Nashville,Alabama,T,F_avsResult_0_1_f_l,0.00199972118302
+Nashville,Alabama,T,F_avsResult_0_-1_l_f,0.647724285937
+Nashville,Alabama,T,F_avsResult_0_1_l_f,0.647724285937
+Nashville,Alabama,T,F_avsResult_1_0_f_l,0.237423946275
+Nashville,Alabama,T,F_avsResult_-1_0_f_l,0.261442096807
+Nashville,Alabama,T,F_avsResult_-1_0_l_f,0.123963449869
+Nashville,Alabama,T,F_avsResult_1_0_l_f,0.141456682697
+Nashville,Alabama,T,F_avsResult_outside_0_-1_f_l,0.00199972118302
+Nashville,Alabama,T,F_avsResult_outside_0_1_f_l,0.00199972118302
+Nashville,Alabama,T,F_avsResult_outside_0_-1_l_f,0.647724285937
+Nashville,Alabama,T,F_avsResult_outside_0_1_l_f,0.647724285937
+Nashville,Alabama,T,F_avsResult_outside_1_0_f_l,0.237423946275
+Nashville,Alabama,T,F_avsResult_outside_-1_0_f_l,0.261442096807
+Nashville,Alabama,T,F_avsResult_outside_-1_0_l_f,0.123963449869
+Nashville,Alabama,T,F_avsResult_outside_1_0_l_f,0.141456682697
+Nashville,Alabama,T,F_belowFigureCentroid_f_l,1.0
+Nashville,Alabama,T,F_closeDistNormFigure_f_l,1.0
+Nashville,Alabama,T,F_closeDistNormFigure_l_f,0.112513286283
+Nashville,Alabama,T,F_closeDistNormLandmark_f_l,0.112513286283
+Nashville,Alabama,T,F_closeDistNormLandmark_l_f,1.0
+Nashville,Alabama,T,F_closeDistNormUnion_f_l,0.112510580809
+Nashville,Alabama,T,F_closeDistNormUnion_l_f,0.112510580809
+Nashville,Alabama,T,F_distBtwnCentroids_f_l,0.158841444298
+Nashville,Alabama,T,F_distBtwnCentroids_l_f,0.158841444298
+Nashville,Alabama,T,F_distHorizontalCentroid_f_l,-0.00475267163386
+Nashville,Alabama,T,F_distHorizontalCentroid_l_f,0.00475267163386
+Nashville,Alabama,T,F_distVerticalCentroid_f_l,-0.15877032638
+Nashville,Alabama,T,F_distVerticalCentroid_l_f,0.15877032638
+Nashville,Alabama,T,F_leftOfFigureCentroid_f_l,1.0
+Nashville,Alabama,T,F_rightOfFigureCentroid_l_f,1.0
+Nashville,Birmingham,T,arg1 and raised in arg2,1
+Nashville,Birmingham,T,arg1 and then migrated to arg2,1
+Nashville,Birmingham,T,arg1 area and one in arg2,1
+Nashville,Birmingham,T,arg1 by way of arg2,1
+Nashville,Birmingham,T,arg1 on down to arg2,1
+Nashville,Birmingham,T,arg1 students from arg2,1
+Nashville,Birmingham,T,arg2 and later to arg1,1
+Nashville,Birmingham,T,arg2 and two in arg1,1
+Nashville,Birmingham,T,arg2 thru arg1,1
+Nashville,Birmingham,T,bias,1.0
+Nashville,Birmingham,T,F_aboveFigureCentroid_l_f,1.0
+Nashville,Birmingham,T,F_avsResult_0_-1_f_l,0.00355351421546
+Nashville,Birmingham,T,F_avsResult_0_1_f_l,0.00355351421546
+Nashville,Birmingham,T,F_avsResult_0_-1_l_f,0.745691902295
+Nashville,Birmingham,T,F_avsResult_0_1_l_f,0.745691902295
+Nashville,Birmingham,T,F_avsResult_-1_0_f_l,0.233817868025
+Nashville,Birmingham,T,F_avsResult_1_0_f_l,0.265265884193
+Nashville,Birmingham,T,F_avsResult_1_0_l_f,0.233937520462
+Nashville,Birmingham,T,F_avsResult_-1_0_l_f,0.265228244205
+Nashville,Birmingham,T,F_avsResult_outside_0_-1_f_l,0.00355351421546
+Nashville,Birmingham,T,F_avsResult_outside_0_1_f_l,0.00355351421546
+Nashville,Birmingham,T,F_avsResult_outside_0_-1_l_f,0.745691902295
+Nashville,Birmingham,T,F_avsResult_outside_0_1_l_f,0.745691902295
+Nashville,Birmingham,T,F_avsResult_outside_-1_0_f_l,0.233817868025
+Nashville,Birmingham,T,F_avsResult_outside_1_0_f_l,0.265265884193
+Nashville,Birmingham,T,F_avsResult_outside_1_0_l_f,0.233937520462
+Nashville,Birmingham,T,F_avsResult_outside_-1_0_l_f,0.265228244205
+Nashville,Birmingham,T,F_belowFigureCentroid_f_l,1.0
+Nashville,Birmingham,T,F_closeDistNormFigure_f_l,1.0
+Nashville,Birmingham,T,F_closeDistNormFigure_l_f,1.0
+Nashville,Birmingham,T,F_closeDistNormLandmark_f_l,1.0
+Nashville,Birmingham,T,F_closeDistNormLandmark_l_f,1.0
+Nashville,Birmingham,T,F_closeDistNormUnion_f_l,1.0
+Nashville,Birmingham,T,F_closeDistNormUnion_l_f,1.0
+Nashville,Birmingham,T,F_distBtwnCentroids_f_l,7.1743274199
+Nashville,Birmingham,T,F_distBtwnCentroids_l_f,7.1743274199
+Nashville,Birmingham,T,F_distHorizontalCentroid_f_l,0.33025959166
+Nashville,Birmingham,T,F_distHorizontalCentroid_l_f,-0.33025959166
+Nashville,Birmingham,T,F_distVerticalCentroid_f_l,-7.16672188173
+Nashville,Birmingham,T,F_distVerticalCentroid_l_f,7.16672188173
+Nashville,Birmingham,T,F_leftOfFigureCentroid_l_f,1.0
+Nashville,Birmingham,T,F_rightOfFigureCentroid_f_l,1.0
+Nashville,Great Smoky Mountains National Park,T,bias,1.0
+Nashville,Great Smoky Mountains National Park,T,F_aboveFigureCentroid_l_f,1.0
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_0_-1_f_l,0.170090297922
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_0_1_f_l,0.170090297922
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_0_-1_l_f,0.343662981098
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_0_1_l_f,0.343662981098
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_-1_0_f_l,0.0184785243052
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_1_0_f_l,0.704228402312
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_1_0_l_f,0.0184570011557
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_-1_0_l_f,0.704571682336
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_outside_0_-1_f_l,0.170090297922
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_outside_0_1_f_l,0.170090297922
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_outside_0_-1_l_f,0.343662981098
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_outside_0_1_l_f,0.343662981098
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_0_f_l,0.0184785243052
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_outside_1_0_f_l,0.704228402312
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_outside_1_0_l_f,0.0184570011557
+Nashville,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_0_l_f,0.704571682336
+Nashville,Great Smoky Mountains National Park,T,F_belowFigureCentroid_f_l,1.0
+Nashville,Great Smoky Mountains National Park,T,F_closeDistNormFigure_f_l,1.0
+Nashville,Great Smoky Mountains National Park,T,F_closeDistNormFigure_l_f,1.0
+Nashville,Great Smoky Mountains National Park,T,F_closeDistNormLandmark_f_l,1.0
+Nashville,Great Smoky Mountains National Park,T,F_closeDistNormLandmark_l_f,1.0
+Nashville,Great Smoky Mountains National Park,T,F_closeDistNormUnion_f_l,1.0
+Nashville,Great Smoky Mountains National Park,T,F_closeDistNormUnion_l_f,1.0
+Nashville,Great Smoky Mountains National Park,T,F_distBtwnCentroids_f_l,1.44012718434
+Nashville,Great Smoky Mountains National Park,T,F_distBtwnCentroids_l_f,1.44012718434
+Nashville,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_f_l,1.39640950596
+Nashville,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_l_f,-1.39640950596
+Nashville,Great Smoky Mountains National Park,T,F_distVerticalCentroid_f_l,-0.352145990664
+Nashville,Great Smoky Mountains National Park,T,F_distVerticalCentroid_l_f,0.352145990664
+Nashville,Great Smoky Mountains National Park,T,F_leftOfFigureCentroid_l_f,1.0
+Nashville,Great Smoky Mountains National Park,T,F_rightOfFigureCentroid_f_l,1.0
+Nashville,Knoxville,T,arg1 is the new arg2,1
+Nashville,Knoxville,T,arg1 will be arg2,1
+Nashville,Knoxville,T,arg2 and back to arg1,1
+Nashville,Knoxville,T,arg2 and her arg1,1
+Nashville,Knoxville,T,arg2 and moved on to arg1,1
+Nashville,Knoxville,T,arg2 and now live in arg1,1
+Nashville,Knoxville,T,arg2 and resides in arg1,1
+Nashville,Knoxville,T,arg2 and toward arg1,1
+Nashville,Knoxville,T,arg2 before moving on to arg1,1
+Nashville,Knoxville,T,arg2 was moved to arg1,1
+Nashville,Knoxville,T,arg2 with offices in arg1,1
+Nashville,Knoxville,T,bias,1.0
+Nashville,Knoxville,T,F_aboveFigureCentroid_l_f,1.0
+Nashville,Knoxville,T,F_avsResult_0_-1_f_l,0.220202614046
+Nashville,Knoxville,T,F_avsResult_0_1_f_l,0.220202614046
+Nashville,Knoxville,T,F_avsResult_0_-1_l_f,0.27282767826
+Nashville,Knoxville,T,F_avsResult_0_1_l_f,0.27282767826
+Nashville,Knoxville,T,F_avsResult_-1_0_f_l,0.0062133539369
+Nashville,Knoxville,T,F_avsResult_1_0_f_l,0.746441132354
+Nashville,Knoxville,T,F_avsResult_1_0_l_f,0.00591216020155
+Nashville,Knoxville,T,F_avsResult_-1_0_l_f,0.736443220181
+Nashville,Knoxville,T,F_avsResult_outside_0_-1_f_l,0.220202614046
+Nashville,Knoxville,T,F_avsResult_outside_0_1_f_l,0.220202614046
+Nashville,Knoxville,T,F_avsResult_outside_0_-1_l_f,0.27282767826
+Nashville,Knoxville,T,F_avsResult_outside_0_1_l_f,0.27282767826
+Nashville,Knoxville,T,F_avsResult_outside_-1_0_f_l,0.0062133539369
+Nashville,Knoxville,T,F_avsResult_outside_1_0_f_l,0.746441132354
+Nashville,Knoxville,T,F_avsResult_outside_1_0_l_f,0.00591216020155
+Nashville,Knoxville,T,F_avsResult_outside_-1_0_l_f,0.736443220181
+Nashville,Knoxville,T,F_belowFigureCentroid_f_l,1.0
+Nashville,Knoxville,T,F_closeDistNormFigure_f_l,1.0
+Nashville,Knoxville,T,F_closeDistNormFigure_l_f,1.0
+Nashville,Knoxville,T,F_closeDistNormLandmark_f_l,1.0
+Nashville,Knoxville,T,F_closeDistNormLandmark_l_f,1.0
+Nashville,Knoxville,T,F_closeDistNormUnion_f_l,1.0
+Nashville,Knoxville,T,F_closeDistNormUnion_l_f,1.0
+Nashville,Knoxville,T,F_distBtwnCentroids_f_l,2.59613351559
+Nashville,Knoxville,T,F_distBtwnCentroids_l_f,2.59613351559
+Nashville,Knoxville,T,F_distHorizontalCentroid_f_l,2.58703296741
+Nashville,Knoxville,T,F_distHorizontalCentroid_l_f,-2.58703296741
+Nashville,Knoxville,T,F_distVerticalCentroid_f_l,-0.217185764554
+Nashville,Knoxville,T,F_distVerticalCentroid_l_f,0.217185764554
+Nashville,Knoxville,T,F_leftOfFigureCentroid_l_f,1.0
+Nashville,Knoxville,T,F_rightOfFigureCentroid_f_l,1.0
+Nashville,Memphis,T,arg1 and its largest city is arg2,1
+Nashville,Memphis,T,arg1 and the largest city is arg2,1
+Nashville,Memphis,T,arg1 and the other in arg2,1
+Nashville,Memphis,T,arg1 before moving to arg2,1
+Nashville,Memphis,T,arg1 is the capital and arg2,1
+Nashville,Memphis,T,arg1 with regional offices in arg2,1
+Nashville,Memphis,T,arg2 and one in arg1,1
+Nashville,Memphis,T,arg2 and two hours from arg1,1
+Nashville,Memphis,T,arg2 side of arg1,1
+Nashville,Memphis,T,arg2 through arg1,1
+Nashville,Memphis,T,arg2 toward arg1,1
+Nashville,Memphis,T,arg2 vs arg1,1
+Nashville,Memphis,T,arg2 with additional offices in arg1,1
+Nashville,Memphis,T,arg2 with a satellite office in arg1,1
+Nashville,Memphis,T,arg2 with offices in arg1,1
+Nashville,Memphis,T,bias,1.0
+Nashville,Memphis,T,F_aboveFigureCentroid_l_f,1.0
+Nashville,Memphis,T,F_avsResult_0_-1_f_l,0.141538623265
+Nashville,Memphis,T,F_avsResult_0_1_f_l,0.141538623265
+Nashville,Memphis,T,F_avsResult_0_-1_l_f,0.376586744272
+Nashville,Memphis,T,F_avsResult_0_1_l_f,0.376586744272
+Nashville,Memphis,T,F_avsResult_1_0_f_l,0.0223851198988
+Nashville,Memphis,T,F_avsResult_-1_0_f_l,0.701951111193
+Nashville,Memphis,T,F_avsResult_-1_0_l_f,0.021339670522
+Nashville,Memphis,T,F_avsResult_1_0_l_f,0.690836671584
+Nashville,Memphis,T,F_avsResult_-1_-1_f_l,0.580211503828
+Nashville,Memphis,T,F_avsResult_-1_1_f_l,0.580211503828
+Nashville,Memphis,T,F_avsResult_-1_-1_l_f,0.0458998696103
+Nashville,Memphis,T,F_avsResult_-1_1_l_f,0.0458998696103
+Nashville,Memphis,T,F_avsResult_outside_0_-1_f_l,0.141538623265
+Nashville,Memphis,T,F_avsResult_outside_0_1_f_l,0.141538623265
+Nashville,Memphis,T,F_avsResult_outside_0_-1_l_f,0.376586744272
+Nashville,Memphis,T,F_avsResult_outside_0_1_l_f,0.376586744272
+Nashville,Memphis,T,F_avsResult_outside_1_0_f_l,0.0223851198988
+Nashville,Memphis,T,F_avsResult_outside_-1_0_f_l,0.701951111193
+Nashville,Memphis,T,F_avsResult_outside_-1_0_l_f,0.021339670522
+Nashville,Memphis,T,F_avsResult_outside_1_0_l_f,0.690836671584
+Nashville,Memphis,T,F_avsResult_outside_-1_-1_f_l,0.580211503828
+Nashville,Memphis,T,F_avsResult_outside_-1_1_f_l,0.580211503828
+Nashville,Memphis,T,F_avsResult_outside_-1_-1_l_f,0.0458998696103
+Nashville,Memphis,T,F_avsResult_outside_-1_1_l_f,0.0458998696103
+Nashville,Memphis,T,F_belowFigureCentroid_f_l,1.0
+Nashville,Memphis,T,F_closeDistNormFigure_f_l,1.0
+Nashville,Memphis,T,F_closeDistNormFigure_l_f,1.0
+Nashville,Memphis,T,F_closeDistNormLandmark_f_l,1.0
+Nashville,Memphis,T,F_closeDistNormLandmark_l_f,1.0
+Nashville,Memphis,T,F_closeDistNormUnion_f_l,1.0
+Nashville,Memphis,T,F_closeDistNormUnion_l_f,1.0
+Nashville,Memphis,T,F_distBtwnCentroids_f_l,0.788569406937
+Nashville,Memphis,T,F_distBtwnCentroids_l_f,0.788569406937
+Nashville,Memphis,T,F_distHorizontalCentroid_f_l,-0.747344348304
+Nashville,Memphis,T,F_distHorizontalCentroid_l_f,0.747344348304
+Nashville,Memphis,T,F_distVerticalCentroid_f_l,-0.251630949239
+Nashville,Memphis,T,F_distVerticalCentroid_l_f,0.251630949239
+Nashville,Memphis,T,F_leftOfFigureCentroid_f_l,1.0
+Nashville,Memphis,T,F_rightOfFigureCentroid_l_f,1.0
+Nashville,Nashville,T,arg1 and outside arg2,1
+Nashville,Nashville,T,arg1 jobs from employers in arg2,1
+Nashville,Nashville,T,arg1 or relocating outside arg2,1
+Nashville,Nashville,T,arg1 used car inventory search arg2,1
+Nashville,Nashville,T,arg1 vacation homes or houses in arg2,1
+Nashville,Nashville,T,arg1 was still arg2,1
+Nashville,Nashville,T,arg1 wedding buses and arg2,1
+Nashville,Nashville,T,arg1 wouldn be arg2,1
+Nashville,Nashville,T,arg2 and outside arg1,1
+Nashville,Nashville,T,arg2 created arg1,1
+Nashville,Nashville,T,arg2 jobs from employers in arg1,1
+Nashville,Nashville,T,arg2 or relocating outside arg1,1
+Nashville,Nashville,T,arg2 to help you move within arg1,1
+Nashville,Nashville,T,arg2 used and arg1,1
+Nashville,Nashville,T,arg2 used car inventory search arg1,1
+Nashville,Nashville,T,arg2 vacation homes or houses in arg1,1
+Nashville,Nashville,T,arg2 victory in arg1,1
+Nashville,Nashville,T,arg2 was still arg1,1
+Nashville,Nashville,T,arg2 wedding buses and arg1,1
+Nashville,Nashville,T,arg2 wouldn be arg1,1
+Nashville,Nashville,T,bias,1.0
+Nashville,Nashville,T,entity1=entity2,1
+Nashville,Nashville,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Nashville,Nashville,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Nashville,Nashville,T,F_avsResult_0_-1_f_l,0.000810711862104
+Nashville,Nashville,T,F_avsResult_0_1_f_l,0.000810711862104
+Nashville,Nashville,T,F_avsResult_0_-1_l_f,0.000810711862104
+Nashville,Nashville,T,F_avsResult_0_1_l_f,0.000810711862104
+Nashville,Nashville,T,F_avsResult_-1_0_f_l,0.0272091245216
+Nashville,Nashville,T,F_avsResult_1_0_f_l,0.0300833558768
+Nashville,Nashville,T,F_avsResult_-1_0_l_f,0.0272091245216
+Nashville,Nashville,T,F_avsResult_1_0_l_f,0.0300833558768
+Nashville,Nashville,T,F_avsResult_inside_0_-1_f_l,0.000810711862104
+Nashville,Nashville,T,F_avsResult_inside_0_1_f_l,0.000810711862104
+Nashville,Nashville,T,F_avsResult_inside_0_-1_l_f,0.000810711862104
+Nashville,Nashville,T,F_avsResult_inside_0_1_l_f,0.000810711862104
+Nashville,Nashville,T,F_avsResult_inside_-1_0_f_l,0.0272091245216
+Nashville,Nashville,T,F_avsResult_inside_1_0_f_l,0.0300833558768
+Nashville,Nashville,T,F_avsResult_inside_-1_0_l_f,0.0272091245216
+Nashville,Nashville,T,F_avsResult_inside_1_0_l_f,0.0300833558768
+Nashville,Nashville,T,F_math2dFigureIntersectionArea_f_l,1.0
+Nashville,Nashville,T,F_math2dFigureIntersectionArea_l_f,1.0
+Nashville,Nashville,T,F_math2dIntersectionArea_f_l,1.0
+Nashville,Nashville,T,F_math2dIntersectionArea_l_f,1.0
+Nashville,Nashville,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Nashville,Nashville,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Nashville,Tennessee,T,arg1 and central arg2,1
+Nashville,Tennessee,T,arg1 and middle arg2,1
+Nashville,Tennessee,T,arg1 and the state of arg2,1
+Nashville,Tennessee,T,arg1 and throughout arg2,1
+Nashville,Tennessee,T,arg1 area of arg2,1
+Nashville,Tennessee,T,arg1 is the capital city of arg2,1
+Nashville,Tennessee,T,arg1 is the capital of arg2,1
+Nashville,Tennessee,T,arg1 or anywhere else in arg2,1
+Nashville,Tennessee,T,arg1 or anywhere in arg2,1
+Nashville,Tennessee,T,arg2 and moved to arg1,1
+Nashville,Tennessee,T,arg2 including arg1,1
+Nashville,Tennessee,T,arg2 is located in arg1,1
+Nashville,Tennessee,T,arg2 just outside arg1,1
+Nashville,Tennessee,T,arg2 just outside of arg1,1
+Nashville,Tennessee,T,arg2 just south of arg1,1
+Nashville,Tennessee,T,arg2 not far from arg1,1
+Nashville,Tennessee,T,arg2 state fair in arg1,1
+Nashville,Tennessee,T,bias,1.0
+Nashville,Tennessee,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Nashville,Tennessee,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Nashville,Tennessee,T,F_aboveFigureCentroid_l_f,1.0
+Nashville,Tennessee,T,F_avsResult_0_-1_f_l,0.121270149144
+Nashville,Tennessee,T,F_avsResult_0_1_f_l,0.121270149144
+Nashville,Tennessee,T,F_avsResult_0_-1_l_f,0.0948095394588
+Nashville,Tennessee,T,F_avsResult_0_1_l_f,0.0948095394588
+Nashville,Tennessee,T,F_avsResult_-1_0_f_l,0.101892372337
+Nashville,Tennessee,T,F_avsResult_1_0_f_l,0.426827866402
+Nashville,Tennessee,T,F_avsResult_1_0_l_f,0.0490081734119
+Nashville,Tennessee,T,F_avsResult_-1_0_l_f,0.159235931693
+Nashville,Tennessee,T,F_avsResult_1_-1_f_l,0.271735500082
+Nashville,Tennessee,T,F_avsResult_1_1_f_l,0.271735500082
+Nashville,Tennessee,T,F_avsResult_-1_-1_l_f,0.116580751514
+Nashville,Tennessee,T,F_avsResult_-1_1_l_f,0.116580751514
+Nashville,Tennessee,T,F_avsResult_inside_0_-1_l_f,0.0948095394588
+Nashville,Tennessee,T,F_avsResult_inside_0_1_l_f,0.0948095394588
+Nashville,Tennessee,T,F_avsResult_inside_1_0_l_f,0.0490081734119
+Nashville,Tennessee,T,F_avsResult_inside_-1_0_l_f,0.159235931693
+Nashville,Tennessee,T,F_avsResult_inside_-1_-1_l_f,0.116580751514
+Nashville,Tennessee,T,F_avsResult_inside_-1_1_l_f,0.116580751514
+Nashville,Tennessee,T,F_avsResult_outside_0_-1_f_l,0.121270149144
+Nashville,Tennessee,T,F_avsResult_outside_0_1_f_l,0.121270149144
+Nashville,Tennessee,T,F_avsResult_outside_-1_0_f_l,0.101892372337
+Nashville,Tennessee,T,F_avsResult_outside_1_0_f_l,0.426827866402
+Nashville,Tennessee,T,F_avsResult_outside_1_-1_f_l,0.271735500082
+Nashville,Tennessee,T,F_avsResult_outside_1_1_f_l,0.271735500082
+Nashville,Tennessee,T,F_belowFigureCentroid_f_l,1.0
+Nashville,Tennessee,T,F_distBtwnCentroids_f_l,0.0365714207613
+Nashville,Tennessee,T,F_distBtwnCentroids_l_f,0.0365714207613
+Nashville,Tennessee,T,F_distHorizontalCentroid_f_l,0.0274541231336
+Nashville,Tennessee,T,F_distHorizontalCentroid_l_f,-0.0274541231336
+Nashville,Tennessee,T,F_distVerticalCentroid_f_l,-0.0241607106573
+Nashville,Tennessee,T,F_distVerticalCentroid_l_f,0.0241607106573
+Nashville,Tennessee,T,F_leftOfFigureCentroid_l_f,1.0
+Nashville,Tennessee,T,F_math2dFigureIntersectionArea_f_l,1.0
+Nashville,Tennessee,T,F_math2dFigureIntersectionArea_l_f,2.89239874709e-05
+Nashville,Tennessee,T,F_math2dIntersectionArea_f_l,2.89239874709e-05
+Nashville,Tennessee,T,F_math2dIntersectionArea_l_f,2.89239874709e-05
+Nashville,Tennessee,T,F_math2dLandmarkIntersectionArea_f_l,2.89239874709e-05
+Nashville,Tennessee,T,F_math2dLandmarkIntersectionArea_l_f,1.0
+Nashville,Tennessee,T,F_rightOfFigureCentroid_f_l,1.0
+Tennessee,Alabama,T,arg1 and north arg2,1
+Tennessee,Alabama,T,arg1 and northeastern arg2,1
+Tennessee,Alabama,T,arg1 and northern arg2,1
+Tennessee,Alabama,T,arg1 and one in arg2,1
+Tennessee,Alabama,T,arg1 and parts of arg2,1
+Tennessee,Alabama,T,arg2 and central arg1,1
+Tennessee,Alabama,T,arg2 and eastern arg1,1
+Tennessee,Alabama,T,arg2 and middle arg1,1
+Tennessee,Alabama,T,arg2 and portions of arg1,1
+Tennessee,Alabama,T,arg2 and raised in arg1,1
+Tennessee,Alabama,T,arg2 and south arg1,1
+Tennessee,Alabama,T,arg2 and south central arg1,1
+Tennessee,Alabama,T,arg2 and southeastern arg1,1
+Tennessee,Alabama,T,arg2 and southern arg1,1
+Tennessee,Alabama,T,arg2 and western arg1,1
+Tennessee,Alabama,T,arg2 as well as arg1,1
+Tennessee,Alabama,T,arg2 include arg1,1
+Tennessee,Alabama,T,arg2 is bordered by arg1,1
+Tennessee,Alabama,T,arg2 through arg1,1
+Tennessee,Alabama,T,bias,1.0
+Tennessee,Alabama,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Tennessee,Alabama,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Tennessee,Alabama,T,F_aboveFigureCentroid_l_f,1.0
+Tennessee,Alabama,T,F_avsResult_0_-1_f_l,0.00866053931679
+Tennessee,Alabama,T,F_avsResult_0_1_f_l,0.00866053931679
+Tennessee,Alabama,T,F_avsResult_0_-1_l_f,0.600349336144
+Tennessee,Alabama,T,F_avsResult_0_1_l_f,0.600349336144
+Tennessee,Alabama,T,F_avsResult_1_0_f_l,0.0724069944856
+Tennessee,Alabama,T,F_avsResult_-1_0_f_l,0.102094487476
+Tennessee,Alabama,T,F_avsResult_-1_0_l_f,0.0937971224185
+Tennessee,Alabama,T,F_avsResult_1_0_l_f,0.167079793401
+Tennessee,Alabama,T,F_avsResult_outside_0_-1_f_l,0.00866053931679
+Tennessee,Alabama,T,F_avsResult_outside_0_1_f_l,0.00866053931679
+Tennessee,Alabama,T,F_avsResult_outside_0_-1_l_f,0.600349336144
+Tennessee,Alabama,T,F_avsResult_outside_0_1_l_f,0.600349336144
+Tennessee,Alabama,T,F_avsResult_outside_1_0_f_l,0.0724069944856
+Tennessee,Alabama,T,F_avsResult_outside_-1_0_f_l,0.102094487476
+Tennessee,Alabama,T,F_avsResult_outside_-1_0_l_f,0.0937971224185
+Tennessee,Alabama,T,F_avsResult_outside_1_0_l_f,0.167079793401
+Tennessee,Alabama,T,F_belowFigureCentroid_f_l,1.0
+Tennessee,Alabama,T,F_distBtwnCentroids_f_l,0.0557040823395
+Tennessee,Alabama,T,F_distBtwnCentroids_l_f,0.0557040823395
+Tennessee,Alabama,T,F_distHorizontalCentroid_f_l,-0.00895101516446
+Tennessee,Alabama,T,F_distHorizontalCentroid_l_f,0.00895101516446
+Tennessee,Alabama,T,F_distVerticalCentroid_f_l,-0.0549802156854
+Tennessee,Alabama,T,F_distVerticalCentroid_l_f,0.0549802156854
+Tennessee,Alabama,T,F_leftOfFigureCentroid_f_l,1.0
+Tennessee,Alabama,T,F_math2dFigureIntersectionArea_f_l,2.7203560492e-05
+Tennessee,Alabama,T,F_math2dFigureIntersectionArea_l_f,2.26160917473e-05
+Tennessee,Alabama,T,F_math2dIntersectionArea_f_l,1.23494603062e-05
+Tennessee,Alabama,T,F_math2dIntersectionArea_l_f,1.23494603062e-05
+Tennessee,Alabama,T,F_math2dLandmarkIntersectionArea_f_l,2.26160917473e-05
+Tennessee,Alabama,T,F_math2dLandmarkIntersectionArea_l_f,2.7203560492e-05
+Tennessee,Alabama,T,F_rightOfFigureCentroid_l_f,1.0
+Tennessee,Birmingham,T,arg1 and currently reside in arg2,1
+Tennessee,Birmingham,T,arg1 and south to arg2,1
+Tennessee,Birmingham,T,arg1 as well as arg2,1
+Tennessee,Birmingham,T,arg1 but have lived in arg2,1
+Tennessee,Birmingham,T,arg1 game in arg2,1
+Tennessee,Birmingham,T,arg1 to just north of arg2,1
+Tennessee,Birmingham,T,arg2 to southern arg1,1
+Tennessee,Birmingham,T,bias,1.0
+Tennessee,Birmingham,T,F_aboveFigureCentroid_l_f,1.0
+Tennessee,Birmingham,T,F_avsResult_0_-1_f_l,0.0110160024118
+Tennessee,Birmingham,T,F_avsResult_0_1_f_l,0.0110160024118
+Tennessee,Birmingham,T,F_avsResult_0_-1_l_f,0.708267225658
+Tennessee,Birmingham,T,F_avsResult_0_1_l_f,0.708267225658
+Tennessee,Birmingham,T,F_avsResult_1_0_f_l,0.068693332331
+Tennessee,Birmingham,T,F_avsResult_-1_0_f_l,0.101653463351
+Tennessee,Birmingham,T,F_avsResult_-1_0_l_f,0.211374734648
+Tennessee,Birmingham,T,F_avsResult_1_0_l_f,0.290456673002
+Tennessee,Birmingham,T,F_avsResult_outside_0_-1_f_l,0.0110160024118
+Tennessee,Birmingham,T,F_avsResult_outside_0_1_f_l,0.0110160024118
+Tennessee,Birmingham,T,F_avsResult_outside_0_-1_l_f,0.708267225658
+Tennessee,Birmingham,T,F_avsResult_outside_0_1_l_f,0.708267225658
+Tennessee,Birmingham,T,F_avsResult_outside_1_0_f_l,0.068693332331
+Tennessee,Birmingham,T,F_avsResult_outside_-1_0_f_l,0.101653463351
+Tennessee,Birmingham,T,F_avsResult_outside_-1_0_l_f,0.211374734648
+Tennessee,Birmingham,T,F_avsResult_outside_1_0_l_f,0.290456673002
+Tennessee,Birmingham,T,F_belowFigureCentroid_f_l,1.0
+Tennessee,Birmingham,T,F_closeDistNormFigure_f_l,0.175023946485
+Tennessee,Birmingham,T,F_closeDistNormFigure_l_f,1.0
+Tennessee,Birmingham,T,F_closeDistNormLandmark_f_l,1.0
+Tennessee,Birmingham,T,F_closeDistNormLandmark_l_f,0.175023946485
+Tennessee,Birmingham,T,F_closeDistNormUnion_f_l,0.175022559699
+Tennessee,Birmingham,T,F_closeDistNormUnion_l_f,0.175022559699
+Tennessee,Birmingham,T,F_distBtwnCentroids_f_l,0.0851290968642
+Tennessee,Birmingham,T,F_distBtwnCentroids_l_f,0.0851290968642
+Tennessee,Birmingham,T,F_distHorizontalCentroid_f_l,-0.0105746445369
+Tennessee,Birmingham,T,F_distHorizontalCentroid_l_f,0.0105746445369
+Tennessee,Birmingham,T,F_distVerticalCentroid_f_l,-0.0844697580548
+Tennessee,Birmingham,T,F_distVerticalCentroid_l_f,0.0844697580548
+Tennessee,Birmingham,T,F_leftOfFigureCentroid_f_l,1.0
+Tennessee,Birmingham,T,F_rightOfFigureCentroid_l_f,1.0
+Tennessee,Great Smoky Mountains National Park,T,arg1 adjacent to arg2,1
+Tennessee,Great Smoky Mountains National Park,T,arg1 entrance to arg2,1
+Tennessee,Great Smoky Mountains National Park,T,arg1 just outside arg2,1
+Tennessee,Great Smoky Mountains National Park,T,arg1 side of arg2,1
+Tennessee,Great Smoky Mountains National Park,T,arg2 entrance in arg1,1
+Tennessee,Great Smoky Mountains National Park,T,arg2 in east arg1,1
+Tennessee,Great Smoky Mountains National Park,T,arg2 in eastern arg1,1
+Tennessee,Great Smoky Mountains National Park,T,arg2 straddles the border between arg1,1
+Tennessee,Great Smoky Mountains National Park,T,arg2 was established in arg1,1
+Tennessee,Great Smoky Mountains National Park,T,bias,1.0
+Tennessee,Great Smoky Mountains National Park,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Tennessee,Great Smoky Mountains National Park,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Tennessee,Great Smoky Mountains National Park,T,F_aboveFigureCentroid_l_f,1.0
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_0_-1_f_l,0.0613300210647
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_0_1_f_l,0.0613300210647
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_0_-1_l_f,0.298790101696
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_0_1_l_f,0.298790101696
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_-1_0_f_l,0.00105571018583
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_1_0_f_l,0.197185166777
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_1_0_l_f,0.0117262632077
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_-1_0_l_f,0.710576061012
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_1_-1_f_l,0.00417595457081
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_1_1_f_l,0.00417595457081
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_inside_0_-1_f_l,0.0613300210647
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_inside_0_1_f_l,0.0613300210647
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_inside_-1_0_f_l,0.00105571018583
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_inside_1_0_f_l,0.197185166777
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_inside_1_-1_f_l,0.00417595457081
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_inside_1_1_f_l,0.00417595457081
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_outside_0_-1_l_f,0.298790101696
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_outside_0_1_l_f,0.298790101696
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_outside_1_0_l_f,0.0117262632077
+Tennessee,Great Smoky Mountains National Park,T,F_avsResult_outside_-1_0_l_f,0.710576061012
+Tennessee,Great Smoky Mountains National Park,T,F_belowFigureCentroid_f_l,1.0
+Tennessee,Great Smoky Mountains National Park,T,F_distBtwnCentroids_f_l,0.163965517053
+Tennessee,Great Smoky Mountains National Park,T,F_distBtwnCentroids_l_f,0.163965517053
+Tennessee,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_f_l,0.162246857529
+Tennessee,Great Smoky Mountains National Park,T,F_distHorizontalCentroid_l_f,-0.162246857529
+Tennessee,Great Smoky Mountains National Park,T,F_distVerticalCentroid_f_l,-0.0236780067676
+Tennessee,Great Smoky Mountains National Park,T,F_distVerticalCentroid_l_f,0.0236780067676
+Tennessee,Great Smoky Mountains National Park,T,F_leftOfFigureCentroid_l_f,1.0
+Tennessee,Great Smoky Mountains National Park,T,F_math2dFigureIntersectionArea_f_l,7.51881337703e-06
+Tennessee,Great Smoky Mountains National Park,T,F_math2dFigureIntersectionArea_l_f,1.00000000001
+Tennessee,Great Smoky Mountains National Park,T,F_math2dIntersectionArea_f_l,7.51881337703e-06
+Tennessee,Great Smoky Mountains National Park,T,F_math2dIntersectionArea_l_f,7.51881337703e-06
+Tennessee,Great Smoky Mountains National Park,T,F_math2dLandmarkIntersectionArea_f_l,1.00000000001
+Tennessee,Great Smoky Mountains National Park,T,F_math2dLandmarkIntersectionArea_l_f,7.51881337703e-06
+Tennessee,Great Smoky Mountains National Park,T,F_rightOfFigureCentroid_f_l,1.0
+Tennessee,Knoxville,T,arg1 and downtown arg2,1
+Tennessee,Knoxville,T,arg1 campus in arg2,1
+Tennessee,Knoxville,T,arg1 including arg2,1
+Tennessee,Knoxville,T,arg1 in the city of arg2,1
+Tennessee,Knoxville,T,arg1 is located in arg2,1
+Tennessee,Knoxville,T,arg1 north of arg2,1
+Tennessee,Knoxville,T,arg2 and the state of arg1,1
+Tennessee,Knoxville,T,arg2 and throughout arg1,1
+Tennessee,Knoxville,T,arg2 in east arg1,1
+Tennessee,Knoxville,T,arg2 in eastern arg1,1
+Tennessee,Knoxville,T,arg2 is located in eastern arg1,1
+Tennessee,Knoxville,T,arg2 or elsewhere in arg1,1
+Tennessee,Knoxville,T,arg2 or other arg1,1
+Tennessee,Knoxville,T,arg2 real estate agent in arg1,1
+Tennessee,Knoxville,T,arg2 to establish arg1,1
+Tennessee,Knoxville,T,arg2 to take on arg1,1
+Tennessee,Knoxville,T,bias,1.0
+Tennessee,Knoxville,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Tennessee,Knoxville,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Tennessee,Knoxville,T,F_aboveFigureCentroid_f_l,1.0
+Tennessee,Knoxville,T,F_avsResult_0_-1_f_l,0.0809965886775
+Tennessee,Knoxville,T,F_avsResult_0_1_f_l,0.0809965886775
+Tennessee,Knoxville,T,F_avsResult_0_-1_l_f,0.227024773819
+Tennessee,Knoxville,T,F_avsResult_0_1_l_f,0.227024773819
+Tennessee,Knoxville,T,F_avsResult_-1_0_f_l,0.0106415058433
+Tennessee,Knoxville,T,F_avsResult_1_0_f_l,0.168628324531
+Tennessee,Knoxville,T,F_avsResult_1_0_l_f,0.0035618338702
+Tennessee,Knoxville,T,F_avsResult_-1_0_l_f,0.723860808779
+Tennessee,Knoxville,T,F_avsResult_1_-1_f_l,0.0673531807325
+Tennessee,Knoxville,T,F_avsResult_1_1_f_l,0.0673531807325
+Tennessee,Knoxville,T,F_avsResult_inside_0_-1_f_l,0.0809965886775
+Tennessee,Knoxville,T,F_avsResult_inside_0_1_f_l,0.0809965886775
+Tennessee,Knoxville,T,F_avsResult_inside_-1_0_f_l,0.0106415058433
+Tennessee,Knoxville,T,F_avsResult_inside_1_0_f_l,0.168628324531
+Tennessee,Knoxville,T,F_avsResult_inside_1_-1_f_l,0.0673531807325
+Tennessee,Knoxville,T,F_avsResult_inside_1_1_f_l,0.0673531807325
+Tennessee,Knoxville,T,F_avsResult_outside_0_-1_l_f,0.227024773819
+Tennessee,Knoxville,T,F_avsResult_outside_0_1_l_f,0.227024773819
+Tennessee,Knoxville,T,F_avsResult_outside_1_0_l_f,0.0035618338702
+Tennessee,Knoxville,T,F_avsResult_outside_-1_0_l_f,0.723860808779
+Tennessee,Knoxville,T,F_belowFigureCentroid_l_f,1.0
+Tennessee,Knoxville,T,F_distBtwnCentroids_f_l,0.166484049272
+Tennessee,Knoxville,T,F_distBtwnCentroids_l_f,0.166484049272
+Tennessee,Knoxville,T,F_distHorizontalCentroid_f_l,0.166296745736
+Tennessee,Knoxville,T,F_distHorizontalCentroid_l_f,-0.166296745736
+Tennessee,Knoxville,T,F_distVerticalCentroid_f_l,0.00789499966
+Tennessee,Knoxville,T,F_distVerticalCentroid_l_f,-0.00789499966
+Tennessee,Knoxville,T,F_leftOfFigureCentroid_l_f,1.0
+Tennessee,Knoxville,T,F_math2dFigureIntersectionArea_f_l,0.00949403364702
+Tennessee,Knoxville,T,F_math2dFigureIntersectionArea_l_f,1.0
+Tennessee,Knoxville,T,F_math2dIntersectionArea_f_l,0.00949403364702
+Tennessee,Knoxville,T,F_math2dIntersectionArea_l_f,0.00949403364702
+Tennessee,Knoxville,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Tennessee,Knoxville,T,F_math2dLandmarkIntersectionArea_l_f,0.00949403364702
+Tennessee,Knoxville,T,F_rightOfFigureCentroid_f_l,1.0
+Tennessee,Memphis,T,arg1 include arg2,1
+Tennessee,Memphis,T,arg1 including arg2,1
+Tennessee,Memphis,T,arg1 outside arg2,1
+Tennessee,Memphis,T,arg1 which includes arg2,1
+Tennessee,Memphis,T,arg2 and the state of arg1,1
+Tennessee,Memphis,T,arg2 and throughout arg1,1
+Tennessee,Memphis,T,arg2 and throughout western arg1,1
+Tennessee,Memphis,T,arg2 area in arg1,1
+Tennessee,Memphis,T,arg2 area of arg1,1
+Tennessee,Memphis,T,arg2 areas of arg1,1
+Tennessee,Memphis,T,arg2 in western arg1,1
+Tennessee,Memphis,T,arg2 is a city in arg1,1
+Tennessee,Memphis,T,arg2 is one of arg1,1
+Tennessee,Memphis,T,arg2 is the largest city in arg1,1
+Tennessee,Memphis,T,arg2 located in arg1,1
+Tennessee,Memphis,T,arg2 metropolitan area in arg1,1
+Tennessee,Memphis,T,arg2 takes on arg1,1
+Tennessee,Memphis,T,bias,1.0
+Tennessee,Memphis,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Tennessee,Memphis,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Tennessee,Memphis,T,F_aboveFigureCentroid_l_f,1.0
+Tennessee,Memphis,T,F_avsResult_0_-1_f_l,0.184763070104
+Tennessee,Memphis,T,F_avsResult_0_1_f_l,0.184763070104
+Tennessee,Memphis,T,F_avsResult_0_-1_l_f,0.32698608086
+Tennessee,Memphis,T,F_avsResult_0_1_l_f,0.32698608086
+Tennessee,Memphis,T,F_avsResult_1_0_f_l,0.0177210307826
+Tennessee,Memphis,T,F_avsResult_-1_0_f_l,0.0424946451876
+Tennessee,Memphis,T,F_avsResult_-1_0_l_f,0.0124933013991
+Tennessee,Memphis,T,F_avsResult_1_0_l_f,0.735209693004
+Tennessee,Memphis,T,F_avsResult_-1_-1_f_l,0.0450579206277
+Tennessee,Memphis,T,F_avsResult_-1_1_f_l,0.0450579206277
+Tennessee,Memphis,T,F_avsResult_inside_0_-1_f_l,0.184763070104
+Tennessee,Memphis,T,F_avsResult_inside_0_1_f_l,0.184763070104
+Tennessee,Memphis,T,F_avsResult_inside_1_0_f_l,0.0177210307826
+Tennessee,Memphis,T,F_avsResult_inside_-1_0_f_l,0.0424946451876
+Tennessee,Memphis,T,F_avsResult_inside_-1_-1_f_l,0.0450579206277
+Tennessee,Memphis,T,F_avsResult_inside_-1_1_f_l,0.0450579206277
+Tennessee,Memphis,T,F_avsResult_outside_0_-1_l_f,0.32698608086
+Tennessee,Memphis,T,F_avsResult_outside_0_1_l_f,0.32698608086
+Tennessee,Memphis,T,F_avsResult_outside_-1_0_l_f,0.0124933013991
+Tennessee,Memphis,T,F_avsResult_outside_1_0_l_f,0.735209693004
+Tennessee,Memphis,T,F_belowFigureCentroid_f_l,1.0
+Tennessee,Memphis,T,F_distBtwnCentroids_f_l,0.255157364518
+Tennessee,Memphis,T,F_distBtwnCentroids_l_f,0.255157364518
+Tennessee,Memphis,T,F_distHorizontalCentroid_f_l,-0.25005172738
+Tennessee,Memphis,T,F_distHorizontalCentroid_l_f,0.25005172738
+Tennessee,Memphis,T,F_distVerticalCentroid_f_l,-0.0507879346117
+Tennessee,Memphis,T,F_distVerticalCentroid_l_f,0.0507879346117
+Tennessee,Memphis,T,F_leftOfFigureCentroid_f_l,1.0
+Tennessee,Memphis,T,F_math2dFigureIntersectionArea_f_l,0.00765648097102
+Tennessee,Memphis,T,F_math2dFigureIntersectionArea_l_f,0.989517700857
+Tennessee,Memphis,T,F_math2dIntersectionArea_f_l,0.00765586251604
+Tennessee,Memphis,T,F_math2dIntersectionArea_l_f,0.00765586251604
+Tennessee,Memphis,T,F_math2dLandmarkIntersectionArea_f_l,0.989517700857
+Tennessee,Memphis,T,F_math2dLandmarkIntersectionArea_l_f,0.00765648097102
+Tennessee,Memphis,T,F_rightOfFigureCentroid_l_f,1.0
+Tennessee,Nashville,T,arg1 including arg2,1
+Tennessee,Nashville,T,arg1 is located in arg2,1
+Tennessee,Nashville,T,arg1 just outside arg2,1
+Tennessee,Nashville,T,arg1 just outside of arg2,1
+Tennessee,Nashville,T,arg1 just south of arg2,1
+Tennessee,Nashville,T,arg1 not far from arg2,1
+Tennessee,Nashville,T,arg1 state fair in arg2,1
+Tennessee,Nashville,T,arg2 and across arg1,1
+Tennessee,Nashville,T,arg2 and central arg1,1
+Tennessee,Nashville,T,arg2 and middle arg1,1
+Tennessee,Nashville,T,arg2 and the state of arg1,1
+Tennessee,Nashville,T,arg2 and throughout arg1,1
+Tennessee,Nashville,T,arg2 and throughout the state of arg1,1
+Tennessee,Nashville,T,arg2 area of arg1,1
+Tennessee,Nashville,T,arg2 is the capital city of arg1,1
+Tennessee,Nashville,T,arg2 is the capital of arg1,1
+Tennessee,Nashville,T,arg2 is the state capital of arg1,1
+Tennessee,Nashville,T,arg2 or anywhere else in arg1,1
+Tennessee,Nashville,T,arg2 or anywhere in arg1,1
+Tennessee,Nashville,T,bias,1.0
+Tennessee,Nashville,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Tennessee,Nashville,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Tennessee,Nashville,T,F_aboveFigureCentroid_f_l,1.0
+Tennessee,Nashville,T,F_avsResult_0_-1_f_l,0.0948095394588
+Tennessee,Nashville,T,F_avsResult_0_1_f_l,0.0948095394588
+Tennessee,Nashville,T,F_avsResult_0_-1_l_f,0.121270149144
+Tennessee,Nashville,T,F_avsResult_0_1_l_f,0.121270149144
+Tennessee,Nashville,T,F_avsResult_1_0_f_l,0.0490081734119
+Tennessee,Nashville,T,F_avsResult_-1_0_f_l,0.159235931693
+Tennessee,Nashville,T,F_avsResult_-1_0_l_f,0.101892372337
+Tennessee,Nashville,T,F_avsResult_1_0_l_f,0.426827866402
+Tennessee,Nashville,T,F_avsResult_-1_-1_f_l,0.116580751514
+Tennessee,Nashville,T,F_avsResult_-1_1_f_l,0.116580751514
+Tennessee,Nashville,T,F_avsResult_1_-1_l_f,0.271735500082
+Tennessee,Nashville,T,F_avsResult_1_1_l_f,0.271735500082
+Tennessee,Nashville,T,F_avsResult_inside_0_-1_f_l,0.0948095394588
+Tennessee,Nashville,T,F_avsResult_inside_0_1_f_l,0.0948095394588
+Tennessee,Nashville,T,F_avsResult_inside_1_0_f_l,0.0490081734119
+Tennessee,Nashville,T,F_avsResult_inside_-1_0_f_l,0.159235931693
+Tennessee,Nashville,T,F_avsResult_inside_-1_-1_f_l,0.116580751514
+Tennessee,Nashville,T,F_avsResult_inside_-1_1_f_l,0.116580751514
+Tennessee,Nashville,T,F_avsResult_outside_0_-1_l_f,0.121270149144
+Tennessee,Nashville,T,F_avsResult_outside_0_1_l_f,0.121270149144
+Tennessee,Nashville,T,F_avsResult_outside_-1_0_l_f,0.101892372337
+Tennessee,Nashville,T,F_avsResult_outside_1_0_l_f,0.426827866402
+Tennessee,Nashville,T,F_avsResult_outside_1_-1_l_f,0.271735500082
+Tennessee,Nashville,T,F_avsResult_outside_1_1_l_f,0.271735500082
+Tennessee,Nashville,T,F_belowFigureCentroid_l_f,1.0
+Tennessee,Nashville,T,F_distBtwnCentroids_f_l,0.0365714207613
+Tennessee,Nashville,T,F_distBtwnCentroids_l_f,0.0365714207613
+Tennessee,Nashville,T,F_distHorizontalCentroid_f_l,-0.0274541231336
+Tennessee,Nashville,T,F_distHorizontalCentroid_l_f,0.0274541231336
+Tennessee,Nashville,T,F_distVerticalCentroid_f_l,0.0241607106573
+Tennessee,Nashville,T,F_distVerticalCentroid_l_f,-0.0241607106573
+Tennessee,Nashville,T,F_leftOfFigureCentroid_f_l,1.0
+Tennessee,Nashville,T,F_math2dFigureIntersectionArea_f_l,2.89239874709e-05
+Tennessee,Nashville,T,F_math2dFigureIntersectionArea_l_f,1.0
+Tennessee,Nashville,T,F_math2dIntersectionArea_f_l,2.89239874709e-05
+Tennessee,Nashville,T,F_math2dIntersectionArea_l_f,2.89239874709e-05
+Tennessee,Nashville,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Tennessee,Nashville,T,F_math2dLandmarkIntersectionArea_l_f,2.89239874709e-05
+Tennessee,Nashville,T,F_rightOfFigureCentroid_l_f,1.0
+Tennessee,Tennessee,T,arg1 and is a member of arg2,1
+Tennessee,Tennessee,T,arg1 and the state of arg2,1
+Tennessee,Tennessee,T,arg1 dates and arg2,1
+Tennessee,Tennessee,T,arg1 gives arg2,1
+Tennessee,Tennessee,T,arg1 kindergarten and arg2,1
+Tennessee,Tennessee,T,arg1 legal resources and other arg2,1
+Tennessee,Tennessee,T,arg1 matchmaking and arg2,1
+Tennessee,Tennessee,T,arg1 media lists arg2,1
+Tennessee,Tennessee,T,arg1 or outside of arg2,1
+Tennessee,Tennessee,T,arg1 personals and arg2,1
+Tennessee,Tennessee,T,arg1 real estate license classes and arg2,1
+Tennessee,Tennessee,T,arg1 return address labels arg2,1
+Tennessee,Tennessee,T,arg1 walking events and arg2,1
+Tennessee,Tennessee,T,arg1 was still arg2,1
+Tennessee,Tennessee,T,arg1 waterfront communities and arg2,1
+Tennessee,Tennessee,T,arg1 which serve your arg2,1
+Tennessee,Tennessee,T,arg2 and is a member of arg1,1
+Tennessee,Tennessee,T,arg2 and the state of arg1,1
+Tennessee,Tennessee,T,arg2 dates and arg1,1
+Tennessee,Tennessee,T,arg2 gives arg1,1
+Tennessee,Tennessee,T,arg2 kindergarten and arg1,1
+Tennessee,Tennessee,T,arg2 legal resources and other arg1,1
+Tennessee,Tennessee,T,arg2 matchmaking and arg1,1
+Tennessee,Tennessee,T,arg2 media lists arg1,1
+Tennessee,Tennessee,T,arg2 or outside of arg1,1
+Tennessee,Tennessee,T,arg2 personals and arg1,1
+Tennessee,Tennessee,T,arg2 real estate license classes and arg1,1
+Tennessee,Tennessee,T,arg2 return address labels arg1,1
+Tennessee,Tennessee,T,arg2 walking events and arg1,1
+Tennessee,Tennessee,T,arg2 was still arg1,1
+Tennessee,Tennessee,T,arg2 waterfront communities and arg1,1
+Tennessee,Tennessee,T,arg2 which serve your arg1,1
+Tennessee,Tennessee,T,bias,1.0
+Tennessee,Tennessee,T,entity1=entity2,1
+Tennessee,Tennessee,T,F_3dIntersectsFigureLandmark_f_l,1.0
+Tennessee,Tennessee,T,F_3dIntersectsFigureLandmark_l_f,1.0
+Tennessee,Tennessee,T,F_avsResult_0_-1_f_l,0.364143373048
+Tennessee,Tennessee,T,F_avsResult_0_1_f_l,0.364143373048
+Tennessee,Tennessee,T,F_avsResult_0_-1_l_f,0.364143373048
+Tennessee,Tennessee,T,F_avsResult_0_1_l_f,0.364143373048
+Tennessee,Tennessee,T,F_avsResult_1_0_f_l,0.0902418972603
+Tennessee,Tennessee,T,F_avsResult_-1_0_f_l,0.1114826653
+Tennessee,Tennessee,T,F_avsResult_1_0_l_f,0.0902418972603
+Tennessee,Tennessee,T,F_avsResult_-1_0_l_f,0.1114826653
+Tennessee,Tennessee,T,F_avsResult_inside_0_-1_f_l,0.364143373048
+Tennessee,Tennessee,T,F_avsResult_inside_0_1_f_l,0.364143373048
+Tennessee,Tennessee,T,F_avsResult_inside_0_-1_l_f,0.364143373048
+Tennessee,Tennessee,T,F_avsResult_inside_0_1_l_f,0.364143373048
+Tennessee,Tennessee,T,F_avsResult_inside_1_0_f_l,0.0902418972603
+Tennessee,Tennessee,T,F_avsResult_inside_-1_0_f_l,0.1114826653
+Tennessee,Tennessee,T,F_avsResult_inside_1_0_l_f,0.0902418972603
+Tennessee,Tennessee,T,F_avsResult_inside_-1_0_l_f,0.1114826653
+Tennessee,Tennessee,T,F_math2dFigureIntersectionArea_f_l,1.0
+Tennessee,Tennessee,T,F_math2dFigureIntersectionArea_l_f,1.0
+Tennessee,Tennessee,T,F_math2dIntersectionArea_f_l,1.0
+Tennessee,Tennessee,T,F_math2dIntersectionArea_l_f,1.0
+Tennessee,Tennessee,T,F_math2dLandmarkIntersectionArea_f_l,1.0
+Tennessee,Tennessee,T,F_math2dLandmarkIntersectionArea_l_f,1.0

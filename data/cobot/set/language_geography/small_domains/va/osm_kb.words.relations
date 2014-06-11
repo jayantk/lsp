@@ -1,0 +1,468 @@
+Atlantic Ocean,Atlantic Ocean,T,arg1 which empties into arg2,1
+Atlantic Ocean,Atlantic Ocean,T,arg2 which empties into arg1,1
+Atlantic Ocean,Atlantic Ocean,T,entity1=entity2,1
+Atlantic Ocean,North Carolina,T,arg1 after hitting arg2,1
+Atlantic Ocean,North Carolina,T,arg1 and south to arg2,1
+Atlantic Ocean,North Carolina,T,arg1 as far north as arg2,1
+Atlantic Ocean,North Carolina,T,arg1 in southeastern arg2,1
+Atlantic Ocean,North Carolina,T,arg1 off arg2,1
+Atlantic Ocean,North Carolina,T,arg1 off the coast of arg2,1
+Atlantic Ocean,North Carolina,T,arg1 on the east and arg2,1
+Atlantic Ocean,North Carolina,T,arg2 coast in arg1,1
+Atlantic Ocean,North Carolina,T,arg2 is bordered by arg1,1
+Atlantic Ocean,North Carolina,T,arg2 is located on arg1,1
+Atlantic Ocean,North Carolina,T,arg2 meets arg1,1
+Atlantic Ocean,North Carolina,T,arg2 overlooking arg1,1
+Atlantic Ocean,North Carolina,T,arg2 rivers into arg1,1
+Atlantic Ocean,North Carolina,T,arg2 that sticks out into arg1,1
+Atlantic Ocean,Richmond,T,arg1 in the area of arg2,1
+Atlantic Ocean,Richmond,T,arg2 stretches from arg1,1
+Atlantic Ocean,Richmond,T,arg2 to the shores of arg1,1
+Atlantic Ocean,Virginia Beach,T,arg1 and throughout arg2,1
+Atlantic Ocean,Virginia Beach,T,arg1 off arg2,1
+Atlantic Ocean,Virginia Beach,T,arg1 off of arg2,1
+Atlantic Ocean,Virginia Beach,T,arg1 south of arg2,1
+Atlantic Ocean,Virginia Beach,T,arg2 along arg1,1
+Atlantic Ocean,Virginia Beach,T,arg2 along the shores of arg1,1
+Atlantic Ocean,Virginia Beach,T,arg2 and the shores of arg1,1
+Atlantic Ocean,Virginia Beach,T,arg2 is bordered by arg1,1
+Atlantic Ocean,Virginia,T,arg1 off arg2,1
+Atlantic Ocean,Virginia,T,arg1 off the coast of arg2,1
+Atlantic Ocean,Virginia,T,arg1 off the coasts of arg2,1
+Atlantic Ocean,Virginia,T,arg1 on their way to arg2,1
+Atlantic Ocean,Virginia,T,arg2 along arg1,1
+Atlantic Ocean,Virginia,T,arg2 borders arg1,1
+Atlantic Ocean,Virginia,T,arg2 meets arg1,1
+Atlantic Ocean,Virginia,T,arg2 mountains and arg1,1
+Atlantic Ocean,Virginia,T,arg2 on the north and arg1,1
+Atlantic Ocean,Virginia,T,arg2 to the north and arg1,1
+Atlantic Ocean,West Virginia,T,arg1 to the mountains of arg2,1
+Atlantic Ocean,West Virginia,T,arg2 does not border arg1,1
+Atlantic Ocean,West Virginia,T,arg2 which empties into arg1,1
+North Carolina,Atlantic Ocean,T,arg1 coast in arg2,1
+North Carolina,Atlantic Ocean,T,arg1 meets arg2,1
+North Carolina,Atlantic Ocean,T,arg2 after hitting arg1,1
+North Carolina,Atlantic Ocean,T,arg2 and south to arg1,1
+North Carolina,Atlantic Ocean,T,arg2 as far north as arg1,1
+North Carolina,Atlantic Ocean,T,arg2 in eastern arg1,1
+North Carolina,Atlantic Ocean,T,arg2 in southeastern arg1,1
+North Carolina,Atlantic Ocean,T,arg2 just off the coast of arg1,1
+North Carolina,Atlantic Ocean,T,arg2 off arg1,1
+North Carolina,Atlantic Ocean,T,arg2 off of the coast of arg1,1
+North Carolina,Atlantic Ocean,T,arg2 off the coast of arg1,1
+North Carolina,Atlantic Ocean,T,arg2 on the east and arg1,1
+North Carolina,North Carolina,T,arg1 and admitted to bar in arg2,1
+North Carolina,North Carolina,T,arg1 and live in arg2,1
+North Carolina,North Carolina,T,arg1 and rural arg2,1
+North Carolina,North Carolina,T,arg1 and the state of arg2,1
+North Carolina,North Carolina,T,arg1 and throughout arg2,1
+North Carolina,North Carolina,T,arg1 commercial real estate and arg2,1
+North Carolina,North Carolina,T,arg1 if you reside in arg2,1
+North Carolina,North Carolina,T,arg1 resident and arg2,1
+North Carolina,North Carolina,T,arg1 road map and arg2,1
+North Carolina,North Carolina,T,arg1 walking events and arg2,1
+North Carolina,North Carolina,T,arg1 we love arg2,1
+North Carolina,North Carolina,T,arg2 and admitted to bar in arg1,1
+North Carolina,North Carolina,T,arg2 and live in arg1,1
+North Carolina,North Carolina,T,arg2 and rural arg1,1
+North Carolina,North Carolina,T,arg2 and the state of arg1,1
+North Carolina,North Carolina,T,arg2 and throughout arg1,1
+North Carolina,North Carolina,T,arg2 commercial real estate and arg1,1
+North Carolina,North Carolina,T,arg2 if you reside in arg1,1
+North Carolina,North Carolina,T,arg2 resident and arg1,1
+North Carolina,North Carolina,T,arg2 road map and arg1,1
+North Carolina,North Carolina,T,arg2 walking events and arg1,1
+North Carolina,North Carolina,T,arg2 we love arg1,1
+North Carolina,North Carolina,T,entity1=entity2,1
+North Carolina,Richmond,T,arg1 counties of arg2,1
+North Carolina,Richmond,T,arg1 extending from arg2,1
+North Carolina,Richmond,T,arg1 is coming to arg2,1
+North Carolina,Richmond,T,arg1 settled in arg2,1
+North Carolina,Richmond,T,arg2 and grew up in arg1,1
+North Carolina,Richmond,T,arg2 and south into arg1,1
+North Carolina,Richmond,T,arg2 centered around arg1,1
+North Carolina,Richmond,T,arg2 counties in central arg1,1
+North Carolina,Richmond,T,arg2 county arg1,1
+North Carolina,Richmond,T,arg2 leapfrogged arg1,1
+North Carolina,Richmond,T,arg2 on the way to arg1,1
+North Carolina,Richmond,T,arg2 or south to arg1,1
+North Carolina,Richmond,T,arg2 through arg1,1
+North Carolina,Richmond,T,arg2 to upper arg1,1
+North Carolina,Virginia Beach,T,arg1 and includes the cities of arg2,1
+North Carolina,Virginia Beach,T,arg1 and later moved to arg2,1
+North Carolina,Virginia Beach,T,arg1 as cocaine traffickers in arg2,1
+North Carolina,Virginia Beach,T,arg1 back to arg2,1
+North Carolina,Virginia Beach,T,arg1 or conducting business in arg2,1
+North Carolina,Virginia Beach,T,arg2 and as far away as arg1,1
+North Carolina,Virginia Beach,T,arg2 borders arg1,1
+North Carolina,Virginia,T,arg1 and eastern arg2,1
+North Carolina,Virginia,T,arg1 and parts of arg2,1
+North Carolina,Virginia,T,arg1 and south central arg2,1
+North Carolina,Virginia,T,arg1 and southeastern arg2,1
+North Carolina,Virginia,T,arg1 and southern arg2,1
+North Carolina,Virginia,T,arg1 and southwest arg2,1
+North Carolina,Virginia,T,arg1 and southwestern arg2,1
+North Carolina,Virginia,T,arg1 and western arg2,1
+North Carolina,Virginia,T,arg1 as well as arg2,1
+North Carolina,Virginia,T,arg2 and eastern arg1,1
+North Carolina,Virginia,T,arg2 and northeast arg1,1
+North Carolina,Virginia,T,arg2 and northeastern arg1,1
+North Carolina,Virginia,T,arg2 and northern arg1,1
+North Carolina,Virginia,T,arg2 and northwestern arg1,1
+North Carolina,Virginia,T,arg2 and one in arg1,1
+North Carolina,Virginia,T,arg2 and parts of arg1,1
+North Carolina,Virginia,T,arg2 and western arg1,1
+North Carolina,Virginia,T,arg2 follow arg1,1
+North Carolina,Virginia,T,arg2 successfully competed with arg1,1
+North Carolina,Virginia,T,arg2 through arg1,1
+North Carolina,West Virginia,T,arg1 against arg2,1
+North Carolina,West Virginia,T,arg1 and as far west as arg2,1
+North Carolina,West Virginia,T,arg1 and southern arg2,1
+North Carolina,West Virginia,T,arg2 and northern arg1,1
+North Carolina,West Virginia,T,arg2 and western arg1,1
+North Carolina,West Virginia,T,arg2 beat arg1,1
+North Carolina,West Virginia,T,arg2 line all the way to arg1,1
+North Carolina,West Virginia,T,arg2 made arg1,1
+North Carolina,West Virginia,T,arg2 taking on arg1,1
+North Carolina,West Virginia,T,arg2 through arg1,1
+North Carolina,West Virginia,T,arg2 through western arg1,1
+North Carolina,West Virginia,T,arg2 to southwestern arg1,1
+North Carolina,West Virginia,T,arg2 to the coast of arg1,1
+North Carolina,West Virginia,T,arg2 vs arg1,1
+North Carolina,West Virginia,T,arg2 will face arg1,1
+North Carolina,West Virginia,T,arg2 will play arg1,1
+North Carolina,West Virginia,T,arg2 win over arg1,1
+Richmond,Atlantic Ocean,T,arg1 stretches from arg2,1
+Richmond,Atlantic Ocean,T,arg1 to the shores of arg2,1
+Richmond,Atlantic Ocean,T,arg2 in the area of arg1,1
+Richmond,North Carolina,T,arg1 leapfrogged arg2,1
+Richmond,North Carolina,T,arg1 on the way to arg2,1
+Richmond,North Carolina,T,arg1 or south to arg2,1
+Richmond,North Carolina,T,arg1 through arg2,1
+Richmond,North Carolina,T,arg1 to upper arg2,1
+Richmond,North Carolina,T,arg2 and moved to arg1,1
+Richmond,North Carolina,T,arg2 and one in arg1,1
+Richmond,North Carolina,T,arg2 and raised in arg1,1
+Richmond,North Carolina,T,arg2 and the suburbs of arg1,1
+Richmond,North Carolina,T,arg2 as cocaine traffickers in arg1,1
+Richmond,North Carolina,T,arg2 before relocating to arg1,1
+Richmond,North Carolina,T,arg2 counties of arg1,1
+Richmond,North Carolina,T,arg2 extending from arg1,1
+Richmond,North Carolina,T,arg2 is coming to arg1,1
+Richmond,North Carolina,T,arg2 settled in arg1,1
+Richmond,Richmond,T,arg1 bank foreclosures and arg2,1
+Richmond,Richmond,T,arg1 computer reservation system in arg2,1
+Richmond,Richmond,T,arg1 guests and families in arg2,1
+Richmond,Richmond,T,arg1 is located at in arg2,1
+Richmond,Richmond,T,arg1 is located in arg2,1
+Richmond,Richmond,T,arg1 located in arg2,1
+Richmond,Richmond,T,arg1 or sending flowers to arg2,1
+Richmond,Richmond,T,arg1 or shipped to arg2,1
+Richmond,Richmond,T,arg1 used car inventory search arg2,1
+Richmond,Richmond,T,arg2 bank foreclosures and arg1,1
+Richmond,Richmond,T,arg2 computer reservation system in arg1,1
+Richmond,Richmond,T,arg2 guests and families in arg1,1
+Richmond,Richmond,T,arg2 is located at in arg1,1
+Richmond,Richmond,T,arg2 is located in arg1,1
+Richmond,Richmond,T,arg2 located in arg1,1
+Richmond,Richmond,T,arg2 or sending flowers to arg1,1
+Richmond,Richmond,T,arg2 or shipped to arg1,1
+Richmond,Richmond,T,arg2 used car inventory search arg1,1
+Richmond,Richmond,T,entity1=entity2,1
+Richmond,Virginia Beach,T,arg1 headed for arg2,1
+Richmond,Virginia Beach,T,arg1 is the capital and arg2,1
+Richmond,Virginia Beach,T,arg1 is the capital city and arg2,1
+Richmond,Virginia Beach,T,arg1 is the state capital and arg2,1
+Richmond,Virginia Beach,T,arg1 moving company arg2,1
+Richmond,Virginia Beach,T,arg1 or printing in arg2,1
+Richmond,Virginia Beach,T,arg1 to the coast of arg2,1
+Richmond,Virginia Beach,T,arg1 toward arg2,1
+Richmond,Virginia Beach,T,arg1 with a branch office in arg2,1
+Richmond,Virginia Beach,T,arg2 and here in arg1,1
+Richmond,Virginia Beach,T,arg2 and north to arg1,1
+Richmond,Virginia Beach,T,arg2 and one in arg1,1
+Richmond,Virginia Beach,T,arg2 metro and arg1,1
+Richmond,Virginia,T,arg1 and central arg2,1
+Richmond,Virginia,T,arg1 and northern arg2,1
+Richmond,Virginia,T,arg1 and the state of arg2,1
+Richmond,Virginia,T,arg1 and throughout arg2,1
+Richmond,Virginia,T,arg1 area of arg2,1
+Richmond,Virginia,T,arg1 areas of arg2,1
+Richmond,Virginia,T,arg1 became the capital of arg2,1
+Richmond,Virginia,T,arg1 florist shop in arg2,1
+Richmond,Virginia,T,arg1 hotel in arg2,1
+Richmond,Virginia,T,arg1 is the capital of arg2,1
+Richmond,Virginia,T,arg2 and captured arg1,1
+Richmond,Virginia,T,arg2 capital of arg1,1
+Richmond,Virginia,T,arg2 including arg1,1
+Richmond,Virginia,T,arg2 is located in downtown arg1,1
+Richmond,Virginia,T,arg2 located in arg1,1
+Richmond,Virginia,T,arg2 moved to arg1,1
+Richmond,Virginia,T,arg2 such as arg1,1
+Richmond,Virginia,T,arg2 was moved to arg1,1
+Richmond,Virginia,T,arg2 west of arg1,1
+Richmond,West Virginia,T,arg2 and are based in arg1,1
+Richmond,West Virginia,T,arg2 and through arg1,1
+Richmond,West Virginia,T,arg2 before returning to arg1,1
+Richmond,West Virginia,T,arg2 border to arg1,1
+Richmond,West Virginia,T,arg2 toward arg1,1
+Virginia,Atlantic Ocean,T,arg1 meets arg2,1
+Virginia,Atlantic Ocean,T,arg1 on the north and arg2,1
+Virginia,Atlantic Ocean,T,arg1 to the north and arg2,1
+Virginia,Atlantic Ocean,T,arg2 and on the north by arg1,1
+Virginia,Atlantic Ocean,T,arg2 and the states of arg1,1
+Virginia,Atlantic Ocean,T,arg2 in southeastern arg1,1
+Virginia,Atlantic Ocean,T,arg2 in the southeastern part of arg1,1
+Virginia,Atlantic Ocean,T,arg2 make arg1,1
+Virginia,Atlantic Ocean,T,arg2 makes arg1,1
+Virginia,Atlantic Ocean,T,arg2 off arg1,1
+Virginia,Atlantic Ocean,T,arg2 off the coast of arg1,1
+Virginia,Atlantic Ocean,T,arg2 off the coasts of arg1,1
+Virginia,Atlantic Ocean,T,arg2 on their way to arg1,1
+Virginia Beach,Atlantic Ocean,T,arg1 along arg2,1
+Virginia Beach,Atlantic Ocean,T,arg1 along the shores of arg2,1
+Virginia Beach,Atlantic Ocean,T,arg1 and the shores of arg2,1
+Virginia Beach,Atlantic Ocean,T,arg1 is bordered by arg2,1
+Virginia Beach,Atlantic Ocean,T,arg2 and throughout arg1,1
+Virginia Beach,Atlantic Ocean,T,arg2 off arg1,1
+Virginia Beach,Atlantic Ocean,T,arg2 off of arg1,1
+Virginia Beach,Atlantic Ocean,T,arg2 south of arg1,1
+Virginia Beach,North Carolina,T,arg1 and as far away as arg2,1
+Virginia Beach,North Carolina,T,arg1 borders arg2,1
+Virginia Beach,North Carolina,T,arg2 and includes the cities of arg1,1
+Virginia Beach,North Carolina,T,arg2 and later moved to arg1,1
+Virginia Beach,North Carolina,T,arg2 as cocaine traffickers in arg1,1
+Virginia Beach,North Carolina,T,arg2 back to arg1,1
+Virginia Beach,North Carolina,T,arg2 or conducting business in arg1,1
+Virginia Beach,Richmond,T,arg1 metro and arg2,1
+Virginia Beach,Richmond,T,arg2 and its largest city is arg1,1
+Virginia Beach,Richmond,T,arg2 and largest city is arg1,1
+Virginia Beach,Richmond,T,arg2 and the largest city is arg1,1
+Virginia Beach,Richmond,T,arg2 and the shores of arg1,1
+Virginia Beach,Richmond,T,arg2 fans in arg1,1
+Virginia Beach,Richmond,T,arg2 headed for arg1,1
+Virginia Beach,Richmond,T,arg2 is the capital and arg1,1
+Virginia Beach,Richmond,T,arg2 is the capital city and arg1,1
+Virginia Beach,Richmond,T,arg2 is the state capital and arg1,1
+Virginia Beach,Richmond,T,arg2 moving company arg1,1
+Virginia Beach,Richmond,T,arg2 or printing in arg1,1
+Virginia Beach,Richmond,T,arg2 to the coast of arg1,1
+Virginia Beach,Richmond,T,arg2 toward arg1,1
+Virginia Beach,Richmond,T,arg2 with a branch office in arg1,1
+Virginia Beach,Virginia Beach,T,arg1 boardwalk in arg2,1
+Virginia Beach,Virginia Beach,T,arg1 city arg2,1
+Virginia Beach,Virginia Beach,T,arg1 classified ads around arg2,1
+Virginia Beach,Virginia Beach,T,arg1 deliver flowers in arg2,1
+Virginia Beach,Virginia Beach,T,arg1 executive suite categories including arg2,1
+Virginia Beach,Virginia Beach,T,arg1 guests and families in arg2,1
+Virginia Beach,Virginia Beach,T,arg1 homes value through arg2,1
+Virginia Beach,Virginia Beach,T,arg1 located in arg2,1
+Virginia Beach,Virginia Beach,T,arg1 needs arg2,1
+Virginia Beach,Virginia Beach,T,arg1 online dating and arg2,1
+Virginia Beach,Virginia Beach,T,arg1 or relocating outside arg2,1
+Virginia Beach,Virginia Beach,T,arg1 schools pages to research arg2,1
+Virginia Beach,Virginia Beach,T,arg1 shopping in arg2,1
+Virginia Beach,Virginia Beach,T,arg1 single men and arg2,1
+Virginia Beach,Virginia Beach,T,arg1 to help you move within arg2,1
+Virginia Beach,Virginia Beach,T,arg2 boardwalk in arg1,1
+Virginia Beach,Virginia Beach,T,arg2 city arg1,1
+Virginia Beach,Virginia Beach,T,arg2 classified ads around arg1,1
+Virginia Beach,Virginia Beach,T,arg2 deliver flowers in arg1,1
+Virginia Beach,Virginia Beach,T,arg2 executive suite categories including arg1,1
+Virginia Beach,Virginia Beach,T,arg2 guests and families in arg1,1
+Virginia Beach,Virginia Beach,T,arg2 homes value through arg1,1
+Virginia Beach,Virginia Beach,T,arg2 located in arg1,1
+Virginia Beach,Virginia Beach,T,arg2 needs arg1,1
+Virginia Beach,Virginia Beach,T,arg2 online dating and arg1,1
+Virginia Beach,Virginia Beach,T,arg2 or relocating outside arg1,1
+Virginia Beach,Virginia Beach,T,arg2 schools pages to research arg1,1
+Virginia Beach,Virginia Beach,T,arg2 shopping in arg1,1
+Virginia Beach,Virginia Beach,T,arg2 single men and arg1,1
+Virginia Beach,Virginia Beach,T,arg2 to help you move within arg1,1
+Virginia Beach,Virginia Beach,T,entity1=entity2,1
+Virginia Beach,Virginia,T,arg1 and throughout arg2,1
+Virginia Beach,Virginia,T,arg1 area of arg2,1
+Virginia Beach,Virginia,T,arg1 areas of arg2,1
+Virginia Beach,Virginia,T,arg1 is the largest city in arg2,1
+Virginia Beach,Virginia,T,arg1 real estate agent in arg2,1
+Virginia Beach,Virginia,T,arg2 include arg1,1
+Virginia Beach,Virginia,T,arg2 including arg1,1
+Virginia Beach,Virginia,T,arg2 including cities such as arg1,1
+Virginia Beach,Virginia,T,arg2 living in arg1,1
+Virginia Beach,Virginia,T,arg2 located in arg1,1
+Virginia Beach,Virginia,T,arg2 municipalities of arg1,1
+Virginia Beach,Virginia,T,arg2 opened in arg1,1
+Virginia Beach,Virginia,T,arg2 which includes arg1,1
+Virginia Beach,Virginia,T,arg2 which includes the cities of arg1,1
+Virginia,North Carolina,T,arg1 and eastern arg2,1
+Virginia,North Carolina,T,arg1 and northeast arg2,1
+Virginia,North Carolina,T,arg1 and northeastern arg2,1
+Virginia,North Carolina,T,arg1 and northern arg2,1
+Virginia,North Carolina,T,arg1 and northwestern arg2,1
+Virginia,North Carolina,T,arg1 and one in arg2,1
+Virginia,North Carolina,T,arg1 and parts of arg2,1
+Virginia,North Carolina,T,arg1 and western arg2,1
+Virginia,North Carolina,T,arg1 follow arg2,1
+Virginia,North Carolina,T,arg1 successfully competed with arg2,1
+Virginia,North Carolina,T,arg1 through arg2,1
+Virginia,North Carolina,T,arg2 and eastern arg1,1
+Virginia,North Carolina,T,arg2 and parts of arg1,1
+Virginia,North Carolina,T,arg2 and south central arg1,1
+Virginia,North Carolina,T,arg2 and southeastern arg1,1
+Virginia,North Carolina,T,arg2 and southern arg1,1
+Virginia,North Carolina,T,arg2 and southwest arg1,1
+Virginia,North Carolina,T,arg2 and southwestern arg1,1
+Virginia,North Carolina,T,arg2 and western arg1,1
+Virginia,North Carolina,T,arg2 as well as arg1,1
+Virginia,Richmond,T,arg1 including arg2,1
+Virginia,Richmond,T,arg1 is located in downtown arg2,1
+Virginia,Richmond,T,arg1 located in arg2,1
+Virginia,Richmond,T,arg1 moved to arg2,1
+Virginia,Richmond,T,arg1 such as arg2,1
+Virginia,Richmond,T,arg1 was moved to arg2,1
+Virginia,Richmond,T,arg1 west of arg2,1
+Virginia,Richmond,T,arg2 and central arg1,1
+Virginia,Richmond,T,arg2 and northern arg1,1
+Virginia,Richmond,T,arg2 and the state of arg1,1
+Virginia,Richmond,T,arg2 and throughout arg1,1
+Virginia,Richmond,T,arg2 area of arg1,1
+Virginia,Richmond,T,arg2 areas of arg1,1
+Virginia,Richmond,T,arg2 became the capital of arg1,1
+Virginia,Richmond,T,arg2 florist shop in arg1,1
+Virginia,Richmond,T,arg2 hotel in arg1,1
+Virginia,Richmond,T,arg2 is a city in arg1,1
+Virginia,Richmond,T,arg2 is the capital of arg1,1
+Virginia,Virginia Beach,T,arg1 include arg2,1
+Virginia,Virginia Beach,T,arg1 including arg2,1
+Virginia,Virginia Beach,T,arg1 located in arg2,1
+Virginia,Virginia Beach,T,arg1 municipalities of arg2,1
+Virginia,Virginia Beach,T,arg1 which includes arg2,1
+Virginia,Virginia Beach,T,arg2 and throughout arg1,1
+Virginia,Virginia Beach,T,arg2 area of arg1,1
+Virginia,Virginia Beach,T,arg2 areas of arg1,1
+Virginia,Virginia Beach,T,arg2 is the largest city in arg1,1
+Virginia,Virginia Beach,T,arg2 or anywhere in arg1,1
+Virginia,Virginia Beach,T,arg2 or elsewhere in arg1,1
+Virginia,Virginia Beach,T,arg2 portions of arg1,1
+Virginia,Virginia Beach,T,arg2 real estate agent in arg1,1
+Virginia,Virginia Beach,T,arg2 resort area of arg1,1
+Virginia,Virginia Beach,T,arg2 through arg1,1
+Virginia,Virginia Beach,T,arg2 with his wife arg1,1
+Virginia,Virginia,T,arg1 and lives in arg2,1
+Virginia,Virginia,T,arg1 and western arg2,1
+Virginia,Virginia,T,arg1 corporation or arg2,1
+Virginia,Virginia,T,arg1 is a city of arg2,1
+Virginia,Virginia,T,arg1 kindergarten and arg2,1
+Virginia,Virginia,T,arg1 or moving from arg2,1
+Virginia,Virginia,T,arg1 our local arg2,1
+Virginia,Virginia,T,arg1 real estate agency or arg2,1
+Virginia,Virginia,T,arg1 real estate agents and arg2,1
+Virginia,Virginia,T,arg1 real estate license classes and arg2,1
+Virginia,Virginia,T,arg1 seceded from arg2,1
+Virginia,Virginia,T,arg2 and lives in arg1,1
+Virginia,Virginia,T,arg2 and western arg1,1
+Virginia,Virginia,T,arg2 corporation or arg1,1
+Virginia,Virginia,T,arg2 is a city of arg1,1
+Virginia,Virginia,T,arg2 kindergarten and arg1,1
+Virginia,Virginia,T,arg2 or moving from arg1,1
+Virginia,Virginia,T,arg2 our local arg1,1
+Virginia,Virginia,T,arg2 real estate agency or arg1,1
+Virginia,Virginia,T,arg2 real estate agents and arg1,1
+Virginia,Virginia,T,arg2 real estate license classes and arg1,1
+Virginia,Virginia,T,arg2 seceded from arg1,1
+Virginia,Virginia,T,entity1=entity2,1
+Virginia,West Virginia,T,arg1 and eastern arg2,1
+Virginia,West Virginia,T,arg1 and parts of arg2,1
+Virginia,West Virginia,T,arg1 and southern arg2,1
+Virginia,West Virginia,T,arg1 is bordered by arg2,1
+Virginia,West Virginia,T,arg1 through arg2,1
+Virginia,West Virginia,T,arg2 and far western arg1,1
+Virginia,West Virginia,T,arg2 and northern arg1,1
+Virginia,West Virginia,T,arg2 and one in arg1,1
+Virginia,West Virginia,T,arg2 and parts of arg1,1
+Virginia,West Virginia,T,arg2 and southwest arg1,1
+Virginia,West Virginia,T,arg2 and southwestern arg1,1
+Virginia,West Virginia,T,arg2 and western arg1,1
+Virginia,West Virginia,T,arg2 broke away from arg1,1
+Virginia,West Virginia,T,arg2 seceded from arg1,1
+Virginia,West Virginia,T,arg2 secedes from arg1,1
+Virginia,West Virginia,T,arg2 separated from arg1,1
+Virginia,West Virginia,T,arg2 split from arg1,1
+Virginia,West Virginia,T,arg2 was once part of arg1,1
+Virginia,West Virginia,T,arg2 was part of arg1,1
+Virginia,West Virginia,T,arg2 was still part of arg1,1
+West Virginia,Atlantic Ocean,T,arg1 does not border arg2,1
+West Virginia,Atlantic Ocean,T,arg1 which empties into arg2,1
+West Virginia,Atlantic Ocean,T,arg2 to the mountains of arg1,1
+West Virginia,North Carolina,T,arg1 and northern arg2,1
+West Virginia,North Carolina,T,arg1 and western arg2,1
+West Virginia,North Carolina,T,arg1 beat arg2,1
+West Virginia,North Carolina,T,arg1 through western arg2,1
+West Virginia,North Carolina,T,arg1 vs arg2,1
+West Virginia,North Carolina,T,arg2 against arg1,1
+West Virginia,North Carolina,T,arg2 and as far west as arg1,1
+West Virginia,North Carolina,T,arg2 and southern arg1,1
+West Virginia,North Carolina,T,arg2 and southwestern arg1,1
+West Virginia,North Carolina,T,arg2 and the other in arg1,1
+West Virginia,North Carolina,T,arg2 before returning to arg1,1
+West Virginia,North Carolina,T,arg2 deep into arg1,1
+West Virginia,North Carolina,T,arg2 from the mountains of arg1,1
+West Virginia,North Carolina,T,arg2 lost to arg1,1
+West Virginia,North Carolina,T,arg2 shares with arg1,1
+West Virginia,North Carolina,T,arg2 west to arg1,1
+West Virginia,Richmond,T,arg1 and are based in arg2,1
+West Virginia,Richmond,T,arg1 and through arg2,1
+West Virginia,Richmond,T,arg1 before returning to arg2,1
+West Virginia,Richmond,T,arg1 border to arg2,1
+West Virginia,Richmond,T,arg1 toward arg2,1
+West Virginia,Virginia,T,arg1 and far western arg2,1
+West Virginia,Virginia,T,arg1 and northern arg2,1
+West Virginia,Virginia,T,arg1 and one in arg2,1
+West Virginia,Virginia,T,arg1 and parts of arg2,1
+West Virginia,Virginia,T,arg1 and southwest arg2,1
+West Virginia,Virginia,T,arg1 and southwestern arg2,1
+West Virginia,Virginia,T,arg1 and western arg2,1
+West Virginia,Virginia,T,arg1 broke away from arg2,1
+West Virginia,Virginia,T,arg1 seceded from arg2,1
+West Virginia,Virginia,T,arg1 secedes from arg2,1
+West Virginia,Virginia,T,arg1 separated from arg2,1
+West Virginia,Virginia,T,arg1 split from arg2,1
+West Virginia,Virginia,T,arg1 was part of arg2,1
+West Virginia,Virginia,T,arg2 and eastern arg1,1
+West Virginia,Virginia,T,arg2 and parts of arg1,1
+West Virginia,Virginia,T,arg2 and southern arg1,1
+West Virginia,Virginia,T,arg2 and two in arg1,1
+West Virginia,Virginia,T,arg2 as well as eastern arg1,1
+West Virginia,Virginia,T,arg2 is bordered by arg1,1
+West Virginia,Virginia,T,arg2 through arg1,1
+West Virginia,West Virginia,T,arg1 and southern arg2,1
+West Virginia,West Virginia,T,arg1 and view arg2,1
+West Virginia,West Virginia,T,arg1 moving companies arg2,1
+West Virginia,West Virginia,T,arg1 real estate license classes and arg2,1
+West Virginia,West Virginia,T,arg1 refinance in arg2,1
+West Virginia,West Virginia,T,arg1 resident and arg2,1
+West Virginia,West Virginia,T,arg1 residents in arg2,1
+West Virginia,West Virginia,T,arg1 serving arg2,1
+West Virginia,West Virginia,T,arg1 singles groups and arg2,1
+West Virginia,West Virginia,T,arg1 space for lease or arg2,1
+West Virginia,West Virginia,T,arg1 technical schools and arg2,1
+West Virginia,West Virginia,T,arg1 town alphabetically and then arg2,1
+West Virginia,West Virginia,T,arg1 urban real estate or rural arg2,1
+West Virginia,West Virginia,T,arg1 vocational schools and arg2,1
+West Virginia,West Virginia,T,arg1 walking events and arg2,1
+West Virginia,West Virginia,T,arg2 and southern arg1,1
+West Virginia,West Virginia,T,arg2 and view arg1,1
+West Virginia,West Virginia,T,arg2 moving companies arg1,1
+West Virginia,West Virginia,T,arg2 real estate license classes and arg1,1
+West Virginia,West Virginia,T,arg2 refinance in arg1,1
+West Virginia,West Virginia,T,arg2 resident and arg1,1
+West Virginia,West Virginia,T,arg2 residents in arg1,1
+West Virginia,West Virginia,T,arg2 serving arg1,1
+West Virginia,West Virginia,T,arg2 singles groups and arg1,1
+West Virginia,West Virginia,T,arg2 space for lease or arg1,1
+West Virginia,West Virginia,T,arg2 technical schools and arg1,1
+West Virginia,West Virginia,T,arg2 town alphabetically and then arg1,1
+West Virginia,West Virginia,T,arg2 urban real estate or rural arg1,1
+West Virginia,West Virginia,T,arg2 vocational schools and arg1,1
+West Virginia,West Virginia,T,arg2 walking events and arg1,1
+West Virginia,West Virginia,T,entity1=entity2,1

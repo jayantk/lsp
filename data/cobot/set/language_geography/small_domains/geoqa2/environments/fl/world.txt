@@ -1,0 +1,17 @@
+*city;Tallahassee,Miami,Daytona Beach
+*state;Florida
+*island;Key Largo
+*park;Everglades National Park
+*in-rel;Tallahassee#Florida,Miami#Florida,Everglades National Park#Florida,Key Largo#Florida,Daytona Beach#Florida
+*southwest-rel;Everglades National Park#Miami
+*northwest-rel;Tallahassee#Miami,Tallahassee#Everglades National Park,Tallahassee#Key Largo,Tallahassee#Daytona Beach,Everglades National Park#Key Largo
+*southeast-rel;Miami#Tallahassee,Everglades National Park#Tallahassee,Key Largo#Tallahassee,Daytona Beach#Tallahassee,Key Largo#Everglades National Park
+*north-rel;Tallahassee#Miami,Tallahassee#Everglades National Park,Tallahassee#Key Largo,Tallahassee#Daytona Beach,Miami#Key Largo,Everglades National Park#Key Largo,Daytona Beach#Miami,Daytona Beach#Everglades National Park,Daytona Beach#Key Largo
+*east-rel;Miami#Everglades National Park,Miami#Tallahassee,Miami#Key Largo,Everglades National Park#Tallahassee,Key Largo#Tallahassee,Daytona Beach#Tallahassee
+
+*beach;Daytona Beach
+*capital-rel;Tallahassee#Florida,Atlanta#Georgia
+*peninsula;Miami,Daytona Beach,Everglades National Park
+*major;Miami,Tallahassee
+*south-rel;Miami#Tallahassee,Everglades National Park#Tallahassee,Key Largo#Tallahassee,Daytona Beach#Tallahassee,Key Largo#Miami,Key Largo#Everglades National Park,Miami#Daytona Beach,Everglades National Park#Daytona Beach,Key Largo#Daytona Beach
+*located-rel;Tallahassee#Florida,Miami#Florida,Everglades National Park#Florida,Key Largo#Florida,Daytona Beach#Florida

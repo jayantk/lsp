@@ -1,0 +1,18 @@
+West Virginia,T,f_f__F_landmarkPerimeter,2.01927486215
+West Virginia,T,bias,1.0
+West Virginia,T,f_f__F_landmarkArea,0.649438947961
+Charleston,T,f_f__F_landmarkPerimeter,0.00628312135213
+Charleston,T,bias,1.0
+Charleston,T,f_f__F_landmarkArea,3.14146473329e-05
+Monongahela National Forest,T,f_f__F_landmarkPerimeter,0.00628312135213
+Monongahela National Forest,T,bias,1.0
+Monongahela National Forest,T,f_f__F_landmarkArea,3.14146473556e-05
+Tygart Lake,T,f_f__F_landmarkPerimeter,0.00628312135213
+Tygart Lake,T,bias,1.0
+Tygart Lake,T,f_f__F_landmarkArea,3.14146474466e-05
+Richmond,T,f_f__F_landmarkPerimeter,0.00628312135213
+Richmond,T,bias,1.0
+Richmond,T,f_f__F_landmarkArea,3.14146474921e-05
+Virginia,T,f_f__F_landmarkPerimeter,2.40431592487
+Virginia,T,bias,1.0
+Virginia,T,f_f__F_landmarkArea,1.12124584087

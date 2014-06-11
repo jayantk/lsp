@@ -1,0 +1,42 @@
+is Tallahassee a city ?;Tallahassee;1;(lambda $x (and (city $x) (kb-Tallahassee $x)))
+is Miami a city ?;Miami;1;(lambda $x (and (city $x) (kb-Miami $x)))
+is Florida a state ?;Florida;1;(lambda $x (and (state $x) (kb-Florida $x)))
+is Miami a state ?;;1;(lambda $x (and (state $x) (kb-Miami $x)))
+is Tallahassee a state ?;;1;(lambda $x (and (state $x) (kb-Tallahassee $x)))
+is Key Largo an island ?;Key Largo;1;(lambda $x (and (island $x) (kb-Key_Largo $x)))
+is Miami an island ?;;1;(lambda $x (and (island $x) (kb-Miami $x)))
+is Tallahassee a national park ?;;1;(lambda $x (and (park $x) (kb-Tallahassee $x)))
+is Tallahassee a city in Florida ?;Tallahassee;1;(lambda $x (exists $y (and (city $x) (kb-Tallahassee $x) (in-rel $x $y) (kb-Florida $y))))
+is Miami a city in Florida ?;Miami;1;(lambda $x (exists $y (and (city $x) (kb-Miami $x) (in-rel $x $y) (kb-Florida $y))))
+which island is in Florida ?;Key Largo;1;(lambda $x (exists $y (and (island $x) (in-rel $x $y) (kb-Florida $y))))
+what national park is in Florida ?;Everglades National Park;1;(lambda $x (exists $y (and (park $x) (in-rel $x $y) (kb-Florida $y))))
+what national park is to the south west of Miami ?;Everglades National Park;1;(lambda $x (exists $y (and (park $x) (southwest-rel $x $y) (kb-Miami $y))))
+what national park is to the north west of Key Largo ?;Everglades National Park;1;(lambda $x (exists $y (and (park $x) (northwest-rel $x $y) (kb-Key_Largo $y))))
+which cities are to the north of Key Largo ?;Miami,Daytona Beach,Tallahassee;1;(lambda $x (exists $y (and (city $x) (north-rel $x $y) (kb-Key_Largo $y))))
+which city is to the south east of Tallahassee ?;Daytona Beach,Miami;1;(lambda $x (exists $y (and (city $x) (southeast-rel $x $y) (kb-Tallahassee $y))))
+which city is to the north west of Daytona Beach ?;Tallahassee;1;(lambda $x (exists $y (and (city $x) (northwest-rel $x $y) (kb-Daytona_Beach $y))))
+which national park is to the south east of Tallahassee and north west of Key Largo ?;Everglades National Park;3;(lambda $x (exists $y $z (and (park $x) (southeast-rel $x $y) (kb-Tallahassee $y) (northwest-rel $x $z) (kb-Key_Largo $z))))
+which city is to the north of Key Largo and east of Tallahassee ?;Daytona Beach,Miami;3;(lambda $x (exists $y $z (and (city $x) (north-rel $x $y) (kb-Key_Largo $y) (east-rel $x $z) (kb-Tallahassee $z))))
+which city is in between Daytona Beach and Key Largo ?;Miami;4
+
+what national parks are in Florida ?;Everglades National Park;1;(lambda $x (exists $y (and (park $x) (in-rel $x $y) (kb-Florida $y))))
+what beach city is there in Florida ?;Daytona Beach;1;(lambda $x (exists $y (and (beach $x) (city $x) (in-rel $x $y) (kb-Florida $y))))
+what cities are in Florida ?;Miami,Tallahassee,Daytona Beach;1;(lambda $x (exists $y (and (city $x) (in-rel $x $y) (kb-Florida $y))))
+what is the capital of Florida ?;Tallahassee;1;(lambda $x (exists $y (and (capital-rel $x $y) (kb-Florida $y))))
+what are some Florida cities on the peninsula ?;Miami,Daytona Beach;3;
+what are some Florida cities not on the peninsula ?;Tallahassee;3
+what state has Tallahassee as its capital ?;Florida;1;(lambda $x (exists $y (and (state $x) (capital-rel $y $x) (kb-Tallahassee $y))))
+what state is Miami in ?;Florida;1;(lambda $x (exists $y (and (state $x) (in-rel $y $x) (kb-Miami $y))))
+what national park is just east of Miami ?;;1;(lambda $x (exists $y (and (park $x) (east-rel $x $y) (kb-Miami $y))))
+what are some beaches in Florida ?;Daytona Beach;1;(lambda $x (exists $y (and (beach $x) (in-rel $x $y) (kb-Florida $y))))
+what beach is on the east coast of Florida , north of Miami ?;Daytona Beach;4
+what island chain is south of the Everglades National Park ?;Key Largo;1;(lambda $x (exists $y (and (island $x) (south-rel $x $y) (kb-Everglades_National_Park $y))))
+what major city is located in northern Florida ?;Tallahassee;4
+what beaches are in Florida ?;Daytona Beach;1;(lambda $x (exists $y (and (beach $x) (in-rel $x $y) (kb-Florida $y))))
+what is the south most major city in Florida ?;Miami;4
+what city lies between Daytona Beach and Key Largo ?;Miami;4
+what state is Key Largo in ?;Florida;1;(lambda $x (exists $y (and (state $x) (in-rel $y $x) (kb-Key_Largo $y))))
+what Florida national park is at the southern tip of the peninsula ?;Everglades National Park;4
+what state is Daytona Beach in ?;Florida;1;(lambda $x (exists $y (and (state $x) (in-rel $y $x) (kb-Daytona_Beach $y))))
+
+is Key Largo an island ?;Key Largo;1;(lambda $x (and (kb-Key_Largo $x) (island $x)))

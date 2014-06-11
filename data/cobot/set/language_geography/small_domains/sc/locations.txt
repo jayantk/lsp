@@ -1,0 +1,10 @@
+South Carolina;South Carolina;224040
+Myrtle Beach;Myrtle Beach;193842
+Lake Moultrie;Lake Moultrie;269608
+Francis Marion National Forest;Francis Marion National Forest;357123876
+Greenville;Greenville;193989
+Charleston;Charleston;36967884
+Hilton Head Island;Hilton Head Island;194043
+Atlantic Ocean;Atlantic Ocean;305640306
+North Carolina;North Carolina;224045
+Raleigh;Raleigh;179052

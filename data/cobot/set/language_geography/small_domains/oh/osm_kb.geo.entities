@@ -1,0 +1,18 @@
+Pennsylvania,T,f_f__F_landmarkPerimeter,1.78235545846
+Pennsylvania,T,bias,1.0
+Pennsylvania,T,f_f__F_landmarkArea,1.27458768934
+Ohio,T,f_f__F_landmarkPerimeter,1.63113735004
+Ohio,T,bias,1.0
+Ohio,T,f_f__F_landmarkArea,1.23116408913
+Cleveland,T,f_f__F_landmarkPerimeter,0.155146423102
+Cleveland,T,bias,1.0
+Cleveland,T,f_f__F_landmarkArea,0.00230220570618
+Cleveland Browns Stadium,T,f_f__F_landmarkPerimeter,0.000923044545302
+Cleveland Browns Stadium,T,bias,1.0
+Cleveland Browns Stadium,T,f_f__F_landmarkArea,6.23297023594e-07
+Lake Erie,T,f_f__F_landmarkPerimeter,0.00628312135213
+Lake Erie,T,bias,1.0
+Lake Erie,T,f_f__F_landmarkArea,3.14146474238e-05
+Pittsburgh,T,f_f__F_landmarkPerimeter,0.117546334925
+Pittsburgh,T,bias,1.0
+Pittsburgh,T,f_f__F_landmarkArea,0.00161926475541

@@ -1,0 +1,24 @@
+Pennsylvania,N,kb-Pennsylvania 0 0
+Pennsylvania,N/N,kb-Pennsylvania 0 0
+Pennsylvania,N,kb-ignore 0 0
+Pennsylvania,N/N,kb-ignore 0 0
+New Jersey,N,kb-New_Jersey 0 0
+New Jersey,N/N,kb-New_Jersey 0 0
+New Jersey,N,kb-ignore 0 0
+New Jersey,N/N,kb-ignore 0 0
+Pittsburgh,N,kb-Pittsburgh 0 0
+Pittsburgh,N/N,kb-Pittsburgh 0 0
+Pittsburgh,N,kb-ignore 0 0
+Pittsburgh,N/N,kb-ignore 0 0
+Harrisburg,N,kb-Harrisburg 0 0
+Harrisburg,N/N,kb-Harrisburg 0 0
+Harrisburg,N,kb-ignore 0 0
+Harrisburg,N/N,kb-ignore 0 0
+Newark,N,kb-Newark 0 0
+Newark,N/N,kb-Newark 0 0
+Newark,N,kb-ignore 0 0
+Newark,N/N,kb-ignore 0 0
+Trenton,N,kb-Trenton 0 0
+Trenton,N/N,kb-Trenton 0 0
+Trenton,N,kb-ignore 0 0
+Trenton,N/N,kb-ignore 0 0

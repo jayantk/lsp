@@ -1,0 +1,168 @@
+Detroit,T,bias,1.0
+Detroit,T,cities like _,1
+Detroit,T,city of _,1
+Detroit,T,Detroit,1
+Detroit,T,f_f__F_landmarkArea,0.00418817703853
+Detroit,T,f_f__F_landmarkPerimeter,0.121522204859
+Detroit,T,home in _,1
+Detroit,T,hometown of _,1
+Detroit,T,mayor of _,1
+Detroit,T,native of _,1
+Detroit,T,north of _,1
+Detroit,T,people in _,1
+Detroit,T,people of _,1
+Detroit,T,professional wedding vendor in _,1
+Detroit,T,_ 's automakers,1
+Detroit,T,school in _,1
+Detroit,T,show in _,1
+Detroit,T,side of _,1
+Detroit,T,streets of _,1
+Detroit,T,suburb of _,1
+Detroit,T,suburbs of _,1
+Detroit,T,trip to _,1
+Detroit,T,vendor in _,1
+Detroit,T,wedding vendor in _,1
+Grand Rapids,T,bias,1.0
+Grand Rapids,T,city of _,1
+Grand Rapids,T,companies in _,1
+Grand Rapids,T,company in _,1
+Grand Rapids,T,facility in _,1
+Grand Rapids,T,f_f__F_landmarkArea,0.00129339048187
+Grand Rapids,T,f_f__F_landmarkPerimeter,0.0963610280302
+Grand Rapids,T,Grand Rapids,1
+Grand Rapids,T,home in _,1
+Grand Rapids,T,hometown of _,1
+Grand Rapids,T,native of _,1
+Grand Rapids,T,north of _,1
+Grand Rapids,T,offerings from _,1
+Grand Rapids,T,office in _,1
+Grand Rapids,T,offices in _,1
+Grand Rapids,T,professional wedding vendor in _,1
+Grand Rapids,T,rate offerings from _,1
+Grand Rapids,T,school in _,1
+Grand Rapids,T,side of _,1
+Grand Rapids,T,suburb of _,1
+Grand Rapids,T,town of _,1
+Grand Rapids,T,trip to _,1
+Grand Rapids,T,vendor in _,1
+Grand Rapids,T,wedding vendor in _,1
+Lake Huron,T,access to _,1
+Lake Huron,T,beaches of _,1
+Lake Huron,T,bias,1.0
+Lake Huron,T,bottom of _,1
+Lake Huron,T,coast of _,1
+Lake Huron,T,cottage on _,1
+Lake Huron,T,eastern shore of _,1
+Lake Huron,T,end of _,1
+Lake Huron,T,f_f__F_landmarkArea,3.14146473329e-05
+Lake Huron,T,f_f__F_landmarkPerimeter,0.00628312135213
+Lake Huron,T,island in _,1
+Lake Huron,T,Lake Huron,1
+Lake Huron,T,north of _,1
+Lake Huron,T,north shore of _,1
+Lake Huron,T,part of _,1
+Lake Huron,T,shoreline of _,1
+Lake Huron,T,shore of _,1
+Lake Huron,T,shores of _,1
+Lake Huron,T,side of _,1
+Lake Huron,T,view of _,1
+Lake Huron,T,views of _,1
+Lake Huron,T,water from _,1
+Lake Huron,T,water of _,1
+Lake Huron,T,waters of _,1
+Lake Michigan,T,access to _,1
+Lake Michigan,T,banks of _,1
+Lake Michigan,T,beaches of _,1
+Lake Michigan,T,bias,1.0
+Lake Michigan,T,bottom of _,1
+Lake Michigan,T,coast of _,1
+Lake Michigan,T,eastern shore of _,1
+Lake Michigan,T,edge of _,1
+Lake Michigan,T,end of _,1
+Lake Michigan,T,f_f__F_landmarkArea,0.653123874523
+Lake Michigan,T,f_f__F_landmarkPerimeter,2.69659858708
+Lake Michigan,T,fishing on _,1
+Lake Michigan,T,Lake Michigan,1
+Lake Michigan,T,proximity to _,1
+Lake Michigan,T,shoreline of _,1
+Lake Michigan,T,shore of _,1
+Lake Michigan,T,shores of _,1
+Lake Michigan,T,side of _,1
+Lake Michigan,T,tip of _,1
+Lake Michigan,T,view of _,1
+Lake Michigan,T,views of _,1
+Lake Michigan,T,water from _,1
+Lake Michigan,T,waters of _,1
+Lake Michigan,T,western shore of _,1
+Michigan,T,area of _,1
+Michigan,T,areas of _,1
+Michigan,T,bias,1.0
+Michigan,T,business in _,1
+Michigan,T,f_f__F_landmarkArea,2.85298377062
+Michigan,T,f_f__F_landmarkPerimeter,2.89376665218
+Michigan,T,governor of _,1
+Michigan,T,home in _,1
+Michigan,T,home state of _,1
+Michigan,T,Michigan,1
+Michigan,T,part of _,1
+Michigan,T,parts of _,1
+Michigan,T,peninsula of _,1
+Michigan,T,people in _,1
+Michigan,T,people of _,1
+Michigan,T,places in _,1
+Michigan,T,rest of _,1
+Michigan,T,school in _,1
+Michigan,T,schools in _,1
+Michigan,T,_ 's economy,1
+Michigan,T,state of _,1
+Michigan,T,states of _,1
+Michigan,T,town in _,1
+Michigan,T,trip to _,1
+Milwaukee,T,bias,1.0
+Milwaukee,T,city of _,1
+Milwaukee,T,conference in _,1
+Milwaukee,T,f_f__F_landmarkArea,0.0027706544998
+Milwaukee,T,f_f__F_landmarkPerimeter,0.190031268768
+Milwaukee,T,headquarters in _,1
+Milwaukee,T,home in _,1
+Milwaukee,T,hometown of _,1
+Milwaukee,T,meeting in _,1
+Milwaukee,T,Milwaukee,1
+Milwaukee,T,native of _,1
+Milwaukee,T,north of _,1
+Milwaukee,T,office in _,1
+Milwaukee,T,offices in _,1
+Milwaukee,T,people in _,1
+Milwaukee,T,place in _,1
+Milwaukee,T,program in _,1
+Milwaukee,T,school in _,1
+Milwaukee,T,schools in _,1
+Milwaukee,T,show in _,1
+Milwaukee,T,side of _,1
+Milwaukee,T,suburb of _,1
+Milwaukee,T,time in _,1
+Milwaukee,T,trip to _,1
+Wisconsin,T,area of _,1
+Wisconsin,T,areas of _,1
+Wisconsin,T,bias,1.0
+Wisconsin,T,business in _,1
+Wisconsin,T,education in _,1
+Wisconsin,T,farm in _,1
+Wisconsin,T,f_f__F_landmarkArea,1.92519705897
+Wisconsin,T,f_f__F_landmarkPerimeter,2.34084570031
+Wisconsin,T,governor of _,1
+Wisconsin,T,home in _,1
+Wisconsin,T,home state of _,1
+Wisconsin,T,native of _,1
+Wisconsin,T,part of _,1
+Wisconsin,T,parts of _,1
+Wisconsin,T,people in _,1
+Wisconsin,T,people of _,1
+Wisconsin,T,places in _,1
+Wisconsin,T,school in _,1
+Wisconsin,T,schools in _,1
+Wisconsin,T,services in _,1
+Wisconsin,T,state of _,1
+Wisconsin,T,town in _,1
+Wisconsin,T,trip to _,1
+Wisconsin,T,Wisconsin,1

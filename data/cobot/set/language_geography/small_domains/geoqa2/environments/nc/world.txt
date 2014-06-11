@@ -1,0 +1,14 @@
+*city;Raleigh,Charlotte,Greensboro,Myrtle Beach
+*ocean;Atlantic Ocean
+*state;North Carolina,South Carolina
+*capital-rel;Raleigh#North Carolina
+*forest;Uwharrie National Forest
+*in-rel;Raleigh#North Carolina,Charlotte#North Carolina,Greensboro#North Carolina,Uwharrie National Forest#North Carolina,Myrtle Beach#South Carolina
+*east-rel;Atlantic Ocean#North Carolina,Raleigh#Charlotte,Uwharrie National Forest#Charlotte,Raleigh#Uwharrie National Forest,Atlantic Ocean#South Carolina,Raleigh#Greensboro
+*northeast-rel;Greensboro#Charlotte,Raleigh#Uwharrie National Forest,North Carolina#South Carolina
+*south-rel;South Carolina#North Carolina,Myrtle Beach#North Carolina,Myrtle Beach#Raleigh,South Carolina#Raleigh,South Carolina#Charlotte,South Carolina#Uwharrie National Forest,Uwharrie National Forest#Greensboro,South Carolina#Greensboro
+*north-rel;North Carolina#South Carolina,North Carolina#Myrtle Beach,Raleigh#Myrtle Beach,Raleigh#South Carolina,Charlotte#South Carolina,Uwharrie National Forest#South Carolina,Greensboro#Charlotte,Greensboro#Uwharrie National Forest,Greensboro#South Carolina
+*west-rel;North Carolina#Atlantic Ocean,Charlotte#Raleigh,Greensboro#Raleigh,Charlotte#Uwharrie National Forest,Uwharrie National Forest#Raleigh,South Carolina#Atlantic Ocean,Greensboro#Raleigh
+*near-rel;Myrtle Beach#North Carolina,South Carolina#North Carolina,Atlantic Ocean#North Carolina,Greensboro#Raleigh,Uwharrie National Forest#Charlotte,South Carolina#Charlotte,Charlotte#Uwharrie National Forest,Raleigh#Greensboro,North Carolina#Atlantic Ocean,South Carolina#Atlantic Ocean,North Carolina#South Carolina,Charlotte#South Carolina,Atlantic Ocean#South Carolina,Atlantic Ocean#Myrtle Beach
+*on-rel;North Carolina#Atlantic Ocean,South Carolina#Atlantic Ocean,Myrtle Beach#Atlantic Ocean
+*close-rel;Myrtle Beach#North Carolina,South Carolina#North Carolina,Atlantic Ocean#North Carolina,Greensboro#Raleigh,Uwharrie National Forest#Charlotte,South Carolina#Charlotte,Charlotte#Uwharrie National Forest,Raleigh#Greensboro,North Carolina#Atlantic Ocean,South Carolina#Atlantic Ocean,North Carolina#South Carolina,Charlotte#South Carolina,Atlantic Ocean#South Carolina,Atlantic Ocean#Myrtle Beach

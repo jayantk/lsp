@@ -1,0 +1,18 @@
+*state;Virginia,West Virginia,North Carolina
+*city;Virginia Beach,Richmond
+*ocean;Atlantic Ocean
+*large;Richmond
+
+*capital-rel;Richmond#Virginia
+*abut-rel;Virginia#West Virginia,West Virginia#Virginia,North Carolina#Virginia,Virginia#North Carolina,Virginia#Atlantic Ocean,Atlantic Ocean#Virginia,North Carolina#Atlantic Ocean,Atlantic Ocean#North Carolina,Virginia Beach#Atlantic Ocean,Atlantic Ocean#Virginia Beach
+*border-rel;Virginia#West Virginia,West Virginia#Virginia,North Carolina#Virginia,Virginia#North Carolina,Virginia#Atlantic Ocean,Atlantic Ocean#Virginia,North Carolina#Atlantic Ocean,Atlantic Ocean#North Carolina,Virginia Beach#Atlantic Ocean,Atlantic Ocean#Virginia Beach,West Virginia#Atlantic Ocean,Atlantic Ocean#West Virginia
+*in-rel;Virginia Beach#Virginia,Richmond#Virginia
+*inside-rel;Virginia Beach#Virginia,Richmond#Virginia
+*contain-rel;Virginia#Virginia Beach,Virginia#Richmond
+*south-rel;North Carolina#Virginia,Virginia#West Virginia,North Carolina#Virginia Beach,North Carolina#Richmond
+*east-rel;Atlantic Ocean#Virginia Beach,Atlantic Ocean#Richmond,Atlantic Ocean#Virginia,Atlantic Ocean#West Virginia,Atlantic Ocean#North Carolina,Virginia#West Virginia,Virginia Beach#Richmond
+*west-rel;Virginia Beach#Atlantic Ocean,Richmond#Atlantic Ocean,Virginia#Atlantic Ocean,North Carolina#Atlantic Ocean,West Virginia#Virginia,Richmond#Virginia Beach
+*southeast-rel;Virginia Beach#Richmond,Virginia#West Virginia,Atlantic Ocean#Virginia,Atlantic Ocean#North Carolina
+*along-rel;West Virginia#Atlantic Ocean,Virginia#Atlantic Ocean,North Carolina#Atlantic Ocean,Virginia Beach#Atlantic Ocean
+*near-rel;West Virginia#Virginia,North Carolina#Virginia,Atlantic Ocean#Virginia,Richmond#Virginia Beach,Atlantic Ocean#Virginia Beach,North Carolina#Virginia Beach,Virginia Beach#Richmond,Virginia Beach#Atlantic Ocean,Virginia#Atlantic Ocean,North Carolina#Atlantic Ocean,Virginia#West Virginia,Virginia#North Carolina,Virginia Beach#North Carolina,Atlantic Ocean#North Carolina
+*on-rel;West Virginia#Atlantic Ocean,Virginia#Atlantic Ocean,North Carolina#Atlantic Ocean,Virginia Beach#Atlantic Ocean

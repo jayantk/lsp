@@ -1,0 +1,6 @@
+Georgia;Georgia;161957
+Atlanta;Atlanta;119557
+Macon;Macon;119694
+Alabama;Alabama;161950
+Montgomery;Montgomery, Alabama;153806548
+Birmingham;Birmingham;111031

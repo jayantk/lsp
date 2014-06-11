@@ -1,0 +1,10 @@
+*state;Oklahoma,Texas,Arkansas,Louisiana,Mississippi
+*border-rel;Texas#Oklahoma,Arkansas#Oklahoma,Oklahoma#Texas,Arkansas#Texas,Louisiana#Texas,Oklahoma#Arkansas,Texas#Arkansas,Louisiana#Arkansas,Mississippi#Arkansas,Texas#Louisiana,Arkansas#Louisiana,Mississippi#Louisiana,Arkansas#Mississippi,Louisiana#Mississippi
+*east-rel;Arkansas#Oklahoma,Louisiana#Texas,Mississippi#Arkansas,Mississippi#Louisiana
+*west-rel;Oklahoma#Arkansas,Texas#Louisiana,Arkansas#Mississippi,Louisiana#Mississippi
+*south-rel;Texas#Oklahoma,Louisiana#Arkansas
+*north-rel;Oklahoma#Texas,Arkansas#Louisiana
+*northwest-rel;Oklahoma#Louisiana,Arkansas#Mississippi,Oklahoma#Mississippi
+*northeast-rel;Arkansas#Texas,Mississippi#Louisiana
+*southeast-rel;Louisiana#Oklahoma,Mississippi#Arkansas
+*southwest-rel;Texas#Arkansas,Louisiana#Mississippi

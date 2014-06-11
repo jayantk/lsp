@@ -1,0 +1,30 @@
+South Carolina,T,f_f__F_landmarkPerimeter,1.43957448725
+South Carolina,T,bias,1.0
+South Carolina,T,f_f__F_landmarkArea,0.787710768436
+Myrtle Beach,T,f_f__F_landmarkPerimeter,0.0657165527344
+Myrtle Beach,T,bias,1.0
+Myrtle Beach,T,f_f__F_landmarkArea,0.00265616476536
+Lake Moultrie,T,f_f__F_landmarkPerimeter,0.211508434902
+Lake Moultrie,T,bias,1.0
+Lake Moultrie,T,f_f__F_landmarkArea,0.00227203722734
+Francis Marion National Forest,T,f_f__F_landmarkPerimeter,0.00628312135213
+Francis Marion National Forest,T,bias,1.0
+Francis Marion National Forest,T,f_f__F_landmarkArea,3.14146478786e-05
+Greenville,T,f_f__F_landmarkPerimeter,0.0889506651852
+Greenville,T,bias,1.0
+Greenville,T,f_f__F_landmarkArea,0.000746028129242
+Charleston,T,f_f__F_landmarkPerimeter,0.00628312135213
+Charleston,T,bias,1.0
+Charleston,T,f_f__F_landmarkArea,3.14146473329e-05
+Hilton Head Island,T,f_f__F_landmarkPerimeter,0.0694717407227
+Hilton Head Island,T,bias,1.0
+Hilton Head Island,T,f_f__F_landmarkArea,0.00301517955959
+Atlantic Ocean,T,f_f__F_landmarkPerimeter,0.00628312135213
+Atlantic Ocean,T,bias,1.0
+Atlantic Ocean,T,f_f__F_landmarkArea,3.14146474381e-05
+North Carolina,T,f_f__F_landmarkPerimeter,2.21292659044
+North Carolina,T,bias,1.0
+North Carolina,T,f_f__F_landmarkArea,1.38519840646
+Raleigh,T,f_f__F_landmarkPerimeter,0.122296905518
+Raleigh,T,bias,1.0
+Raleigh,T,f_f__F_landmarkArea,0.00916920068562

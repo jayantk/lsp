@@ -1,0 +1,12 @@
+Georgia,N,kb-Georgia 0 0
+Georgia,N/N,kb-Georgia 0 0
+Atlanta,N,kb-Atlanta 0 0
+Atlanta,N/N,kb-Atlanta 0 0
+Macon,N,kb-Macon 0 0
+Macon,N/N,kb-Macon 0 0
+Alabama,N,kb-Alabama 0 0
+Alabama,N/N,kb-Alabama 0 0
+Montgomery,N,kb-Montgomery 0 0
+Montgomery,N/N,kb-Montgomery 0 0
+Birmingham,N,kb-Birmingham 0 0
+Birmingham,N/N,kb-Birmingham 0 0

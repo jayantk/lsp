@@ -1,0 +1,172 @@
+ocean,N,ocean 0 0
+ocean,N/N,ocean 0 0
+to,N,to 0 0
+to,N,kb-ignore 0 0
+to,N/N,to 0 0
+to,N/N,kb-ignore 0 0
+'s,N/N,kb-ignore 0 0
+'s,N,kb-ignore 0 0
+southernmost city,N,southernmostcity 0 0
+southernmost city,N/N,southernmostcity 0 0
+cities,N,city 0 0
+cities,N/N,city 0 0
+common,N,common 0 0
+common,N/N,common 0 0
+common word,N,commonword 0 0
+common word,N/N,commonword 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+oceans,N,ocean 0 0
+oceans,N/N,ocean 0 0
+west,N,west 0 0
+west,N/N,west 0 0
+capital,N,capital 0 0
+capital,N/N,capital 0 0
+northernmost,N,northernmost 0 0
+northernmost,N/N,northernmost 0 0
+is,N/N,kb-ignore 0 0
+is,N,kb-ignore 0 0
+go,N,go 0 0
+go,N,kb-ignore 0 0
+go,N/N,go 0 0
+go,N/N,kb-ignore 0 0
+in,N,in 0 0
+in,N,kb-ignore 0 0
+in,N/N,in 0 0
+in,N/N,kb-ignore 0 0
+coast,N,coast 0 0
+coast,N/N,coast 0 0
+what,N/N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+what,N,what 0 0
+there,N,kb-ignore 0 0
+there,N/N,kb-ignore 0 0
+inside,N,inside 0 0
+inside,N,kb-ignore 0 0
+inside,N/N,inside 0 0
+inside,N/N,kb-ignore 0 0
+city,N,city 0 0
+city,N/N,city 0 0
+contains,N,contain 0 0
+contains,N,kb-ignore 0 0
+contains,N/N,contain 0 0
+contains,N/N,kb-ignore 0 0
+has,N,have 0 0
+has,N,kb-ignore 0 0
+has,N/N,have 0 0
+has,N/N,kb-ignore 0 0
+state,N,state 0 0
+state,N/N,state 0 0
+borders,N,border 0 0
+borders,N/N,border 0 0
+through,N,through 0 0
+through,N,kb-ignore 0 0
+through,N/N,through 0 0
+through,N/N,kb-ignore 0 0
+closest river,N,closestriver 0 0
+closest river,N/N,closestriver 0 0
+along,N,along 0 0
+along,N,kb-ignore 0 0
+along,N/N,along 0 0
+along,N/N,kb-ignore 0 0
+of,N,of 0 0
+of,N,kb-ignore 0 0
+of,N/N,of 0 0
+of,N/N,kb-ignore 0 0
+south,N/N,kb-ignore 0 0
+abut,N,abut 0 0
+abut,N,kb-ignore 0 0
+abut,N/N,abut 0 0
+abut,N/N,kb-ignore 0 0
+and,N/N,and 0 0
+and,N/N,kb-ignore 0 0
+are,N/N,kb-ignore 0 0
+are,N,kb-ignore 0 0
+parks,N,park 0 0
+parks,N/N,park 0 0
+lakes,N,lake 0 0
+lakes,N/N,lake 0 0
+rivers,N,river 0 0
+rivers,N/N,river 0 0
+#what,N,#what 0 0
+#what,N/N,#what 0 0
+does,N,do 0 0
+does,N,kb-ignore 0 0
+does,N/N,do 0 0
+does,N/N,kb-ignore 0 0
+between,N,between 0 0
+between,N,kb-ignore 0 0
+between,N/N,between 0 0
+between,N/N,kb-ignore 0 0
+the,N,kb-ignore 0 0
+the,N/N,kb-ignore 0 0
+near,N,near 0 0
+near,N,kb-ignore 0 0
+near,N/N,near 0 0
+near,N/N,kb-ignore 0 0
+closest large city,N,closestlargecity 0 0
+closest large city,N/N,closestlargecity 0 0
+river,N,river 0 0
+river,N/N,river 0 0
+also,N/N,kb-ignore 0 0
+large,N,large 0 0
+large,N/N,large 0 0
+forests,N,forest 0 0
+forests,N/N,forest 0 0
+have,N,have 0 0
+have,N,kb-ignore 0 0
+have,N/N,have 0 0
+have,N/N,kb-ignore 0 0
+name,N,name 0 0
+name,N/N,name 0 0
+many,N,many 0 0
+many,N/N,many 0 0
+on,N,on 0 0
+on,N,kb-ignore 0 0
+on,N/N,on 0 0
+on,N/N,kb-ignore 0 0
+word,N,word 0 0
+word,N/N,word 0 0
+southernmost,N,southernmost 0 0
+southernmost,N/N,southernmost 0 0
+a,N,kb-ignore 0 0
+a,N/N,kb-ignore 0 0
+#what,N,#what 0 0
+#what,N,kb-ignore 0 0
+#what,N/N,#what 0 0
+#what,N/N,kb-ignore 0 0
+state west,N,statewest 0 0
+state west,N/N,statewest 0 0
+east,N,east 0 0
+east,N/N,east 0 0
+closest,N,closest 0 0
+closest,N/N,closest 0 0
+shares,N,share 0 0
+shares,N/N,share 0 0
+states,N,state 0 0
+states,N/N,state 0 0
+Virginia,N,kb-Virginia 0 0
+Virginia,N/N,kb-Virginia 0 0
+Virginia,N,kb-ignore 0 0
+Virginia,N/N,kb-ignore 0 0
+Virginia Beach,N,kb-Virginia_Beach 0 0
+Virginia Beach,N/N,kb-Virginia_Beach 0 0
+Virginia Beach,N,kb-ignore 0 0
+Virginia Beach,N/N,kb-ignore 0 0
+Richmond,N,kb-Richmond 0 0
+Richmond,N/N,kb-Richmond 0 0
+Richmond,N,kb-ignore 0 0
+Richmond,N/N,kb-ignore 0 0
+Atlantic Ocean,N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N/N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N,kb-ignore 0 0
+Atlantic Ocean,N/N,kb-ignore 0 0
+West Virginia,N,kb-West_Virginia 0 0
+West Virginia,N/N,kb-West_Virginia 0 0
+West Virginia,N,kb-ignore 0 0
+West Virginia,N/N,kb-ignore 0 0
+North Carolina,N,kb-North_Carolina 0 0
+North Carolina,N/N,kb-North_Carolina 0 0
+North Carolina,N,kb-ignore 0 0
+North Carolina,N/N,kb-ignore 0 0

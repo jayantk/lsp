@@ -1,0 +1,168 @@
+Anaheim,T,f_f__F_landmarkPerimeter,0.00628312135221
+Anaheim,T,bias,1.0
+Anaheim,T,f_f__F_landmarkArea,3.14146472419e-05
+Arizona,T,f_f__F_landmarkPerimeter,2.37648977227
+Arizona,T,bias,1.0
+Arizona,T,f_f__F_landmarkArea,2.89167383987
+Bakersfield,T,f_f__F_landmarkPerimeter,0.0129293050947
+Bakersfield,T,bias,1.0
+Bakersfield,T,f_f__F_landmarkArea,5.84012317177e-05
+California,T,f_f__F_landmarkPerimeter,3.55046379039
+California,T,bias,1.0
+California,T,f_f__F_landmarkArea,4.26517664475
+Columbia River,T,f_f__F_landmarkPerimeter,0.00559913880299
+Columbia River,T,bias,1.0
+Columbia River,T,f_f__F_landmarkArea,9.242918577e-06
+Concord,T,f_f__F_landmarkPerimeter,0.0526700914166
+Concord,T,bias,1.0
+Concord,T,f_f__F_landmarkArea,0.00081829499868
+Death Valley National Park,T,f_f__F_landmarkPerimeter,0.000594329833939
+Death Valley National Park,T,bias,1.0
+Death Valley National Park,T,f_f__F_landmarkArea,2.20214133151e-07
+Elko,T,f_f__F_landmarkPerimeter,0.00628312135221
+Elko,T,bias,1.0
+Elko,T,f_f__F_landmarkArea,3.14146469009e-05
+Eugene,T,f_f__F_landmarkPerimeter,0.00628312135221
+Eugene,T,bias,1.0
+Eugene,T,f_f__F_landmarkArea,3.14146469009e-05
+Fern Ridge Lake,T,f_f__F_landmarkPerimeter,0.00628312135221
+Fern Ridge Lake,T,bias,1.0
+Fern Ridge Lake,T,f_f__F_landmarkArea,3.14146476285e-05
+Flagstaff,T,f_f__F_landmarkPerimeter,0.111114998181
+Flagstaff,T,bias,1.0
+Flagstaff,T,f_f__F_landmarkArea,0.00166381824954
+Fremont,T,f_f__F_landmarkPerimeter,0.0840063582511
+Fremont,T,bias,1.0
+Fremont,T,f_f__F_landmarkArea,0.00268536942062
+Fresno,T,f_f__F_landmarkPerimeter,0.00210066391492
+Fresno,T,bias,1.0
+Fresno,T,f_f__F_landmarkArea,1.1068056665e-06
+Grand Canyon National Park,T,f_f__F_landmarkPerimeter,1.59048587441
+Grand Canyon National Park,T,bias,1.0
+Grand Canyon National Park,T,f_f__F_landmarkArea,0.049111088759
+Grand Staircase-Escalante National Monument,T,f_f__F_landmarkPerimeter,0.00628312135221
+Grand Staircase-Escalante National Monument,T,bias,1.0
+Grand Staircase-Escalante National Monument,T,f_f__F_landmarkArea,3.14146486289e-05
+Great Salt Lake,T,f_f__F_landmarkPerimeter,0.729699731347
+Great Salt Lake,T,bias,1.0
+Great Salt Lake,T,f_f__F_landmarkArea,0.0490556360498
+Henderson,T,f_f__F_landmarkPerimeter,0.00628312135221
+Henderson,T,bias,1.0
+Henderson,T,f_f__F_landmarkArea,3.14146473556e-05
+Huntington Beach,T,f_f__F_landmarkPerimeter,0.0745767853437
+Huntington Beach,T,bias,1.0
+Huntington Beach,T,f_f__F_landmarkArea,0.000799164621912
+Lake Tahoe,T,f_f__F_landmarkPerimeter,0.119007971158
+Lake Tahoe,T,bias,1.0
+Lake Tahoe,T,f_f__F_landmarkArea,0.00516512410231
+Las Vegas,T,f_f__F_landmarkPerimeter,0.00628312135221
+Las Vegas,T,bias,1.0
+Las Vegas,T,f_f__F_landmarkArea,3.14146482197e-05
+Long Beach,T,f_f__F_landmarkPerimeter,0.0806595221128
+Long Beach,T,bias,1.0
+Long Beach,T,f_f__F_landmarkArea,0.00209208320034
+Los Angeles,T,f_f__F_landmarkPerimeter,0.00628312135221
+Los Angeles,T,bias,1.0
+Los Angeles,T,f_f__F_landmarkArea,3.14146474466e-05
+Nevada,T,f_f__F_landmarkPerimeter,2.37688345179
+Nevada,T,bias,1.0
+Nevada,T,f_f__F_landmarkArea,2.99382099506
+Oregon,T,f_f__F_landmarkPerimeter,2.57598162666
+Oregon,T,bias,1.0
+Oregon,T,f_f__F_landmarkArea,2.85686293162
+Oswego Lake,T,f_f__F_landmarkPerimeter,0.0200633532338
+Oswego Lake,T,bias,1.0
+Oswego Lake,T,f_f__F_landmarkArea,1.93033129108e-05
+Oxnard,T,f_f__F_landmarkPerimeter,0.101378723375
+Oxnard,T,bias,1.0
+Oxnard,T,f_f__F_landmarkArea,0.000983817593146
+Pacific Ocean,T,f_f__F_landmarkPerimeter,0.00628312135221
+Pacific Ocean,T,bias,1.0
+Pacific Ocean,T,f_f__F_landmarkArea,3.14146473784e-05
+Phoenix,T,f_f__F_landmarkPerimeter,0.00628312135221
+Phoenix,T,bias,1.0
+Phoenix,T,f_f__F_landmarkArea,3.14146470828e-05
+Portland,T,f_f__F_landmarkPerimeter,0.00628312135221
+Portland,T,bias,1.0
+Portland,T,f_f__F_landmarkArea,3.14146477194e-05
+Provo,T,f_f__F_landmarkPerimeter,0.0924499321846
+Provo,T,bias,1.0
+Provo,T,f_f__F_landmarkArea,0.00121060851498
+Red Bluff,T,f_f__F_landmarkPerimeter,0.0549920417624
+Red Bluff,T,bias,1.0
+Red Bluff,T,f_f__F_landmarkArea,0.000209456413177
+Redding,T,f_f__F_landmarkPerimeter,0.00533131835039
+Redding,T,bias,1.0
+Redding,T,f_f__F_landmarkArea,1.36128624945e-05
+Reno,T,f_f__F_landmarkPerimeter,0.00628312135221
+Reno,T,bias,1.0
+Reno,T,f_f__F_landmarkArea,3.1414647583e-05
+Sacramento,T,f_f__F_landmarkPerimeter,0.00628312135221
+Sacramento,T,bias,1.0
+Sacramento,T,f_f__F_landmarkArea,3.14146475375e-05
+Salem,T,f_f__F_landmarkPerimeter,0.174029548134
+Salem,T,bias,1.0
+Salem,T,f_f__F_landmarkArea,0.00140259034656
+Salt Lake City,T,f_f__F_landmarkPerimeter,0.00628312135221
+Salt Lake City,T,bias,1.0
+Salt Lake City,T,f_f__F_landmarkArea,3.14146474466e-05
+San Diego,T,f_f__F_landmarkPerimeter,0.0114110286778
+San Diego,T,bias,1.0
+San Diego,T,f_f__F_landmarkArea,3.86318759865e-05
+San Francisco Bay,T,f_f__F_landmarkPerimeter,0.00628312135221
+San Francisco Bay,T,bias,1.0
+San Francisco Bay,T,f_f__F_landmarkArea,3.14146477194e-05
+San Francisco,T,f_f__F_landmarkPerimeter,0.00628312135221
+San Francisco,T,bias,1.0
+San Francisco,T,f_f__F_landmarkArea,3.14146472192e-05
+San Jose,T,f_f__F_landmarkPerimeter,0.00628312135221
+San Jose,T,bias,1.0
+San Jose,T,f_f__F_landmarkArea,3.14146474466e-05
+Santa Rosa,T,f_f__F_landmarkPerimeter,0.00395831606814
+Santa Rosa,T,bias,1.0
+Santa Rosa,T,f_f__F_landmarkArea,5.64366018807e-06
+Sierra Nevada Mountains,T,f_f__F_landmarkPerimeter,0.21244173326
+Sierra Nevada Mountains,T,bias,1.0
+Sierra Nevada Mountains,T,f_f__F_landmarkArea,0.00664298076249
+Staples Center,T,f_f__F_landmarkPerimeter,0.00628312135221
+Staples Center,T,bias,1.0
+Staples Center,T,f_f__F_landmarkArea,3.14146475603e-05
+Stockton,T,f_f__F_landmarkPerimeter,0.144567202163
+Stockton,T,bias,1.0
+Stockton,T,f_f__F_landmarkArea,0.00171639276591
+Tucson,T,f_f__F_landmarkPerimeter,0.00628312135221
+Tucson,T,bias,1.0
+Tucson,T,f_f__F_landmarkArea,3.1414647674e-05
+Utah Lake,T,f_f__F_landmarkPerimeter,0.130535742301
+Utah Lake,T,bias,1.0
+Utah Lake,T,f_f__F_landmarkArea,0.00381271960673
+Utah,T,f_f__F_landmarkPerimeter,2.00043789041
+Utah,T,bias,1.0
+Utah,T,f_f__F_landmarkArea,2.29742257057
+Willamette River,T,f_f__F_landmarkPerimeter,0.00262791073318
+Willamette River,T,bias,1.0
+Willamette River,T,f_f__F_landmarkArea,1.37008341881e-06
+St. George,T,f_f__F_landmarkPerimeter,0.104039510565
+St. George,T,bias,1.0
+St. George,T,f_f__F_landmarkArea,0.00185406529113
+Great Basin National Park,T,f_f__F_landmarkPerimeter,0.104217985981
+Great Basin National Park,T,bias,1.0
+Great Basin National Park,T,f_f__F_landmarkArea,0.00324521846555
+Yosemite National Park,T,f_f__F_landmarkPerimeter,0.305196084821
+Yosemite National Park,T,bias,1.0
+Yosemite National Park,T,f_f__F_landmarkArea,0.0309596344294
+Oregon,T,f_f__F_landmarkPerimeter,2.57598162666
+Oregon,T,bias,1.0
+Oregon,T,f_f__F_landmarkArea,2.85686293162
+Mount Whitney,T,f_f__F_landmarkPerimeter,0.00628312135221
+Mount Whitney,T,bias,1.0
+Mount Whitney,T,f_f__F_landmarkArea,3.14146471737e-05
+Twin Peaks,T,f_f__F_landmarkPerimeter,0.00628312135221
+Twin Peaks,T,bias,1.0
+Twin Peaks,T,f_f__F_landmarkArea,3.14146471283e-05
+Truckee River,T,f_f__F_landmarkPerimeter,0.0705039978028
+Truckee River,T,bias,1.0
+Truckee River,T,f_f__F_landmarkArea,0.00310524606912
+Redondo Beach,T,f_f__F_landmarkPerimeter,0.00628312135221
+Redondo Beach,T,bias,1.0
+Redondo Beach,T,f_f__F_landmarkArea,3.14146473556e-05

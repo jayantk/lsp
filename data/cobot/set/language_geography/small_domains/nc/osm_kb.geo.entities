@@ -1,0 +1,24 @@
+North Carolina,T,f_f__F_landmarkPerimeter,2.21292659044
+North Carolina,T,bias,1.0
+North Carolina,T,f_f__F_landmarkArea,1.38519840646
+Raleigh,T,f_f__F_landmarkPerimeter,0.122296905518
+Raleigh,T,bias,1.0
+Raleigh,T,f_f__F_landmarkArea,0.00916920068562
+Charlotte,T,f_f__F_landmarkPerimeter,0.00628312135213
+Charlotte,T,bias,1.0
+Charlotte,T,f_f__F_landmarkArea,3.14146475603e-05
+Uwharrie National Forest,T,f_f__F_landmarkPerimeter,0.0109131270312
+Uwharrie National Forest,T,bias,1.0
+Uwharrie National Forest,T,f_f__F_landmarkArea,2.77707005353e-05
+Greensboro,T,f_f__F_landmarkPerimeter,0.115434265137
+Greensboro,T,bias,1.0
+Greensboro,T,f_f__F_landmarkArea,0.00798649776261
+Atlantic Ocean,T,f_f__F_landmarkPerimeter,0.00628312135213
+Atlantic Ocean,T,bias,1.0
+Atlantic Ocean,T,f_f__F_landmarkArea,3.14146474381e-05
+South Carolina,T,f_f__F_landmarkPerimeter,1.43957448725
+South Carolina,T,bias,1.0
+South Carolina,T,f_f__F_landmarkArea,0.787710768436
+Myrtle Beach,T,f_f__F_landmarkPerimeter,0.0657165527344
+Myrtle Beach,T,bias,1.0
+Myrtle Beach,T,f_f__F_landmarkArea,0.00265616476536

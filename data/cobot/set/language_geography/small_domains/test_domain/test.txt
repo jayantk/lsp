@@ -1,0 +1,171 @@
+#these are airports;Sacramento International Airport,San Francisco International Airport,Los Angeles International Airport,Phoenix Sky Harbor International Airport,Portland International Airport,McCarran International Airport,Salt Lake City International Airport
+#these are cities;San Francisco,Los Angeles,Sacramento,San Diego,Portland,Eugene,Salem,Las Vegas,Reno,Phoenix,Tucson,Salt Lake City,Provo
+#these are states;California,Oregon,Nevada,Arizona,Utah
+#what airports are in California;Sacramento International Airport,San Francisco International Airport,Los Angeles International Airport
+#these cities are in California;San Francisco,Los Angeles,Sacramento,San Diego
+#what states border Utah;Arizona,Nevada
+#these cities are in Arizona;Phoenix,Tucson
+#these cities are in Nevada;Las Vegas,Reno
+#these cities are in states bordering Utah;Las Vegas,Reno,Phoenix,Tucson
+#these rivers are in Oregon;Willamette River,Columbia River
+#what rivers are there;Willamette River,Columbia River
+
+#what airport serves Sacramento;Sacramento International Airport
+#what airport serves San Francisco;San Francisco International Airport
+#what airport serves Salt Lake City;Salt Lake City International Airport
+#what stadium are in Los Angeles;Dodger Stadium,Staples Center
+#what cities are near San Francisco;Sacramento
+
+#what states are east of California;Nevada,Arizona,Utah
+#what states are east of Nevada;Arizona,Utah
+#what states are west of Arizona;Nevada,California,Oregon
+
+# Categories only (none)
+
+## One relation, only need one instance correct (no categories)
+#is Reno east of Sacramento ?;Reno;1
+#is Bakersfield on the Pacific Ocean ?;;1
+#is Reno close to Elko ?;;1
+#is Salt Lake City in Utah ?;Salt Lake City;1
+#is San Jose near San Francisco ?;San Jose;1
+#
+## One spatial relation, multiple categories
+#what state is Death Valley National Park in ?;California;2
+#in what state is Grand Canyon National Park located ?;Arizona;2
+#what national park lies west of Las Vegas ?;Death Valley National Park;2
+#what lake lies NW of Salt Lake City ?;Great Salt Lake;2
+#which city is the capital of California ?;Sacramento;2
+#are there deserts in Nevada ?;Death Valley National Park;2
+#what national parks are located in California ?;Death Valley National Park;2
+#what state is Elko located in ?;Nevada;2
+#what is the capital of California ?;Sacramento;2
+#which state is Reno in ?;Nevada;2
+#which state is Reno in ?;Nevada;2
+#which state is Fresno in ?;California;2
+#what state is Death Valley National Park in ?;California;2
+#which state is on the west from Utah ?;Nevada;2
+#which states are on the east from Nevada ?;Utah;2
+#what is the capital of California ?;Sacramento;2
+#
+## Multiple relations
+#what is the name of the national park located east of San Francisco ?;Death Valley National Park;3
+#what state is the city of Las Vegas located in ?;Nevada;3
+#
+## Quantifiers or comparisons.
+#what is the closest big city to Utah ?;Salt Lake City;4
+#what city lies between Sacramento and San Francisco ?;Concord;4
+#what mountain range borders Nevada and California ?;Sierra Nevada Mountains;4
+#which is further south: Flagstaff or Bakersfield ?;Flagstaff;4
+#name any two national parks in Nevada ?;Death Valley National Park;4
+#name any two places near San Francisco ?;Fremont,Concord;4
+
+what state is the city of Las Vegas located in ?;Nevada;1
+what is the capital of California ?;Sacramento;1
+what is the capital of California ?;Sacramento;1
+which state is Reno in ?;Nevada;1
+which state is Reno in ?;Nevada;1
+which state is Fresno in ?;California;1
+what state is Death Valley National Park in ?;California;1
+which state is on the west from Utah ?;Nevada;1
+which states are on the east from Nevada ?;Utah,Arizona;1
+which is further south , St. George or Fremont ?;St. George;4
+which is further south : Flagstaff or Bakersfield ?;Flagstaff;4
+is Reno close to Elko ?;;1
+is Salt Lake City in Utah ?;Salt Lake City;1
+is San Jose near San Francisco ?;San Jose;1
+name any two national parks in Nevada ?;Great Basin National Park;1
+name any two places near San Francisco ?;Fremont,Concord;1
+in what state is Grand Canyon National Park located ?;Arizona;1
+what is the closest big city to Utah ?;Las Vegas;4
+what national park lies west of Las Vegas ?;Death Valley National Park;1
+what city lies between Sacramento and San Francisco ?;Concord;4
+what mountain range borders Nevada and California ?;Sierra Nevada Mountains;4
+what lake lies nw of Salt Lake City ?;Great Salt Lake;1
+which city is the capital of California ?;Sacramento;1
+what is the name of the national park located east of San Francisco ?;Yosemite National Park;1
+are there deserts in Nevada ?;;1
+is Reno east of Sacramento ?;Reno;1
+is Bakersfield on the Pacific Ocean ?;;1
+what is the name of a city in Utah .;Provo,Salt Lake City;1
+what national parks are located in California .;Yosemite National Park,Death Valley National Park;1
+what state is Elko located in .;Nevada;1
+is San Francisco a island ?;;0
+in which state is St. George ?;Utah;1
+in which state is Elko ?;Nevada;1
+which state is on the west of Utah ?;Nevada;1
+what city in Nevada is closest to Death Valley ?;Las Vegas;4
+what city in Utah is closest to Nevada ?;St. George;4
+what city in Nevada is closest to Sacramento ?;Reno;4
+highlight the Grand Canyon National Park;Grand Canyon National Park;0
+what state lies on California 's northern border ?;Oregon;1
+which state borders California on the east ?;Nevada;1
+which is the tallest mountain in California ?;Mount Whitney;4
+is Salt Lake City closer to Reno or Sacramento ?;Reno;4
+are there mountains near Salt Lake City ?;Twin Peaks;1
+is Reno north of Las Vegas ?;Reno;1
+which is the largest state , California or Utah ?;California;4
+San Jose is in which state ?;California;1
+is the Grand Canyon National Park near to the Flagstaff ?;Grand Canyon National Park;1
+is there any lake in Los Angeles ?;;1
+in which state is Sacramento located;California;1
+in which state does Death Valley National Park fall;California;1
+which is the beach located near Los Angeles;Redondo Beach,Long Beach;1
+which are the states lined one side by sea ?;California,Oregon;1
+what city is directly south of Reno ?;Fresno;1
+what four cities are closest to Los Angeles ?;Anaheim,Long Beach,Oxnard,Huntington Beach;4
+what city is closest to Redding ?;Red Bluff;4
+which states border Nevada ?;California,Arizona,Utah,Oregon;1
+which is the biggest state in this map ?;California;4
+is the Long Beach near Oxnard ?;Long Beach;1
+is there any lake in San Francisco ?;;1
+what is the closest city in Nevada to the California border ?;Reno;4
+which national park is closest to Stockton ?;Yosemite National Park;1
+is any ever green forests in California ?;Yosemite National Park;1
+in which state is Las Vegas located ?;Nevada;1
+which states are neighbouring Utah ?;Arizona,Nevada;1
+which city is the closest to Grand Canyon National Park ?;Flagstaff;4
+is Nevada a desert ?;;0
+which city is closest to Red Bluff ?;Redding;4
+is Las Vegas , Nevada closer to Death Valley National Park or Henderson , Nevada ?;Henderson;4
+which city is northwest of Concord California ?;Santa Rosa;1
+is Redding nearer to Sacramento or Red Bluff ?;Red Bluff;1
+what city in Nevada is closest to the Grand Canyon ?;Henderson;4
+what city in Arizona is closest to Salt Lake City ?;Flagstaff;4
+what city in California is closest to Reno ?;Sacramento;4
+which city is above Red Bluff ?;Redding;1
+what city is to the right of Las Vegas ?;Henderson;1
+what city is below the Grand Canyon National Park ?;Flagstaff;1
+which is nearer to Fresno , San Jose or Bakersfield ?;Bakersfield;4
+which is farther from Las Vegas , Fresno or Anaheim ?;Fresno;4
+which city is closer to Reno -- Sacramento or Salt Lake City ?;Sacramento;4
+which city is north of Fresno -- Stockton or Bakersfield ?;Stockton;4
+which city is closest to Red Bluff ?;Redding;4
+what state is Death Valley National Park located in ?;California;1
+which city is the closest to Las Vegas ?;Henderson;4
+on the map , what is the westernmost city shown in Nevada ?;Henderson;4
+what are the names of the national parks shown on the map ?;Grand Canyon National Park,Grand Staircase-Escalante National Monument,Great Basin National Park,Yosemite National Park,Death Valley National Park
+what is a city north of Red Bluff ?;Redding;1
+what is the state west of Nevada ?;California;1
+what is a city south of Grand Canyon National Park ?;Flagstaff;1
+which is the biggest lake in the area of Utah ?;Great Salt Lake;1
+in which state is the Death Valley National Park ?;California;1
+in which state is set Las Vegas ?;Nevada;1
+which is larger , Nevada or Arizona ?;Arizona;1
+what states are west of Arizona ?;Nevada,California;1
+what states are not west of Arizona ?;Utah,Oregon;4
+which city is further north , Flagstaff or Stockton ?;Stockton;4
+which city is closer to Las Vegas , St. George or Bakersfield ?;St. George;4
+which city in Nevada is located to the west of Los Angeles , California ?;Reno;1
+what city is closest to Las Vegas ?;Henderson;4
+what Nevada city is closest to the California border ?;Reno;4
+which state is Death Valley National Park in ?;California;1
+is Concord north of San Jose ?;Concord;1
+is Nevada east of Reno ?;
+is Sacramento south of Red Bluff ?;Sacramento;1
+is Stockton between Fresno and Sacramento ?;Stockton;4
+which city is most northern ? Bakersfield or Flagstaff ?;Bakersfield;4
+which is further from Bakersfield , California ? Las Vegas , Nevada or San Jose, California ?;Las Vegas;4
+in what state is Reno ?;Nevada;1
+is Grand Canyon in Utah ?;;1
+is California beside Arizona ?;California;1
+what state is San Francisco in ?;California;1

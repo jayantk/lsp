@@ -1,0 +1,144 @@
+Harrisburg,T,area of _,1
+Harrisburg,T,bias,1.0
+Harrisburg,T,building in _,1
+Harrisburg,T,capital of _,1
+Harrisburg,T,capitol in _,1
+Harrisburg,T,city of _,1
+Harrisburg,T,conference in _,1
+Harrisburg,T,f_f__F_landmarkArea,0.000322201892004
+Harrisburg,T,f_f__F_landmarkPerimeter,0.0355647021005
+Harrisburg,T,Harrisburg,1
+Harrisburg,T,headquarters in _,1
+Harrisburg,T,home in _,1
+Harrisburg,T,hotels in _,1
+Harrisburg,T,meeting in _,1
+Harrisburg,T,north of _,1
+Harrisburg,T,office in _,1
+Harrisburg,T,offices in _,1
+Harrisburg,T,school in _,1
+Harrisburg,T,show in _,1
+Harrisburg,T,state capital of _,1
+Harrisburg,T,town of _,1
+Harrisburg,T,trip to _,1
+Harrisburg,T,way to _,1
+Harrisburg,T,west of _,1
+Newark,T,bias,1.0
+Newark,T,campus in _,1
+Newark,T,city of _,1
+Newark,T,court in _,1
+Newark,T,f_f__F_landmarkArea,0.000720821356867
+Newark,T,f_f__F_landmarkPerimeter,0.0542170191417
+Newark,T,flight from _,1
+Newark,T,flights from _,1
+Newark,T,flight to _,1
+Newark,T,home in _,1
+Newark,T,mayor of _,1
+Newark,T,native of _,1
+Newark,T,Newark,1
+Newark,T,office in _,1
+Newark,T,offices in _,1
+Newark,T,part of _,1
+Newark,T,people of _,1
+Newark,T,professional wedding vendor in _,1
+Newark,T,school in _,1
+Newark,T,section of _,1
+Newark,T,streets of _,1
+Newark,T,town of _,1
+Newark,T,vendor in _,1
+Newark,T,wedding vendor in _,1
+New Jersey,T,areas of _,1
+New Jersey,T,bias,1.0
+New Jersey,T,business in _,1
+New Jersey,T,coast of _,1
+New Jersey,T,company in _,1
+New Jersey,T,f_f__F_landmarkArea,0.233470598682
+New Jersey,T,f_f__F_landmarkPerimeter,0.850953125095
+New Jersey,T,governor of _,1
+New Jersey,T,home in _,1
+New Jersey,T,law in _,1
+New Jersey,T,native of _,1
+New Jersey,T,New Jersey,1
+New Jersey,T,offices in _,1
+New Jersey,T,part of _,1
+New Jersey,T,parts of _,1
+New Jersey,T,people of _,1
+New Jersey,T,residents of _,1
+New Jersey,T,rest of _,1
+New Jersey,T,school in _,1
+New Jersey,T,schools in _,1
+New Jersey,T,services in _,1
+New Jersey,T,shop in _,1
+New Jersey,T,size of _,1
+New Jersey,T,state of _,1
+Pennsylvania,T,area of _,1
+Pennsylvania,T,areas of _,1
+Pennsylvania,T,bias,1.0
+Pennsylvania,T,counties in _,1
+Pennsylvania,T,farm in _,1
+Pennsylvania,T,f_f__F_landmarkArea,1.27458768934
+Pennsylvania,T,f_f__F_landmarkPerimeter,1.78235545846
+Pennsylvania,T,field in _,1
+Pennsylvania,T,governor of _,1
+Pennsylvania,T,home in _,1
+Pennsylvania,T,law in _,1
+Pennsylvania,T,native of _,1
+Pennsylvania,T,part of _,1
+Pennsylvania,T,parts of _,1
+Pennsylvania,T,Pennsylvania,1
+Pennsylvania,T,people of _,1
+Pennsylvania,T,region of _,1
+Pennsylvania,T,school in _,1
+Pennsylvania,T,schools in _,1
+Pennsylvania,T,shop in _,1
+Pennsylvania,T,state of _,1
+Pennsylvania,T,states of _,1
+Pennsylvania,T,town in _,1
+Pennsylvania,T,trails in _,1
+Pittsburgh,T,area of _,1
+Pittsburgh,T,bias,1.0
+Pittsburgh,T,city of _,1
+Pittsburgh,T,f_f__F_landmarkArea,0.00161926475541
+Pittsburgh,T,f_f__F_landmarkPerimeter,0.117546334925
+Pittsburgh,T,game against _,1
+Pittsburgh,T,game in _,1
+Pittsburgh,T,home in _,1
+Pittsburgh,T,hometown of _,1
+Pittsburgh,T,loss to _,1
+Pittsburgh,T,native of _,1
+Pittsburgh,T,north of _,1
+Pittsburgh,T,offices in _,1
+Pittsburgh,T,part of _,1
+Pittsburgh,T,Pittsburgh,1
+Pittsburgh,T,professional wedding vendor in _,1
+Pittsburgh,T,school in _,1
+Pittsburgh,T,section of _,1
+Pittsburgh,T,suburb of _,1
+Pittsburgh,T,suburbs of _,1
+Pittsburgh,T,time in _,1
+Pittsburgh,T,trip to _,1
+Pittsburgh,T,vendor in _,1
+Pittsburgh,T,wedding vendor in _,1
+Trenton,T,attack on _,1
+Trenton,T,battle of _,1
+Trenton,T,battles of _,1
+Trenton,T,bias,1.0
+Trenton,T,city of _,1
+Trenton,T,court in _,1
+Trenton,T,facility in _,1
+Trenton,T,f_f__F_landmarkArea,0.000223490372514
+Trenton,T,f_f__F_landmarkPerimeter,0.0299769144338
+Trenton,T,garrison at _,1
+Trenton,T,home in _,1
+Trenton,T,mayor of _,1
+Trenton,T,message to _,1
+Trenton,T,native of _,1
+Trenton,T,north of _,1
+Trenton,T,office in _,1
+Trenton,T,part of _,1
+Trenton,T,school in _,1
+Trenton,T,streets of _,1
+Trenton,T,town of _,1
+Trenton,T,Trenton,1
+Trenton,T,victories at _,1
+Trenton,T,victory at _,1
+Trenton,T,way to _,1

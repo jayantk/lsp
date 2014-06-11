@@ -1,0 +1,143 @@
+Alabama,T,Alabama,1
+Alabama,T,area of _,1
+Alabama,T,areas of _,1
+Alabama,T,bias,1.0
+Alabama,T,citizens of _,1
+Alabama,T,city in _,1
+Alabama,T,counties in _,1
+Alabama,T,directory of _,1
+Alabama,T,f_f__F_landmarkArea,1.30646713647
+Alabama,T,f_f__F_landmarkPerimeter,1.7374270411
+Alabama,T,governor of _,1
+Alabama,T,home in _,1
+Alabama,T,_ is located in,1
+Alabama,T,native of _,1
+Alabama,T,part of _,1
+Alabama,T,parts of _,1
+Alabama,T,people in _,1
+Alabama,T,people of _,1
+Alabama,T,places in _,1
+Alabama,T,school in _,1
+Alabama,T,state of _,1
+Alabama,T,states of _,1
+Alabama,T,town in _,1
+Alabama,T,trip to _,1
+Atlanta,T,area of _,1
+Atlanta,T,Atlanta,1
+Atlanta,T,bias,1.0
+Atlanta,T,center in _,1
+Atlanta,T,city of _,1
+Atlanta,T,company in _,1
+Atlanta,T,conference in _,1
+Atlanta,T,f_f__F_landmarkArea,0.00629378347076
+Atlanta,T,f_f__F_landmarkPerimeter,0.100451660156
+Atlanta,T,flight from _,1
+Atlanta,T,flight to _,1
+Atlanta,T,headquarters in _,1
+Atlanta,T,heart of _,1
+Atlanta,T,home in _,1
+Atlanta,T,meeting in _,1
+Atlanta,T,north of _,1
+Atlanta,T,office in _,1
+Atlanta,T,offices in _,1
+Atlanta,T,place in _,1
+Atlanta,T,school in _,1
+Atlanta,T,show in _,1
+Atlanta,T,suburb of _,1
+Atlanta,T,time in _,1
+Atlanta,T,trip to _,1
+Birmingham,T,area of _,1
+Birmingham,T,bias,1.0
+Birmingham,T,Birmingham,1
+Birmingham,T,centre of _,1
+Birmingham,T,city of _,1
+Birmingham,T,conference in _,1
+Birmingham,T,events in _,1
+Birmingham,T,f_f__F_landmarkArea,8.6046620936e-06
+Birmingham,T,f_f__F_landmarkPerimeter,0.00703565167392
+Birmingham,T,flights from _,1
+Birmingham,T,heart of _,1
+Birmingham,T,home in _,1
+Birmingham,T,hotels in _,1
+Birmingham,T,jobs in _,1
+Birmingham,T,meeting in _,1
+Birmingham,T,native of _,1
+Birmingham,T,office in _,1
+Birmingham,T,offices in _,1
+Birmingham,T,people of _,1
+Birmingham,T,place in _,1
+Birmingham,T,school in _,1
+Birmingham,T,services in _,1
+Birmingham,T,suburb of _,1
+Birmingham,T,trip to _,1
+Georgia,T,area of _,1
+Georgia,T,areas of _,1
+Georgia,T,bias,1.0
+Georgia,T,capital of _,1
+Georgia,T,coast of _,1
+Georgia,T,conflict in _,1
+Georgia,T,events in _,1
+Georgia,T,f_f__F_landmarkArea,1.46701320038
+Georgia,T,f_f__F_landmarkPerimeter,2.03369008261
+Georgia,T,Georgia,1
+Georgia,T,governor of _,1
+Georgia,T,home in _,1
+Georgia,T,invasion of _,1
+Georgia,T,part of _,1
+Georgia,T,parts of _,1
+Georgia,T,people of _,1
+Georgia,T,region of _,1
+Georgia,T,situation in _,1
+Georgia,T,state of _,1
+Georgia,T,states of _,1
+Georgia,T,territory of _,1
+Georgia,T,war in _,1
+Georgia,T,war with _,1
+Macon,T,bias,1.0
+Macon,T,campuses in _,1
+Macon,T,city of _,1
+Macon,T,f_f__F_landmarkArea,0.00256363477092
+Macon,T,f_f__F_landmarkPerimeter,0.0650512695312
+Macon,T,home in _,1
+Macon,T,homes in _,1
+Macon,T,hometown of _,1
+Macon,T,hotels in _,1
+Macon,T,house in _,1
+Macon,T,jobs in _,1
+Macon,T,Macon,1
+Macon,T,north of _,1
+Macon,T,office in _,1
+Macon,T,part of _,1
+Macon,T,parts of _,1
+Macon,T,people of _,1
+Macon,T,practice in _,1
+Macon,T,resident of _,1
+Macon,T,school in _,1
+Macon,T,station in _,1
+Macon,T,town of _,1
+Macon,T,trip to _,1
+Macon,T,way to _,1
+Montgomery,T,bias,1.0
+Montgomery,T,boycott in _,1
+Montgomery,T,bus boycott in _,1
+Montgomery,T,buses in _,1
+Montgomery,T,bus in _,1
+Montgomery,T,capitol in _,1
+Montgomery,T,church in _,1
+Montgomery,T,city of _,1
+Montgomery,T,corner of _,1
+Montgomery,T,counties of _,1
+Montgomery,T,county of _,1
+Montgomery,T,f_f__F_landmarkArea,3.14146472874e-05
+Montgomery,T,f_f__F_landmarkPerimeter,0.00628312135213
+Montgomery,T,gentleman from _,1
+Montgomery,T,home in _,1
+Montgomery,T,Montgomery,1
+Montgomery,T,office in _,1
+Montgomery,T,people in _,1
+Montgomery,T,plant in _,1
+Montgomery,T,professional wedding vendor in _,1
+Montgomery,T,school in _,1
+Montgomery,T,town of _,1
+Montgomery,T,vendor in _,1
+Montgomery,T,wedding vendor in _,1

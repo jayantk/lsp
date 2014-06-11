@@ -1,0 +1,955 @@
+abut,N,kb-ignore 0 0
+abut,N,kb-ignore 0 0
+abut,N/N,kb-ignore 0 0
+abut,N/N,kb-ignore 0 0
+Alabama,N,kb-Alabama 0 0
+Alabama,N,kb-ignore 0 0
+Alabama,N/N,kb-Alabama 0 0
+Alabama,N/N,kb-ignore 0 0
+Albany,N,kb-Albany 0 0
+Albany,N,kb-ignore 0 0
+Albany,N/N,kb-Albany 0 0
+Albany,N/N,kb-ignore 0 0
+Allentown,N,kb-Allentown 0 0
+Allentown,N,kb-ignore 0 0
+Allentown,N/N,kb-Allentown 0 0
+Allentown,N/N,kb-ignore 0 0
+along,N,kb-ignore 0 0
+along,N,kb-ignore 0 0
+along,N/N,kb-ignore 0 0
+along,N/N,kb-ignore 0 0
+also,N/N,kb-ignore 0 0
+Altoona,N,kb-Altoona 0 0
+Altoona,N,kb-ignore 0 0
+Altoona,N/N,kb-Altoona 0 0
+Altoona,N/N,kb-ignore 0 0
+Anaheim,N,kb-Anaheim 0 0
+Anaheim,N,kb-ignore 0 0
+Anaheim,N/N,kb-Anaheim 0 0
+Anaheim,N/N,kb-ignore 0 0
+and,N/N,kb-ignore 0 0
+and,N/N,kb-ignore 0 0
+a,N,kb-ignore 0 0
+an,N,kb-ignore 0 0
+a,N/N,kb-ignore 0 0
+an,N/N,kb-ignore 0 0
+are,N,kb-ignore 0 0
+are,N/N,kb-ignore 0 0
+Arizona,N,kb-Arizona 0 0
+Arizona,N,kb-ignore 0 0
+Arizona,N/N,kb-Arizona 0 0
+Arizona,N/N,kb-ignore 0 0
+Arkansas,N,kb-Arkansas 0 0
+Arkansas,N,kb-ignore 0 0
+Arkansas,N/N,kb-Arkansas 0 0
+Arkansas,N/N,kb-ignore 0 0
+as,N,kb-ignore 0 0
+as,N,kb-ignore 0 0
+as,N/N,kb-ignore 0 0
+as,N/N,kb-ignore 0 0
+Atlanta,N,kb-Atlanta 0 0
+Atlanta,N,kb-ignore 0 0
+Atlanta,N/N,kb-Atlanta 0 0
+Atlanta,N/N,kb-ignore 0 0
+Atlantic Ocean,N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N,kb-ignore 0 0
+Atlantic Ocean,N/N,kb-Atlantic_Ocean 0 0
+Atlantic Ocean,N/N,kb-ignore 0 0
+at,N,kb-ignore 0 0
+at,N,kb-ignore 0 0
+at,N/N,kb-ignore 0 0
+at,N/N,kb-ignore 0 0
+Bakersfield,N,kb-Bakersfield 0 0
+Bakersfield,N,kb-ignore 0 0
+Bakersfield,N/N,kb-Bakersfield 0 0
+Bakersfield,N/N,kb-ignore 0 0
+beach city,N,kb-ignore 0 0
+beach city,N/N,kb-ignore 0 0
+beaches,N,beach 0 0
+beaches,N/N,beach 0 0
+beach,N,beach 0 0
+beach,N/N,beach 0 0
+between,N,kb-ignore 0 0
+between,N,kb-ignore 0 0
+between,N/N,kb-ignore 0 0
+between,N/N,kb-ignore 0 0
+bigger,N,kb-ignore 0 0
+bigger,N/N,kb-ignore 0 0
+Birmingham,N,kb-Birmingham 0 0
+Birmingham,N,kb-ignore 0 0
+Birmingham,N/N,kb-Birmingham 0 0
+Birmingham,N/N,kb-ignore 0 0
+bodies,N,body 0 0
+bodies,N/N,body 0 0
+bordering,N,kb-ignore 0 0
+bordering,N,kb-ignore 0 0
+bordering,N/N,kb-ignore 0 0
+bordering,N/N,kb-ignore 0 0
+border,N,kb-ignore 0 0
+border,N,kb-ignore 0 0
+border,N/N,kb-ignore 0 0
+border,N/N,kb-ignore 0 0
+borders,N,kb-ignore 0 0
+borders,N/N,kb-ignore 0 0
+both,N/N,kb-ignore 0 0
+both,N/N,kb-ignore 0 0
+Buffalo,N,kb-Buffalo 0 0
+Buffalo,N,kb-ignore 0 0
+Buffalo,N/N,kb-Buffalo 0 0
+Buffalo,N/N,kb-ignore 0 0
+Burlington,N,kb-Burlington 0 0
+Burlington,N,kb-ignore 0 0
+Burlington,N/N,kb-Burlington 0 0
+Burlington,N/N,kb-ignore 0 0
+but,N/N,kb-ignore 0 0
+but,N/N,kb-ignore 0 0
+by,N,kb-ignore 0 0
+by,N,kb-ignore 0 0
+by,N/N,kb-ignore 0 0
+by,N/N,kb-ignore 0 0
+California,N,kb-California 0 0
+California,N,kb-ignore 0 0
+California,N/N,kb-California 0 0
+California,N/N,kb-ignore 0 0
+Canton,N,kb-Canton 0 0
+Canton,N,kb-ignore 0 0
+Canton,N/N,kb-Canton 0 0
+Canton,N/N,kb-ignore 0 0
+capital,N,kb-ignore 0 0
+capital,N/N,kb-ignore 0 0
+central,N,kb-ignore 0 0
+central,N/N,kb-ignore 0 0
+chain,N,kb-ignore 0 0
+chain,N/N,kb-ignore 0 0
+Charleston,N,kb-Charleston 0 0
+Charleston,N,kb-ignore 0 0
+Charleston,N/N,kb-Charleston 0 0
+Charleston,N/N,kb-ignore 0 0
+Charlotte,N,kb-Charlotte 0 0
+Charlotte,N,kb-ignore 0 0
+Charlotte,N/N,kb-Charlotte 0 0
+Charlotte,N/N,kb-ignore 0 0
+cities,N,city 0 0
+cities,N/N,city 0 0
+city,N,city 0 0
+city,N/N,city 0 0
+Cleveland Browns Stadium,N,kb-Cleveland_Browns_Stadium 0 0
+Cleveland Browns Stadium,N,kb-ignore 0 0
+Cleveland Browns Stadium,N/N,kb-Cleveland_Browns_Stadium 0 0
+Cleveland Browns Stadium,N/N,kb-ignore 0 0
+Cleveland,N,kb-Cleveland 0 0
+Cleveland,N,kb-ignore 0 0
+Cleveland,N/N,kb-Cleveland 0 0
+Cleveland,N/N,kb-ignore 0 0
+close,N,kb-ignore 0 0
+close,N/N,kb-ignore 0 0
+closest city,N,kb-ignore 0 0
+closest city,N/N,kb-ignore 0 0
+closest large city,N,kb-ignore 0 0
+closest large city,N/N,kb-ignore 0 0
+closest,N,kb-ignore 0 0
+closest,N/N,kb-ignore 0 0
+closest river,N,kb-ignore 0 0
+closest river,N/N,kb-ignore 0 0
+coast,N,kb-ignore 0 0
+coast,N/N,kb-ignore 0 0
+Columbia River,N,kb-Columbia_River 0 0
+Columbia River,N,kb-ignore 0 0
+Columbia River,N/N,kb-Columbia_River 0 0
+Columbia River,N/N,kb-ignore 0 0
+Columbus,N,kb-Columbus 0 0
+Columbus,N,kb-ignore 0 0
+Columbus,N/N,kb-Columbus 0 0
+Columbus,N/N,kb-ignore 0 0
+common,N,kb-ignore 0 0
+common,N/N,kb-ignore 0 0
+common word,N,kb-ignore 0 0
+common word,N/N,kb-ignore 0 0
+Concord,N,kb-Concord 0 0
+Concord,N,kb-ignore 0 0
+Concord,N/N,kb-Concord 0 0
+Concord,N/N,kb-ignore 0 0
+Connecticut,N,kb-Connecticut 0 0
+Connecticut,N,kb-ignore 0 0
+Connecticut,N/N,kb-Connecticut 0 0
+Connecticut,N/N,kb-ignore 0 0
+contains,N,kb-ignore 0 0
+contains,N,kb-ignore 0 0
+contains,N/N,kb-ignore 0 0
+contains,N/N,kb-ignore 0 0
+Daytona Beach,N,kb-Daytona_Beach 0 0
+Daytona Beach,N,kb-ignore 0 0
+Daytona Beach,N/N,kb-Daytona_Beach 0 0
+Daytona Beach,N/N,kb-ignore 0 0
+Death Valley National Park,N,kb-Death_Valley_National_Park 0 0
+Death Valley National Park,N,kb-ignore 0 0
+Death Valley National Park,N/N,kb-Death_Valley_National_Park 0 0
+Death Valley National Park,N/N,kb-ignore 0 0
+Detroit,N,kb-Detroit 0 0
+Detroit,N,kb-ignore 0 0
+Detroit,N/N,kb-Detroit 0 0
+Detroit,N/N,kb-ignore 0 0
+does,N,kb-ignore 0 0
+does,N,kb-ignore 0 0
+does,N/N,kb-ignore 0 0
+does,N/N,kb-ignore 0 0
+east coast,N,kb-ignore 0 0
+east coast,N/N,kb-ignore 0 0
+eastern,N,kb-ignore 0 0
+eastern,N/N,kb-ignore 0 0
+east,N,kb-ignore 0 0
+east,N/N,kb-ignore 0 0
+Elko,N,kb-Elko 0 0
+Elko,N,kb-ignore 0 0
+Elko,N/N,kb-Elko 0 0
+Elko,N/N,kb-ignore 0 0
+Eugene,N,kb-Eugene 0 0
+Eugene,N,kb-ignore 0 0
+Eugene,N/N,kb-Eugene 0 0
+Eugene,N/N,kb-ignore 0 0
+Everglades National Park,N,kb-Everglades_National_Park 0 0
+Everglades National Park,N,kb-ignore 0 0
+Everglades National Park,N/N,kb-Everglades_National_Park 0 0
+Everglades National Park,N/N,kb-ignore 0 0
+farthest city,N,kb-ignore 0 0
+farthest city,N/N,kb-ignore 0 0
+farthest,N,kb-ignore 0 0
+farthest,N/N,kb-ignore 0 0
+Fern Ridge Lake,N,kb-Fern_Ridge_Lake 0 0
+Fern Ridge Lake,N,kb-ignore 0 0
+Fern Ridge Lake,N/N,kb-Fern_Ridge_Lake 0 0
+Fern Ridge Lake,N/N,kb-ignore 0 0
+Flagstaff,N,kb-Flagstaff 0 0
+Flagstaff,N,kb-ignore 0 0
+Flagstaff,N/N,kb-Flagstaff 0 0
+Flagstaff,N/N,kb-ignore 0 0
+Florida,N,kb-Florida 0 0
+Florida,N,kb-ignore 0 0
+Florida,N/N,kb-Florida 0 0
+Florida,N/N,kb-ignore 0 0
+flow,N,kb-ignore 0 0
+flow,N,kb-ignore 0 0
+flow,N/N,kb-ignore 0 0
+flow,N/N,kb-ignore 0 0
+forest,N,forest 0 0
+forest,N/N,forest 0 0
+forests,N,forest 0 0
+forests,N/N,forest 0 0
+Francis Marion National Forest,N,kb-Francis_Marion_National_Forest 0 0
+Francis Marion National Forest,N,kb-ignore 0 0
+Francis Marion National Forest,N/N,kb-Francis_Marion_National_Forest 0 0
+Francis Marion National Forest,N/N,kb-ignore 0 0
+Fremont,N,kb-Fremont 0 0
+Fremont,N,kb-ignore 0 0
+Fremont,N/N,kb-Fremont 0 0
+Fremont,N/N,kb-ignore 0 0
+fresh,N,fresh 0 0
+fresh,N/N,fresh 0 0
+fresh water,N,kb-ignore 0 0
+fresh water,N/N,kb-ignore 0 0
+Fresno,N,kb-Fresno 0 0
+Fresno,N,kb-ignore 0 0
+Fresno,N/N,kb-Fresno 0 0
+Fresno,N/N,kb-ignore 0 0
+from,N,kb-ignore 0 0
+from,N,kb-ignore 0 0
+from,N/N,kb-ignore 0 0
+from,N/N,kb-ignore 0 0
+further,N,kb-ignore 0 0
+further,N/N,kb-ignore 0 0
+further north,N,kb-ignore 0 0
+further north,N/N,kb-ignore 0 0
+George Washington National Forest,N,kb-George_Washington_National_Forest 0 0
+George Washington National Forest,N,kb-ignore 0 0
+George Washington National Forest,N/N,kb-George_Washington_National_Forest 0 0
+George Washington National Forest,N/N,kb-ignore 0 0
+Georgia,N,kb-Georgia 0 0
+Georgia,N,kb-ignore 0 0
+Georgia,N/N,kb-Georgia 0 0
+Georgia,N/N,kb-ignore 0 0
+go,N,kb-ignore 0 0
+go,N,kb-ignore 0 0
+go,N/N,kb-ignore 0 0
+go,N/N,kb-ignore 0 0
+Grand Canyon National Park,N,kb-Grand_Canyon_National_Park 0 0
+Grand Canyon National Park,N,kb-ignore 0 0
+Grand Canyon National Park,N/N,kb-Grand_Canyon_National_Park 0 0
+Grand Canyon National Park,N/N,kb-ignore 0 0
+Grand Rapids,N,kb-Grand_Rapids 0 0
+Grand Rapids,N,kb-ignore 0 0
+Grand Rapids,N/N,kb-Grand_Rapids 0 0
+Grand Rapids,N/N,kb-ignore 0 0
+Grand Staircase-Escalante National Monument,N,kb-Grand_Staircase-Escalante_National_Monument 0 0
+Grand Staircase-Escalante National Monument,N,kb-ignore 0 0
+Grand Staircase-Escalante National Monument,N/N,kb-Grand_Staircase-Escalante_National_Monument 0 0
+Grand Staircase-Escalante National Monument,N/N,kb-ignore 0 0
+Great Basin National Park,N,kb-Great_Basin_National_Park 0 0
+Great Basin National Park,N,kb-ignore 0 0
+Great Basin National Park,N/N,kb-Great_Basin_National_Park 0 0
+Great Basin National Park,N/N,kb-ignore 0 0
+Great Salt Lake,N,kb-Great_Salt_Lake 0 0
+Great Salt Lake,N,kb-ignore 0 0
+Great Salt Lake,N/N,kb-Great_Salt_Lake 0 0
+Great Salt Lake,N/N,kb-ignore 0 0
+Great Smoky Mountains National Park,N,kb-Great_Smoky_Mountains_National_Park 0 0
+Great Smoky Mountains National Park,N,kb-ignore 0 0
+Great Smoky Mountains National Park,N/N,kb-Great_Smoky_Mountains_National_Park 0 0
+Great Smoky Mountains National Park,N/N,kb-ignore 0 0
+Greensboro,N,kb-Greensboro 0 0
+Greensboro,N,kb-ignore 0 0
+Greensboro,N/N,kb-Greensboro 0 0
+Greensboro,N/N,kb-ignore 0 0
+Greenville,N,kb-Greenville 0 0
+Greenville,N,kb-ignore 0 0
+Greenville,N/N,kb-Greenville 0 0
+Greenville,N/N,kb-ignore 0 0
+Harrisburg,N,kb-Harrisburg 0 0
+Harrisburg,N,kb-ignore 0 0
+Harrisburg,N/N,kb-Harrisburg 0 0
+Harrisburg,N/N,kb-ignore 0 0
+has,N,kb-ignore 0 0
+has,N,kb-ignore 0 0
+has,N/N,kb-ignore 0 0
+has,N/N,kb-ignore 0 0
+have,N,kb-ignore 0 0
+have,N,kb-ignore 0 0
+have,N/N,kb-ignore 0 0
+have,N/N,kb-ignore 0 0
+Henderson,N,kb-Henderson 0 0
+Henderson,N,kb-ignore 0 0
+Henderson,N/N,kb-Henderson 0 0
+Henderson,N/N,kb-ignore 0 0
+Hilton Head Island,N,kb-Hilton_Head_Island 0 0
+Hilton Head Island,N,kb-ignore 0 0
+Hilton Head Island,N/N,kb-Hilton_Head_Island 0 0
+Hilton Head Island,N/N,kb-ignore 0 0
+#how,N/N,kb-ignore 0 0
+Huntington Beach,N,kb-Huntington_Beach 0 0
+Huntington Beach,N,kb-ignore 0 0
+Huntington Beach,N/N,kb-Huntington_Beach 0 0
+Huntington Beach,N/N,kb-ignore 0 0
+Indiana,N,kb-ignore 0 0
+Indiana,N,kb-Indiana 0 0
+Indiana,N/N,kb-ignore 0 0
+Indiana,N/N,kb-Indiana 0 0
+Indianapolis,N,kb-ignore 0 0
+Indianapolis,N,kb-Indianapolis 0 0
+Indianapolis,N/N,kb-ignore 0 0
+Indianapolis,N/N,kb-Indianapolis 0 0
+in,N,kb-ignore 0 0
+in,N,kb-ignore 0 0
+in,N/N,kb-ignore 0 0
+in,N/N,kb-ignore 0 0
+inside,N,kb-ignore 0 0
+inside,N,kb-ignore 0 0
+inside,N/N,kb-ignore 0 0
+inside,N/N,kb-ignore 0 0
+into,N,kb-ignore 0 0
+into,N,kb-ignore 0 0
+into,N/N,kb-ignore 0 0
+into,N/N,kb-ignore 0 0
+island chain,N,kb-ignore 0 0
+island chain,N/N,kb-ignore 0 0
+island,N,island 0 0
+island,N/N,island 0 0
+islands,N,island 0 0
+islands,N/N,island 0 0
+is,N,kb-ignore 0 0
+is,N/N,kb-ignore 0 0
+just,N/N,kb-ignore 0 0
+Kentucky,N,kb-ignore 0 0
+Kentucky,N,kb-Kentucky 0 0
+Kentucky,N/N,kb-ignore 0 0
+Kentucky,N/N,kb-Kentucky 0 0
+Key Largo,N,kb-ignore 0 0
+Key Largo,N,kb-Key_Largo 0 0
+Key Largo,N/N,kb-ignore 0 0
+Key Largo,N/N,kb-Key_Largo 0 0
+Kingston,N,kb-ignore 0 0
+Kingston,N,kb-Kingston 0 0
+Kingston,N/N,kb-ignore 0 0
+Kingston,N/N,kb-Kingston 0 0
+Knoxville,N,kb-ignore 0 0
+Knoxville,N,kb-Knoxville 0 0
+Knoxville,N/N,kb-ignore 0 0
+Knoxville,N/N,kb-Knoxville 0 0
+Lake Erie,N,kb-ignore 0 0
+Lake Erie,N,kb-Lake_Erie 0 0
+Lake Erie,N/N,kb-ignore 0 0
+Lake Erie,N/N,kb-Lake_Erie 0 0
+Lake Huron,N,kb-ignore 0 0
+Lake Huron,N,kb-Lake_Huron 0 0
+Lake Huron,N/N,kb-ignore 0 0
+Lake Huron,N/N,kb-Lake_Huron 0 0
+Lake Michigan,N,kb-ignore 0 0
+Lake Michigan,N,kb-Lake_Michigan 0 0
+Lake Michigan,N/N,kb-ignore 0 0
+Lake Michigan,N/N,kb-Lake_Michigan 0 0
+Lake Moultrie,N,kb-ignore 0 0
+Lake Moultrie,N,kb-Lake_Moultrie 0 0
+Lake Moultrie,N/N,kb-ignore 0 0
+Lake Moultrie,N/N,kb-Lake_Moultrie 0 0
+lake,N,lake 0 0
+lake,N/N,lake 0 0
+Lake Ontario,N,kb-ignore 0 0
+Lake Ontario,N,kb-Lake_Ontario 0 0
+Lake Ontario,N/N,kb-ignore 0 0
+Lake Ontario,N/N,kb-Lake_Ontario 0 0
+lakes,N,lake 0 0
+lakes,N/N,lake 0 0
+Lake Superior,N,kb-ignore 0 0
+Lake Superior,N,kb-Lake_Superior 0 0
+Lake Superior,N/N,kb-ignore 0 0
+Lake Superior,N/N,kb-Lake_Superior 0 0
+Lake Tahoe,N,kb-ignore 0 0
+Lake Tahoe,N,kb-Lake_Tahoe 0 0
+Lake Tahoe,N/N,kb-ignore 0 0
+Lake Tahoe,N/N,kb-Lake_Tahoe 0 0
+large,N,large 0 0
+large,N/N,large 0 0
+larger,N,kb-ignore 0 0
+larger,N/N,kb-ignore 0 0
+largest city,N,kb-ignore 0 0
+largest city,N/N,kb-ignore 0 0
+largest,N,largest 0 0
+largest,N/N,largest 0 0
+Las Vegas,N,kb-ignore 0 0
+Las Vegas,N,kb-Las_Vegas 0 0
+Las Vegas,N/N,kb-ignore 0 0
+Las Vegas,N/N,kb-Las_Vegas 0 0
+lies,N,kb-ignore 0 0
+lies,N,kb-ignore 0 0
+lies,N/N,kb-ignore 0 0
+lies,N/N,kb-ignore 0 0
+located,N,kb-ignore 0 0
+located,N/N,kb-ignore 0 0
+London,N,kb-ignore 0 0
+London,N,kb-London 0 0
+London,N/N,kb-ignore 0 0
+London,N/N,kb-London 0 0
+Long Beach,N,kb-ignore 0 0
+Long Beach,N,kb-Long_Beach 0 0
+Long Beach,N/N,kb-ignore 0 0
+Long Beach,N/N,kb-Long_Beach 0 0
+Los Angeles,N,kb-ignore 0 0
+Los Angeles,N,kb-Los_Angeles 0 0
+Los Angeles,N/N,kb-ignore 0 0
+Los Angeles,N/N,kb-Los_Angeles 0 0
+Louisiana,N,kb-ignore 0 0
+Louisiana,N,kb-Louisiana 0 0
+Louisiana,N/N,kb-ignore 0 0
+Louisiana,N/N,kb-Louisiana 0 0
+Louisville,N,kb-ignore 0 0
+Louisville,N,kb-Louisville 0 0
+Louisville,N/N,kb-ignore 0 0
+Louisville,N/N,kb-Louisville 0 0
+Macon,N,kb-ignore 0 0
+Macon,N,kb-Macon 0 0
+Macon,N/N,kb-ignore 0 0
+Macon,N/N,kb-Macon 0 0
+Maine,N,kb-ignore 0 0
+Maine,N,kb-Maine 0 0
+Maine,N/N,kb-ignore 0 0
+Maine,N/N,kb-Maine 0 0
+major cities,N,kb-ignore 0 0
+major cities,N/N,kb-ignore 0 0
+major city,N,kb-ignore 0 0
+major city,N/N,kb-ignore 0 0
+major,N,major 0 0
+major,N/N,major 0 0
+Manchester,N,kb-ignore 0 0
+Manchester,N,kb-Manchester 0 0
+Manchester,N/N,kb-ignore 0 0
+Manchester,N/N,kb-Manchester 0 0
+Mansfield,N,kb-ignore 0 0
+Mansfield,N,kb-Mansfield 0 0
+Mansfield,N/N,kb-ignore 0 0
+Mansfield,N/N,kb-Mansfield 0 0
+many,N,kb-ignore 0 0
+many,N/N,kb-ignore 0 0
+many states,N,kb-ignore 0 0
+many states,N/N,kb-ignore 0 0
+Markham,N,kb-ignore 0 0
+Markham,N,kb-Markham 0 0
+Markham,N/N,kb-ignore 0 0
+Markham,N/N,kb-Markham 0 0
+Massachusetts,N,kb-ignore 0 0
+Massachusetts,N,kb-Massachusetts 0 0
+Massachusetts,N/N,kb-ignore 0 0
+Massachusetts,N/N,kb-Massachusetts 0 0
+Memphis,N,kb-ignore 0 0
+Memphis,N,kb-Memphis 0 0
+Memphis,N/N,kb-ignore 0 0
+Memphis,N/N,kb-Memphis 0 0
+Miami,N,kb-ignore 0 0
+Miami,N,kb-Miami 0 0
+Miami,N/N,kb-ignore 0 0
+Miami,N/N,kb-Miami 0 0
+Michigan,N,kb-ignore 0 0
+Michigan,N,kb-Michigan 0 0
+Michigan,N/N,kb-ignore 0 0
+Michigan,N/N,kb-Michigan 0 0
+middle,N,kb-ignore 0 0
+middle,N/N,kb-ignore 0 0
+Milwaukee,N,kb-ignore 0 0
+Milwaukee,N,kb-Milwaukee 0 0
+Milwaukee,N/N,kb-ignore 0 0
+Milwaukee,N/N,kb-Milwaukee 0 0
+Mississippi,N,kb-ignore 0 0
+Mississippi,N,kb-Mississippi 0 0
+Mississippi,N/N,kb-ignore 0 0
+Mississippi,N/N,kb-Mississippi 0 0
+Monongahela National Forest,N,kb-ignore 0 0
+Monongahela National Forest,N,kb-Monongahela_National_Forest 0 0
+Monongahela National Forest,N/N,kb-ignore 0 0
+Monongahela National Forest,N/N,kb-Monongahela_National_Forest 0 0
+Montgomery,N,kb-ignore 0 0
+Montgomery,N,kb-Montgomery 0 0
+Montgomery,N/N,kb-ignore 0 0
+Montgomery,N/N,kb-Montgomery 0 0
+Montreal,N,kb-ignore 0 0
+Montreal,N,kb-Montreal 0 0
+Montreal,N/N,kb-ignore 0 0
+Montreal,N/N,kb-Montreal 0 0
+Morgantown,N,kb-ignore 0 0
+Morgantown,N,kb-Morgantown 0 0
+Morgantown,N/N,kb-ignore 0 0
+Morgantown,N/N,kb-Morgantown 0 0
+most,N/N,kb-ignore 0 0
+Mount Whitney,N,kb-ignore 0 0
+Mount Whitney,N,kb-Mount_Whitney 0 0
+Mount Whitney,N/N,kb-ignore 0 0
+Mount Whitney,N/N,kb-Mount_Whitney 0 0
+Myrtle Beach,N,kb-ignore 0 0
+Myrtle Beach,N,kb-Myrtle_Beach 0 0
+Myrtle Beach,N/N,kb-ignore 0 0
+Myrtle Beach,N/N,kb-Myrtle_Beach 0 0
+name,N,kb-ignore 0 0
+name,N/N,kb-ignore 0 0
+Nashua,N,kb-ignore 0 0
+Nashua,N,kb-Nashua 0 0
+Nashua,N/N,kb-ignore 0 0
+Nashua,N/N,kb-Nashua 0 0
+Nashville,N,kb-ignore 0 0
+Nashville,N,kb-Nashville 0 0
+Nashville,N/N,kb-ignore 0 0
+Nashville,N/N,kb-Nashville 0 0
+national,N,kb-ignore 0 0
+national,N/N,kb-ignore 0 0
+national park,N,kb-ignore 0 0
+national park,N/N,kb-ignore 0 0
+national parks,N,kb-ignore 0 0
+national parks,N/N,kb-ignore 0 0
+near,N,kb-ignore 0 0
+near,N,kb-ignore 0 0
+near,N/N,kb-ignore 0 0
+near,N/N,kb-ignore 0 0
+Nevada,N,kb-ignore 0 0
+Nevada,N,kb-Nevada 0 0
+Nevada,N/N,kb-ignore 0 0
+Nevada,N/N,kb-Nevada 0 0
+Newark,N,kb-ignore 0 0
+Newark,N,kb-Newark 0 0
+Newark,N/N,kb-ignore 0 0
+Newark,N/N,kb-Newark 0 0
+New Hampshire,N,kb-ignore 0 0
+New Hampshire,N,kb-New_Hampshire 0 0
+New Hampshire,N/N,kb-ignore 0 0
+New Hampshire,N/N,kb-New_Hampshire 0 0
+New Haven,N,kb-ignore 0 0
+New Haven,N,kb-New_Haven 0 0
+New Haven,N/N,kb-ignore 0 0
+New Haven,N/N,kb-New_Haven 0 0
+New Jersey,N,kb-ignore 0 0
+New Jersey,N,kb-New_Jersey 0 0
+New Jersey,N/N,kb-ignore 0 0
+New Jersey,N/N,kb-New_Jersey 0 0
+New York City,N,kb-ignore 0 0
+New York City,N,kb-New_York_City 0 0
+New York City,N/N,kb-ignore 0 0
+New York City,N/N,kb-New_York_City 0 0
+New York,N,kb-ignore 0 0
+New York,N,kb-New_York 0 0
+New York,N/N,kb-ignore 0 0
+New York,N/N,kb-New_York 0 0
+North Carolina,N,kb-ignore 0 0
+North Carolina,N,kb-North_Carolina 0 0
+North Carolina,N/N,kb-ignore 0 0
+North Carolina,N/N,kb-North_Carolina 0 0
+northeast,N/N,kb-ignore 0 0
+northeast,N,kb-ignore 0 0
+northernmost city,N/N,kb-ignore 0 0
+northernmost city,N,kb-ignore 0 0
+northernmost,N/N,kb-ignore 0 0
+northernmost,N,kb-ignore 0 0
+northern,N/N,kb-ignore 0 0
+northern,N,kb-ignore 0 0
+north,N/N,kb-ignore 0 0
+north,N/N,kb-ignore 0 0
+north,N,kb-ignore 0 0
+northwest,N/N,kb-ignore 0 0
+north west,N/N,kb-ignore 0 0
+north west,N,kb-ignore 0 0
+not,N/N,kb-ignore 0 0
+ocean,N/N,ocean 0 0
+ocean,N,ocean 0 0
+oceans,N/N,ocean 0 0
+oceans,N,ocean 0 0
+of,N,kb-ignore 0 0
+of,N/N,kb-ignore 0 0
+of,N/N,kb-ignore 0 0
+of,N,kb-ignore 0 0
+Ohio,N,kb-ignore 0 0
+Ohio,N,kb-Ohio 0 0
+Ohio,N/N,kb-ignore 0 0
+Ohio,N/N,kb-Ohio 0 0
+Oklahoma,N,kb-ignore 0 0
+Oklahoma,N,kb-Oklahoma 0 0
+Oklahoma,N/N,kb-ignore 0 0
+Oklahoma,N/N,kb-Oklahoma 0 0
+on,N,kb-ignore 0 0
+on,N/N,kb-ignore 0 0
+on,N/N,kb-ignore 0 0
+on,N,kb-ignore 0 0
+Ontario,N,kb-ignore 0 0
+Ontario,N,kb-Ontario 0 0
+Ontario,N/N,kb-ignore 0 0
+Ontario,N/N,kb-Ontario 0 0
+Oregon,N,kb-ignore 0 0
+Oregon,N,kb-Oregon 0 0
+Oregon,N/N,kb-ignore 0 0
+Oregon,N/N,kb-Oregon 0 0
+Oswego Lake,N,kb-ignore 0 0
+Oswego Lake,N,kb-Oswego_Lake 0 0
+Oswego Lake,N/N,kb-ignore 0 0
+Oswego Lake,N/N,kb-Oswego_Lake 0 0
+Oxnard,N,kb-ignore 0 0
+Oxnard,N,kb-Oxnard 0 0
+Oxnard,N/N,kb-ignore 0 0
+Oxnard,N/N,kb-Oxnard 0 0
+Pacific Ocean,N,kb-ignore 0 0
+Pacific Ocean,N,kb-Pacific_Ocean 0 0
+Pacific Ocean,N/N,kb-ignore 0 0
+Pacific Ocean,N/N,kb-Pacific_Ocean 0 0
+park,N/N,park 0 0
+park,N,park 0 0
+parks,N/N,park 0 0
+parks,N,park 0 0
+peninsula,N/N,peninsula 0 0
+peninsula,N,peninsula 0 0
+Pennsylvania,N,kb-ignore 0 0
+Pennsylvania,N,kb-Pennsylvania 0 0
+Pennsylvania,N/N,kb-ignore 0 0
+Pennsylvania,N/N,kb-Pennsylvania 0 0
+Philadelphia,N,kb-ignore 0 0
+Philadelphia,N,kb-Philadelphia 0 0
+Philadelphia,N/N,kb-ignore 0 0
+Philadelphia,N/N,kb-Philadelphia 0 0
+Phoenix,N,kb-ignore 0 0
+Phoenix,N,kb-Phoenix 0 0
+Phoenix,N/N,kb-ignore 0 0
+Phoenix,N/N,kb-Phoenix 0 0
+Pittsburgh,N,kb-ignore 0 0
+Pittsburgh,N,kb-Pittsburgh 0 0
+Pittsburgh,N/N,kb-ignore 0 0
+Pittsburgh,N/N,kb-Pittsburgh 0 0
+places,N/N,place 0 0
+places,N,place 0 0
+Portland,N,kb-ignore 0 0
+Portland,N,kb-Portland 0 0
+Portland,N/N,kb-ignore 0 0
+Portland,N/N,kb-Portland 0 0
+Provo,N,kb-ignore 0 0
+Provo,N,kb-Provo 0 0
+Provo,N/N,kb-ignore 0 0
+Provo,N/N,kb-Provo 0 0
+Raleigh,N,kb-ignore 0 0
+Raleigh,N,kb-Raleigh 0 0
+Raleigh,N/N,kb-ignore 0 0
+Raleigh,N/N,kb-Raleigh 0 0
+Red Bluff,N,kb-ignore 0 0
+Red Bluff,N,kb-Red_Bluff 0 0
+Red Bluff,N/N,kb-ignore 0 0
+Red Bluff,N/N,kb-Red_Bluff 0 0
+Redding,N,kb-ignore 0 0
+Redding,N,kb-Redding 0 0
+Redding,N/N,kb-ignore 0 0
+Redding,N/N,kb-Redding 0 0
+Redondo Beach,N,kb-ignore 0 0
+Redondo Beach,N,kb-Redondo_Beach 0 0
+Redondo Beach,N/N,kb-ignore 0 0
+Redondo Beach,N/N,kb-Redondo_Beach 0 0
+Reno,N,kb-ignore 0 0
+Reno,N,kb-Reno 0 0
+Reno,N/N,kb-ignore 0 0
+Reno,N/N,kb-Reno 0 0
+Rhode Island,N,kb-ignore 0 0
+Rhode Island,N,kb-Rhode_Island 0 0
+Rhode Island,N/N,kb-ignore 0 0
+Rhode Island,N/N,kb-Rhode_Island 0 0
+Richmond,N,kb-ignore 0 0
+Richmond,N,kb-Richmond 0 0
+Richmond,N/N,kb-ignore 0 0
+Richmond,N/N,kb-Richmond 0 0
+river,N/N,kb-ignore 0 0
+river,N,kb-ignore 0 0
+rivers,N/N,kb-ignore 0 0
+rivers,N,kb-ignore 0 0
+Rochester,N,kb-ignore 0 0
+Rochester,N,kb-Rochester 0 0
+Rochester,N/N,kb-ignore 0 0
+Rochester,N/N,kb-Rochester 0 0
+Sacramento,N,kb-ignore 0 0
+Sacramento,N,kb-Sacramento 0 0
+Sacramento,N/N,kb-ignore 0 0
+Sacramento,N/N,kb-Sacramento 0 0
+Salem,N,kb-ignore 0 0
+Salem,N,kb-Salem 0 0
+Salem,N/N,kb-ignore 0 0
+Salem,N/N,kb-Salem 0 0
+Salt Lake City,N,kb-ignore 0 0
+Salt Lake City,N,kb-Salt_Lake_City 0 0
+Salt Lake City,N/N,kb-ignore 0 0
+Salt Lake City,N/N,kb-Salt_Lake_City 0 0
+salt,N/N,salt 0 0
+salt,N,salt 0 0
+salt water,N/N,kb-ignore 0 0
+salt water,N,kb-ignore 0 0
+San Diego,N,kb-ignore 0 0
+San Diego,N,kb-San_Diego 0 0
+San Diego,N/N,kb-ignore 0 0
+San Diego,N/N,kb-San_Diego 0 0
+San Francisco Bay,N,kb-ignore 0 0
+San Francisco Bay,N,kb-San_Francisco_Bay 0 0
+San Francisco Bay,N/N,kb-ignore 0 0
+San Francisco Bay,N/N,kb-San_Francisco_Bay 0 0
+San Francisco,N,kb-ignore 0 0
+San Francisco,N,kb-San_Francisco 0 0
+San Francisco,N/N,kb-ignore 0 0
+San Francisco,N/N,kb-San_Francisco 0 0
+San Jose,N,kb-ignore 0 0
+San Jose,N,kb-San_Jose 0 0
+San Jose,N/N,kb-ignore 0 0
+San Jose,N/N,kb-San_Jose 0 0
+Santa Rosa,N,kb-ignore 0 0
+Santa Rosa,N,kb-Santa_Rosa 0 0
+Santa Rosa,N/N,kb-ignore 0 0
+Santa Rosa,N/N,kb-Santa_Rosa 0 0
+second largest city,N/N,kb-ignore 0 0
+second largest city,N,kb-ignore 0 0
+second,N/N,kb-ignore 0 0
+second,N,kb-ignore 0 0
+shares,N/N,kb-ignore 0 0
+shares,N,kb-ignore 0 0
+Shenandoah National Park,N,kb-ignore 0 0
+Shenandoah National Park,N,kb-Shenandoah_National_Park 0 0
+Shenandoah National Park,N/N,kb-ignore 0 0
+Shenandoah National Park,N/N,kb-Shenandoah_National_Park 0 0
+Sierra Nevada Mountains,N,kb-ignore 0 0
+Sierra Nevada Mountains,N,kb-Sierra_Nevada_Mountains 0 0
+Sierra Nevada Mountains,N/N,kb-ignore 0 0
+Sierra Nevada Mountains,N/N,kb-Sierra_Nevada_Mountains 0 0
+'s,N,kb-ignore 0 0
+'s,N/N,kb-ignore 0 0
+'s,N/N,kb-ignore 0 0
+'s,N,kb-ignore 0 0
+some,N,kb-ignore 0 0
+some,N/N,kb-ignore 0 0
+South Bend,N,kb-ignore 0 0
+South Bend,N,kb-South_Bend 0 0
+South Bend,N/N,kb-ignore 0 0
+South Bend,N/N,kb-South_Bend 0 0
+South Carolina,N,kb-ignore 0 0
+South Carolina,N,kb-South_Carolina 0 0
+South Carolina,N/N,kb-ignore 0 0
+South Carolina,N/N,kb-South_Carolina 0 0
+south east,N/N,kb-ignore 0 0
+southeast,N/N,kb-ignore 0 0
+south east,N,kb-ignore 0 0
+southeast,N,kb-ignore 0 0
+southernmost city,N/N,kb-ignore 0 0
+southernmost city,N,kb-ignore 0 0
+southernmost,N/N,kb-ignore 0 0
+southernmost,N,kb-ignore 0 0
+southern,N/N,kb-ignore 0 0
+southern,N,kb-ignore 0 0
+southern tip,N/N,kb-ignore 0 0
+southern tip,N,kb-ignore 0 0
+south,N/N,kb-ignore 0 0
+south,N/N,kb-ignore 0 0
+south,N,kb-ignore 0 0
+south west,N/N,kb-ignore 0 0
+southwest,N/N,kb-ignore 0 0
+south west,N,kb-ignore 0 0
+southwest,N,kb-ignore 0 0
+stadium,N/N,kb-ignore 0 0
+stadium,N,kb-ignore 0 0
+stadiums,N/N,kb-ignore 0 0
+stadiums,N,kb-ignore 0 0
+Staples Center,N,kb-ignore 0 0
+Staples Center,N,kb-Staples_Center 0 0
+Staples Center,N/N,kb-ignore 0 0
+Staples Center,N/N,kb-Staples_Center 0 0
+state,N/N,state 0 0
+state,N,state 0 0
+states,N,kb-ignore 0 0
+states,N/N,kb-ignore 0 0
+states,N/N,state 0 0
+states,N,state 0 0
+state west,N/N,kb-ignore 0 0
+state west,N,kb-ignore 0 0
+St. George,N,kb-ignore 0 0
+St. George,N,kb-St._George 0 0
+St. George,N/N,kb-ignore 0 0
+St. George,N/N,kb-St._George 0 0
+Stockton,N,kb-ignore 0 0
+Stockton,N,kb-Stockton 0 0
+Stockton,N/N,kb-ignore 0 0
+Stockton,N/N,kb-Stockton 0 0
+surrounded,N/N,kb-ignore 0 0
+surrounded,N,kb-ignore 0 0
+Tallahassee,N,kb-ignore 0 0
+Tallahassee,N,kb-Tallahassee 0 0
+Tallahassee,N/N,kb-ignore 0 0
+Tallahassee,N/N,kb-Tallahassee 0 0
+Tennessee,N,kb-ignore 0 0
+Tennessee,N,kb-Tennessee 0 0
+Tennessee,N/N,kb-ignore 0 0
+Tennessee,N/N,kb-Tennessee 0 0
+Texas,N,kb-ignore 0 0
+Texas,N,kb-Texas 0 0
+Texas,N/N,kb-ignore 0 0
+Texas,N/N,kb-Texas 0 0
+than,N,kb-ignore 0 0
+than,N/N,kb-ignore 0 0
+than,N/N,kb-ignore 0 0
+than,N,kb-ignore 0 0
+that,N,kb-ignore 0 0
+that,N/N,kb-ignore 0 0
+that,N,kb-ignore 0 0
+the,N,kb-ignore 0 0
+the,N/N,kb-ignore 0 0
+there,N,kb-ignore 0 0
+there,N/N,kb-ignore 0 0
+these,N,kb-ignore 0 0
+these,N/N,kb-ignore 0 0
+through,N,kb-ignore 0 0
+through,N/N,kb-ignore 0 0
+through,N/N,kb-ignore 0 0
+through,N,kb-ignore 0 0
+tip,N/N,kb-ignore 0 0
+tip,N,kb-ignore 0 0
+to,N,kb-ignore 0 0
+to,N/N,kb-ignore 0 0
+to,N/N,kb-ignore 0 0
+to,N,kb-ignore 0 0
+Toronto,N,kb-ignore 0 0
+Toronto,N,kb-Toronto 0 0
+Toronto,N/N,kb-ignore 0 0
+Toronto,N/N,kb-Toronto 0 0
+Trenton,N,kb-ignore 0 0
+Trenton,N,kb-Trenton 0 0
+Trenton,N/N,kb-ignore 0 0
+Trenton,N/N,kb-Trenton 0 0
+Truckee River,N,kb-ignore 0 0
+Truckee River,N,kb-Truckee_River 0 0
+Truckee River,N/N,kb-ignore 0 0
+Truckee River,N/N,kb-Truckee_River 0 0
+Tucson,N,kb-ignore 0 0
+Tucson,N,kb-Tucson 0 0
+Tucson,N/N,kb-ignore 0 0
+Tucson,N/N,kb-Tucson 0 0
+Twin Peaks,N,kb-ignore 0 0
+Twin Peaks,N,kb-Twin_Peaks 0 0
+Twin Peaks,N/N,kb-ignore 0 0
+Twin Peaks,N/N,kb-Twin_Peaks 0 0
+Tygart Lake,N,kb-ignore 0 0
+Tygart Lake,N,kb-Tygart_Lake 0 0
+Tygart Lake,N/N,kb-ignore 0 0
+Tygart Lake,N/N,kb-Tygart_Lake 0 0
+Utah Lake,N,kb-ignore 0 0
+Utah Lake,N,kb-Utah_Lake 0 0
+Utah Lake,N/N,kb-ignore 0 0
+Utah Lake,N/N,kb-Utah_Lake 0 0
+Utah,N,kb-ignore 0 0
+Utah,N,kb-Utah 0 0
+Utah,N/N,kb-ignore 0 0
+Utah,N/N,kb-Utah 0 0
+Utica,N,kb-ignore 0 0
+Utica,N,kb-Utica 0 0
+Utica,N/N,kb-ignore 0 0
+Utica,N/N,kb-Utica 0 0
+Uwharrie National Forest,N,kb-ignore 0 0
+Uwharrie National Forest,N,kb-Uwharrie_National_Forest 0 0
+Uwharrie National Forest,N/N,kb-ignore 0 0
+Uwharrie National Forest,N/N,kb-Uwharrie_National_Forest 0 0
+Vermont,N,kb-ignore 0 0
+Vermont,N,kb-Vermont 0 0
+Vermont,N/N,kb-ignore 0 0
+Vermont,N/N,kb-Vermont 0 0
+Virginia Beach,N,kb-ignore 0 0
+Virginia Beach,N,kb-Virginia_Beach 0 0
+Virginia Beach,N/N,kb-ignore 0 0
+Virginia Beach,N/N,kb-Virginia_Beach 0 0
+Virginia,N,kb-ignore 0 0
+Virginia,N,kb-Virginia 0 0
+Virginia,N/N,kb-ignore 0 0
+Virginia,N/N,kb-Virginia 0 0
+water,N/N,water 0 0
+water,N,water 0 0
+western,N/N,kb-ignore 0 0
+western,N,kb-ignore 0 0
+west,N/N,kb-ignore 0 0
+west,N,kb-ignore 0 0
+West Virginia,N,kb-ignore 0 0
+West Virginia,N,kb-West_Virginia 0 0
+West Virginia,N/N,kb-ignore 0 0
+West Virginia,N/N,kb-West_Virginia 0 0
+#what cities,N/N,kb-ignore 0 0
+#what cities,N,kb-ignore 0 0
+#what city,N/N,kb-ignore 0 0
+#what city,N,kb-ignore 0 0
+#what islands,N/N,kb-ignore 0 0
+#what islands,N,kb-ignore 0 0
+#what national parks,N/N,kb-ignore 0 0
+#what national parks,N,kb-ignore 0 0
+#what,N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+#what,N/N,kb-ignore 0 0
+what,N/N,kb-ignore 0 0
+#what,N/N,kb-ignore 0 0
+#what,N,kb-ignore 0 0
+what,N,kb-ignore 0 0
+#what rivers,N/N,kb-ignore 0 0
+#what rivers,N,kb-ignore 0 0
+#what stadiums,N/N,kb-ignore 0 0
+#what stadiums,N,kb-ignore 0 0
+#what state,N/N,kb-ignore 0 0
+#what state,N,kb-ignore 0 0
+which,N,kb-ignore 0 0
+which,N/N,kb-ignore 0 0
+#which,N/N,kb-ignore 0 0
+#which,N,kb-ignore 0 0
+which,N,kb-ignore 0 0
+#which stadium,N/N,kb-ignore 0 0
+#which stadium,N,kb-ignore 0 0
+#which state borders,N/N,kb-ignore 0 0
+#which state borders,N,kb-ignore 0 0
+Willamette River,N,kb-ignore 0 0
+Willamette River,N,kb-Willamette_River 0 0
+Willamette River,N/N,kb-ignore 0 0
+Willamette River,N/N,kb-Willamette_River 0 0
+Wisconsin,N,kb-ignore 0 0
+Wisconsin,N,kb-Wisconsin 0 0
+Wisconsin,N/N,kb-ignore 0 0
+Wisconsin,N/N,kb-Wisconsin 0 0
+with,N,kb-ignore 0 0
+with,N/N,kb-ignore 0 0
+with,N/N,kb-ignore 0 0
+with,N,kb-ignore 0 0
+word,N/N,kb-ignore 0 0
+word,N,kb-ignore 0 0
+Yosemite National Park,N,kb-ignore 0 0
+Yosemite National Park,N,kb-Yosemite_National_Park 0 0
+Yosemite National Park,N/N,kb-ignore 0 0
+Yosemite National Park,N/N,kb-Yosemite_National_Park 0 0

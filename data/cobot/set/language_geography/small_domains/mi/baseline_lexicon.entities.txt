@@ -1,0 +1,28 @@
+Michigan,N,kb-Michigan 0 0
+Michigan,N/N,kb-Michigan 0 0
+Michigan,N,kb-ignore 0 0
+Michigan,N/N,kb-ignore 0 0
+Detroit,N,kb-Detroit 0 0
+Detroit,N/N,kb-Detroit 0 0
+Detroit,N,kb-ignore 0 0
+Detroit,N/N,kb-ignore 0 0
+Grand Rapids,N,kb-Grand_Rapids 0 0
+Grand Rapids,N/N,kb-Grand_Rapids 0 0
+Grand Rapids,N,kb-ignore 0 0
+Grand Rapids,N/N,kb-ignore 0 0
+Lake Michigan,N,kb-Lake_Michigan 0 0
+Lake Michigan,N/N,kb-Lake_Michigan 0 0
+Lake Michigan,N,kb-ignore 0 0
+Lake Michigan,N/N,kb-ignore 0 0
+Lake Huron,N,kb-Lake_Huron 0 0
+Lake Huron,N/N,kb-Lake_Huron 0 0
+Lake Huron,N,kb-ignore 0 0
+Lake Huron,N/N,kb-ignore 0 0
+Wisconsin,N,kb-Wisconsin 0 0
+Wisconsin,N/N,kb-Wisconsin 0 0
+Wisconsin,N,kb-ignore 0 0
+Wisconsin,N/N,kb-ignore 0 0
+Milwaukee,N,kb-Milwaukee 0 0
+Milwaukee,N/N,kb-Milwaukee 0 0
+Milwaukee,N,kb-ignore 0 0
+Milwaukee,N/N,kb-ignore 0 0

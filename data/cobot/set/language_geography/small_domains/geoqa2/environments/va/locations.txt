@@ -1,0 +1,6 @@
+Virginia;Virginia;224042
+Virginia Beach;Virginia Beach;206670
+Richmond;Richmond;40821929
+Atlantic Ocean;Atlantic Ocean;305640306
+West Virginia;West Virginia;162068
+North Carolina;North Carolina;224045

@@ -1,0 +1,18 @@
+Kentucky,T,f_f__F_landmarkPerimeter,2.05154342651
+Kentucky,T,bias,1.0
+Kentucky,T,f_f__F_landmarkArea,2.01641452876
+Louisville,T,f_f__F_landmarkPerimeter,0.161180489156
+Louisville,T,bias,1.0
+Louisville,T,f_f__F_landmarkArea,0.0106230756568
+Indiana,T,f_f__F_landmarkPerimeter,1.66520764554
+Indiana,T,bias,1.0
+Indiana,T,f_f__F_landmarkArea,0.987290216727
+Indianapolis,T,f_f__F_landmarkPerimeter,0.00628312135213
+Indianapolis,T,bias,1.0
+Indianapolis,T,f_f__F_landmarkArea,3.14146475375e-05
+South Bend,T,f_f__F_landmarkPerimeter,0.066431427002
+South Bend,T,bias,1.0
+South Bend,T,f_f__F_landmarkArea,0.00275723178056
+Lake Michigan,T,f_f__F_landmarkPerimeter,2.69659858708
+Lake Michigan,T,bias,1.0
+Lake Michigan,T,f_f__F_landmarkArea,0.653123874523

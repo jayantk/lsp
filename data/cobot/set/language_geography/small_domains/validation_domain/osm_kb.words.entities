@@ -1,0 +1,920 @@
+Albany,T,Albany,1
+Albany,T,cities of _,1
+Albany,T,city of _,1
+Albany,T,conference in _,1
+Albany,T,family in _,1
+Albany,T,flights from _,1
+Albany,T,home in _,1
+Albany,T,hotel in _,1
+Albany,T,hotels in _,1
+Albany,T,mayor of _,1
+Albany,T,meeting in _,1
+Albany,T,office in _,1
+Albany,T,offices in _,1
+Albany,T,one-way flights from _,1
+Albany,T,place in _,1
+Albany,T,practice in _,1
+Albany,T,school in _,1
+Albany,T,time in _,1
+Albany,T,town of _,1
+Albany,T,trip to _,1
+Albany,T,way to _,1
+Allentown,T,Allentown,1
+Allentown,T,cities of _,1
+Allentown,T,city of _,1
+Allentown,T,company in _,1
+Allentown,T,facility in _,1
+Allentown,T,flights from _,1
+Allentown,T,gastroenterologist in _,1
+Allentown,T,home in _,1
+Allentown,T,hotels in _,1
+Allentown,T,jobs in _,1
+Allentown,T,offices in _,1
+Allentown,T,one-way flights from _,1
+Allentown,T,practice in _,1
+Allentown,T,resident of _,1
+Allentown,T,restaurants in _,1
+Allentown,T,school in _,1
+Allentown,T,services in _,1
+Allentown,T,shops in _,1
+Allentown,T,show in _,1
+Allentown,T,stores in _,1
+Allentown,T,suburb of _,1
+Altoona,T,airfare from _,1
+Altoona,T,Altoona,1
+Altoona,T,butterfly garden in _,1
+Altoona,T,center in _,1
+Altoona,T,certification in _,1
+Altoona,T,city of _,1
+Altoona,T,garden in _,1
+Altoona,T,home in _,1
+Altoona,T,hometown of _,1
+Altoona,T,hotels in _,1
+Altoona,T,jobs in _,1
+Altoona,T,movers in _,1
+Altoona,T,news for _,1
+Altoona,T,office in _,1
+Altoona,T,part of _,1
+Altoona,T,personal trainer certification in _,1
+Altoona,T,shops in _,1
+Altoona,T,singles in _,1
+Altoona,T,town of _,1
+Altoona,T,trainer certification in _,1
+Altoona,T,west of _,1
+Atlantic Ocean,T,access to _,1
+Atlantic Ocean,T,Atlantic Ocean,1
+Atlantic Ocean,T,beaches of _,1
+Atlantic Ocean,T,bottom of _,1
+Atlantic Ocean,T,breathtaking views of _,1
+Atlantic Ocean,T,coast of _,1
+Atlantic Ocean,T,edge of _,1
+Atlantic Ocean,T,middle of _,1
+Atlantic Ocean,T,other side of _,1
+Atlantic Ocean,T,panoramic views of _,1
+Atlantic Ocean,T,part of _,1
+Atlantic Ocean,T,shores of _,1
+Atlantic Ocean,T,side of _,1
+Atlantic Ocean,T,sides of _,1
+Atlantic Ocean,T,spectacular views of _,1
+Atlantic Ocean,T,view of _,1
+Atlantic Ocean,T,views of _,1
+Atlantic Ocean,T,views over _,1
+Atlantic Ocean,T,waters of _,1
+Atlantic Ocean,T,waves of _,1
+Atlantic Ocean,T,west by _,1
+Buffalo,T,Buffalo,1
+Buffalo,T,city of _,1
+Buffalo,T,game against _,1
+Buffalo,T,game in _,1
+Buffalo,T,herds of _,1
+Buffalo,T,home in _,1
+Buffalo,T,home to _,1
+Buffalo,T,hometown of _,1
+Buffalo,T,loss to _,1
+Buffalo,T,mayor of _,1
+Buffalo,T,native of _,1
+Buffalo,T,office in _,1
+Buffalo,T,professional wedding vendor in _,1
+Buffalo,T,school in _,1
+Buffalo,T,suburb of _,1
+Buffalo,T,time in _,1
+Buffalo,T,town of _,1
+Buffalo,T,trip to _,1
+Buffalo,T,vendor in _,1
+Buffalo,T,way to _,1
+Buffalo,T,wedding vendor in _,1
+Burlington,T,Burlington,1
+Burlington,T,business in _,1
+Burlington,T,certification in _,1
+Burlington,T,city of _,1
+Burlington,T,company in _,1
+Burlington,T,facility in _,1
+Burlington,T,headquarters in _,1
+Burlington,T,home in _,1
+Burlington,T,hotels in _,1
+Burlington,T,mayor of _,1
+Burlington,T,native of _,1
+Burlington,T,office in _,1
+Burlington,T,offices in _,1
+Burlington,T,practice in _,1
+Burlington,T,resident of _,1
+Burlington,T,residents of _,1
+Burlington,T,school in _,1
+Burlington,T,services in _,1
+Burlington,T,store in _,1
+Burlington,T,town of _,1
+Burlington,T,trip to _,1
+Canton,T,Canton,1
+Canton,T,capital of _,1
+Canton,T,certification in _,1
+Canton,T,city of _,1
+Canton,T,facility in _,1
+Canton,T,home in _,1
+Canton,T,hotels in _,1
+Canton,T,house in _,1
+Canton,T,location in _,1
+Canton,T,native of _,1
+Canton,T,office in _,1
+Canton,T,part of _,1
+Canton,T,personal trainer certification in _,1
+Canton,T,plant in _,1
+Canton,T,port of _,1
+Canton,T,school in _,1
+Canton,T,town of _,1
+Canton,T,trainer certification in _,1
+Canton,T,trip to _,1
+Canton,T,village of _,1
+Canton,T,way to _,1
+Cleveland,T,city of _,1
+Cleveland,T,Cleveland,1
+Cleveland,T,company in _,1
+Cleveland,T,dealers in _,1
+Cleveland,T,home in _,1
+Cleveland,T,hometown of _,1
+Cleveland,T,jobs in _,1
+Cleveland,T,mayor of _,1
+Cleveland,T,native of _,1
+Cleveland,T,office in _,1
+Cleveland,T,offices in _,1
+Cleveland,T,people in _,1
+Cleveland,T,professional wedding vendor in _,1
+Cleveland,T,school in _,1
+Cleveland,T,side of _,1
+Cleveland,T,suburb of _,1
+Cleveland,T,suburbs of _,1
+Cleveland,T,time in _,1
+Cleveland,T,trip to _,1
+Cleveland,T,vendor in _,1
+Cleveland,T,wedding vendor in _,1
+Columbus,T,area of _,1
+Columbus,T,arrival of _,1
+Columbus,T,_ arrived in,1
+Columbus,T,city of _,1
+Columbus,T,Columbus,1
+Columbus,T,home in _,1
+Columbus,T,_ landed in,1
+Columbus,T,office in _,1
+Columbus,T,offices in _,1
+Columbus,T,school in _,1
+Columbus,T,_ set sail,1
+Columbus,T,show in _,1
+Columbus,T,side of _,1
+Columbus,T,suburb of _,1
+Columbus,T,time of _,1
+Columbus,T,town of _,1
+Columbus,T,trip to _,1
+Columbus,T,voyage of _,1
+Connecticut,T,area of _,1
+Connecticut,T,areas of _,1
+Connecticut,T,business in _,1
+Connecticut,T,companies in _,1
+Connecticut,T,company in _,1
+Connecticut,T,Connecticut,1
+Connecticut,T,corner of _,1
+Connecticut,T,florist shop in _,1
+Connecticut,T,governor of _,1
+Connecticut,T,home in _,1
+Connecticut,T,house in _,1
+Connecticut,T,native of _,1
+Connecticut,T,part of _,1
+Connecticut,T,people of _,1
+Connecticut,T,school in _,1
+Connecticut,T,schools in _,1
+Connecticut,T,shop in _,1
+Connecticut,T,size of _,1
+Connecticut,T,state of _,1
+Connecticut,T,states of _,1
+Connecticut,T,town in _,1
+Detroit,T,cities like _,1
+Detroit,T,city of _,1
+Detroit,T,Detroit,1
+Detroit,T,home in _,1
+Detroit,T,hometown of _,1
+Detroit,T,mayor of _,1
+Detroit,T,native of _,1
+Detroit,T,north of _,1
+Detroit,T,people in _,1
+Detroit,T,people of _,1
+Detroit,T,professional wedding vendor in _,1
+Detroit,T,_ 's automakers,1
+Detroit,T,school in _,1
+Detroit,T,show in _,1
+Detroit,T,side of _,1
+Detroit,T,streets of _,1
+Detroit,T,suburb of _,1
+Detroit,T,suburbs of _,1
+Detroit,T,trip to _,1
+Detroit,T,vendor in _,1
+Detroit,T,wedding vendor in _,1
+Harrisburg,T,area of _,1
+Harrisburg,T,building in _,1
+Harrisburg,T,capital of _,1
+Harrisburg,T,capitol in _,1
+Harrisburg,T,city of _,1
+Harrisburg,T,conference in _,1
+Harrisburg,T,Harrisburg,1
+Harrisburg,T,headquarters in _,1
+Harrisburg,T,home in _,1
+Harrisburg,T,hotels in _,1
+Harrisburg,T,meeting in _,1
+Harrisburg,T,north of _,1
+Harrisburg,T,office in _,1
+Harrisburg,T,offices in _,1
+Harrisburg,T,school in _,1
+Harrisburg,T,show in _,1
+Harrisburg,T,state capital of _,1
+Harrisburg,T,town of _,1
+Harrisburg,T,trip to _,1
+Harrisburg,T,way to _,1
+Harrisburg,T,west of _,1
+Kingston,T,area of _,1
+Kingston,T,capital city of _,1
+Kingston,T,city of _,1
+Kingston,T,heart of _,1
+Kingston,T,home in _,1
+Kingston,T,hotels in _,1
+Kingston,T,house in _,1
+Kingston,T,Kingston,1
+Kingston,T,north of _,1
+Kingston,T,office in _,1
+Kingston,T,part of _,1
+Kingston,T,place in _,1
+Kingston,T,school in _,1
+Kingston,T,services in _,1
+Kingston,T,store in _,1
+Kingston,T,streets of _,1
+Kingston,T,town of _,1
+Kingston,T,trip to _,1
+Kingston,T,village of _,1
+Kingston,T,way to _,1
+Kingston,T,west of _,1
+Lake Erie,T,access to _,1
+Lake Erie,T,banks of _,1
+Lake Erie,T,basin of _,1
+Lake Erie,T,charters on _,1
+Lake Erie,T,eastern end of _,1
+Lake Erie,T,end of _,1
+Lake Erie,T,fishing on _,1
+Lake Erie,T,Lake Erie,1
+Lake Erie,T,north shore of _,1
+Lake Erie,T,shoreline of _,1
+Lake Erie,T,shore of _,1
+Lake Erie,T,shores of _,1
+Lake Erie,T,side of _,1
+Lake Erie,T,southern shore of _,1
+Lake Erie,T,south shore of _,1
+Lake Erie,T,view of _,1
+Lake Erie,T,views of _,1
+Lake Erie,T,water from _,1
+Lake Erie,T,waters of _,1
+Lake Erie,T,western basin of _,1
+Lake Erie,T,western end of _,1
+Lake Huron,T,access to _,1
+Lake Huron,T,beaches of _,1
+Lake Huron,T,bottom of _,1
+Lake Huron,T,coast of _,1
+Lake Huron,T,cottage on _,1
+Lake Huron,T,eastern shore of _,1
+Lake Huron,T,end of _,1
+Lake Huron,T,island in _,1
+Lake Huron,T,Lake Huron,1
+Lake Huron,T,north of _,1
+Lake Huron,T,north shore of _,1
+Lake Huron,T,part of _,1
+Lake Huron,T,shoreline of _,1
+Lake Huron,T,shore of _,1
+Lake Huron,T,shores of _,1
+Lake Huron,T,side of _,1
+Lake Huron,T,view of _,1
+Lake Huron,T,views of _,1
+Lake Huron,T,water from _,1
+Lake Huron,T,water of _,1
+Lake Huron,T,waters of _,1
+Lake Ontario,T,eastern end of _,1
+Lake Ontario,T,edge of _,1
+Lake Ontario,T,end of _,1
+Lake Ontario,T,fishing on _,1
+Lake Ontario,T,Lake Ontario,1
+Lake Ontario,T,northern shore of _,1
+Lake Ontario,T,north shore of _,1
+Lake Ontario,T,proximity to _,1
+Lake Ontario,T,shoreline of _,1
+Lake Ontario,T,shore of _,1
+Lake Ontario,T,shores of _,1
+Lake Ontario,T,side of _,1
+Lake Ontario,T,size of _,1
+Lake Ontario,T,southern shore of _,1
+Lake Ontario,T,south shore of _,1
+Lake Ontario,T,view of _,1
+Lake Ontario,T,views of _,1
+Lake Ontario,T,water from _,1
+Lake Ontario,T,waters of _,1
+Lake Ontario,T,west end of _,1
+Lake Ontario,T,western end of _,1
+Lake Superior,T,bottom of _,1
+Lake Superior,T,coast of _,1
+Lake Superior,T,edge of _,1
+Lake Superior,T,end of _,1
+Lake Superior,T,head of _,1
+Lake Superior,T,island in _,1
+Lake Superior,T,Lake Superior,1
+Lake Superior,T,north of _,1
+Lake Superior,T,north shore of _,1
+Lake Superior,T,part of _,1
+Lake Superior,T,shoreline of _,1
+Lake Superior,T,shore of _,1
+Lake Superior,T,shores of _,1
+Lake Superior,T,southern shore of _,1
+Lake Superior,T,south shore of _,1
+Lake Superior,T,tip of _,1
+Lake Superior,T,view of _,1
+Lake Superior,T,views of _,1
+Lake Superior,T,waters of _,1
+Lake Superior,T,western end of _,1
+Lake Superior,T,west of _,1
+London,T,area of _,1
+London,T,centre of _,1
+London,T,city of _,1
+London,T,conference in _,1
+London,T,events in _,1
+London,T,heart of _,1
+London,T,home in _,1
+London,T,hotels in _,1
+London,T,jobs in _,1
+London,T,life in _,1
+London,T,living in _,1
+London,T,London,1
+London,T,office in _,1
+London,T,offices in _,1
+London,T,part of _,1
+London,T,parts of _,1
+London,T,place in _,1
+London,T,streets of _,1
+London,T,time in _,1
+London,T,trip to _,1
+London,T,visit to _,1
+Maine,T,area of _,1
+Maine,T,areas of _,1
+Maine,T,business in _,1
+Maine,T,camp in _,1
+Maine,T,coast of _,1
+Maine,T,home in _,1
+Maine,T,house in _,1
+Maine,T,Maine,1
+Maine,T,part of _,1
+Maine,T,parts of _,1
+Maine,T,people in _,1
+Maine,T,people of _,1
+Maine,T,places in _,1
+Maine,T,region of _,1
+Maine,T,school in _,1
+Maine,T,state of _,1
+Maine,T,states of _,1
+Maine,T,town in _,1
+Maine,T,trip to _,1
+Maine,T,vacation in _,1
+Maine,T,woods of _,1
+Manchester,T,area of _,1
+Manchester,T,centre of _,1
+Manchester,T,city of _,1
+Manchester,T,conference in _,1
+Manchester,T,events in _,1
+Manchester,T,flight from _,1
+Manchester,T,flights from _,1
+Manchester,T,heart of _,1
+Manchester,T,home in _,1
+Manchester,T,hotels in _,1
+Manchester,T,jobs in _,1
+Manchester,T,Manchester,1
+Manchester,T,office in _,1
+Manchester,T,offices in _,1
+Manchester,T,people of _,1
+Manchester,T,place in _,1
+Manchester,T,professional wedding vendor in _,1
+Manchester,T,streets of _,1
+Manchester,T,town of _,1
+Manchester,T,vendor in _,1
+Manchester,T,wedding vendor in _,1
+Mansfield,T,battle of _,1
+Mansfield,T,cars in _,1
+Mansfield,T,citizens of _,1
+Mansfield,T,city of _,1
+Mansfield,T,facility in _,1
+Mansfield,T,home in _,1
+Mansfield,T,hometown of _,1
+Mansfield,T,hotels in _,1
+Mansfield,T,house in _,1
+Mansfield,T,jobs in _,1
+Mansfield,T,Mansfield,1
+Mansfield,T,office in _,1
+Mansfield,T,part of _,1
+Mansfield,T,race at _,1
+Mansfield,T,resident of _,1
+Mansfield,T,sale in _,1
+Mansfield,T,_ 's book,1
+Mansfield,T,school in _,1
+Mansfield,T,town of _,1
+Mansfield,T,trip to _,1
+Mansfield,T,year at _,1
+Markham,T,area including _,1
+Markham,T,area of _,1
+Markham,T,city of _,1
+Markham,T,community of _,1
+Markham,T,company based in _,1
+Markham,T,facility in _,1
+Markham,T,headquarters in _,1
+Markham,T,heart of _,1
+Markham,T,home in _,1
+Markham,T,hotels in _,1
+Markham,T,jobs in _,1
+Markham,T,Markham,1
+Markham,T,office in _,1
+Markham,T,offices in _,1
+Markham,T,people of _,1
+Markham,T,residents of _,1
+Markham,T,services in _,1
+Markham,T,site in _,1
+Markham,T,suburb of _,1
+Markham,T,town of _,1
+Markham,T,tutors in _,1
+Massachusetts,T,area of _,1
+Massachusetts,T,areas of _,1
+Massachusetts,T,coast of _,1
+Massachusetts,T,governor of _,1
+Massachusetts,T,home in _,1
+Massachusetts,T,law in _,1
+Massachusetts,T,Massachusetts,1
+Massachusetts,T,native of _,1
+Massachusetts,T,part of _,1
+Massachusetts,T,people in _,1
+Massachusetts,T,people of _,1
+Massachusetts,T,residents of _,1
+Massachusetts,T,rest of _,1
+Massachusetts,T,school in _,1
+Massachusetts,T,schools in _,1
+Massachusetts,T,senator from _,1
+Massachusetts,T,size of _,1
+Massachusetts,T,state of _,1
+Massachusetts,T,states of _,1
+Massachusetts,T,town in _,1
+Massachusetts,T,towns in _,1
+Michigan,T,area of _,1
+Michigan,T,areas of _,1
+Michigan,T,business in _,1
+Michigan,T,governor of _,1
+Michigan,T,home in _,1
+Michigan,T,home state of _,1
+Michigan,T,Michigan,1
+Michigan,T,part of _,1
+Michigan,T,parts of _,1
+Michigan,T,peninsula of _,1
+Michigan,T,people in _,1
+Michigan,T,people of _,1
+Michigan,T,places in _,1
+Michigan,T,rest of _,1
+Michigan,T,school in _,1
+Michigan,T,schools in _,1
+Michigan,T,_ 's economy,1
+Michigan,T,state of _,1
+Michigan,T,states of _,1
+Michigan,T,town in _,1
+Michigan,T,trip to _,1
+Montreal,T,area of _,1
+Montreal,T,city of _,1
+Montreal,T,conference in _,1
+Montreal,T,headquarters in _,1
+Montreal,T,heart of _,1
+Montreal,T,home in _,1
+Montreal,T,hotels in _,1
+Montreal,T,island of _,1
+Montreal,T,meeting in _,1
+Montreal,T,Montreal,1
+Montreal,T,office in _,1
+Montreal,T,offices in _,1
+Montreal,T,place in _,1
+Montreal,T,school in _,1
+Montreal,T,show in _,1
+Montreal,T,streets of _,1
+Montreal,T,time in _,1
+Montreal,T,trip to _,1
+Montreal,T,visit to _,1
+Montreal,T,way to _,1
+Montreal,T,year in _,1
+Nashua,T,center in _,1
+Nashua,T,cities of _,1
+Nashua,T,city of _,1
+Nashua,T,company based in _,1
+Nashua,T,company in _,1
+Nashua,T,conference in _,1
+Nashua,T,facility in _,1
+Nashua,T,home in _,1
+Nashua,T,hotel in _,1
+Nashua,T,hotels in _,1
+Nashua,T,_ is in,1
+Nashua,T,location in _,1
+Nashua,T,meeting in _,1
+Nashua,T,Nashua,1
+Nashua,T,office in _,1
+Nashua,T,offices in _,1
+Nashua,T,rally in _,1
+Nashua,T,resident of _,1
+Nashua,T,school in _,1
+Nashua,T,town of _,1
+Nashua,T,trip to _,1
+Newark,T,campus in _,1
+Newark,T,city of _,1
+Newark,T,court in _,1
+Newark,T,flight from _,1
+Newark,T,flights from _,1
+Newark,T,flight to _,1
+Newark,T,home in _,1
+Newark,T,mayor of _,1
+Newark,T,native of _,1
+Newark,T,Newark,1
+Newark,T,office in _,1
+Newark,T,offices in _,1
+Newark,T,part of _,1
+Newark,T,people of _,1
+Newark,T,professional wedding vendor in _,1
+Newark,T,school in _,1
+Newark,T,section of _,1
+Newark,T,streets of _,1
+Newark,T,town of _,1
+Newark,T,vendor in _,1
+Newark,T,wedding vendor in _,1
+New Hampshire,T,area of _,1
+New Hampshire,T,areas of _,1
+New Hampshire,T,directory of _,1
+New Hampshire,T,genealogy research in _,1
+New Hampshire,T,governor of _,1
+New Hampshire,T,home in _,1
+New Hampshire,T,metropolitan areas of _,1
+New Hampshire,T,mountains of _,1
+New Hampshire,T,native of _,1
+New Hampshire,T,New Hampshire,1
+New Hampshire,T,part of _,1
+New Hampshire,T,people of _,1
+New Hampshire,T,places in _,1
+New Hampshire,T,region of _,1
+New Hampshire,T,research in _,1
+New Hampshire,T,rest of _,1
+New Hampshire,T,school in _,1
+New Hampshire,T,state of _,1
+New Hampshire,T,town in _,1
+New Hampshire,T,trip to _,1
+New Hampshire,T,voters in _,1
+New Haven,T,city of _,1
+New Haven,T,history of _,1
+New Haven,T,home in _,1
+New Haven,T,life in _,1
+New Haven,T,mayor of _,1
+New Haven,T,native of _,1
+New Haven,T,New Haven,1
+New Haven,T,office in _,1
+New Haven,T,people in _,1
+New Haven,T,professional wedding vendor in _,1
+New Haven,T,residents of _,1
+New Haven,T,school in _,1
+New Haven,T,schools in _,1
+New Haven,T,section of _,1
+New Haven,T,streets of _,1
+New Haven,T,students in _,1
+New Haven,T,town of _,1
+New Haven,T,trip to _,1
+New Haven,T,university in _,1
+New Haven,T,vendor in _,1
+New Haven,T,wedding vendor in _,1
+New Jersey,T,areas of _,1
+New Jersey,T,business in _,1
+New Jersey,T,coast of _,1
+New Jersey,T,company in _,1
+New Jersey,T,governor of _,1
+New Jersey,T,home in _,1
+New Jersey,T,law in _,1
+New Jersey,T,native of _,1
+New Jersey,T,New Jersey,1
+New Jersey,T,offices in _,1
+New Jersey,T,part of _,1
+New Jersey,T,parts of _,1
+New Jersey,T,people of _,1
+New Jersey,T,residents of _,1
+New Jersey,T,rest of _,1
+New Jersey,T,school in _,1
+New Jersey,T,schools in _,1
+New Jersey,T,services in _,1
+New Jersey,T,shop in _,1
+New Jersey,T,size of _,1
+New Jersey,T,state of _,1
+New York City,T,apartment in _,1
+New York City,T,building in _,1
+New York City,T,firm in _,1
+New York City,T,headquarters in _,1
+New York City,T,heart of _,1
+New York City,T,he moved to _,1
+New York City,T,home in _,1
+New York City,T,life in _,1
+New York City,T,lives in _,1
+New York City,T,mayor of _,1
+New York City,T,native of _,1
+New York City,T,New York City,1
+New York City,T,office in _,1
+New York City,T,offices in _,1
+New York City,T,place in _,1
+New York City,T,practice in _,1
+New York City,T,school in _,1
+New York City,T,schools in _,1
+New York City,T,streets of _,1
+New York City,T,time in _,1
+New York City,T,trip to _,1
+New York,T,cities like _,1
+New York,T,city of _,1
+New York,T,governor of _,1
+New York,T,headquarters in _,1
+New York,T,he moved to _,1
+New York,T,home in _,1
+New York,T,life in _,1
+New York,T,meeting in _,1
+New York,T,New York,1
+New York,T,office in _,1
+New York,T,offices in _,1
+New York,T,people in _,1
+New York,T,people of _,1
+New York,T,place in _,1
+New York,T,school in _,1
+New York,T,show in _,1
+New York,T,state of _,1
+New York,T,streets of _,1
+New York,T,time in _,1
+New York,T,trip to _,1
+New York,T,way to _,1
+Ohio,T,area of _,1
+Ohio,T,areas of _,1
+Ohio,T,business in _,1
+Ohio,T,college in _,1
+Ohio,T,counties in _,1
+Ohio,T,governor of _,1
+Ohio,T,home in _,1
+Ohio,T,law in _,1
+Ohio,T,Ohio,1
+Ohio,T,part of _,1
+Ohio,T,parts of _,1
+Ohio,T,people in _,1
+Ohio,T,people of _,1
+Ohio,T,places in _,1
+Ohio,T,school in _,1
+Ohio,T,schools in _,1
+Ohio,T,state of _,1
+Ohio,T,states like _,1
+Ohio,T,states of _,1
+Ohio,T,town in _,1
+Ohio,T,trip to _,1
+Ontario,T,area of _,1
+Ontario,T,areas of _,1
+Ontario,T,business in _,1
+Ontario,T,communities in _,1
+Ontario,T,education in _,1
+Ontario,T,government of _,1
+Ontario,T,industry in _,1
+Ontario,T,laws of _,1
+Ontario,T,Ontario,1
+Ontario,T,part of _,1
+Ontario,T,parts of _,1
+Ontario,T,people in _,1
+Ontario,T,people of _,1
+Ontario,T,province of _,1
+Ontario,T,provinces of _,1
+Ontario,T,region of _,1
+Ontario,T,residents of _,1
+Ontario,T,school in _,1
+Ontario,T,schools in _,1
+Ontario,T,services in _,1
+Ontario,T,system in _,1
+Pennsylvania,T,area of _,1
+Pennsylvania,T,areas of _,1
+Pennsylvania,T,counties in _,1
+Pennsylvania,T,farm in _,1
+Pennsylvania,T,field in _,1
+Pennsylvania,T,governor of _,1
+Pennsylvania,T,home in _,1
+Pennsylvania,T,law in _,1
+Pennsylvania,T,native of _,1
+Pennsylvania,T,part of _,1
+Pennsylvania,T,parts of _,1
+Pennsylvania,T,Pennsylvania,1
+Pennsylvania,T,people of _,1
+Pennsylvania,T,region of _,1
+Pennsylvania,T,school in _,1
+Pennsylvania,T,schools in _,1
+Pennsylvania,T,shop in _,1
+Pennsylvania,T,state of _,1
+Pennsylvania,T,states of _,1
+Pennsylvania,T,town in _,1
+Pennsylvania,T,trails in _,1
+Philadelphia,T,city of _,1
+Philadelphia,T,conference in _,1
+Philadelphia,T,convention in _,1
+Philadelphia,T,heart of _,1
+Philadelphia,T,home in _,1
+Philadelphia,T,hometown of _,1
+Philadelphia,T,meeting in _,1
+Philadelphia,T,native of _,1
+Philadelphia,T,office in _,1
+Philadelphia,T,offices in _,1
+Philadelphia,T,Philadelphia,1
+Philadelphia,T,place in _,1
+Philadelphia,T,professional wedding vendor in _,1
+Philadelphia,T,school in _,1
+Philadelphia,T,section of _,1
+Philadelphia,T,streets of _,1
+Philadelphia,T,suburb of _,1
+Philadelphia,T,suburbs of _,1
+Philadelphia,T,trip to _,1
+Philadelphia,T,vendor in _,1
+Philadelphia,T,wedding vendor in _,1
+Pittsburgh,T,area of _,1
+Pittsburgh,T,city of _,1
+Pittsburgh,T,game against _,1
+Pittsburgh,T,game in _,1
+Pittsburgh,T,home in _,1
+Pittsburgh,T,hometown of _,1
+Pittsburgh,T,loss to _,1
+Pittsburgh,T,native of _,1
+Pittsburgh,T,north of _,1
+Pittsburgh,T,offices in _,1
+Pittsburgh,T,part of _,1
+Pittsburgh,T,Pittsburgh,1
+Pittsburgh,T,professional wedding vendor in _,1
+Pittsburgh,T,school in _,1
+Pittsburgh,T,section of _,1
+Pittsburgh,T,suburb of _,1
+Pittsburgh,T,suburbs of _,1
+Pittsburgh,T,time in _,1
+Pittsburgh,T,trip to _,1
+Pittsburgh,T,vendor in _,1
+Pittsburgh,T,wedding vendor in _,1
+Rhode Island,T,area of _,1
+Rhode Island,T,areas of _,1
+Rhode Island,T,business in _,1
+Rhode Island,T,coast of _,1
+Rhode Island,T,colony of _,1
+Rhode Island,T,companies in _,1
+Rhode Island,T,directory of _,1
+Rhode Island,T,governor of _,1
+Rhode Island,T,home in _,1
+Rhode Island,T,locations in _,1
+Rhode Island,T,metropolitan areas of _,1
+Rhode Island,T,native of _,1
+Rhode Island,T,part of _,1
+Rhode Island,T,people in _,1
+Rhode Island,T,people of _,1
+Rhode Island,T,Rhode Island,1
+Rhode Island,T,school in _,1
+Rhode Island,T,schools in _,1
+Rhode Island,T,services in _,1
+Rhode Island,T,size of _,1
+Rhode Island,T,state of _,1
+Richmond,T,capital of _,1
+Richmond,T,city of _,1
+Richmond,T,facility in _,1
+Richmond,T,fall of _,1
+Richmond,T,headquarters in _,1
+Richmond,T,heart of _,1
+Richmond,T,home in _,1
+Richmond,T,house in _,1
+Richmond,T,north of _,1
+Richmond,T,office in _,1
+Richmond,T,offices in _,1
+Richmond,T,people of _,1
+Richmond,T,race at _,1
+Richmond,T,resident of _,1
+Richmond,T,Richmond,1
+Richmond,T,school in _,1
+Richmond,T,suburb of _,1
+Richmond,T,town of _,1
+Richmond,T,trip to _,1
+Richmond,T,way to _,1
+Richmond,T,west of _,1
+Rochester,T,bishop of _,1
+Rochester,T,city of _,1
+Rochester,T,company in _,1
+Rochester,T,facility in _,1
+Rochester,T,headquarters in _,1
+Rochester,T,home in _,1
+Rochester,T,hometown of _,1
+Rochester,T,house in _,1
+Rochester,T,meeting in _,1
+Rochester,T,office in _,1
+Rochester,T,offices in _,1
+Rochester,T,part of _,1
+Rochester,T,resident of _,1
+Rochester,T,Rochester,1
+Rochester,T,school in _,1
+Rochester,T,suburb of _,1
+Rochester,T,time in _,1
+Rochester,T,town of _,1
+Rochester,T,trip to _,1
+Rochester,T,way to _,1
+Rochester,T,west of _,1
+Toronto,T,area of _,1
+Toronto,T,city of _,1
+Toronto,T,community in _,1
+Toronto,T,company in _,1
+Toronto,T,conference in _,1
+Toronto,T,heart of _,1
+Toronto,T,home in _,1
+Toronto,T,lives in _,1
+Toronto,T,meeting in _,1
+Toronto,T,north of _,1
+Toronto,T,office in _,1
+Toronto,T,offices in _,1
+Toronto,T,place in _,1
+Toronto,T,school in _,1
+Toronto,T,services in _,1
+Toronto,T,show in _,1
+Toronto,T,store in _,1
+Toronto,T,streets of _,1
+Toronto,T,time in _,1
+Toronto,T,Toronto,1
+Toronto,T,trip to _,1
+Trenton,T,attack on _,1
+Trenton,T,battle of _,1
+Trenton,T,battles of _,1
+Trenton,T,city of _,1
+Trenton,T,court in _,1
+Trenton,T,facility in _,1
+Trenton,T,garrison at _,1
+Trenton,T,home in _,1
+Trenton,T,mayor of _,1
+Trenton,T,message to _,1
+Trenton,T,native of _,1
+Trenton,T,north of _,1
+Trenton,T,office in _,1
+Trenton,T,part of _,1
+Trenton,T,school in _,1
+Trenton,T,streets of _,1
+Trenton,T,town of _,1
+Trenton,T,Trenton,1
+Trenton,T,victories at _,1
+Trenton,T,victory at _,1
+Trenton,T,way to _,1
+Utica,T,cities of _,1
+Utica,T,city of _,1
+Utica,T,home in _,1
+Utica,T,hometown of _,1
+Utica,T,hotels in _,1
+Utica,T,_ is in,1
+Utica,T,mayor of _,1
+Utica,T,movers in _,1
+Utica,T,north of _,1
+Utica,T,school in _,1
+Utica,T,siege of _,1
+Utica,T,site of _,1
+Utica,T,store in _,1
+Utica,T,system in _,1
+Utica,T,town of _,1
+Utica,T,trip to _,1
+Utica,T,Utica,1
+Utica,T,village of _,1
+Utica,T,visit to _,1
+Utica,T,way to _,1
+Utica,T,west of _,1
+Vermont,T,area of _,1
+Vermont,T,areas of _,1
+Vermont,T,business in _,1
+Vermont,T,college in _,1
+Vermont,T,directory of _,1
+Vermont,T,farm in _,1
+Vermont,T,governor of _,1
+Vermont,T,hills of _,1
+Vermont,T,home in _,1
+Vermont,T,house in _,1
+Vermont,T,metropolitan areas of _,1
+Vermont,T,mountains of _,1
+Vermont,T,part of _,1
+Vermont,T,people of _,1
+Vermont,T,rest of _,1
+Vermont,T,school in _,1
+Vermont,T,state of _,1
+Vermont,T,town in _,1
+Vermont,T,trip to _,1
+Vermont,T,Vermont,1

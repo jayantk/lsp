@@ -1,0 +1,7 @@
+#this city is in Pennsylvania;Pittsburgh;1
+#this city is west of Pennsylvania;Cleveland;1
+#what state is west of Pennsylvania;Ohio;1
+#which is a lake;Lake Erie;1
+#what stadiums are there;Cleveland Browns Stadium;1
+#which stadium is in Cleveland;Cleveland Browns Stadium;1
+#what cities are in Ohio;Cleveland;1
