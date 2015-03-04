@@ -14,3 +14,7 @@ Training the geography domain with cross validation:
 
 ./src/scripts/language_geo/train_cv.sh
 
+Training the vision domain with cross validation:
+
+./src/scripts/language_geo/train_domain_full_cv.sh
+
