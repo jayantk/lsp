@@ -1,0 +1,65 @@
+*dell;monitor0
+*computer;monitor0
+*desktop;monitor0
+*lcd;monitor0
+*monitor;monitor0
+*screen;monitor0
+*personal;monitor0
+*gray;monitor0
+*black;monitor0
+*dirty;monitor0
+*mug;mug1,mug2
+*container;mug1,mug2
+*coffee;mug1,mug2
+*tea;mug1,mug2
+*cup;mug1,mug2
+*blue;mug1
+*light;mug1
+*vibrant;mug1
+*bright;mug1
+*plastic;mug1
+*sky;mug1
+*dark;mug2
+*violet;mug2
+*deep;mug2
+*ceramic;mug2
+*purple;mug2
+*desk;table3
+*off-white;table3
+*counter;table3
+*countertop;table3
+*table;table3
+*object;mug1,mug2,monitor0
+*on-rel;mug1#table3,mug2#table3,monitor0#table3
+*sit-rel;mug1#table3,mug2#table3,monitor0#table3
+*top-rel;mug1#table3,mug2#table3,monitor0#table3
+*contain-rel;mug1#table3,mug2#table3,monitor0#table3
+*close-rel;mug1#monitor0,mug2#monitor0,monitor0#mug1,monitor0#mug2,mug2#mug1,mug1#mug2
+*beside-rel;mug1#monitor0,mug2#monitor0,monitor0#mug1,monitor0#mug2,mug2#mug1,mug1#mug2
+*near-rel;mug1#monitor0,mug2#monitor0,monitor0#mug1,monitor0#mug2,mug2#mug1,mug1#mug2
+*flank-rel;mug1#monitor0,mug2#monitor0,monitor0#mug1,monitor0#mug2,mug2#mug1,mug1#mug2
+*front-rel;mug1#monitor0
+*behind-rel;monitor0#mug1,monitor0#mug2
+*left-rel;mug1#mug2,monitor0#mug2
+*left-hand-rel;mug1#mug2,monitor0#mug2
+*right-rel;mug2#mug1,mug2#monitor0
+*darker-rel;mug2#mug1
+table;table3;0;(lambda $x (and (table $x)))
+mug;mug1,mug2;0;(lambda $x (and (mug $x)))
+monitor;monitor0;0;(lambda $x (and (monitor $x)))
+object in front of the monitor;mug1;2;(lambda $x (exists $y (and (object $x) (front-rel $x $y) (monitor $y))))
+mug in front of the monitor;mug1;2;(lambda $x (exists $y (and (mug $x) (front-rel $x $y) (monitor $y))))
+mug to the right of the monitor;mug2;2;(lambda $x (exists $y (and (mug $x) (right-rel $x $y) (monitor $y))))
+mug to the left of the other mug;mug1;2;(lambda $x (exists $y (and (mug $x) (left-rel $x $y) (mug $y))))
+objects on the table;mug1,mug2,monitor0;2;(lambda $x (exists $y (and (object $x) (on-rel $x $y) (table $y))))
+mugs on the table;mug1,mug2;2;(lambda $x (exists $y (and (mug $x) (on-rel $x $y) (table $y))))
+monitor on the table;monitor0;2;(lambda $x (exists $y (and (monitor $x) (on-rel $x $y) (table $y))))
+Two blue mugs are in front of the monitor;mug1;2;(lambda $x (exists $y (and (blue $x) (mug $x) (front-rel $x $y) (monitor $y))))
+The blue coffee cup on the right has a small straw in it;mug2;4
+The other blue coffee cup is right in front of the computer monitor;mug1;4
+The blue mug is in front of the monitor;mug1;2;(lambda $x (exists $y (and (blue $x) (mug $x) (front-rel $x $y) (monitor $y))))
+The blue mug is to the left of the purple mug;mug1;2;(lambda $x (exists $y (and (blue $x) (mug $x) (left-rel $x $y) (purple $y) (mug $y))))
+The monitor is behind the blue mug;monitor0;2;(lambda $x (exists $y (and (monitor $x) (behind-rel $x $y) (blue $y) (mug $y))))
+A LED monitor on the table;monitor0;2;(lambda $x (exists $y (and (monitor $x) (on-rel $x $y) (table $y))))
+Two cups are near the monitor;mug1,mug2;2;(lambda $x (exists $y (and (cup $x) (near-rel $x $y) (monitor $y))))
+A table contains a computer monitor, cups and a telephone;table3;4

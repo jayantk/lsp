@@ -1,0 +1,27 @@
+table;table3;0;(lambda $x (and (table $x)))
+mug;mug1,mug2;0;(lambda $x (and (mug $x)))
+monitor;monitor0;0;(lambda $x (and (monitor $x)))
+monitor on the table;monitor0;2;(lambda $x (exists $y (and (monitor $x) (on-rel $x $y) (table $y))))
+mugs;mug1,mug2;0;(lambda $x (and (mug $x)))
+mug to the left of the mug;mug2;2;(lambda $x (exists $y (and (mug $x) (left-rel $x $y) (mug $y))))
+mug to the right of the mug;mug1;2;(lambda $x (exists $y (and (mug $x) (right-rel $x $y) (mug $y))))
+mugs on the table;mug1,mug2;2;(lambda $x (exists $y (and (mug $x) (on-rel $x $y) (table $y))))
+objects on the table;mug1,mug2,monitor0;2;(lambda $x (exists $y (and (object $x) (on-rel $x $y) (table $y))))
+monitor to the left of the mug;monitor0;2;(lambda $x (exists $y (and (monitor $x) (left-rel $x $y) (mug $y))))
+monitor to the right of the mug;monitor0;2;(lambda $x (exists $y (and (monitor $x) (right-rel $x $y) (mug $y))))
+The LCD is on the table;monitor0;2;(lambda $x (exists $y (and (lcd $x) (on-rel $x $y) (table $y))))
+A coffee mug is lying on table;mug1,mug2;2;(lambda $x (exists $y (and (coffee $x) (mug $x) (on-rel $x $y) (table $y))))
+Two tea mug on the table;mug1,mug2;2;(lambda $x (exists $y (and (tea $x) (mug $x) (on-rel $x $y) (table $y))))
+The two cups are far from each other on the table;mug1,mug2;4
+The monitor is at middle between two cups on the table;monitor0;4
+The mugs are not next to each other;mug1,mug2;4
+The mugs are in solid colors;mug1,mug2;4
+There is a LCD monitor;monitor0;0;(lambda $x (and (lcd $x) (monitor $x)))
+There are 2 coffee mugs;mug1,mug2;0;(lambda $x (and (coffee $x) (mug $x)))
+A flat computer screen on the table;monitor0;2;(lambda $x (exists $y (and (flat $x) (computer $x) (screen $x) (on-rel $x $y) (table $y))))
+Two cups, one is light blue and other is dark blue on the table;mug1,mug2;4
+A white table holding cups and computers;table3;4
+there is a computer monitor on the desk;monitor0;2;(lambda $x (exists $y (and (computer $x) (monitor $x) (on-rel $x $y) (desk $y))))
+there are 2 cups on the desk;mug1,mug2;2;(lambda $x (exists $y (and (cup $x) (on-rel $x $y) (desk $y))))
+There is a personal computer on the table;monitor0;2;(lambda $x (exists $y (and (computer $x) (on-rel $x $y) (table $y))))
+A blue colored coffee mug is placed very near to the computer on the table;mug1;4

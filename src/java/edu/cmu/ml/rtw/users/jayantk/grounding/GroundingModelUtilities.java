@@ -195,7 +195,7 @@ public class GroundingModelUtilities implements Serializable {
     return new GroundingModelFamily(parserFactor, groundedRelationList, knownRelationList, domains);
   }
 
-  public static Map<Integer, EvaluationScore> logDatasetError(GroundingModel model, Iterable<GroundingExample> data,
+  public static Map<Integer, EvaluationScore> logDatasetError(GroundingModelInterface model, Iterable<GroundingExample> data,
       List<Domain> domains, UnigramLanguageModel languageModel, boolean addImplicitDeterminer) { 
     // Sort the examples into curriculum levels
     ListMultimap<Integer, GroundingExample> examplesByCurriculumLevel = ArrayListMultimap.create();
@@ -224,7 +224,7 @@ public class GroundingModelUtilities implements Serializable {
     return levelScores;
   }
 
-  public static EvaluationScore scoreExamples(GroundingModel model, Iterable<GroundingExample> data,
+  public static EvaluationScore scoreExamples(GroundingModelInterface model, Iterable<GroundingExample> data,
       List<Domain> domains, UnigramLanguageModel languageModel,
       boolean addImplicitDeterminer) {
     PrecisionRecall overallPr = PrecisionRecall.zero();

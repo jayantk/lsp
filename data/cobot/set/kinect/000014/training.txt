@@ -1,0 +1,19 @@
+table;table3;0;(lambda $x (and (table $x)))
+mug;mug1,mug2;0;(lambda $x (and (mug $x)))
+monitor;monitor0;0;(lambda $x (and (monitor $x)))
+mug in front of the monitor;mug1;2;(lambda $x (exists $y (and (mug $x) (front-rel $x $y) (monitor $y))))
+mug to the right of the monitor;mug2;2;(lambda $x (exists $y (and (mug $x) (right-rel $x $y) (monitor $y))))
+objects on the table;mug1,mug2,monitor0;2;(lambda $x (exists $y (and (object $x) (on-rel $x $y) (table $y))))
+mugs on the table;mug1,mug2;2;(lambda $x (exists $y (and (mug $x) (on-rel $x $y) (table $y))))
+mug to the right of the objects;mug2;2;(lambda $x (exists $y (and (mug $x) (right-rel $x $y) (object $y))))
+mug to the right of the monitor;mug2;2;(lambda $x (exists $y (and (mug $x) (right-rel $x $y) (monitor $y))))
+monitor on the table;monitor0;2;(lambda $x (exists $y (and (monitor $x) (on-rel $x $y) (table $y))))
+The darker blue mug has something written on its side in black;mug2;4
+In front of the monitor there is a blue cup, and another one near on the right;mug1,mug2;4
+A monitor and two cups are on the table;monitor0,mug1,mug2;4
+Two cups one light blue another dark blue are on the table in front of a monitor;mug1,mug2;4
+The monitor is behind the blue cup;monitor0;2;(lambda $x (exists $y (and (monitor $x) (behind-rel $x $y) (blue $y) (cup $y))))
+There are two cups on the table;mug1,mug2;2;(lambda $x (exists $y (and (cup $x) (on-rel $x $y) (table $y))))
+There is a light blue cup near the monitor;mug1;2;(lambda $x (exists $y (and (blue $x) (cup $x) (near-rel $x $y) (monitor $y))))
+There is a dark blue cup with a spoon;mug2;4
+the cup is on the table;mug1,mug2;2;(lambda $x (exists $y (and (cup $x) (on-rel $x $y) (table $y))))

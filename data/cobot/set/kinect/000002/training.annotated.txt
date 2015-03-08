@@ -1,0 +1,60 @@
+*dell;monitor0
+*computer;monitor0
+*desktop;monitor0
+*lcd;monitor0
+*monitor;monitor0
+*screen;monitor0
+*personal;monitor0
+*gray;monitor0
+*black;monitor0
+*dirty;monitor0
+*mug;mug1,mug2
+*container;mug1,mug2
+*coffee;mug1,mug2
+*tea;mug1,mug2
+*cup;mug1,mug2
+*blue;mug2
+*light;mug2
+*vibrant;mug2
+*bright;mug2
+*plastic;mug2
+*sky;mug2
+*dark;mug1
+*violet;mug1
+*deep;mug1
+*ceramic;mug1
+*purple;mug1
+*desk;table3
+*off-white;table3
+*counter;table3
+*countertop;table3
+*table;table3
+*object;mug1,mug2,monitor0
+*on-rel;mug2#table3,mug1#table3,monitor0#table3
+*sit-rel;mug2#table3,mug1#table3,monitor0#table3
+*top-rel;mug2#table3,mug1#table3,monitor0#table3
+*contain-rel;mug2#table3,mug1#table3,monitor0#table3
+*close-rel;mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1
+*beside-rel;mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1
+*near-rel;mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1
+*flank-rel;mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1
+*front-rel;mug2#monitor0,mug1#monitor0
+*behind-rel;monitor0#mug2,monitor0#mug1
+*left-rel;mug2#monitor0,monitor0#mug1,mug2#mug1
+*left-hand-rel;mug2#monitor0,monitor0#mug1,mug2#mug1
+*right-rel;mug1#monitor0,monitor0#mug2,mug1#mug2
+*darker-rel;mug1#mug2
+table;table3;0;(lambda $x (and (table $x)))
+mug;mug1,mug2;0;(lambda $x (and (mug $x)))
+monitor;monitor0;0;(lambda $x (and (monitor $x)))
+objects on the table;monitor0,mug1,mug2;2;(lambda $x (exists $y (and (object $x) (on-rel $x $y) (table $y))))
+mug to the right of the monitor;mug1;2;(lambda $x (exists $y (and (mug $x) (right-rel $x $y) (monitor $y))))
+mug to the left of the monitor;mug2;2;(lambda $x (exists $y (and (mug $x) (left-rel $x $y) (monitor $y))))
+mugs on the table;mug1,mug2;2;(lambda $x (exists $y (and (mug $x) (on-rel $x $y) (table $y))))
+There are two coffee mugs on the desk, one is blue the other is purple;mug1,mug2;4
+There is a dell monitor sitting on the dirty counter top;monitor0;2;(lambda $x (exists $y (and (monitor $x) (on-rel $x $y) (countertop $y))))
+There are two cups and a monitor between them on the table;mug1,mug2,monitor0;4
+There are a monitor on the table with two cups in the flanks;mug1,mug2,monitor0;4
+The computer monitor is on the desk;monitor0;2;(lambda $x (exists $y (and (computer $x) (monitor $x) (on-rel $x $y) (desk $y))))
+The blue mug is to the left of the monitor;mug2;2;(lambda $x (exists $y (and (blue $x) (mug $x) (left-rel $x $y) (monitor $y))))
+The purple mug has writing;mug1;2;(lambda $x (and (purple $x) (mug $x)))

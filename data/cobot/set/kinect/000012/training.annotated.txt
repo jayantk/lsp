@@ -1,0 +1,64 @@
+*dell;monitor0
+*computer;monitor0
+*desktop;monitor0
+*lcd;monitor0
+*monitor;monitor0
+*screen;monitor0
+*personal;monitor0
+*gray;monitor0
+*black;monitor0
+*dirty;monitor0
+*mug;mug1,mug2
+*container;mug1,mug2
+*coffee;mug1,mug2
+*tea;mug1,mug2
+*cup;mug1,mug2
+*blue;mug2
+*light;mug2
+*vibrant;mug2
+*bright;mug2
+*plastic;mug2
+*sky;mug2
+*dark;mug1
+*violet;mug1
+*deep;mug1
+*ceramic;mug1
+*purple;mug1
+*desk;table3
+*off-white;table3
+*counter;table3
+*countertop;table3
+*table;table3
+*object;mug1,mug2,monitor0
+*on-rel;mug2#table3,mug1#table3,monitor0#table3
+*sit-rel;mug2#table3,mug1#table3,monitor0#table3
+*top-rel;mug2#table3,mug1#table3,monitor0#table3
+*contain-rel;mug2#table3,mug1#table3,monitor0#table3
+*close-rel;mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1,mug1#mug2,mug2#mug1
+*beside-rel;mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1,mug1#mug2,mug2#mug1
+*near-rel;mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1,mug1#mug2,mug2#mug1
+*flank-rel;mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1,mug1#mug2,mug2#mug1
+*front-rel;mug1#monitor0
+*behind-rel;monitor0#mug2,monitor0#mug1
+*left-rel;mug1#mug2,monitor0#mug2
+*left-hand-rel;mug1#mug2,monitor0#mug2
+*right-rel;mug2#mug1,mug2#monitor0
+*darker-rel;mug1#mug2
+table;table3;0;(lambda $x (and (table $x)))
+mug;mug1,mug2;0;(lambda $x (and (mug $x)))
+monitor;monitor0;0;(lambda $x (and (monitor $x)))
+objects on the table;mug1,mug2,monitor0;2;(lambda $x (exists $y (and (object $x) (on-rel $x $y) (table $y))))
+mug to the right of the monitor;mug2;2;(lambda $x (exists $y (and (mug $x) (right-rel $x $y) (monitor $y))))
+mug in front of the monitor;mug1;2;(lambda $x (exists $y (and (mug $x) (front-rel $x $y) (monitor $y))))
+object behind the mug;monitor0;2;(lambda $x (exists $y (and (object $x) (behind-rel $x $y) (mug $y))))
+object to the right of the other objects;mug2;2;(lambda $x (exists $y (and (object $x) (right-rel $x $y) (object $y))))
+The blue coffee cup has AI at CMU printed on it;mug1;4
+The purple mug is to the left of the blue mug;mug1;2;(lambda $x (exists $y (and (purple $x) (mug $x) (left-rel $x $y) (blue $y) (mug $y))))
+The monitor is black;monitor0;4
+A violet color cup with tea spoon,which is placed in front of the desktop computer;mug1;4
+A blue color cup is placed alone in the right side of the computer and violet color tea cup;mug2;4
+There is a computer monitor;monitor0;0;(lambda $x (and (monitor $x)))
+There are 2 mugs;mug1,mug2;0;(lambda $x (and (mug $x)))
+Two coffee cups sit on an off-white countertop - one is purple, the other is blue;mug1,mug2;4
+There is a computer monitor facing away from a black chair;monitor0;4
+There are 2 coffee mugs on the desk;mug1,mug2;2;(lambda $x (exists $y (and (coffee $x) (mug $x) (on-rel $x $y) (desk $y))))

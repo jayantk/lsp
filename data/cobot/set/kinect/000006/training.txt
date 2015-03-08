@@ -1,0 +1,16 @@
+table;table4;0
+mug;mug1,mug2;0
+monitor;monitor0;0
+bottle;bottle3;0
+objects on the table;mug1,mug2,monitor0,bottle3;2
+objects to the right of the monitor;mug2,bottle3;2
+objects to the left of the monitor;mug1;2
+mug to the right of the monitor;mug2;2
+bottle to the right of the monitor;bottle3;2
+mug to the left of the monitor;mug1;2
+mugs on the table;mug1,mug2;2
+The mugs are not near one another;mug1,mug2;4
+There is a computer monitor;monitor0;0
+There are 2 mugs;mug1,mug2;0
+The monitor is not on;monitor0;4
+One coffee mug is purple, the other is blue;mug1,mug2;4

@@ -1,0 +1,712 @@
+dell,N/P,kb-ignore-equal 0 1
+dell,N,dell 0 0
+dell,N/N,dell 0 0
+There,N,kb-ignore 0 0
+mugs,N/P,kb-ignore-equal 0 1
+mugs,N,mug 0 0
+mugs,N/N,mug 0 0
+bottom,N/N,kb-ignore 0 0
+bottom,N/N,kb-ignore 0 0
+bottom,N/P,kb-ignore-equal 0 1
+bottom,N,kb-ignore 0 0
+slim computer,N/P,kb-ignore-equal 0 1
+slim computer,N,kb-ignore 0 0
+slim computer,N/N,kb-ignore 0 0
+AI,N/P,kb-ignore-equal 0 1
+AI,N,kb-ignore 0 0
+AI,N/N,kb-ignore 0 0
+cup,N/P,kb-ignore-equal 0 1
+cup,N,cup 0 0
+cup,N/N,cup 0 0
+dirty,N/N,dirty 0 0
+dirty,N/N,kb-ignore 0 0
+dirty,N/P,kb-ignore-equal 0 1
+dirty,N,dirty 0 0
+purple mug,N/P,kb-ignore-equal 0 1
+purple mug,N,kb-ignore 0 0
+purple mug,N/N,kb-ignore 0 0
+dell monitor,N/P,kb-ignore-equal 0 1
+dell monitor,N,kb-ignore 0 0
+dell monitor,N/N,kb-ignore 0 0
+telephone,N/P,kb-ignore-equal 0 1
+telephone,N,kb-ignore 0 0
+telephone,N/N,kb-ignore 0 0
+vibrant,N/N,vibrant 0 0
+vibrant,N/N,kb-ignore 0 0
+vibrant,N/P,kb-ignore-equal 0 1
+vibrant,N,vibrant 0 0
+in,N\N/N,kb-ignore-equal 0 0 1
+in,N\N/N,kb-ignore-equal 0 0 1
+in,A/N,kb-ignore-equal 0 1
+in,A\N,kb-ignore-equal 1 0
+in,P/N,kb-ignore 0 0
+in,P/P,kb-ignore 0 0
+in,P\N,kb-ignore 0 0
+in,P\P,kb-ignore 0 0
+small straw,N/P,kb-ignore-equal 0 1
+small straw,N,kb-ignore 0 0
+small straw,N/N,kb-ignore 0 0
+black chair,N/P,kb-ignore-equal 0 1
+black chair,N,kb-ignore 0 0
+black chair,N/N,kb-ignore 0 0
+cups dark blue,N/P,kb-ignore-equal 0 1
+cups dark blue,N,kb-ignore 0 0
+cups dark blue,N/N,kb-ignore 0 0
+very,P/P,kb-ignore 0 0
+Two,N/P,kb-ignore-equal 0 1
+Two,N,kb-ignore 0 0
+Two,N/N,kb-ignore 0 0
+objects,N/P,kb-ignore-equal 0 1
+objects,N,object 0 0
+objects,N/N,object 0 0
+black table,N/P,kb-ignore-equal 0 1
+black table,N,kb-ignore 0 0
+black table,N/N,kb-ignore 0 0
+facing,N,kb-ignore 0 0
+facing,N/P,kb-ignore-equal 0 1
+facing,N\N/P,kb-ignore-equal 0 0 1
+facing,N\N/N,kb-ignore-equal 0 0 1
+facing,S\N/N,kb-ignore-equal 0 0 1
+facing,S\N/P,kb-ignore-equal 0 0 1
+facing,S/N/N,kb-ignore-equal 0 1 0
+facing,S/P/N,kb-ignore-equal 0 1 0
+facing,S\N/N,kb-ignore-equal 0 0 1
+facing,S\N/P,kb-ignore-equal 0 0 1
+facing,S/N/N,kb-ignore-equal 0 1 0
+facing,S/P/N,kb-ignore-equal 0 1 0
+facing,S/N,kb-ignore 0 0
+coffee cup,N/P,kb-ignore-equal 0 1
+coffee cup,N,kb-ignore 0 0
+coffee cup,N/N,kb-ignore 0 0
+another,N,kb-ignore 0 0
+another,N/N,kb-ignore 0 0
+deep,N/N,deep 0 0
+deep,N/N,kb-ignore 0 0
+deep,N/P,kb-ignore-equal 0 1
+deep,N,deep 0 0
+computer monitor,N/P,kb-ignore-equal 0 1
+computer monitor,N,kb-ignore 0 0
+computer monitor,N/N,kb-ignore 0 0
+other objects,N/P,kb-ignore-equal 0 1
+other objects,N,kb-ignore 0 0
+other objects,N/N,kb-ignore 0 0
+blue,N/P,kb-ignore-equal 0 1
+blue,N,blue 0 0
+blue,N/N,blue 0 0
+CMU,N/P,kb-ignore-equal 0 1
+CMU,N,kb-ignore 0 0
+CMU,N/N,kb-ignore 0 0
+them,N,kb-ignore 0 0
+them,N/N,kb-ignore 0 0
+ceramic,N/N,ceramic 0 0
+ceramic,N/N,kb-ignore 0 0
+ceramic,N/P,kb-ignore-equal 0 1
+ceramic,N,ceramic 0 0
+an,N,kb-ignore 0 0
+an,N/N,kb-ignore 0 0
+darker,N/N,kb-ignore 0 0
+darker,N/N,kb-ignore 0 0
+darker,N/P,darker-rel 0 1
+darker,N,kb-ignore 0 0
+flanks,N/P,flank-rel 0 1
+flanks,N,kb-ignore 0 0
+flanks,N/N,kb-ignore 0 0
+kept,N,kb-ignore 0 0
+kept,N/P,kb-ignore-equal 0 1
+kept,N\N/P,kb-ignore-equal 0 0 1
+kept,N\N/N,kb-ignore-equal 0 0 1
+One,N/P,kb-ignore-equal 0 1
+One,N,kb-ignore 0 0
+One,N/N,kb-ignore 0 0
+gray LCD screen,N/P,kb-ignore-equal 0 1
+gray LCD screen,N,kb-ignore 0 0
+gray LCD screen,N/N,kb-ignore 0 0
+blue color cup,N/P,kb-ignore-equal 0 1
+blue color cup,N,kb-ignore 0 0
+blue color cup,N/N,kb-ignore 0 0
+sky blue cup,N/P,kb-ignore-equal 0 1
+sky blue cup,N,kb-ignore 0 0
+sky blue cup,N/N,kb-ignore 0 0
+printed,N,kb-ignore 0 0
+printed,N/P,kb-ignore-equal 0 1
+printed,N\N/P,kb-ignore-equal 0 0 1
+printed,N\N/N,kb-ignore-equal 0 0 1
+printed,S\N/N,kb-ignore-equal 0 0 1
+printed,S\N/P,kb-ignore-equal 0 0 1
+printed,S/N/N,kb-ignore-equal 0 1 0
+printed,S/P/N,kb-ignore-equal 0 1 0
+printed,S\N/N,kb-ignore-equal 0 0 1
+printed,S\N/P,kb-ignore-equal 0 0 1
+printed,S/N/N,kb-ignore-equal 0 1 0
+printed,S/P/N,kb-ignore-equal 0 1 0
+printed,S/N,kb-ignore 0 0
+left,N/P,left-rel 0 1
+left,N,kb-ignore 0 0
+left,N/N,kb-ignore 0 0
+Computer monitor,N/P,kb-ignore-equal 0 1
+Computer monitor,N,kb-ignore 0 0
+Computer monitor,N/N,kb-ignore 0 0
+personal,N/N,personal 0 0
+personal,N/N,kb-ignore 0 0
+personal,N/P,kb-ignore-equal 0 1
+personal,N,personal 0 0
+dark blue,N/P,kb-ignore-equal 0 1
+dark blue,N,kb-ignore 0 0
+dark blue,N/N,kb-ignore 0 0
+smudges,N/P,kb-ignore-equal 0 1
+smudges,N,kb-ignore 0 0
+smudges,N/N,kb-ignore 0 0
+sit,S\N/N,sit-rel 0 0 1
+sit,S\N/P,sit-rel 0 0 1
+sit,S/N/N,sit-rel 0 1 0
+sit,S/P/N,sit-rel 0 1 0
+sit,S\N/N,kb-ignore-equal 0 0 1
+sit,S\N/P,kb-ignore-equal 0 0 1
+sit,S/N/N,kb-ignore-equal 0 1 0
+sit,S/P/N,kb-ignore-equal 0 1 0
+sit,S/N,kb-ignore 0 0
+front,N/P,front-rel 0 1
+front,N,kb-ignore 0 0
+front,N/N,kb-ignore 0 0
+It,N,kb-ignore 0 0
+It,N/N,kb-ignore 0 0
+one,N/P,kb-ignore-equal 0 1
+one,N,kb-ignore 0 0
+one,N/N,kb-ignore 0 0
+blue,N/N,blue 0 0
+blue,N/N,kb-ignore 0 0
+blue,N/P,kb-ignore-equal 0 1
+blue,N,blue 0 0
+cups,N/P,kb-ignore-equal 0 1
+cups,N,cup 0 0
+cups,N/N,cup 0 0
+a,N,kb-ignore 0 0
+a,N/N,kb-ignore 0 0
+bright blue,N/P,kb-ignore-equal 0 1
+bright blue,N,kb-ignore 0 0
+bright blue,N/N,kb-ignore 0 0
+other blue coffee cup,N/P,kb-ignore-equal 0 1
+other blue coffee cup,N,kb-ignore 0 0
+other blue coffee cup,N/N,kb-ignore 0 0
+to,N\N/N,kb-ignore-equal 0 0 1
+to,N\N/N,kb-ignore-equal 0 0 1
+to,A/N,kb-ignore-equal 0 1
+to,A\N,kb-ignore-equal 1 0
+to,P/N,kb-ignore 0 0
+to,P/P,kb-ignore 0 0
+to,P\N,kb-ignore 0 0
+to,P\P,kb-ignore 0 0
+blue coffee cup,N/P,kb-ignore-equal 0 1
+blue coffee cup,N,kb-ignore 0 0
+blue coffee cup,N/N,kb-ignore 0 0
+left-hand side,N/P,kb-ignore-equal 0 1
+left-hand side,N,kb-ignore 0 0
+left-hand side,N/N,kb-ignore 0 0
+containers,N/P,kb-ignore-equal 0 1
+containers,N,container 0 0
+containers,N/N,container 0 0
+near,N/N,kb-ignore 0 0
+near,N/N,kb-ignore 0 0
+near,N/P,near-rel 0 1
+near,N,kb-ignore 0 0
+blue mug,N/P,kb-ignore-equal 0 1
+blue mug,N,kb-ignore 0 0
+blue mug,N/N,kb-ignore 0 0
+no,N,kb-ignore 0 0
+no,N/N,kb-ignore 0 0
+bright,N/N,bright 0 0
+bright,N/N,kb-ignore 0 0
+bright,N/P,kb-ignore-equal 0 1
+bright,N,bright 0 0
+violet color tea cup,N/P,kb-ignore-equal 0 1
+violet color tea cup,N,kb-ignore 0 0
+violet color tea cup,N/N,kb-ignore 0 0
+Computer,N/P,kb-ignore-equal 0 1
+Computer,N,computer 0 0
+Computer,N/N,computer 0 0
+sky blue,N/P,kb-ignore-equal 0 1
+sky blue,N,kb-ignore 0 0
+sky blue,N/N,kb-ignore 0 0
+left-hand,N/N,kb-ignore 0 0
+left-hand,N/N,kb-ignore 0 0
+left-hand,N/P,left-hand-rel 0 1
+left-hand,N,kb-ignore 0 0
+dark,N/N,dark 0 0
+dark,N/N,kb-ignore 0 0
+dark,N/P,kb-ignore-equal 0 1
+dark,N,dark 0 0
+personal computer,N/P,kb-ignore-equal 0 1
+personal computer,N,kb-ignore 0 0
+personal computer,N/N,kb-ignore 0 0
+black computer monitor,N/P,kb-ignore-equal 0 1
+black computer monitor,N,kb-ignore 0 0
+black computer monitor,N/N,kb-ignore 0 0
+tea cups,N/P,kb-ignore-equal 0 1
+tea cups,N,kb-ignore 0 0
+tea cups,N/N,kb-ignore 0 0
+The,N,kb-ignore 0 0
+The,N/N,kb-ignore 0 0
+beside,N\N/N,beside-rel 0 0 1
+beside,N\N/N,kb-ignore-equal 0 0 1
+beside,A/N,beside-rel 0 1
+beside,A\N,beside-rel 1 0
+beside,P/N,kb-ignore 0 0
+beside,P/P,kb-ignore 0 0
+beside,P\N,kb-ignore 0 0
+beside,P\P,kb-ignore 0 0
+picture,N/P,kb-ignore-equal 0 1
+picture,N,kb-ignore 0 0
+picture,N/N,kb-ignore 0 0
+violet,N/P,kb-ignore-equal 0 1
+violet,N,violet 0 0
+violet,N/N,violet 0 0
+are,S\N/N,kb-ignore-equal 0 0 1
+are,S\N/A,kb-ignore-equal 0 0 1
+are,S\N/P,kb-ignore-equal 0 0 1
+are,S\A/N,kb-ignore-equal 0 0 1
+are,S\P/N,kb-ignore-equal 0 0 1
+are,S/N/N,kb-ignore-equal 0 1 0
+are,S/A/N,kb-ignore-equal 0 1 0
+are,S/P/N,kb-ignore-equal 0 1 0
+screen,N/P,kb-ignore-equal 0 1
+screen,N,screen 0 0
+screen,N/N,screen 0 0
+placed,N,kb-ignore 0 0
+placed,N/P,kb-ignore-equal 0 1
+placed,N\N/P,kb-ignore-equal 0 0 1
+placed,N\N/N,kb-ignore-equal 0 0 1
+placed,S\N/N,kb-ignore-equal 0 0 1
+placed,S\N/P,kb-ignore-equal 0 0 1
+placed,S/N/N,kb-ignore-equal 0 1 0
+placed,S/P/N,kb-ignore-equal 0 1 0
+placed,S\N/N,kb-ignore-equal 0 0 1
+placed,S\N/P,kb-ignore-equal 0 0 1
+placed,S/N/N,kb-ignore-equal 0 1 0
+placed,S/P/N,kb-ignore-equal 0 1 0
+placed,S/N,kb-ignore 0 0
+coffee,N/P,kb-ignore-equal 0 1
+coffee,N,coffee 0 0
+coffee,N/N,coffee 0 0
+coffee containers,N/P,kb-ignore-equal 0 1
+coffee containers,N,kb-ignore 0 0
+coffee containers,N/N,kb-ignore 0 0
+tea,N/P,kb-ignore-equal 0 1
+tea,N,tea 0 0
+tea,N/N,tea 0 0
+it,N,kb-ignore 0 0
+it,N/N,kb-ignore 0 0
+between,N\N/N,kb-ignore-equal 0 0 1
+between,N\N/N,kb-ignore-equal 0 0 1
+between,A/N,kb-ignore-equal 0 1
+between,A\N,kb-ignore-equal 1 0
+between,P/N,kb-ignore 0 0
+between,P/P,kb-ignore 0 0
+between,P\N,kb-ignore 0 0
+between,P\P,kb-ignore 0 0
+room,N/P,kb-ignore-equal 0 1
+room,N,kb-ignore 0 0
+room,N/N,kb-ignore 0 0
+the,N,kb-ignore 0 0
+the,N/N,kb-ignore 0 0
+corner,N/P,kb-ignore-equal 0 1
+corner,N,kb-ignore 0 0
+corner,N/N,kb-ignore 0 0
+light,N/N,light 0 0
+light,N/N,kb-ignore 0 0
+light,N/P,kb-ignore-equal 0 1
+light,N,light 0 0
+light blue,N/P,kb-ignore-equal 0 1
+light blue,N,kb-ignore 0 0
+light blue,N/N,kb-ignore 0 0
+two,N/P,kb-ignore-equal 0 1
+two,N,kb-ignore 0 0
+two,N/N,kb-ignore 0 0
+A,N,kb-ignore 0 0
+A,N/N,kb-ignore 0 0
+turned,N,kb-ignore 0 0
+turned,N/P,kb-ignore-equal 0 1
+turned,N\N/P,kb-ignore-equal 0 0 1
+turned,N\N/N,kb-ignore-equal 0 0 1
+on,N\N/N,on-rel 0 0 1
+on,N\N/N,kb-ignore-equal 0 0 1
+on,A/N,on-rel 0 1
+on,A\N,on-rel 1 0
+on,P/N,kb-ignore 0 0
+on,P/P,kb-ignore 0 0
+on,P\N,kb-ignore 0 0
+on,P\P,kb-ignore 0 0
+close,N/N,kb-ignore 0 0
+close,N/N,kb-ignore 0 0
+close,N/P,close-rel 0 1
+close,N,kb-ignore 0 0
+bottle,N/P,kb-ignore-equal 0 1
+bottle,N,bottle 0 0
+bottle,N/N,bottle 0 0
+spoon,N/P,kb-ignore-equal 0 1
+spoon,N,kb-ignore 0 0
+spoon,N/N,kb-ignore 0 0
+with,N\N/N,kb-ignore-equal 0 0 1
+with,N\N/N,kb-ignore-equal 0 0 1
+with,A/N,kb-ignore-equal 0 1
+with,A\N,kb-ignore-equal 1 0
+with,P/N,kb-ignore 0 0
+with,P/P,kb-ignore 0 0
+with,P\N,kb-ignore 0 0
+with,P\P,kb-ignore 0 0
+desk,N/P,kb-ignore-equal 0 1
+desk,N,desk 0 0
+desk,N/N,desk 0 0
+coffee mugs,N/P,kb-ignore-equal 0 1
+coffee mugs,N,kb-ignore 0 0
+coffee mugs,N/N,kb-ignore 0 0
+right,P/P,kb-ignore 0 0
+Personal,N/P,kb-ignore-equal 0 1
+Personal,N,kb-ignore 0 0
+Personal,N/N,kb-ignore 0 0
+Computer,N/P,kb-ignore-equal 0 1
+Computer,N,kb-ignore 0 0
+Computer,N/N,kb-ignore 0 0
+counter,N/P,kb-ignore-equal 0 1
+counter,N,counter 0 0
+counter,N/N,counter 0 0
+dirty counter top,N/P,kb-ignore-equal 0 1
+dirty counter top,N,kb-ignore 0 0
+dirty counter top,N/N,kb-ignore 0 0
+bottom left-hand corner,N/P,kb-ignore-equal 0 1
+bottom left-hand corner,N,kb-ignore 0 0
+bottom left-hand corner,N/N,kb-ignore 0 0
+LCD,N/P,kb-ignore-equal 0 1
+LCD,N,lcd 0 0
+LCD,N/N,lcd 0 0
+at,N\N/N,kb-ignore-equal 0 0 1
+at,N\N/N,kb-ignore-equal 0 0 1
+at,A/N,kb-ignore-equal 0 1
+at,A\N,kb-ignore-equal 1 0
+at,P/N,kb-ignore 0 0
+at,P/P,kb-ignore 0 0
+at,P\N,kb-ignore 0 0
+at,P\P,kb-ignore 0 0
+is,S\N/N,kb-ignore-equal 0 0 1
+is,S\N/A,kb-ignore-equal 0 0 1
+is,S\N/P,kb-ignore-equal 0 0 1
+is,S\A/N,kb-ignore-equal 0 0 1
+is,S\P/N,kb-ignore-equal 0 0 1
+is,S/N/N,kb-ignore-equal 0 1 0
+is,S/A/N,kb-ignore-equal 0 1 0
+is,S/P/N,kb-ignore-equal 0 1 0
+violet color cup,N/P,kb-ignore-equal 0 1
+violet color cup,N,kb-ignore 0 0
+violet color cup,N/N,kb-ignore 0 0
+tea spoon,N/P,kb-ignore-equal 0 1
+tea spoon,N,kb-ignore 0 0
+tea spoon,N/N,kb-ignore 0 0
+side,N/P,kb-ignore-equal 0 1
+side,N,kb-ignore 0 0
+side,N/N,kb-ignore 0 0
+there,N,kb-ignore 0 0
+kept,N,kb-ignore 0 0
+kept,N/P,kb-ignore-equal 0 1
+kept,N\N/P,kb-ignore-equal 0 0 1
+kept,N\N/N,kb-ignore-equal 0 0 1
+kept,S\N/N,kb-ignore-equal 0 0 1
+kept,S\N/P,kb-ignore-equal 0 0 1
+kept,S/N/N,kb-ignore-equal 0 1 0
+kept,S/P/N,kb-ignore-equal 0 1 0
+kept,S\N/N,kb-ignore-equal 0 0 1
+kept,S\N/P,kb-ignore-equal 0 0 1
+kept,S/N/N,kb-ignore-equal 0 1 0
+kept,S/P/N,kb-ignore-equal 0 1 0
+kept,S/N,kb-ignore 0 0
+desktop computer,N/P,kb-ignore-equal 0 1
+desktop computer,N,kb-ignore 0 0
+desktop computer,N/N,kb-ignore 0 0
+fingerprint smudges,N/P,kb-ignore-equal 0 1
+fingerprint smudges,N,kb-ignore 0 0
+fingerprint smudges,N/N,kb-ignore 0 0
+has,S\N/N,kb-ignore-equal 0 0 1
+has,S\N/P,kb-ignore-equal 0 0 1
+has,S/N/N,kb-ignore-equal 0 1 0
+has,S/P/N,kb-ignore-equal 0 1 0
+has,S\N/N,kb-ignore-equal 0 0 1
+has,S\N/P,kb-ignore-equal 0 0 1
+has,S/N/N,kb-ignore-equal 0 1 0
+has,S/P/N,kb-ignore-equal 0 1 0
+has,S/N,kb-ignore 0 0
+desktop,N/P,kb-ignore-equal 0 1
+desktop,N,desktop 0 0
+desktop,N/N,desktop 0 0
+other,N/N,kb-ignore 0 0
+other,N/N,kb-ignore 0 0
+other,N/P,kb-ignore-equal 0 1
+other,N,kb-ignore 0 0
+behind,N\N/N,behind-rel 0 0 1
+behind,N\N/N,kb-ignore-equal 0 0 1
+behind,A/N,behind-rel 0 1
+behind,A\N,behind-rel 1 0
+behind,P/N,kb-ignore 0 0
+behind,P/P,kb-ignore 0 0
+behind,P\N,kb-ignore 0 0
+behind,P\P,kb-ignore 0 0
+slim,N/N,kb-ignore 0 0
+slim,N/N,kb-ignore 0 0
+slim,N/P,kb-ignore-equal 0 1
+slim,N,kb-ignore 0 0
+vibrant blue,N/P,kb-ignore-equal 0 1
+vibrant blue,N,kb-ignore 0 0
+vibrant blue,N/N,kb-ignore 0 0
+purple,N/N,purple 0 0
+purple,N/N,kb-ignore 0 0
+purple,N/P,kb-ignore-equal 0 1
+purple,N,purple 0 0
+monitor,N/P,kb-ignore-equal 0 1
+monitor,N,monitor 0 0
+monitor,N/N,monitor 0 0
+deep blue,N/P,kb-ignore-equal 0 1
+deep blue,N,kb-ignore 0 0
+deep blue,N/N,kb-ignore 0 0
+countertop,N/P,kb-ignore-equal 0 1
+countertop,N,countertop 0 0
+countertop,N/N,countertop 0 0
+table,N/P,kb-ignore-equal 0 1
+table,N,table 0 0
+table,N/N,table 0 0
+Personal Computer,N/P,kb-ignore-equal 0 1
+Personal Computer,N,kb-ignore 0 0
+Personal Computer,N/N,kb-ignore 0 0
+LED,N,kb-ignore 0 0
+LED,N/P,kb-ignore-equal 0 1
+LED,N\N/P,kb-ignore-equal 0 0 1
+LED,N\N/N,kb-ignore-equal 0 0 1
+LED,S\N/N,kb-ignore-equal 0 0 1
+LED,S\N/P,kb-ignore-equal 0 0 1
+LED,S/N/N,kb-ignore-equal 0 1 0
+LED,S/P/N,kb-ignore-equal 0 1 0
+LED,S\N/N,kb-ignore-equal 0 0 1
+LED,S\N/P,kb-ignore-equal 0 0 1
+LED,S/N/N,kb-ignore-equal 0 1 0
+LED,S/P/N,kb-ignore-equal 0 1 0
+LED,S/N,kb-ignore 0 0
+plastic,N/P,kb-ignore-equal 0 1
+plastic,N,plastic 0 0
+plastic,N/N,plastic 0 0
+colored,N,kb-ignore 0 0
+colored,N/P,kb-ignore-equal 0 1
+colored,N\N/P,kb-ignore-equal 0 0 1
+colored,N\N/N,kb-ignore-equal 0 0 1
+away,P/P,kb-ignore 0 0
+monitor,S\N/N,kb-ignore-equal 0 0 1
+monitor,S\N/P,kb-ignore-equal 0 0 1
+monitor,S/N/N,kb-ignore-equal 0 1 0
+monitor,S/P/N,kb-ignore-equal 0 1 0
+monitor,S\N/N,kb-ignore-equal 0 0 1
+monitor,S\N/P,kb-ignore-equal 0 0 1
+monitor,S/N/N,kb-ignore-equal 0 1 0
+monitor,S/P/N,kb-ignore-equal 0 1 0
+monitor,S/N,kb-ignore 0 0
+be,S\N/N,kb-ignore-equal 0 0 1
+be,S\N/A,kb-ignore-equal 0 0 1
+be,S\N/P,kb-ignore-equal 0 0 1
+be,S\A/N,kb-ignore-equal 0 0 1
+be,S\P/N,kb-ignore-equal 0 0 1
+be,S/N/N,kb-ignore-equal 0 1 0
+be,S/A/N,kb-ignore-equal 0 1 0
+be,S/P/N,kb-ignore-equal 0 1 0
+writing,N,kb-ignore 0 0
+writing,N/P,kb-ignore-equal 0 1
+writing,N\N/P,kb-ignore-equal 0 0 1
+writing,N\N/N,kb-ignore-equal 0 0 1
+writing,S\N/N,kb-ignore-equal 0 0 1
+writing,S\N/P,kb-ignore-equal 0 0 1
+writing,S/N/N,kb-ignore-equal 0 1 0
+writing,S/P/N,kb-ignore-equal 0 1 0
+writing,S\N/N,kb-ignore-equal 0 0 1
+writing,S\N/P,kb-ignore-equal 0 0 1
+writing,S/N/N,kb-ignore-equal 0 1 0
+writing,S/P/N,kb-ignore-equal 0 1 0
+writing,S/N,kb-ignore 0 0
+but,N\N/N,kb-ignore-equal 0 0 1
+but,A\A/N,kb-ignore-equal 0 0 1
+but,A\N/A,kb-ignore-equal 0 0 1
+but,A\A/A,kb-ignore-equal 0 0 1
+off,P/P,kb-ignore 0 0
+blue cups,N/P,kb-ignore-equal 0 1
+blue cups,N,kb-ignore 0 0
+blue cups,N/N,kb-ignore 0 0
+that,N/N,kb-ignore 0 0
+that,N,kb-ignore 0 0
+that,N,kb-ignore 0 0
+computer room,N/P,kb-ignore-equal 0 1
+computer room,N,kb-ignore 0 0
+computer room,N/N,kb-ignore 0 0
+straw,N/P,kb-ignore-equal 0 1
+straw,N,kb-ignore 0 0
+straw,N/N,kb-ignore 0 0
+coffee mug,N/P,kb-ignore-equal 0 1
+coffee mug,N,kb-ignore 0 0
+coffee mug,N/N,kb-ignore 0 0
+sky,N/P,kb-ignore-equal 0 1
+sky,N,sky 0 0
+sky,N/N,sky 0 0
+from,N\N/N,kb-ignore-equal 0 0 1
+from,N\N/N,kb-ignore-equal 0 0 1
+from,A/N,kb-ignore-equal 0 1
+from,A\N,kb-ignore-equal 1 0
+from,P/N,kb-ignore 0 0
+from,P/P,kb-ignore 0 0
+from,P\N,kb-ignore 0 0
+from,P\P,kb-ignore 0 0
+off-white,N/N,off-white 0 0
+off-white,N/N,kb-ignore 0 0
+off-white,N/P,kb-ignore-equal 0 1
+off-white,N,off-white 0 0
+not,P/P,kb-ignore 0 0
+right,N/N,kb-ignore 0 0
+right,N/N,kb-ignore 0 0
+right,N/P,right-rel 0 1
+right,N,kb-ignore 0 0
+gray,N/N,gray 0 0
+gray,N/N,kb-ignore 0 0
+gray,N/P,kb-ignore-equal 0 1
+gray,N,gray 0 0
+placed,N,kb-ignore 0 0
+placed,N/P,kb-ignore-equal 0 1
+placed,N\N/P,kb-ignore-equal 0 0 1
+placed,N\N/N,kb-ignore-equal 0 0 1
+other mug,N/P,kb-ignore-equal 0 1
+other mug,N,kb-ignore 0 0
+other mug,N/N,kb-ignore 0 0
+fingerprint,N/P,kb-ignore-equal 0 1
+fingerprint,N,kb-ignore 0 0
+fingerprint,N/N,kb-ignore 0 0
+or,N\N/N,kb-ignore-equal 0 0 1
+or,A\A/N,kb-ignore-equal 0 0 1
+or,A\N/A,kb-ignore-equal 0 0 1
+or,A\A/A,kb-ignore-equal 0 0 1
+right,N/P,right-rel 0 1
+right,N,kb-ignore 0 0
+right,N/N,kb-ignore 0 0
+which,N/N,kb-ignore 0 0
+which,N,kb-ignore 0 0
+which,N,kb-ignore 0 0
+black,N/N,black 0 0
+black,N/N,kb-ignore 0 0
+black,N/P,kb-ignore-equal 0 1
+black,N,black 0 0
+small,N/N,kb-ignore 0 0
+small,N/N,kb-ignore 0 0
+small,N/P,kb-ignore-equal 0 1
+small,N,kb-ignore 0 0
+computer,N/P,kb-ignore-equal 0 1
+computer,N,computer 0 0
+computer,N/N,computer 0 0
+of,N\N/N,kb-ignore-equal 0 0 1
+of,N\N/N,kb-ignore-equal 0 0 1
+of,A/N,kb-ignore-equal 0 1
+of,A\N,kb-ignore-equal 1 0
+of,P/N,kb-ignore 0 0
+of,P/P,kb-ignore 0 0
+of,P\N,kb-ignore 0 0
+of,P\P,kb-ignore 0 0
+color,N/P,kb-ignore-equal 0 1
+color,N,kb-ignore 0 0
+color,N/N,kb-ignore 0 0
+and,N\N/N,kb-ignore-equal 0 0 1
+and,A\A/N,kb-ignore-equal 0 0 1
+and,A\N/A,kb-ignore-equal 0 0 1
+and,A\A/A,kb-ignore-equal 0 0 1
+alone,P/P,kb-ignore 0 0
+appears,S\N/N,kb-ignore-equal 0 0 1
+appears,S\N/P,kb-ignore-equal 0 0 1
+appears,S/N/N,kb-ignore-equal 0 1 0
+appears,S/P/N,kb-ignore-equal 0 1 0
+appears,S\N/N,kb-ignore-equal 0 0 1
+appears,S\N/P,kb-ignore-equal 0 0 1
+appears,S/N/N,kb-ignore-equal 0 1 0
+appears,S/P/N,kb-ignore-equal 0 1 0
+appears,S/N,kb-ignore 0 0
+chair,N/P,kb-ignore-equal 0 1
+chair,N,kb-ignore 0 0
+chair,N/N,kb-ignore 0 0
+object,N/P,kb-ignore-equal 0 1
+object,N,object 0 0
+object,N/N,object 0 0
+blue coffee cups,N/P,kb-ignore-equal 0 1
+blue coffee cups,N,kb-ignore 0 0
+blue coffee cups,N/N,kb-ignore 0 0
+2,N/P,kb-ignore-equal 0 1
+2,N,kb-ignore 0 0
+2,N/N,kb-ignore 0 0
+off-white countertop,N/P,kb-ignore-equal 0 1
+off-white countertop,N,kb-ignore 0 0
+off-white countertop,N/N,kb-ignore 0 0
+near,N\N/N,near-rel 0 0 1
+near,N\N/N,kb-ignore-equal 0 0 1
+near,A/N,near-rel 0 1
+near,A\N,near-rel 1 0
+near,P/N,kb-ignore 0 0
+near,P/P,kb-ignore 0 0
+near,P\N,kb-ignore 0 0
+near,P\P,kb-ignore 0 0
+Dell,N/P,kb-ignore-equal 0 1
+Dell,N,kb-ignore 0 0
+Dell,N/N,kb-ignore 0 0
+off,N\N/N,kb-ignore-equal 0 0 1
+off,N\N/N,kb-ignore-equal 0 0 1
+off,A/N,kb-ignore-equal 0 1
+off,A\N,kb-ignore-equal 1 0
+off,P/N,kb-ignore 0 0
+off,P/P,kb-ignore 0 0
+off,P\N,kb-ignore 0 0
+off,P\P,kb-ignore 0 0
+coffee cups,N/P,kb-ignore-equal 0 1
+coffee cups,N,kb-ignore 0 0
+coffee cups,N/N,kb-ignore 0 0
+right side,N/P,kb-ignore-equal 0 1
+right side,N,kb-ignore 0 0
+right side,N/N,kb-ignore 0 0
+black monitor,N/P,kb-ignore-equal 0 1
+black monitor,N,kb-ignore 0 0
+black monitor,N/N,kb-ignore 0 0
+sitting,N,kb-ignore 0 0
+sitting,N/P,sit-rel 0 1
+sitting,N\N/P,sit-rel 0 0 1
+sitting,N\N/N,sit-rel 0 0 1
+sitting,S\N/N,sit-rel 0 0 1
+sitting,S\N/P,sit-rel 0 0 1
+sitting,S/N/N,sit-rel 0 1 0
+sitting,S/P/N,sit-rel 0 1 0
+sitting,S\N/N,kb-ignore-equal 0 0 1
+sitting,S\N/P,kb-ignore-equal 0 0 1
+sitting,S/N/N,kb-ignore-equal 0 1 0
+sitting,S/P/N,kb-ignore-equal 0 1 0
+sitting,S/N,kb-ignore 0 0
+keyboard,N/P,kb-ignore-equal 0 1
+keyboard,N,kb-ignore 0 0
+keyboard,N/N,kb-ignore 0 0
+contains,S\N/N,contain-rel 0 0 1
+contains,S\N/P,contain-rel 0 0 1
+contains,S/N/N,contain-rel 0 1 0
+contains,S/P/N,contain-rel 0 1 0
+contains,S\N/N,kb-ignore-equal 0 0 1
+contains,S\N/P,kb-ignore-equal 0 0 1
+contains,S/N/N,kb-ignore-equal 0 1 0
+contains,S/P/N,kb-ignore-equal 0 1 0
+contains,S/N,kb-ignore 0 0
+mug,N/P,kb-ignore-equal 0 1
+mug,N,mug 0 0
+mug,N/N,mug 0 0
+blue mugs,N/P,kb-ignore-equal 0 1
+blue mugs,N,kb-ignore 0 0
+blue mugs,N/N,kb-ignore 0 0
+table top,N/P,kb-ignore-equal 0 1
+table top,N,kb-ignore 0 0
+table top,N/N,kb-ignore 0 0
+darker blue,N/P,kb-ignore-equal 0 1
+darker blue,N,kb-ignore 0 0
+darker blue,N/N,kb-ignore 0 0
+top,N/P,top-rel 0 1
+top,N,kb-ignore 0 0
+top,N/N,kb-ignore 0 0
+computer screen,N/P,kb-ignore-equal 0 1
+computer screen,N,kb-ignore 0 0
+computer screen,N/N,kb-ignore 0 0

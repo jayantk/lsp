@@ -1,0 +1,19 @@
+table;table3;0
+mug;mug1,mug2;0
+monitor;monitor0;0
+object in front of the monitor;mug1;2
+mug in front of the monitor;mug1;2
+mug to the right of the monitor;mug2;2
+mug to the left of the other mug;mug1;2
+objects on the table;mug1,mug2,monitor0;2
+mugs on the table;mug1,mug2;2
+monitor on the table;monitor0;2
+Two blue mugs are in front of the monitor;mug1,mug2;2
+The blue coffee cup on the right has a small straw in it;mug2;4
+The other blue coffee cup is right in front of the computer monitor;mug1;4
+The blue mug is in front of the monitor;mug1;2
+The blue mug is to the left of the purple mug;mug1;2
+The monitor is behind the blue mug;monitor0;2
+A LED monitor on the table;monitor0;2
+Two cups are near the monitor;mug1,mug2;2
+A table contains a computer monitor, cups and a telephone;table3;4

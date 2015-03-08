@@ -1,0 +1,14 @@
+table;table3;0
+mug;mug1,mug2;0
+monitor;monitor0;0
+objects on the table;monitor0,mug1,mug2;2
+mug to the right of the monitor;mug1;2
+mug to the left of the monitor;mug2;2
+mugs on the table;mug1,mug2;2
+There are two coffee mugs on the desk, one is blue the other is purple;mug1,mug2;4
+There is a dell monitor sitting on the dirty counter top;monitor0;2
+There are two cups and a monitor between them on the table;mug1,mug2,monitor0;4
+There are a monitor on the table with two cups in the flanks;mug1,mug2,monitor0;4
+The computer monitor is on the desk;monitor0;2
+The blue mug is to the left of the monitor;mug2;2
+The purple mug has writing;mug1;2

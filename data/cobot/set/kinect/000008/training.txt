@@ -1,0 +1,20 @@
+table;table3;0
+mug;mug1,mug2;0
+monitor;monitor0;0
+monitor on the table;monitor0;2
+objects on the table;monitor0,mug1,mug2;2
+mugs to the right of the monitor;mug1,mug2;2
+mug to the right of the other mug;mug2;2
+mug to the left of the other mug;mug1;2
+mugs on the table;mug1,mug2;2
+Two cups are in front of a monitor;mug1,mug2;2
+A monitor is near to cups;monitor0;2
+Two blue cups and a monitor are on the table;mug1,mug2,monitor0;4
+The monitor appears to be a Dell;monitor0;4
+There are two blue mugs on the right side of the monitor;mug1,mug2;4
+There are two mugs to the right of the monitor;mug1,mug2;4
+The blue mug is plastic;mug2;4
+The purple mug is ceramic;mug1;4
+The computer monitor is on the table;monitor0;2
+There are 2 coffee mugs;mug1,mug2;0
+

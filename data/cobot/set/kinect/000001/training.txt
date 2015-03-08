@@ -1,0 +1,17 @@
+table;table3;0
+monitor;monitor0;0
+mug;mug1,mug2;0
+mug to the right of the monitor;mug2;2
+mug to the left of the monitor;mug1;2
+objects on the table;monitor0,mug1,mug2;2
+objects beside the monitor;mug1,mug2;2
+monitor on the table;monitor0;2
+mugs on the table;mug1,mug2;2
+There are two mugs on the table;mug1,mug2;2
+cup on the table;mug1,mug2;2
+The monitor is off which is on the table;monitor0;2
+There is a computer monitor;monitor0;0
+There are 2 mugs;mug1,mug2;0
+It is a LCD monitor;monitor0;0
+Two cups are on the table;mug1,mug2;2
+blue is the color of one of the cup;mug1;4

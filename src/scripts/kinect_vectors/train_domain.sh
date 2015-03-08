@@ -1,0 +1,2 @@
+
+./src/scripts/invoke.pl -Xmx2000M  edu.cmu.ml.rtw.vector.VectorModelTrainer --domainDir data/cobot/set/kinect/ --trainingFilename training.txt -iterations 100 --batchSize 1 --l2Regularization 0.02 --initialStepSize 1.0 --logInterval 500 --gaussianVariance 1.0

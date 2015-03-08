@@ -1,0 +1,18 @@
+table;table3;0
+mug;mug1,mug2;0
+monitor;monitor0;0
+objects on the table;mug1,mug2,monitor0;2
+mug to the right of the monitor;mug2;2
+mug in front of the monitor;mug1;2
+object behind the mug;monitor0;2
+object to the right of the other objects;mug2;2
+The blue coffee cup has AI at CMU printed on it;mug1;4
+The purple mug is to the left of the blue mug;mug1;2
+The monitor is black;monitor0;4
+A violet color cup with tea spoon,which is placed in front of the desktop computer;mug1;4
+A blue color cup is placed alone in the right side of the computer and violet color tea cup;mug2;4
+There is a computer monitor;monitor0;0
+There are 2 mugs;mug1,mug2;0
+Two coffee cups sit on an off-white countertop - one is purple, the other is blue;mug1,mug2;4
+There is a computer monitor facing away from a black chair;monitor0;4
+There are 2 coffee mugs on the desk;mug1,mug2;2

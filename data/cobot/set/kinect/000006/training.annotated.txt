@@ -1,0 +1,63 @@
+*dell;monitor0
+*computer;monitor0
+*desktop;monitor0
+*lcd;monitor0
+*monitor;monitor0
+*screen;monitor0
+*personal;monitor0
+*gray;monitor0
+*black;monitor0
+*dirty;monitor0
+*mug;mug1,mug2
+*container;mug1,mug2,bottle3
+*coffee;mug1,mug2
+*bottle;bottle3
+*tea;mug1,mug2
+*cup;mug1,mug2
+*blue;mug2
+*light;mug2
+*vibrant;mug2
+*bright;mug2
+*plastic;mug2
+*sky;mug2
+*dark;mug1
+*violet;mug1
+*deep;mug1
+*ceramic;mug1
+*purple;mug1
+*desk;table4
+*off-white;table4
+*counter;table4
+*countertop;table4
+*table;table4
+*object;mug1,mug2,monitor0,bottle3
+*on-rel;bottle3#table4,mug2#table4,mug1#table4,monitor0#table4
+*sit-rel;bottle3#table4,mug2#table4,mug1#table4,monitor0#table4
+*top-rel;bottle3#table4,mug2#table4,mug1#table4,monitor0#table4
+*contain-rel;bottle3#table4,mug2#table4,mug1#table4,monitor0#table4
+*close-rel;bottle3#monitor0,bottle3#mug2,mug2#bottle3,monitor0#bottle3,mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1
+*beside-rel;bottle3#monitor0,bottle3#mug2,mug2#bottle3,monitor0#bottle3,mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1
+*near-rel;bottle3#monitor0,bottle3#mug2,mug2#bottle3,monitor0#bottle3,mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1
+*flank-rel;bottle3#monitor0,bottle3#mug2,mug2#bottle3,monitor0#bottle3,mug2#monitor0,mug1#monitor0,monitor0#mug2,monitor0#mug1
+*front-rel;mug2#monitor0,mug1#monitor0
+*behind-rel;monitor0#mug2,monitor0#mug1
+*left-rel;mug1#monitor0,monitor0#mug2,mug1#mug2,monitor0#bottle3,mug2#bottle3,mug1#bottle3
+*left-hand-rel;mug1#monitor0,monitor0#mug2,mug1#mug2,monitor0#bottle3,mug2#bottle3,mug1#bottle3
+*right-rel;bottle3#monitor0,bottle3#mug2,bottle3#mug1,mug2#monitor0,monitor0#mug1,mug2#mug1
+*darker-rel;mug1#mug2
+table;table4;0;(lambda $x (and (table $x)))
+mug;mug1,mug2;0;(lambda $x (and (mug $x)))
+monitor;monitor0;0;(lambda $x (and (monitor $x)))
+bottle;bottle3;0;(lambda $x (and (bottle $x)))
+objects on the table;mug1,mug2,monitor0,bottle3;2;(lambda $x (exists $y (and (object $x) (on-rel $x $y) (table $y))))
+objects to the right of the monitor;mug2,bottle3;2;(lambda $x (exists $y (and (object $x) (right-rel $x $y) (monitor $y))))
+objects to the left of the monitor;mug1;2;(lambda $x (exists $y (and (object $x) (left-rel $x $y) (monitor $y))))
+mug to the right of the monitor;mug2;2;(lambda $x (exists $y (and (mug $x) (right-rel $x $y) (monitor $y))))
+bottle to the right of the monitor;bottle3;2;(lambda $x (exists $y (and (bottle $x) (right-rel $x $y) (monitor $y))))
+mug to the left of the monitor;mug1;2;(lambda $x (exists $y (and (mug $x) (left-rel $x $y) (monitor $y))))
+mugs on the table;mug1,mug2;2;(lambda $x (exists $y (and (mug $x) (on-rel $x $y) (table $y))))
+The mugs are not near one another;mug1,mug2;4
+There is a computer monitor;monitor0;0;(lambda $x (and (monitor $x)))
+There are 2 mugs;mug1,mug2;0;(lambda $x (and (mug $x)))
+The monitor is not on;monitor0;4
+One coffee mug is purple, the other is blue;mug1,mug2;4

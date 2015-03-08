@@ -1,0 +1,22 @@
+table;table3;0
+mug;mug1,mug2;0
+monitor;monitor0;0
+objects to the left of the monitor;mug1,mug2;2
+mugs to the left of the monitor;mug1,mug2;2
+objects to the right of the mugs;monitor0;2
+mug to the right of the other mug;mug1;2
+mug to the left of the other mug;mug2;2
+objects on the table;mug1,mug2,monitor0;2
+mugs on the table;mug1,mug2;2
+A computer monitor is on the table;monitor0;2
+Two cups dark blue and light blue are near the computer monitor;mug1,mug2;4
+two cups are in the computer room;mug1,mug2;2
+two cups are  placed in front of desktop;mug1,mug2;2
+sky blue cup is very near to the computer;mug1;2
+One mug has writing on it;mug2;4
+The tea cups are beside the black monitor on the table;mug1,mug2;4
+The black monitor is not on;monitor0;4
+A computer monitor on the table;monitor0;2
+Two coffee containers on the table;mug1,mug2;2
+There is a personal computer placed on the table;monitor0;2
+There is a deep blue colored coffee mug kept very near to the computer;mug1;4

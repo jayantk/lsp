@@ -1,0 +1,18 @@
+mug;mug1,mug2;0
+table;table3;0
+monitor;monitor0;0
+mugs on the table;mug1,mug2;2
+mug in front of the monitor;mug2;2
+mug to the left of the monitor;mug1;2
+mugs;mug1,mug2;0
+objects to the right of the mug;mug2,monitor0;2
+objects on the table;mug1,mug2,monitor0;2
+There are two blue coffee cups sitting on the desk;mug1,mug2;4
+The computer monitor is off;monitor0;4
+There are two mugs;mug1,mug2;0
+The monitor is turned off;monitor0;4
+A computer monitor on the table;monitor0;2
+Two coffee containers on the table;mug1,mug2;2
+a computer monitor is on the desk;monitor0;2
+There is a gray colored Personal Computer which is turned off;monitor0;4
+There is a vibrant blue colored coffee mug which is kept very near to the computer;mug2;4

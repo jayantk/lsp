@@ -1,0 +1,20 @@
+table;table3;0
+mug;mug1,mug2;0
+monitor;monitor0;0
+objects on the table;mug1,mug2,monitor0;2
+mugs on the table;mug1,mug2;2
+objects to the left of the monitor;mug1,mug2;2
+objects to the right of the mugs;monitor0;2
+mug to the right of the other mug;mug1;2
+mug to the left of the other mug;mug2;2
+The computer screen has fingerprint smudges on the bottom left-hand corner;monitor0;4
+There are two blue mugs, one a bright blue, the other a darker blue;mug1,mug2;4
+There is a purple mug and a blue mug near the computer monitor;mug1,mug2;4
+The black computer monitor is on the desk but there is no keyboard in front of it;monitor0;4
+There are two coffee mugs on the desk, one sky blue, one dark blue with a spoon in it;mug1,mug2;4
+Computer monitor and cup are on the desk or counter;monitor0,mug1,mug2;4
+The cup is blue;mug1,mug2;4
+The counter is gray;table3;4
+The cup is on the table;mug1,mug2;2
+the computer is on the table;monitor0;2
+
