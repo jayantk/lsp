@@ -18,11 +18,12 @@ public class SequenceRnnVectorSpaceModel implements VectorSpaceModelInterface {
   }
   
   private String getExpressionString(List<String> words) {
+    String word = words.get(0).toLowerCase();
     if (words.size() == 1) {
-      return "t1:" + words.get(0);
+      return "t1:" + word;
     } else {
       String rest = getExpressionString(words.subList(1, words.size()));
-      return "(op:add t1:" + words.get(0) + " " + rest + ")";
+      return "(op:add t1:" + word + " " + rest + ")";
     }
   }
 }
