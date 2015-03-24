@@ -54,7 +54,7 @@ import edu.cmu.ml.rtw.users.jayantk.semparse.SemanticParser;
 import edu.cmu.ml.rtw.users.jayantk.semparse.SemanticPredicate;
 import edu.cmu.ml.rtw.util.Pair;
 
-public class GroundingModel implements Serializable, GroundingModelInterface {
+public class GroundingModel implements Serializable {
   static final long serialVersionUID = 10275539472837495L;
 
   // groundingTypes are the predicates which are grounded out in terms of the physical world.
