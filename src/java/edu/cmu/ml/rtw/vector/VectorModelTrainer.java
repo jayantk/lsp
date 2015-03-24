@@ -12,10 +12,12 @@ import joptsimple.OptionParser;
 import joptsimple.OptionSet;
 import joptsimple.OptionSpec;
 
+import com.google.common.base.Preconditions;
 import com.google.common.collect.HashMultimap;
 import com.google.common.collect.Lists;
-import com.google.common.collect.Multimap;
 import com.google.common.collect.Maps;
+import com.google.common.collect.Multimap;
+import com.google.common.primitives.Ints;
 import com.jayantkrish.jklol.ccg.lambda.ApplicationExpression;
 import com.jayantkrish.jklol.ccg.lambda.ConstantExpression;
 import com.jayantkrish.jklol.ccg.lambda.Expression;
@@ -31,8 +33,11 @@ import com.jayantkrish.jklol.cvsm.LrtFamily;
 import com.jayantkrish.jklol.cvsm.TensorLrtFamily;
 import com.jayantkrish.jklol.cvsm.lrt.TensorLowRankTensor;
 import com.jayantkrish.jklol.models.DiscreteFactor;
+import com.jayantkrish.jklol.models.DiscreteVariable;
 import com.jayantkrish.jklol.models.TableFactor;
+import com.jayantkrish.jklol.models.Variable;
 import com.jayantkrish.jklol.models.VariableNumMap;
+import com.jayantkrish.jklol.models.VariableNumMap.VariableRelabeling;
 import com.jayantkrish.jklol.models.parametric.SufficientStatistics;
 import com.jayantkrish.jklol.tensor.DenseTensor;
 import com.jayantkrish.jklol.tensor.Tensor;
@@ -44,6 +49,12 @@ import edu.cmu.ml.rtw.users.jayantk.grounding.Domain;
 import edu.cmu.ml.rtw.users.jayantk.grounding.GroundingExample;
 import edu.cmu.ml.rtw.users.jayantk.grounding.GroundingModelTrainer;
 
+/**
+ * Command line program for training a vector space-based
+ * model for predicting denotations.
+ * 
+ * @author jayantk
+ */
 public class VectorModelTrainer extends AbstractCli {
   
   private OptionSpec<String> domainDir;
@@ -67,14 +78,18 @@ public class VectorModelTrainer extends AbstractCli {
 
   @Override
   public void run(OptionSet options) {
+    // Read training data from disk and partition
+    // into leave-one-environment-out cross validation folds.
     List<Domain> domains = Domain.readDomainsFromDirectory(options.valueOf(domainDir), 
         options.valueOf(trainingFilename), null, Integer.MAX_VALUE,
         false, false, false);
     IndexedList<String> domainNames = IndexedList.create(extract(domains, on(Domain.class).getName()));
-
-    VectorSpaceModelInterface vsmInterface = new SequenceRnnVectorSpaceModel();
-    
     Multimap<String, GroundingExample> trainingFoldsOrig = GroundingModelTrainer.getCrossValidationFolds(domains);
+
+    // Instantiate the vector space model for this experiment.
+    VectorSpaceModelInterface vsmInterface = new SequenceRnnVectorSpaceModel(100);
+    
+    // Reformat the training / test data to be suitable for the vector space model. 
     Multimap<String, CvsmExample> trainingFolds = HashMultimap.create();
     for (String key : trainingFoldsOrig.keySet()) {
       for (GroundingExample example : trainingFoldsOrig.get(key)) {
@@ -92,14 +107,19 @@ public class VectorModelTrainer extends AbstractCli {
       }
     }
 
+    // Construct a parametric family of compositional vector space models
+    // given the training data. This method figures out the dimensionality
+    // of all declared vector parameters, etc.
     CvsmFamily family = buildFamily(allExamples, domains, domainNames);
 
+    // Train a model for each fold.
     Map<String, SufficientStatistics> trainedParameters = Maps.newHashMap();
     for (String foldName : trainingFoldsOrig.keySet()) {
       SufficientStatistics parameters = train(family, trainingFolds.get(foldName), options.valueOf(gaussianVariance));
       trainedParameters.put(foldName, parameters);
     }
 
+    // Evaluate on each fold.
     int numCorrectTotal = 0;
     int numTotal = 0;
     for (String testFold : testFolds.keySet()) {
@@ -118,18 +138,54 @@ public class VectorModelTrainer extends AbstractCli {
     return "domain:" + domainName + ":category";
   }
   
+  // Figure out what tensors are referenced in the training data
+  // and their dimensionality. 
   private void extractTensorNamesFromExpression(Expression expression, IndexedList<String> tensorNames,
-      List<LrtFamily> parameters, VariableNumMap featureVar) {
+      List<LrtFamily> parameters, Map<String, DiscreteVariable> generatedVectorSizes) {
     if (expression instanceof ConstantExpression) {
       String name = ((ConstantExpression) expression).getName();
-      if (!name.startsWith("op:") && !tensorNames.contains(name)) {
+
+      if (name.startsWith("t:") && !tensorNames.contains(name)) {
+        // Parse the tensor name to figure out the dimensionality
+        // of this tensor.
+        String[] parts = name.split(":");
+        Preconditions.checkArgument(parts.length >= 2,
+          "Invalid expression: %r. Tensor parameters are specified using the notation t:<dims1>;<dims2>;...:<parameter name>",
+          name);
+
+        // Dimensions can be specified using named variables
+        // (which must be given as part of generatedVectorSizes),
+        // or using numbers, which are parsed out and variables
+        // are generated for them.
+        String[] dimParts = parts[1].split(";");
+        Variable[] vars = new Variable[dimParts.length];
+        int[] varNums = new int[dimParts.length]; 
+
+        for (int i = 0; i < dimParts.length; i++) {
+          if (generatedVectorSizes.containsKey(dimParts[i])) {
+            vars[i] = generatedVectorSizes.get(dimParts[i]);
+          } else {
+            int size = Integer.parseInt(dimParts[i]);
+            DiscreteVariable var = DiscreteVariable.sequence(dimParts[i], size);
+            generatedVectorSizes.put(dimParts[i], var);
+            vars[i] = var;
+          }
+          
+          // Give the rightmost dimension the lowest variable number,
+          // which makes it the first dimension eliminated by 
+          // multiplication.
+          varNums[i] = dimParts.length - (i + 1);
+        }
+
+        VariableNumMap varNumMap = new VariableNumMap(Ints.asList(varNums), Arrays.asList(dimParts), Arrays.asList(vars));
         tensorNames.add(name);
-        parameters.add(new TensorLrtFamily(featureVar));
+        parameters.add(new TensorLrtFamily(varNumMap));
       }
     } else if (expression instanceof ApplicationExpression) {
       List<Expression> subexpressions = ((ApplicationExpression) expression).getSubexpressions();
       for (Expression subexpression : subexpressions) {
-        extractTensorNamesFromExpression(subexpression, tensorNames, parameters, featureVar);
+        extractTensorNamesFromExpression(subexpression, tensorNames,
+            parameters, generatedVectorSizes);
       }
     }
   }
@@ -162,32 +218,40 @@ public class VectorModelTrainer extends AbstractCli {
     IndexedList<String> tensorNames = IndexedList.create();
     List<LrtFamily> tensorParameters = Lists.newArrayList();
     
-    VariableNumMap featureVar = null;
-    VariableNumMap truthVar = null;
+    DiscreteVariable featureVarType = null;
     
     for (Domain domain : domains) {
       // Get the object features of each object in the domain.
       // The features are for the assignment (entity name, T), and we just want features per entity,
       // so condition on the "T" value.
       DiscreteFactor categoryFeatures = domain.getCategoryFamily().getFeatureVectors();
-      truthVar = categoryFeatures.getVars().getVariablesByName("truthVal");
+      VariableNumMap truthVar = categoryFeatures.getVars().getVariablesByName("truthVal");
       categoryFeatures = categoryFeatures.conditional(truthVar.outcomeArrayToAssignment("T"));
-      
-      System.out.println(categoryFeatures.getVars());
-      
-      if (featureVar == null) {
-        featureVar = categoryFeatures.getVars().getVariablesByName("catFeatures");
+
+      VariableNumMap entityVar = categoryFeatures.getVars().getVariablesByName("grounding0");
+      VariableNumMap featureVar = categoryFeatures.getVars().getVariablesByName("catFeatures");
+
+      if (featureVarType == null) {
+        featureVarType = (DiscreteVariable) featureVar.getOnlyVariable();
       }
+
+      VariableRelabeling entityRelabeling = VariableRelabeling.createFromVariables(entityVar,
+          entityVar.relabelVariableNums(new int[] {1}));
+      VariableRelabeling featureRelabeling = VariableRelabeling.createFromVariables(featureVar,
+          featureVar.relabelVariableNums(new int[] {0}));
+      categoryFeatures = (DiscreteFactor) categoryFeatures.relabelVariables(
+          entityRelabeling.union(featureRelabeling));
 
       tensorNames.add(getCategoryTensorName(domain.getName()));
       tensorParameters.add(new ConstantLrtFamily(categoryFeatures.getVars(),
           new TensorLowRankTensor(categoryFeatures.getWeights())));
     }
 
-    List<CvsmExample> cvsmExamples = Lists.newArrayList();
+    Map<String, DiscreteVariable> generatedVectorDims = Maps.newHashMap();
+    generatedVectorDims.put("catFeatures", featureVarType);
     for (CvsmExample example : examples) {
-      // Initialize tensors for any variables referenced in this formula.  
-      extractTensorNamesFromExpression(example.getLogicalForm(), tensorNames, tensorParameters, featureVar);
+      // Initialize tensors for any variables referenced in this formula.
+      extractTensorNamesFromExpression(example.getLogicalForm(), tensorNames, tensorParameters, generatedVectorDims);
     }
 
     // Read in the set of vectors, etc. from the training examples and
