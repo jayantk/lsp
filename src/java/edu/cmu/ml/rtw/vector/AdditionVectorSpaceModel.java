@@ -13,10 +13,13 @@ public class AdditionVectorSpaceModel implements VectorSpaceModelInterface {
   public Expression getFormula(GroundingExample example) {
     List<String> words = example.getWords().get(0);
     String expressionString = getExpressionString(words);
+    
+    String domainCategoryFeaturesName = VectorModelTrainer.getCategoryTensorName(example.getDomainName());
+    expressionString = "(op:logistic (op:matvecmul " + domainCategoryFeaturesName + " " + expressionString + "))";
 
     return ExpressionParser.lambdaCalculus().parseSingleExpression(expressionString);
   }
-  
+
   private String getExpressionString(List<String> words) {
     String word = words.get(0);
     if (words.size() == 1) {

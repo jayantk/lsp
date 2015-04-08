@@ -59,6 +59,7 @@ public class VectorModelTrainer extends AbstractCli {
   
   private OptionSpec<String> domainDir;
   private OptionSpec<String> trainingFilename;
+  private OptionSpec<String> vectorModelName;
   
   private OptionSpec<Double> gaussianVariance;
 
@@ -70,10 +71,10 @@ public class VectorModelTrainer extends AbstractCli {
   @Override
   public void initializeOptions(OptionParser parser) {
     domainDir = parser.accepts("domainDir").withRequiredArg().ofType(String.class).required();
-    trainingFilename = parser.accepts("trainingFilename").withOptionalArg().ofType(String.class).defaultsTo("training.txt");
+    trainingFilename = parser.accepts("trainingFilename").withOptionalArg().ofType(String.class).defaultsTo("training.annotated.txt");
+    vectorModelName = parser.accepts("vectorModelName").withRequiredArg().ofType(String.class).required();
 
-    gaussianVariance = parser.accepts("gaussianVariance").withRequiredArg().ofType(Double.class).defaultsTo(0.0);
-    
+    gaussianVariance = parser.accepts("gaussianVariance").withRequiredArg().ofType(Double.class).defaultsTo(0.0);    
   }
 
   @Override
@@ -87,13 +88,25 @@ public class VectorModelTrainer extends AbstractCli {
     Multimap<String, GroundingExample> trainingFoldsOrig = GroundingModelTrainer.getCrossValidationFolds(domains);
 
     // Instantiate the vector space model for this experiment.
-    VectorSpaceModelInterface vsmInterface = new SequenceRnnVectorSpaceModel(100);
+    VectorSpaceModelInterface vsmInterface = null;
+    String modelName = options.valueOf(vectorModelName);
+    if (modelName.equals("addition")) {
+      vsmInterface = new AdditionVectorSpaceModel();
+    } else if (modelName.equals("sequenceRnn")) {
+      vsmInterface = new SequenceRnnVectorSpaceModel(100);
+    } else if (modelName.equals("logicalFormNn")) {
+      vsmInterface = new LogicalFormVectorSpaceModel();
+    }
     
+    Preconditions.checkState(vsmInterface != null);
+
     // Reformat the training / test data to be suitable for the vector space model. 
     Multimap<String, CvsmExample> trainingFolds = HashMultimap.create();
     for (String key : trainingFoldsOrig.keySet()) {
       for (GroundingExample example : trainingFoldsOrig.get(key)) {
-        trainingFolds.put(key, convertExample(example, domains, domainNames, vsmInterface));
+        if (!example.hasObservedRelation()) {
+          trainingFolds.put(key, convertExample(example, domains, domainNames, vsmInterface));
+        }
       }
     }
 
@@ -134,7 +147,7 @@ public class VectorModelTrainer extends AbstractCli {
     System.out.println("Accuracy: " + accuracy);
   }
   
-  public String getCategoryTensorName(String domainName) {
+  public static String getCategoryTensorName(String domainName) { 
     return "domain:" + domainName + ":category";
   }
   
@@ -194,12 +207,8 @@ public class VectorModelTrainer extends AbstractCli {
       IndexedList<String> domainNames, VectorSpaceModelInterface vectorSpaceModel) {
     // convert to cvsm example using CCG parse and templates
     Expression cvsmFormula = vectorSpaceModel.getFormula(example);
-        
-    String domainCategoryFeaturesName = getCategoryTensorName(example.getDomainName());
-    Expression newExpression = new ApplicationExpression(Lists.newArrayList(new ConstantExpression("op:logistic"),
-            new ApplicationExpression(Lists.newArrayList(new ConstantExpression("op:matvecmul"), new ConstantExpression(domainCategoryFeaturesName), cvsmFormula))));
-    
-    System.out.println(newExpression.toString());
+
+    System.out.println(cvsmFormula.toString());
     
     Domain domain = domains.get(domainNames.getIndex(example.getDomainName()));
     VariableNumMap vars = domain.getCategoryFamily().getFeatureVectors().getVars();
@@ -210,7 +219,7 @@ public class VectorModelTrainer extends AbstractCli {
     grounding = DenseTensor.copyOf(grounding);
     System.out.println(Arrays.toString(grounding.getDimensionNumbers()));
     
-    return new CvsmExample(newExpression, grounding, null);
+    return new CvsmExample(cvsmFormula, grounding, null);
   }
 
   private CvsmFamily buildFamily(Collection<CvsmExample> examples, List<Domain> domains, IndexedList<String> domainNames) {
