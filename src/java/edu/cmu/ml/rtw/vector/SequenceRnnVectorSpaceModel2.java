@@ -17,11 +17,11 @@ import edu.cmu.ml.rtw.users.jayantk.grounding.GroundingExample;
  * 
  * @author jayantk
  */
-public class SequenceRnnVectorSpaceModel implements VectorSpaceModelInterface {
+public class SequenceRnnVectorSpaceModel2 implements VectorSpaceModelInterface {
   
   private final int dimensionality;
 
-  public SequenceRnnVectorSpaceModel(int dimensionality) {
+  public SequenceRnnVectorSpaceModel2(int dimensionality) {
     this.dimensionality = dimensionality;
   }
   
@@ -41,12 +41,11 @@ public class SequenceRnnVectorSpaceModel implements VectorSpaceModelInterface {
       return "t:" + dimensionality + ":" + word;
     } else {
       String rest = getExpressionString(words.subList(1, words.size()));
-	  String W1 = "t:" + dimensionality + ";" + dimensionality + ":W1";
-	  String W2 = "t:" + dimensionality + ";" + dimensionality + ":W2";
-	  String cur_word = "t:" + dimensionality + ":" + word;
+      String W1 = "t:" + dimensionality + ";" + dimensionality + ":W1";
+      String W2 = "t:" + dimensionality + ";" + dimensionality + ":W2";
+      String cur_word = "t:" + dimensionality + ":" + word;
 
-      return "(op:logistic (op:add (op:matvecmul " + W1 + " " + cur_word + ") (op:matvecmul " + W2 + " " + cur_word + ")))";
-
+      return "(op:logistic (op:add (op:matvecmul " + W1 + " " + cur_word + ") (op:matvecmul " + W2 + " " + rest + ")))";
     }
   }
 }

@@ -62,6 +62,7 @@ public class VectorModelTrainer extends AbstractCli {
   private OptionSpec<String> vectorModelName;
   
   private OptionSpec<Double> gaussianVariance;
+  private OptionSpec<Integer> numFoldsToRun;
 
   public VectorModelTrainer() {
     super(CommonOptions.STOCHASTIC_GRADIENT, CommonOptions.MAP_REDUCE,
@@ -74,7 +75,8 @@ public class VectorModelTrainer extends AbstractCli {
     trainingFilename = parser.accepts("trainingFilename").withOptionalArg().ofType(String.class).defaultsTo("training.annotated.txt");
     vectorModelName = parser.accepts("vectorModelName").withRequiredArg().ofType(String.class).required();
 
-    gaussianVariance = parser.accepts("gaussianVariance").withRequiredArg().ofType(Double.class).defaultsTo(0.0);    
+    gaussianVariance = parser.accepts("gaussianVariance").withRequiredArg().ofType(Double.class).defaultsTo(0.0);
+    numFoldsToRun = parser.accepts("numFoldsToRun").withRequiredArg().ofType(Integer.class);
   }
 
   @Override
@@ -114,9 +116,11 @@ public class VectorModelTrainer extends AbstractCli {
     Multimap<String, CvsmExample> testFolds = HashMultimap.create();
     for (Domain domain : domains) {
       for (GroundingExample example : domain.getTrainingExamples()) {
-        CvsmExample cvsmExample = convertExample(example, domains, domainNames, vsmInterface);
-        allExamples.add(cvsmExample);
-        testFolds.put(domain.getName(), cvsmExample);
+        if (!example.hasObservedRelation()) {
+          CvsmExample cvsmExample = convertExample(example, domains, domainNames, vsmInterface);
+          allExamples.add(cvsmExample);
+          testFolds.put(domain.getName(), cvsmExample);
+        }
       }
     }
 
@@ -125,17 +129,27 @@ public class VectorModelTrainer extends AbstractCli {
     // of all declared vector parameters, etc.
     CvsmFamily family = buildFamily(allExamples, domains, domainNames);
 
+    
+    int foldsToRun = trainingFoldsOrig.keySet().size();
+    if (options.has(numFoldsToRun)) {
+      foldsToRun = options.valueOf(numFoldsToRun);
+    }
+
+    List<String> foldNames = Lists.newArrayList(trainingFoldsOrig.keySet());
     // Train a model for each fold.
     Map<String, SufficientStatistics> trainedParameters = Maps.newHashMap();
-    for (String foldName : trainingFoldsOrig.keySet()) {
+    for (int i = 0; i < foldsToRun; i++) {
+      String foldName = foldNames.get(i);
       SufficientStatistics parameters = train(family, trainingFolds.get(foldName), options.valueOf(gaussianVariance));
+      // System.out.println(family.getParameterDescription(parameters));
+      
       trainedParameters.put(foldName, parameters);
     }
 
     // Evaluate on each fold.
     int numCorrectTotal = 0;
     int numTotal = 0;
-    for (String testFold : testFolds.keySet()) {
+    for (String testFold : trainedParameters.keySet()) {
       Cvsm model = family.getModelFromParameters(trainedParameters.get(testFold));
       EvaluationResult result = evaluateCvsmModel(model, testFolds.get(testFold));
       numCorrectTotal += result.numCorrect;
@@ -149,6 +163,10 @@ public class VectorModelTrainer extends AbstractCli {
   
   public static String getCategoryTensorName(String domainName) { 
     return "domain:" + domainName + ":category";
+  }
+  
+  public static String getRelationTensorName(String domainName) { 
+    return "domain:" + domainName + ":relation";
   }
   
   // Figure out what tensors are referenced in the training data
@@ -228,6 +246,7 @@ public class VectorModelTrainer extends AbstractCli {
     List<LrtFamily> tensorParameters = Lists.newArrayList();
     
     DiscreteVariable featureVarType = null;
+    DiscreteVariable relFeatureVarType = null;
     
     for (Domain domain : domains) {
       // Get the object features of each object in the domain.
@@ -254,10 +273,36 @@ public class VectorModelTrainer extends AbstractCli {
       tensorNames.add(getCategoryTensorName(domain.getName()));
       tensorParameters.add(new ConstantLrtFamily(categoryFeatures.getVars(),
           new TensorLowRankTensor(categoryFeatures.getWeights())));
+
+      DiscreteFactor relationFeatures = domain.getRelationFamily().getFeatureVectors();
+      truthVar = relationFeatures.getVars().getVariablesByName("truthVal");
+      relationFeatures = relationFeatures.conditional(truthVar.outcomeArrayToAssignment("T"));
+
+      VariableNumMap entity0Var = relationFeatures.getVars().getVariablesByName("grounding0");
+      VariableNumMap entity1Var = relationFeatures.getVars().getVariablesByName("grounding1");
+      VariableNumMap relFeatureVar = relationFeatures.getVars().getVariablesByName("relFeatures");
+
+      if (relFeatureVarType == null) {
+        relFeatureVarType = (DiscreteVariable) relFeatureVar.getOnlyVariable();
+      }
+
+      VariableRelabeling entity0Relabeling = VariableRelabeling.createFromVariables(entity0Var,
+          entity0Var.relabelVariableNums(new int[] {1}));
+      VariableRelabeling entity1Relabeling = VariableRelabeling.createFromVariables(entity1Var,
+          entity1Var.relabelVariableNums(new int[] {2}));
+      VariableRelabeling relFeatureRelabeling = VariableRelabeling.createFromVariables(relFeatureVar,
+          relFeatureVar.relabelVariableNums(new int[] {0}));
+      relationFeatures = (DiscreteFactor) relationFeatures.relabelVariables(
+          entity0Relabeling.union(relFeatureRelabeling).union(entity1Relabeling));
+
+      tensorNames.add(getRelationTensorName(domain.getName()));
+      tensorParameters.add(new ConstantLrtFamily(relationFeatures.getVars(),
+          new TensorLowRankTensor(relationFeatures.getWeights())));
     }
 
     Map<String, DiscreteVariable> generatedVectorDims = Maps.newHashMap();
     generatedVectorDims.put("catFeatures", featureVarType);
+    generatedVectorDims.put("relFeatures", relFeatureVarType);
     for (CvsmExample example : examples) {
       // Initialize tensors for any variables referenced in this formula.
       extractTensorNamesFromExpression(example.getLogicalForm(), tensorNames, tensorParameters, generatedVectorDims);

@@ -7,11 +7,11 @@ import com.jayantkrish.jklol.ccg.lambda.ExpressionParser;
 
 import edu.cmu.ml.rtw.users.jayantk.grounding.GroundingExample;
 
-public class SequenceRnnVectorSpaceModel implements VectorSpaceModelInterface {
+public class BirnnVsm implements VectorSpaceModelInterface {
   
   private final int dimensionality;
 
-  public SequenceRnnVectorSpaceModel(int dimensionality) {
+  public BirnnVsm(int dimensionality) {
     this.dimensionality = dimensionality;
   }
   
@@ -56,7 +56,7 @@ public class SequenceRnnVectorSpaceModel implements VectorSpaceModelInterface {
     if (words.size() == 1) {
       return "t:" + dimensionality + ":" + word;
     } else {
-      String rest = geBackwardExpressionString(words.subList(0, words.size()-1));
+      String rest = getBackwardExpressionString(words.subList(0, words.size()-1));
 	  String W1 = "t:" + dimensionality + ";" + dimensionality + ":W1_b";
 	  String W2 = "t:" + dimensionality + ";" + dimensionality + ":W2_b";
 	  String cur_word = "t:" + dimensionality + ":" + word;

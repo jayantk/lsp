@@ -167,6 +167,10 @@ public class Domain implements Serializable {
   public GroundingFamily getCategoryFamily() {
     return categoryFamily;
   }
+  
+  public GroundingFamily getRelationFamily() {
+    return relationFamily;
+  }
 
   /**
    * Gets the grounding within this domain of {@code relation}, which must be a
