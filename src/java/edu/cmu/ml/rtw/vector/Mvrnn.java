@@ -25,43 +25,51 @@ public class Mvrnn implements VectorSpaceModelInterface {
     List<String> words = example.getWords().get(0);
     String expressionString = getExpressionString(words);
 
-    expressionString = "(op:logistic (op:matvecmul t:catFeatures;" + n + ":output_params " + expressionString + "))";
+    String domainCategoryFeaturesName = VectorModelTrainer.getCategoryTensorName(example.getDomainName());
+    expressionString = "(op:logistic (op:matvecmul " + domainCategoryFeaturesName + " (op:matvecmul t:catFeatures;" + n + ":output_params " + expressionString + ")))";
 
     return ExpressionParser.lambdaCalculus().parseSingleExpression(expressionString);
   }
 
-  private Pair<String, String> getExpressionStringVector(Tree<String> t) {
-		return getExpressionString(t.root.left, t.root.right);
+  private String getExpressionString(Tree<String> t) {
+		Pair<String, String> p = getExpressionStringPair(t.root.left, t.root.right);
+		return "(op:matvecmul " + p.getRight() + " " + p.getLeft() + ")";
   }
 
-	private Pair<String, String> getExpressionString(Node<String> left, Node<String> right) {
+	private Pair<String, String> getExpressionStringPair(Node<String> left, Node<String> right) {
 		String a = "";
 		String b = "";
 		String A = "";
 		String B = "";
 
 		if (left.data == "") {
-			Pair<String, String> p = getExpressionString(left.left, left.right);
+			Pair<String, String> p = getExpressionStringPair(left.left, left.right);
 			a = p.getLeft();
 			A = p.getRight();
 		}
 		else {
+			// Leaf
+			String aw = left.data;
 			a = "t:" + n + ":" + aw;
+			String DA = "(op:diag t:" + n + ":" + aw + ")";
 			String AU = "t:" + n + ";" + r + ":" + aw;
 			String AV = "t:" + r + ";" + n + ":" + aw;
-			A = "(op:matvecmul AU AV)";
+			A = "(op:add (op:matvecmul " + AU + " " + AV + ") " + DA + ")";
 		}
 
 		if (right.data == "") {
-			Pair<String, String> p = getExpressionString(right.left, right.right);
+			Pair<String, String> p = getExpressionStringPair(right.left, right.right);
 			b = p.getLeft();
 			B = p.getRight();
 		}
 		else {
+			// Leaf
+			String bw = right.data;
 			b = "t:" + n + ":" + bw;
+			String DB = "(op:diag t:" + n + ":" + bw + ")";
 			String BU = "t:" + n + ";" + r + ":" + bw;
 			String BV = "t:" + r + ";" + n + ":" + bw;
-			B = "(op:matvecmul BU BV)";
+			B = "(op:add (op:matvecmul " + BU + " " + BV + ") " + DB + ")";
 		}
 
 		String WA = "t:" + n + ";" + n + ":WA";
