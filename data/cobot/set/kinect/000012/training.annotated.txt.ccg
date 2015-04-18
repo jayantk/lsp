@@ -1,0 +1,18 @@
+table/NN	(lambda x (table x))			
+mug/NN	(lambda x (mug x))			
+monitor/NN	(lambda x (monitor x))			
+objects/NNS on/IN the/DT table/NN	(lambda var289350 (exists var929556 (and (objects var289350) (table var929556) (on-rel var289350 var929556))))			
+mug/NN to/TO the/DT right/NN of/IN the/DT monitor/NN	(lambda var735960 (exists var263374 var41207 (and (mug var735960) (right var263374) (monitor var41207) (of-rel var263374 var41207) (to-rel var735960 var263374))))			
+mug/NN in/IN front/NN of/IN the/DT monitor/NN	(lambda var914164 (exists var427653 var941197 (and (mug var914164) (front var427653) (monitor var941197) (of-rel var427653 var941197) (in-rel var914164 var427653))))			
+object/NN behind/IN the/DT mug/NN	(lambda var327934 (exists var770122 (and (object var327934) (mug var770122) (behind-rel var327934 var770122))))			
+object/NN to/TO the/DT right/NN of/IN the/DT other/JJ objects/NNS	(lambda var993674 (exists var285157 var496438 (and (object var993674) (right var285157) (other var496438) (objects var496438) (of-rel var285157 var496438) (to-rel var993674 var285157))))			
+The/DT blue/JJ coffee/NN cup/NN has/VBZ AI/NNP at/IN CMU/NNP printed/VBD on/IN it/PRP	(lambda var95113 (exists var343533 (and (blue var95113) (coffee var95113) (cup var95113) (ai var343533) (has-rel var95113 var343533))))			
+The/DT purple/JJ mug/NN is/VBZ to/TO the/DT left/NN of/IN the/DT blue/JJ mug/NN	(lambda var598002 (exists var13629 var481295 (and (purple var598002) (mug var598002) (left var13629) (blue var481295) (mug var481295) (of-rel var13629 var481295) (is_to-rel var598002 var13629))))			
+The/DT monitor/NN is/VBZ black/JJ	(lambda var849944 (and (monitor var849944) (black var849944)))			
+A/DT violet/NN color/NN cup/NN with/IN tea/NN spoon/NN ,/, which/WDT is/VBZ placed/VBN in/IN front/NN of/IN the/DT desktop/NN computer/NN	(lambda var579462 (exists var488037 (and (violet var579462) (color var579462) (cup var579462) (tea var488037) (spoon var488037) (lambda x (and (= x var488037) (placed x))) (with-rel var579462 var488037))))			
+A/DT blue/JJ color/NN cup/NN is/VBZ placed/VBN alone/RB in/IN the/DT right/JJ side/NN of/IN the/DT computer/NN and/CC violet/NN color/NN tea/NN cup/NN	(lambda var81303 (and (blue var81303) (color var81303) (cup var81303) (placed var81303)))			
+There/EX is/VBZ a/DT computer/NN monitor/NN	(lambda var292982 (and (there var292982) (computer var292982) (monitor var292982)))			
+There/EX are/VBP 2/CD mugs/NNS	(lambda var303603 (and (there var303603) (2 var303603) (mugs var303603)))			
+Two/CD coffee/NN cups/NNS sit/VBP on/IN an/DT off-white/JJ countertop/NN -/: one/CD is/VBZ purple/JJ ,/, the/DT other/JJ is/VBZ blue/JJ	NO LF CONVERSION
+There/EX is/VBZ a/DT computer/NN monitor/NN facing/VBG away/RB from/IN a/DT black/JJ chair/NN	NO PARSE
+There/EX are/VBP 2/CD coffee/NN mugs/NNS on/IN the/DT desk/NN	(lambda var6760 (exists var509494 (and (there var6760) (2 var6760) (coffee var6760) (mugs var6760) (desk var509494) (on-rel var6760 var509494))))			

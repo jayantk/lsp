@@ -1,0 +1,17 @@
+table/NN	(lambda x (table x))			
+monitor/NN	(lambda x (monitor x))			
+mug/NN	(lambda x (mug x))			
+mug/NN to/TO the/DT right/NN of/IN the/DT monitor/NN	(lambda var866952 (exists var517866 var961980 (and (mug var866952) (right var517866) (monitor var961980) (of-rel var517866 var961980) (to-rel var866952 var517866))))			
+mug/NN to/TO the/DT left/NN of/IN the/DT monitor/NN	(lambda var970651 (exists var148344 var357109 (and (mug var970651) (left var357109) (monitor var148344) (of-rel var357109 var148344) (to-rel var970651 var357109))))			
+objects/NNS on/IN the/DT table/NN	(lambda var795531 (exists var936195 (and (objects var795531) (table var936195) (on-rel var795531 var936195))))			
+objects/NNS beside/IN the/DT monitor/NN	(lambda var356452 (exists var532249 (and (objects var356452) (monitor var532249) (beside-rel var356452 var532249))))			
+monitor/NN on/IN the/DT table/NN	(lambda var202657 (exists var895052 (and (monitor var202657) (table var895052) (on-rel var202657 var895052))))			
+mugs/NNS on/IN the/DT table/NN	(lambda var896772 (exists var851370 (and (mugs var896772) (table var851370) (on-rel var896772 var851370))))			
+There/EX are/VBP two/CD mugs/NNS on/IN the/DT table/NN	(lambda var150914 (exists var837670 (and (there var150914) (two var150914) (mugs var150914) (table var837670) (on-rel var150914 var837670))))			
+cup/NN on/IN the/DT table/NN	(lambda var116450 (exists var522968 (and (cup var116450) (table var522968) (on-rel var116450 var522968))))			
+The/DT monitor/NN is/VBZ off/IN which/WDT is/VBZ on/IN the/DT table/NN	NO PARSE
+There/EX is/VBZ a/DT computer/NN monitor/NN	(lambda var569793 (and (there var569793) (computer var569793) (monitor var569793)))			
+There/EX are/VBP 2/CD mugs/NNS	(lambda var163361 (and (there var163361) (2 var163361) (mugs var163361)))			
+It/PRP is/VBZ a/DT LCD/NNS monitor/VBP	(lambda var210893 (and (it var210893) (lcd var210893) (monitor var210893)))			
+Two/CD cups/NNS are/VBP on/IN the/DT table/NN	(lambda var948937 (exists var619180 (and (two var948937) (cups var948937) (table var619180) (are_on-rel var948937 var619180))))			
+blue/JJ is/VBZ the/DT color/NN of/IN one/CD of/IN the/DT cup/NN	NO LF CONVERSION

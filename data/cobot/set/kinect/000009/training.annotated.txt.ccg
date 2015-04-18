@@ -1,0 +1,22 @@
+table/NN	(lambda x (table x))			
+mug/NN	(lambda x (mug x))			
+monitor/NN	(lambda x (monitor x))			
+objects/NNS to/TO the/DT left/NN of/IN the/DT monitor/NN	(lambda var650363 (exists var464107 var717378 (and (objects var650363) (left var717378) (monitor var464107) (of-rel var717378 var464107) (to-rel var650363 var717378))))			
+mugs/NNS to/TO the/DT left/NN of/IN the/DT monitor/NN	(lambda var240945 (exists var11780 var173669 (and (mugs var240945) (left var11780) (monitor var173669) (of-rel var11780 var173669) (to-rel var240945 var11780))))			
+objects/NNS to/TO the/DT right/NN of/IN the/DT mugs/NNS	(lambda var888416 (exists var453453 var686436 (and (objects var888416) (right var686436) (mugs var453453) (of-rel var686436 var453453) (to-rel var888416 var686436))))			
+mug/NN to/TO the/DT right/NN of/IN the/DT other/JJ mug/NN	(lambda var215929 (exists var307625 var466393 (and (mug var215929) (right var307625) (other var466393) (mug var466393) (of-rel var307625 var466393) (to-rel var215929 var307625))))			
+mug/NN to/TO the/DT left/NN of/IN the/DT other/JJ mug/NN	(lambda var395275 (exists var528214 var987744 (and (mug var395275) (left var987744) (other var528214) (mug var528214) (of-rel var987744 var528214) (to-rel var395275 var987744))))			
+objects/NNS on/IN the/DT table/NN	(lambda var281620 (exists var379460 (and (objects var281620) (table var379460) (on-rel var281620 var379460))))			
+mugs/NNS on/IN the/DT table/NN	(lambda var577532 (exists var130327 (and (mugs var577532) (table var130327) (on-rel var577532 var130327))))			
+A/DT computer/NN monitor/NN is/VBZ on/IN the/DT table/NN	(lambda var994833 (exists var224241 (and (computer var994833) (monitor var994833) (table var224241) (is_on-rel var994833 var224241))))			
+Two/CD cups/NNS dark/JJ blue/JJ and/CC light/JJ blue/JJ are/VBP near/IN the/DT computer/NN monitor/NN	NO LF CONVERSION
+two/CD cups/NNS are/VBP in/IN the/DT computer/NN room/NN	(lambda var797976 (exists var307120 (and (two var797976) (cups var797976) (computer var307120) (room var307120) (are_in-rel var797976 var307120))))			
+two/CD cups/NNS are/VBP placed/VBN in/IN front/NN of/IN desktop/NN	(lambda var66535 (and (two var66535) (cups var66535) (placed var66535)))			
+sky/NN blue/JJ cup/NN is/VBZ very/RB near/JJ to/TO the/DT computer/NN	(lambda var606945 (and (sky var606945) (blue var606945) (cup var606945) (near var606945)))			
+One/CD mug/NN has/VBZ writing/VBG on/IN it/PRP	NO LF CONVERSION
+The/DT tea/NN cups/NNS are/VBP beside/IN the/DT black/JJ monitor/NN on/IN the/DT table/NN	(lambda var899551 (exists var140133 var900427 (and (tea var899551) (cups var899551) (black var140133) (monitor var140133) (table var900427) (on-rel var140133 var900427) (are_unk-in-rel var899551 var140133))))			
+The/DT black/JJ monitor/NN is/VBZ not/RB on/IN	NO PARSE
+A/DT computer/NN monitor/NN on/IN the/DT table/NN	(lambda var502823 (exists var987628 (and (computer var502823) (monitor var502823) (table var987628) (on-rel var502823 var987628))))			
+Two/CD coffee/NN containers/NNS on/IN the/DT table/NN	(lambda var244588 (exists var108729 (and (two var244588) (coffee var244588) (containers var244588) (table var108729) (on-rel var244588 var108729))))			
+There/EX is/VBZ a/DT personal/JJ computer/NN placed/VBN on/IN the/DT table/NN	(lambda var742716 (exists var798297 (and (there var742716) (personal var742716) (computer var742716) (table var798297) (placed_on-rel var742716 var798297))))			
+There/EX is/VBZ a/DT deep/JJ blue/JJ colored/VBN coffee/NN mug/NN kept/VBD very/RB near/JJ to/TO the/DT computer/NN	(lambda var306183 (and (there var306183) (deep var306183) (blue var306183) (colored var306183) (coffee var306183) (mug var306183) (near var306183)))			

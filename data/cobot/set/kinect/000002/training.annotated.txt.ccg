@@ -1,0 +1,14 @@
+table/NN	(lambda x (table x))			
+mug/NN	(lambda x (mug x))			
+monitor/NN	(lambda x (monitor x))			
+objects/NNS on/IN the/DT table/NN	(lambda var428594 (exists var801702 (and (objects var428594) (table var801702) (on-rel var428594 var801702))))			
+mug/NN to/TO the/DT right/NN of/IN the/DT monitor/NN	(lambda var738677 (exists var101099 var789889 (and (mug var738677) (right var101099) (monitor var789889) (of-rel var101099 var789889) (to-rel var738677 var101099))))			
+mug/NN to/TO the/DT left/NN of/IN the/DT monitor/NN	(lambda var923570 (exists var761162 var842244 (and (mug var923570) (left var761162) (monitor var842244) (of-rel var761162 var842244) (to-rel var923570 var761162))))			
+mugs/NNS on/IN the/DT table/NN	(lambda var248834 (exists var545034 (and (mugs var248834) (table var545034) (on-rel var248834 var545034))))			
+There/EX are/VBP two/CD coffee/NN mugs/NNS on/IN the/DT desk/NN ,/, one/CD is/VBZ blue/JJ the/DT other/JJ is/VBZ purple/JJ	NO LF CONVERSION
+There/EX is/VBZ a/DT dell/NN monitor/NN sitting/VBG on/IN the/DT dirty/JJ counter/NN top/NN	(lambda var134082 (and (there var134082) (dell var134082) (monitor var134082) (sitting var134082)))			
+There/EX are/VBP two/CD cups/NNS and/CC a/DT monitor/NN between/IN them/PRP on/IN the/DT table/NN	(lambda var622319 (forall (var937623 (set (lambda var416684 (and (two var416684) (cups var416684))) (lambda var486302 (monitor var486302)))) (exists var151041 var709973 (and (there var622319) (var937623 var622319) (them var151041) (between-rel var622319 var151041) (table var709973) (on-rel var622319 var709973)))))			
+There/EX are/VBP a/DT monitor/NN on/IN the/DT table/NN with/IN two/CD cups/NNS in/IN the/DT flanks/NNS	(lambda var617924 (exists var236031 var563215 var570390 (and (there var617924) (monitor var617924) (table var563215) (two var236031) (cups var236031) (flanks var570390) (in-rel var236031 var570390) (with-rel var563215 var236031) (on-rel var617924 var563215))))			
+The/DT computer/NN monitor/NN is/VBZ on/IN the/DT desk/NN	(lambda var818281 (exists var840150 (and (computer var818281) (monitor var818281) (desk var840150) (is_on-rel var818281 var840150))))			
+The/DT blue/JJ mug/NN is/VBZ to/TO the/DT left/NN of/IN the/DT monitor/NN	(lambda var292286 (exists var512589 var973009 (and (blue var292286) (mug var292286) (left var973009) (monitor var512589) (of-rel var973009 var512589) (is_to-rel var292286 var973009))))			
+The/DT purple/JJ mug/NN has/VBZ writing/VBG	NO LF CONVERSION
