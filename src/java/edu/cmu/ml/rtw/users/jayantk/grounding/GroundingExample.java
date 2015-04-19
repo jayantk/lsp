@@ -25,7 +25,7 @@ import com.jayantkrish.jklol.tensor.Tensor;
 public class GroundingExample implements Serializable {
 
   private final List<List<String>> words;
-    private final double[] wordScores;
+  private final double[] wordScores;
   private final String relationName;
   private final Tensor groundingTensor;
   private final String domainName;
@@ -33,8 +33,8 @@ public class GroundingExample implements Serializable {
   // For curriculum learning. Lower levels get trained on first.
   private final int curriculumLevel;
 
-    // Annotated logical form
-    private final Expression logicalForm;
+  // Annotated logical form
+  private final Expression logicalForm;
 
   /**
    * Create a grounding example consisting of {@code words} paired with
