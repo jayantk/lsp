@@ -28,9 +28,9 @@ LEXICON
 ".*","(NP/PP)/PP","(lambda g (lambda f (lambda x (exists y z (and (<lc_word> x) (<lc_word>_<arg_1>-rel x y) (f y) (<lc_word>_<arg_2>-rel x z) (g z))))))","F"
 ".*","(S[wq]/(S[dcl]\\NP))","(lambda f (f (lambda x (= query-var x))))","F"
 ".*","(S[wq]/(S[dcl]/NP))","(lambda f (f (lambda x (= query-var x))))","F"
-".*","(NP/(S[dcl]\\NP))","(lambda f (lambda y (f (lambda x (= y x)))))","F"
-".*","(NP/(S[dcl]/NP))","(lambda f (lambda y (f (lambda x (= y x)))))","F"
-".*","((NP\\NP)/(S[0]\\NP))","(lambda f (lambda g (lambda x (and (g x) (f (lambda y (= y x )))))))","F"
+".*","(NP/(S[dcl]\\NP))","(lambda f (lambda y (exists z ((f (lambda x (= y x))) z))))","F"
+".*","(NP/(S[dcl]/NP))","(lambda f (lambda y (exists z ((f (lambda x (= y x))) z))))","F"
+".*","((NP\\NP)/(S[0]\\NP))","(lambda f (lambda g (lambda x (and (g x) (exists z ((f (lambda y (= y x ))) z))))))","F"
 ".*","conj","conj","F"
 
 BINARY RULES
