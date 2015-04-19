@@ -1,0 +1,5 @@
+
+# Do not include temporary files
+*.swp
+*.pyc
+*.aux
