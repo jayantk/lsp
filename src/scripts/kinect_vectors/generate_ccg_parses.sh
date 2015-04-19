@@ -17,7 +17,7 @@ do
     ./src/scripts/kinect_vectors/extract_pos_tags.py $IN $OUT
 
     echo "CCG $OUT -> $CCG_OUT" 
-    ./src/scripts/invoke.pl com.jayantkrish.jklol.cvsm.ccg.ParseToLogicalForm --parser $PARSER --supertagger $SUPERTAGGER --multitagThreshold 0.1,0.05,0.01,0.001 --inputFile $OUT --lfTemplates $LF_TEMPLATES --noPrintOptions > $CCG_OUT
+    ./src/scripts/invoke.pl com.jayantkrish.jklol.cvsm.ccg.ParseToLogicalForm --parser $PARSER --supertagger $SUPERTAGGER --multitagThreshold 0.01,0.001 --inputFile $OUT --lfTemplates $LF_TEMPLATES --noPrintOptions > $CCG_OUT
 done
 
 

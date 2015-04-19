@@ -53,6 +53,7 @@ BINARY RULES
 UNARY RULES
 "S[0]\\NP","NP\\NP","(lambda $1 (lambda f ($1 f)))"
 "S[0]/NP","NP\\NP","(lambda $1 (lambda f ($1 f)))"
+"S[0]\\NP","NP","(lambda $1 ($1 (lambda x (kb-ignore x))))"
 "N","NP","(lambda $1 $1)"
 "N","(S[0]/(S[0]\\NP))","(lambda $1 (lambda f (f $1)))"
 "NP","(S[0]/(S[0]\\NP))","(lambda $1 (lambda f (f $1)))"
