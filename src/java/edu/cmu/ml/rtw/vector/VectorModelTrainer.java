@@ -98,6 +98,10 @@ public class VectorModelTrainer extends AbstractCli {
       vsmInterface = new SequenceRnnVectorSpaceModel(100);
     } else if (modelName.equals("logicalFormNn")) {
       vsmInterface = new LogicalFormVectorSpaceModel();
+    } else if (modelName.equals("Mvrnn")) {
+      vsmInterface = new MvrnnVsm(100, 3);
+    } else if (modelName.equals("Birnn")) {
+      vsmInterface = new BirnnVsm(100);
     }
     
     Preconditions.checkState(vsmInterface != null);
