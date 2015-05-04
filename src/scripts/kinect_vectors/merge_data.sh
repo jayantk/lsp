@@ -12,7 +12,7 @@ do
     TEMP="$f/training.temp.txt"
     TEMP2="$f/training.temp2.txt"
 
-    grep -v '^\*' $IN > $TEMP
+    grep -v '^\*' $IN | sed 's/\([^)]\)$/\1;/g' > $TEMP
     cut -f2 $CCG > $TEMP2
 
     paste -d ';' $TEMP $PARSED $TEMP2 > $MERGED
