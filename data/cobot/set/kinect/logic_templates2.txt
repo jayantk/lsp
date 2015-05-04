@@ -48,6 +48,7 @@ BINARY RULES
 "NP",":","NP","(lambda $L $R $L)"
 "NP","NP","NP","(lambda $L $R $R)"
 "S[0]",".","S[0]","(lambda $L $R $L)"
+"S[0]",",","(S[0]\\S[0])","(lambda $L $R (lambda x (and ($L x) ($R x))))"
 "(S[0]\\NP)",".","(S[0]\\NP)","(lambda $L $R $L)"
 
 UNARY RULES
