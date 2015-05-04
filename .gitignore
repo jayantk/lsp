@@ -1,4 +1,4 @@
 
 # Do not include temporary vim files
 *.swp
-/bin/
+*~

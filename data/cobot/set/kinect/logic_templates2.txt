@@ -42,12 +42,13 @@ BINARY RULES
 "conj","N","(NP[0]\\N)","(lambda $L $R (lambda f (lambda x (forall (pred (set f $R)) (pred x)))))"
 "conj","N","(NP[0]\\NP)","(lambda $L $R (lambda f (lambda x (forall (pred (set f $R)) (pred x)))))"
 "conj","NP","(NP[0]\\NP)","(lambda $L $R (lambda f (lambda x (forall (pred (set f $R)) (pred x)))))"
+"conj","S[0]","(S[0]\\S[0])","(lambda $L $R (lambda $1 (lambda x (and ($R x) ($1 x)))))"
+",","S[0]","(S[0]\\S[0])","(lambda $L $R (lambda $1 (lambda x (and ($R x) ($1 x)))))"
 "N",",","N","(lambda $L $R $L)"
 "N",",","NP","(lambda $L $R $L)"
 "NP",",","NP","(lambda $L $R $L)"
 "NP",":","NP","(lambda $L $R $L)"
 "NP","NP","NP","(lambda $L $R $R)"
-"S[0]",".","S[0]","(lambda $L $R $L)"
 "(S[0]\\NP)",".","(S[0]\\NP)","(lambda $L $R $L)"
 
 UNARY RULES
@@ -58,5 +59,4 @@ UNARY RULES
 "N","(S[0]/(S[0]\\NP))","(lambda $1 (lambda f (f $1)))"
 "NP","(S[0]/(S[0]\\NP))","(lambda $1 (lambda f (f $1)))"
 "NP","S[dcl]","(lambda $1 $1)"
-
 
