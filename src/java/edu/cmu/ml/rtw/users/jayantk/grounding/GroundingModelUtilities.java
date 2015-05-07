@@ -92,7 +92,7 @@ public class GroundingModelUtilities implements Serializable {
         String relationName = parts[0].substring(1);
         convertedData.add(new GroundingExample(relationName, outputTensor, domainName, curriculumLevel, logicalForm));
       } else {
-        List<String> input = Arrays.asList(parts[0].split("[ ,]"));
+        List<String> input = Arrays.asList(parts[0].toLowerCase().split("[ ,]"));
         List<List<String>> inputCandidates = new ArrayList<List<String>>();
         double[] inputScores = new double[] { 0 };
         inputCandidates.add(input);
