@@ -1,5 +1,8 @@
 #!/bin/bash -e
 
+# lowercase words
+# tanh logistic
+
 # iterations 10 100
 # l2Regularization 0.001 0.01 0.1 1
 # initialStepSize 0.1
