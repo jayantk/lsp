@@ -17,7 +17,6 @@ import com.jayantkrish.jklol.ccg.lambda.ForAllExpression;
 import com.jayantkrish.jklol.ccg.lambda.LambdaExpression;
 import com.jayantkrish.jklol.ccg.lambda.QuantifierExpression;
 import com.jayantkrish.jklol.util.Pair;
-import com.sun.org.apache.xalan.internal.xsltc.compiler.sym;
 
 import edu.cmu.ml.rtw.users.jayantk.grounding.GroundingExample;
 
@@ -70,7 +69,7 @@ public class LogicalFormVectorSpaceModel implements VectorSpaceModelInterface {
     } else {
       subexpressions.add(body);
     }
-    
+
     return getExpressionStringConjunction(subexpressions, arg, domainName);
   }
 

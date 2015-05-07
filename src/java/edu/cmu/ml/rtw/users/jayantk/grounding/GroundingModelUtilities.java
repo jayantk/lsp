@@ -73,7 +73,7 @@ public class GroundingModelUtilities implements Serializable {
         curriculumLevel = Integer.parseInt(parts[2]);
       }
 
-      if (parts.length > 3 && !parts[3].isEmpty()) {
+      if (parts.length > 3 && !parts[3].replaceAll(" ", "").isEmpty()) {
         logicalForm = parser.parseSingleExpression(parts[3]);
       }
       
