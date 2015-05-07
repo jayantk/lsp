@@ -350,6 +350,7 @@ public class VectorModelTrainer extends AbstractCli {
     GradientOracle<Cvsm, CvsmExample> oracle = new CvsmLoglikelihoodOracle(family, loss);
     
     SufficientStatistics initialParameters = family.getNewSufficientStatistics();
+    family.initializeParametersToIdentity(initialParameters);
     if (gaussianVariance > 0.0) {
       initialParameters.perturb(gaussianVariance);
     }
