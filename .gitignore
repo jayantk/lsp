@@ -1,6 +1,4 @@
 
 # Do not include temporary vim files
 *.swp
-
-# Do not include temporary emacs files
 *~

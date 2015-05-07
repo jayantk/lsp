@@ -34,8 +34,11 @@ public class BirnnVsm implements VectorSpaceModelInterface {
     } else {
 		String s1 = getForwardExpressionString(words);
 		String s2 = getBackwardExpressionString(words);
+		String W1 = "t:" + dimensionality + ";" + dimensionality + ":Wf";
+		String W2 = "t:" + dimensionality + ";" + dimensionality + ":Wb";
 
-      return "(op:logistic " + s1 + " " + s2 + ")";
+      return "(op:logistic (op:add (op:matvecmul " + W1 + " " + s1 + ") " + 
+		  "(op:matvecmul " + W2 + " " + s2 + ")))";
     }
   }
   
