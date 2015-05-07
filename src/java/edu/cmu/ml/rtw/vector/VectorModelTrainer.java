@@ -147,6 +147,7 @@ public class VectorModelTrainer extends AbstractCli {
     Map<String, SufficientStatistics> trainedParameters = Maps.newHashMap();
     for (int i = 0; i < foldsToRun; i++) {
       String foldName = foldNames.get(i);
+			/*
 			for (CvsmExample c : trainingFolds.get(foldName)) {
 				String t = "";
 				String s = "";
@@ -167,6 +168,7 @@ public class VectorModelTrainer extends AbstractCli {
 				}
 				System.out.println("Fold:\n" + s);
 			}
+			*/
       SufficientStatistics parameters = train(family, trainingFolds.get(foldName), options.valueOf(gaussianVariance));
       // System.out.println(family.getParameterDescription(parameters));
       
