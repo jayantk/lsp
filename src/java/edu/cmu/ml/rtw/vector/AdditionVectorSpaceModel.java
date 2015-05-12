@@ -15,7 +15,7 @@ public class AdditionVectorSpaceModel implements VectorSpaceModelInterface {
     String expressionString = getExpressionString(words);
 
     String domainCategoryFeaturesName = VectorModelTrainer.getCategoryTensorName(example.getDomainName());
-    expressionString = "(op:logistic (op:matvecmul " + domainCategoryFeaturesName + " " + expressionString + "))";
+    expressionString = "(op:matvecmul " + domainCategoryFeaturesName + " " + expressionString + ")";
 
     return ExpressionParser.lambdaCalculus().parseSingleExpression(expressionString);
   }

@@ -37,7 +37,6 @@ public class LogicalFormVectorSpaceModel implements VectorSpaceModelInterface {
     } else {
       expressionString = getExpressionString(example.getLogicalForm(), example.getDomainName());
     }
-    expressionString = "(op:logistic " + expressionString + ")";
     return ExpressionParser.lambdaCalculus().parseSingleExpression(expressionString);
   }
 
@@ -47,7 +46,6 @@ public class LogicalFormVectorSpaceModel implements VectorSpaceModelInterface {
       String categoryTensorName = VectorModelTrainer.getCategoryTensorName(domainName);
       return "(op:matvecmul " + categoryTensorName + " " + unknownFuncVector + ")";
     }
-    System.out.println(logicalForm);
     
     logicalForm = logicalForm.simplify();
     Preconditions.checkArgument(logicalForm instanceof LambdaExpression);

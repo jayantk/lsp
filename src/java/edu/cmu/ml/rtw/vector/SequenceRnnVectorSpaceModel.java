@@ -34,8 +34,8 @@ public class SequenceRnnVectorSpaceModel implements VectorSpaceModelInterface {
     String expressionString = getExpressionString(words);
     
     String domainCategoryFeaturesName = VectorModelTrainer.getCategoryTensorName(example.getDomainName());
-    expressionString = "(op:logistic (op:matvecmul " + domainCategoryFeaturesName + " (op:matvecmul t:catFeatures;"
-        + dimensionality + ":output_params " + expressionString + ")))";
+    expressionString = "(op:matvecmul " + domainCategoryFeaturesName + " (op:matvecmul t:catFeatures;"
+        + dimensionality + ":output_params " + expressionString + "))";
 
     return ExpressionParser.lambdaCalculus().parseSingleExpression(expressionString);
   }

@@ -30,7 +30,7 @@ public class SequenceRnnVectorSpaceModel2 implements VectorSpaceModelInterface {
     List<String> words = example.getWords().get(0);
     String expressionString = getExpressionString(words);
 
-    expressionString = "(op:logistic (op:matvecmul t:catFeatures;" + dimensionality + ":output_params " + expressionString + "))";
+    expressionString = "(op:matvecmul t:catFeatures;" + dimensionality + ":output_params " + expressionString + ")";
 
     return ExpressionParser.lambdaCalculus().parseSingleExpression(expressionString);
   }
