@@ -27,6 +27,7 @@ import com.jayantkrish.jklol.cvsm.Cvsm;
 import com.jayantkrish.jklol.cvsm.CvsmExample;
 import com.jayantkrish.jklol.cvsm.CvsmFamily;
 import com.jayantkrish.jklol.cvsm.CvsmLoglikelihoodOracle;
+import com.jayantkrish.jklol.cvsm.CvsmLoglikelihoodOracle.CvsmHingeElementwiseLoss;
 import com.jayantkrish.jklol.cvsm.CvsmLoglikelihoodOracle.CvsmKlElementwiseLoss;
 import com.jayantkrish.jklol.cvsm.CvsmLoglikelihoodOracle.CvsmLoss;
 import com.jayantkrish.jklol.cvsm.LrtFamily;
@@ -65,6 +66,8 @@ public class VectorModelTrainer extends AbstractCli {
   private OptionSpec<Double> gaussianVariance;
   private OptionSpec<Integer> numFoldsToRun;
   private OptionSpec<Integer> dimension;
+  
+  private OptionSpec<Void> hingeLoss;
 
   public VectorModelTrainer() {
     super(CommonOptions.STOCHASTIC_GRADIENT, CommonOptions.MAP_REDUCE,
@@ -80,6 +83,7 @@ public class VectorModelTrainer extends AbstractCli {
 
     gaussianVariance = parser.accepts("gaussianVariance").withRequiredArg().ofType(Double.class).defaultsTo(0.0);
     numFoldsToRun = parser.accepts("numFoldsToRun").withRequiredArg().ofType(Integer.class);
+    hingeLoss = parser.accepts("hingeLoss");
   }
 
   @Override
@@ -170,10 +174,15 @@ public class VectorModelTrainer extends AbstractCli {
 				System.out.println("Fold:\n" + s);
 			}
 			*/
-      SufficientStatistics parameters = train(family, trainingFolds.get(foldName), options.valueOf(gaussianVariance));
+      SufficientStatistics parameters = train(family, trainingFolds.get(foldName),
+          options.valueOf(gaussianVariance), options.has(hingeLoss));
       // System.out.println(family.getParameterDescription(parameters));
       
       trainedParameters.put(foldName, parameters);
+      
+      Cvsm model = family.getModelFromParameters(parameters);
+      System.out.println("TRAINING ERROR");
+      evaluateCvsmModel(model, trainingFolds.get(foldName));
     }
 
     // Evaluate on each fold.
@@ -293,8 +302,6 @@ public class VectorModelTrainer extends AbstractCli {
       IndexedList<String> domainNames, VectorSpaceModelInterface vectorSpaceModel) {
     // convert to cvsm example using CCG parse and templates
     Expression cvsmFormula = vectorSpaceModel.getFormula(example);
-
-    System.out.println(cvsmFormula.toString());
     
     Domain domain = domains.get(domainNames.getIndex(example.getDomainName()));
     VariableNumMap vars = domain.getCategoryFamily().getFeatureVectors().getVars();
@@ -303,7 +310,6 @@ public class VectorModelTrainer extends AbstractCli {
     vars = vars.removeAll(featureVar);
     Tensor grounding = new TableFactor(vars, example.getGrounding()).conditional(truthVar.outcomeArrayToAssignment("T")).getWeights();
     grounding = DenseTensor.copyOf(grounding);
-    System.out.println(Arrays.toString(grounding.getDimensionNumbers()));
     
     return new CvsmExample(cvsmFormula, grounding, null);
   }
@@ -381,9 +387,15 @@ public class VectorModelTrainer extends AbstractCli {
     return new CvsmFamily(tensorNames, tensorParameters);
   }
 
-  private SufficientStatistics train(CvsmFamily family, Collection<CvsmExample> examples, double gaussianVariance) {
+  private SufficientStatistics train(CvsmFamily family, Collection<CvsmExample> examples,
+      double gaussianVariance, boolean useHingeLoss) {
     // An elementwise log-loss for binary elements.
-    CvsmLoss loss = new CvsmKlElementwiseLoss();
+    CvsmLoss loss = null;
+    if (useHingeLoss) {
+      loss = new CvsmHingeElementwiseLoss();
+    } else {
+      loss = new CvsmKlElementwiseLoss();
+    }
 
     // TODO: this can also be a max-margin loss
     GradientOracle<Cvsm, CvsmExample> oracle = new CvsmLoglikelihoodOracle(family, loss);
@@ -407,9 +419,9 @@ public class VectorModelTrainer extends AbstractCli {
     int total = 0;
     for (CvsmExample example : examples) {
       System.out.println(example.getLogicalForm());
-      Tensor predictionProbabilities = model.getInterpretationTree(example.getLogicalForm()).getValue().getTensor();
-      System.out.println(Arrays.toString(predictionProbabilities.getValues()));
-      Tensor predictions = DenseTensor.copyOf(predictionProbabilities.findKeysLargerThan(0.5));
+      Tensor predictionLogProbabilities = model.getInterpretationTree(example.getLogicalForm()).getValue().getTensor();
+      System.out.println(Arrays.toString(predictionLogProbabilities.getValues()));
+      Tensor predictions = DenseTensor.copyOf(predictionLogProbabilities.findKeysLargerThan(0));
       System.out.println(Arrays.toString(predictions.getValues()));
       System.out.println(Arrays.toString(example.getTargets().getValues()));
       

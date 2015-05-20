@@ -25,7 +25,7 @@ for VAR in ${GAUSSIAN_VARIANCE[@]}; do
 for NAME in ${VECTOR_MODEL_NAME[@]}; do
 for DIM in ${DIMENSIONALITY[@]}; do
 
-    f=$OUT_DIR/$NAME.$ITER.$L2.$STEP.$VAR.$DIM
+    f=$OUT_DIR/$NAME.iter=$ITER.l2=$L2.step=$STEP.var=$VAR.dim=$DIM
 
     CMD="./singlenode.pl ./src/scripts/invoke.pl -Xmx10000M edu.cmu.ml.rtw.vector.VectorModelTrainer --domainDir data/cobot/set/kinect/ --trainingFilename training.annotated.txt.merged -iterations $ITER --batchSize 1 --l2Regularization $L2 --initialStepSize $STEP --logInterval 1000 --gaussianVariance $VAR --vectorModelName $NAME --dim $DIM --adagrad > $f"
 

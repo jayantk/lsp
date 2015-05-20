@@ -21,8 +21,8 @@ public class BirnnVsm implements VectorSpaceModelInterface {
     String expressionString = getExpressionStringFirstLast(words);
 
     String domainCategoryFeaturesName = VectorModelTrainer.getCategoryTensorName(example.getDomainName());
-    expressionString = "(op:logistic (op:matvecmul " + domainCategoryFeaturesName + "(op:tanh (op:matvecmul t:catFeatures;"
-        + dimensionality + ":output_params " + expressionString + "))))";
+    expressionString = "(op:matvecmul " + domainCategoryFeaturesName + "(op:tanh (op:matvecmul t:catFeatures;"
+        + dimensionality + ":output_params " + expressionString + ")))";
 
     return ExpressionParser.lambdaCalculus().parseSingleExpression(expressionString);
   }
