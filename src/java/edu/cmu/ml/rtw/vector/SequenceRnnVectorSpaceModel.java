@@ -34,8 +34,8 @@ public class SequenceRnnVectorSpaceModel implements VectorSpaceModelInterface {
     String expressionString = getExpressionString(words);
     
     String domainCategoryFeaturesName = VectorModelTrainer.getCategoryTensorName(example.getDomainName());
-    expressionString = "(op:logistic (op:matvecmul " + domainCategoryFeaturesName + " (op:matvecmul t:catFeatures;"
-        + dimensionality + ":output_params " + expressionString + ")))";
+    //expressionString = "(op:logistic (op:matvecmul " + domainCategoryFeaturesName + " (op:matvecmul t:catFeatures;" + dimensionality + ":output_params " + expressionString + ")))";
+    expressionString = "(op:logistic (op:matvecmul " + domainCategoryFeaturesName + " (op:matvecmul t:catFeatures;" + dimensionality + ":output_params " + expressionString + ")))";
 
     return ExpressionParser.lambdaCalculus().parseSingleExpression(expressionString);
   }
@@ -48,14 +48,14 @@ public class SequenceRnnVectorSpaceModel implements VectorSpaceModelInterface {
     String wordMatrixParams = "t:" + dimensionality + ";" + dimensionality  + ":word_matrix_params";
     String wordBiasParams = "t:" + dimensionality + ":word_bias";
 
-    String wordSeqString = "(" + sigmoidOp + " (op:add (op:matvecmul " + wordMatrixParams + " " + wordParam + ") " + wordBiasParams + "))";
+    //String wordSeqString = "(op:add (op:matvecmul " + wordMatrixParams + " " + wordParam + ") " + wordBiasParams + ")";
+    String wordSeqString = wordParam;
     
     if (words.size() == 1) {
       return wordSeqString;
     } else {
       String rest = getExpressionString(words.subList(1, words.size()));
-      return "(" + sigmoidOp + " (op:add " + wordSeqString + " " + transitionBiasParams + " (op:matvecmul "
-          + transitionParams + " " + rest + ")))";
+      return "(op:tanh (op:add " + wordSeqString + " " + transitionBiasParams + " (op:matvecmul " + transitionParams + " " + rest + ")))";
     }
   }
 }

@@ -15,7 +15,8 @@ public class AdditionVectorSpaceModel implements VectorSpaceModelInterface {
     String expressionString = getExpressionString(words);
 
     String domainCategoryFeaturesName = VectorModelTrainer.getCategoryTensorName(example.getDomainName());
-    expressionString = "(op:logistic (op:matvecmul " + domainCategoryFeaturesName + " " + expressionString + "))";
+    //expressionString = "(op:logistic (op:matvecmul " + domainCategoryFeaturesName + " " + expressionString + "))";
+    expressionString = "(op:logistic (op:matvecmul " + domainCategoryFeaturesName + " (op:matvecmul t:catFeatures;50:output_params " + expressionString + ")))";
 
     return ExpressionParser.lambdaCalculus().parseSingleExpression(expressionString);
   }
@@ -23,10 +24,10 @@ public class AdditionVectorSpaceModel implements VectorSpaceModelInterface {
   private String getExpressionString(List<String> words) {
     String word = words.get(0);
     if (words.size() == 1) {
-      return "t:catFeatures:" + word;
+      return "(op:tanh t:50:" + word + ")";
     } else {
       String rest = getExpressionString(words.subList(1, words.size()));
-      return "(op:add t:catFeatures:" + word + " " + rest + ")";
+      return "(op:add (op:tanh t:50:" + word + ") " + rest + ")";
     }
   }
 }

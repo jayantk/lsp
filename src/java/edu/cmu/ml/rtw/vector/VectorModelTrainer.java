@@ -31,6 +31,7 @@ import com.jayantkrish.jklol.cvsm.CvsmLoglikelihoodOracle.CvsmKlElementwiseLoss;
 import com.jayantkrish.jklol.cvsm.CvsmLoglikelihoodOracle.CvsmLoss;
 import com.jayantkrish.jklol.cvsm.LrtFamily;
 import com.jayantkrish.jklol.cvsm.TensorLrtFamily;
+import com.jayantkrish.jklol.cvsm.OpLrtFamily;
 import com.jayantkrish.jklol.cvsm.lrt.TensorLowRankTensor;
 import com.jayantkrish.jklol.models.DiscreteFactor;
 import com.jayantkrish.jklol.models.DiscreteVariable;
@@ -241,7 +242,45 @@ public class VectorModelTrainer extends AbstractCli {
         tensorNames.add(name);
         parameters.add(new TensorLrtFamily(varNumMap));
       }
-    } else if (expression instanceof ApplicationExpression) {
+			else if (name.startsWith("tlr:") && !tensorNames.contains(name)) {
+        // Parse the tensor name to figure out the dimensionality
+        // of this tensor.
+        String[] parts = name.split(":");
+        Preconditions.checkArgument(parts.length >= 2,
+          "Invalid expression: %r. Tensor parameters are specified using the notation t:<dims1>;<dims2>;...:<parameter name>",
+          name);
+
+        // Dimensions can be specified using named variables
+        // (which must be given as part of generatedVectorSizes),
+        // or using numbers, which are parsed out and variables
+        // are generated for them.
+				int lowRank = Integer.parseInt(parts[1]);
+        String[] dimParts = parts[2].split(";");
+        Variable[] vars = new Variable[dimParts.length];
+        int[] varNums = new int[dimParts.length]; 
+
+        for (int i = 0; i < dimParts.length; i++) {
+          if (generatedVectorSizes.containsKey(dimParts[i])) {
+            vars[i] = generatedVectorSizes.get(dimParts[i]);
+          } else {
+            int size = Integer.parseInt(dimParts[i]);
+            DiscreteVariable var = DiscreteVariable.sequence(dimParts[i], size);
+            generatedVectorSizes.put(dimParts[i], var);
+            vars[i] = var;
+          }
+          
+          // Give the rightmost dimension the lowest variable number,
+          // which makes it the first dimension eliminated by 
+          // multiplication.
+          varNums[i] = dimParts.length - (i + 1);
+        }
+
+        VariableNumMap varNumMap = new VariableNumMap(Ints.asList(varNums), Arrays.asList(dimParts), Arrays.asList(vars));
+        tensorNames.add(name);
+        parameters.add(new OpLrtFamily(varNumMap, lowRank));
+      }
+    }
+		else if (expression instanceof ApplicationExpression) {
       List<Expression> subexpressions = ((ApplicationExpression) expression).getSubexpressions();
       for (Expression subexpression : subexpressions) {
         extractTensorNamesFromExpression(subexpression, tensorNames,
@@ -354,9 +393,11 @@ public class VectorModelTrainer extends AbstractCli {
     if (gaussianVariance > 0.0) {
       initialParameters.perturb(gaussianVariance);
     }
+		//System.err.println("init\n"+family.getParameterDescription(initialParameters)); // TODO 
 
     GradientOptimizer trainer = createGradientOptimizer(examples.size());
     SufficientStatistics trainedParameters = trainer.train(oracle, initialParameters, examples);
+		//System.err.println("trained\n"+family.getParameterDescription(trainedParameters)); // TODO 
     
     return trainedParameters;
   }
