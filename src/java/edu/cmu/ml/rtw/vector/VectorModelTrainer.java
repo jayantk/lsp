@@ -183,6 +183,12 @@ public class VectorModelTrainer extends AbstractCli {
       Cvsm model = family.getModelFromParameters(parameters);
       System.out.println("TRAINING ERROR");
       evaluateCvsmModel(model, trainingFolds.get(foldName));
+      EvaluationResult result = evaluateCvsmModel(model, testFolds.get(foldName));
+      int numCorrectTotal = result.numCorrect;
+      int numTotal = result.total;
+			double accuracy = ((double) numCorrectTotal) / numTotal;
+			System.out.println("Correct: " + numCorrectTotal + " / " + numTotal);
+			System.out.println("Accuracy: " + accuracy);
     }
 
     // Evaluate on each fold.

@@ -23,10 +23,10 @@ public class AdditionVectorSpaceModel implements VectorSpaceModelInterface {
   private String getExpressionString(List<String> words) {
     String word = words.get(0);
     if (words.size() == 1) {
-      return "(op:tanh t:50:" + word + ")";
+      return "t:catFeatures:" + word;
     } else {
       String rest = getExpressionString(words.subList(1, words.size()));
-      return "(op:add (op:tanh t:50:" + word + ") " + rest + ")";
+      return "(op:add t:catFeatures:" + word + " " + rest + ")";
     }
   }
 }
