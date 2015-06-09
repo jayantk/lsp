@@ -69,7 +69,7 @@ class SeqRnn:
 				sequences=[word_emb_tensor],
 				outputs_info=[np.zeros(self.sent_dim)])
 
-		return T.mean(T.sum(T.log(self.answer_matrix-T.nnet.softmax(T.dot(sent_emb[-1], self.M_softmax))), axis=1))
+		return T.mean(T.sum(T.log(np.ones(self.num_entities)-self.answer_matrix-T.nnet.softmax(T.dot(sent_emb[-1], self.M_softmax))), axis=1))
 
 	# get objective function in cost and new parameters in updates
 	def get_cost_updates(self):
