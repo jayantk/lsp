@@ -256,5 +256,5 @@ function parse_training_examples(training_example_lines, entity_name_index)
 	return examples
 end
 
-domains = read_domains_from_directory(DEFAULT_PATH, DEFAULT_TRAINING_FILENAME)
-pr.dump(domains)
+-- domains = read_domains_from_directory(DEFAULT_PATH, DEFAULT_TRAINING_FILENAME)
+-- pr.dump(domains)
