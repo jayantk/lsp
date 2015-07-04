@@ -1,19 +1,20 @@
 
 local path = require 'pl.path'
-local C = require 'pl.comprehension' . new()
-local sano = require 'sano'
-local HashMap = sano.HashMap
-local tuple = sano.makers.tuple
+local C = require 'pl.comprehension' .new()
 local stringx = require 'pl.stringx'
 local utils = require 'pl.utils'
-local tablex = require 'pl.tablex'
 local re = require 're'
+mk = require 'multikey'
+local Set = require 'pl.Set'
+local pr = require 'pl.pretty'
+local torch = require 'torch'
+tablex = require 'pl.tablex'
 
 local DEFAULT_PATH="data/cobot/set/kinect/"
 
 local DEFAULT_TRAINING_FILENAME="training.annotated.txt.merged"
-local CATEGORY_FEATURE_FILE = "osm_kb.domain.entities";
-local RELATION_FEATURE_FILE = "osm_kb.domain.relations";
+local CATEGORY_FEATURE_FILE = "osm_kb.domain.entities"
+local RELATION_FEATURE_FILE = "osm_kb.domain.relations"
 
 function mysplit(inputstr, sep)
 	if sep == nil then
@@ -29,11 +30,24 @@ function mysplit(inputstr, sep)
 end
 
 function table_to_tensor(t, index_list)
-	shape = C("#index for index") (index_list)
+	shape = C('tablex.size(index) for index') (index_list)
 	tensor = torch.Tensor(unpack(shape))
-	for k, v in t:iter() do
-		ind = C('table(index_list[i][k[i]] for i in ipairs(_1)')(index_list)
-		tensor[ind] = v
+
+	if #index_list == 2 then
+		for _, k1, k2, v in pairs(t) do
+			k = {k1, k2}
+			assert(k1 ~= nil)
+			assert(k2 ~= nil)
+			ind = C('table(v2[k[i]] for i, v2 in ipairs(_1))')(index_list)
+			tensor[ind] = v
+		end
+	else
+		assert(#index_list == 3, #index_list)
+		for _, k1, k2, k3, v in pairs(t) do
+			k = {k1, k2, k3}
+			ind = C('table(v2[k[i]] for i, v2 in ipairs(_1))')(index_list)
+			tensor[ind] = v
+		end
 	end
 	return tensor
 end
@@ -52,7 +66,7 @@ function Domain:new(
 	assert (#category_feature_names > 0)
 	assert (#relation_feature_names > 0)
 	t = {}
-	t.entity_name_index = C('table(entity_names[i], i) for ipairs(_1)') (entity_names)
+	t.entity_name_index = C('table(v, i for i, v in ipairs(_1))') (entity_names)
 	t.entity_names = entity_names
 
 	t.category_feature_names = category_feature_names 
@@ -97,18 +111,19 @@ function GroundingExample:new(
 end
 
 function read_domains_from_directory(directory, training_filename)
-	local f = io.popen("ls "..director)
+	local f = io.popen("ls "..directory)
 	files = mysplit(f:read("*all"), "\n")
     category_feature_list = {}
     relation_feature_list = {}
     training_data_list = {}
 
 	for i, f in ipairs(files) do
-		if path.isdir(f) then
-			print f
-            category_feature_file = f..CATEGORY_FEATURE_FILE
-            relation_feature_file = f..RELATION_FEATURE_FILE
-            training_data_file = f..training_filename
+		p = directory..f
+		if path.isdir(p) then
+			print(p)
+            category_feature_file = p..'/'..CATEGORY_FEATURE_FILE
+            relation_feature_file = p..'/'..RELATION_FEATURE_FILE
+            training_data_file = p..'/'..training_filename
 
             category_features, relation_features, training_data_lines = read_domain(category_feature_file, relation_feature_file, training_data_file)
 
@@ -118,29 +133,38 @@ function read_domains_from_directory(directory, training_filename)
 		end
 	end
 
-	category_feature_names = Set()
-    relation_feature_names = Set()
+	category_feature_names = Set{}
+    relation_feature_names = Set{}
 
 	for i, v in pairs(category_feature_list) do
-		category_feature_names:union(C('k[2] for k,v in HashMap.iter(_1)')(category_feature_list[i]))
-		relation_feature_names:union(C('k[3] for k,v in HashMap.iter(_1)')(relation_feature_list[i]))
+		category_feature_names = category_feature_names+Set(C('k2 for _,k1,k2,v in pairs(_1)')(category_feature_list[i]))
+		relation_feature_names = relation_feature_names+Set(C('k3 for _,k1,k2,k3,v in pairs(_1)')(relation_feature_list[i]))
 	end
 
-	category_feature_name_list = table.sort(C('k for k,_ in pairs(_1)')(category_feature_names))
-	relation_feature_name_list = table.sort(C('k for k,_ in pairs(_1)')(relation_feature_names))
-	category_feature_name_index = C('table(y,x for x,y in ipairs(_1)')(category_feature_name_list)
-	relation_feature_name_index = C('table(y,x for x,y in ipairs(_1)')(relation_feature_name_list)
+	category_feature_name_list = Set.values(category_feature_names)
+	table.sort(category_feature_name_list)
+	relation_feature_name_list = Set.values(relation_feature_names)
+	table.sort(relation_feature_name_list)
+	category_feature_name_index = C('table(y,x for x,y in ipairs(_1))')(category_feature_name_list)
+	relation_feature_name_index = C('table(y,x for x,y in ipairs(_1))')(relation_feature_name_list)
 
 	domains = {}
 	for i, category_feature in ipairs(category_feature_list) do
-		entity_names = C('table(x, for x,_ in pairs(_1)') (C('table(k[1], true for k,v in HashMap.iter(_1))')(category_feature_list[i]))
-		entity_names.sort()
+		entity_names = C('table(k1, true for _,k1,k2,v in pairs(_1))')(category_feature)
+		entity_names = C('x for x,_ in pairs(_1)') (entity_names)
+		table.sort(entity_names)
 		entity_name_index = C('table(y,x for x,y in ipairs(_1))') (entity_names)
+		assert(tablex.size(entity_name_index) > 0)
+		assert(entity_name_index ~= nil)
+		assert(category_feature_name_index ~= nil)
+		assert(relation_feature_name_index ~= nil)
 		category_feature_matrix = table_to_tensor(category_feature_list[i], {entity_name_index, category_feature_name_index})
-		relation_feature_matrix = table_to_tensor(relation_feature_list[i], {entity_name_index, relation_feature_name_index})
+		relation_feature_matrix = table_to_tensor(relation_feature_list[i], {entity_name_index, entity_name_index, relation_feature_name_index})
 
+		assert(training_data_list[i] ~= nil)
+		assert(entity_name_index ~= nil)
         training_examples = parse_training_examples(training_data_list[i], entity_name_index)
-        domains.insert(Domain(
+        table.insert(domains, Domain:new(
 			entity_names, 
 			category_feature_name_list, 
 			relation_feature_name_list, 
@@ -148,6 +172,7 @@ function read_domains_from_directory(directory, training_filename)
 			relation_feature_tensor, 
 			training_examples))
 	end
+	return domains
 end
 
 function read_domain(category_feature_file, relation_feature_file, training_data_file)
@@ -155,26 +180,26 @@ function read_domain(category_feature_file, relation_feature_file, training_data
     print ("   ", relation_feature_file)
     print ("   ", training_data_file)
 
-    category_features = HashMap:new()
+    category_features = mk()
 	for line in io.lines(category_feature_file) do
-		line = utils.split(line, ',')
+		parts = utils.split(line, ',')
 
 		entity_name = parts[1]
 		feature_name = parts[3]
 		value = tonumber(parts[4])
 
-		category_features:add(tuple(entity_name, feature_name), value)
+		category_features:put(entity_name, feature_name, value)
 	end
 
-    relation_features = HashMap:new()
-	for line in io.lines(category_feature_file) do
+    relation_features = mk()
+	for line in io.lines(relation_feature_file) do
 		parts = utils.split(line, ',')
 		entity1_name = parts[1]
 		entity2_name = parts[2]
 		feature_name = parts[4]
-		value = float(parts[5])
+		value = tonumber(parts[5])
 
-		relation_features:add(tuple(entity1_name, entity2_name, feature_name), value)
+		relation_features:put(entity1_name, entity2_name, feature_name, value)
 	end
 
     training_data_lines = {}
@@ -195,14 +220,14 @@ space <- (%s)*
 
 function parse_training_examples(training_example_lines, entity_name_index)
 	examples = {}
-	for line in training_examples_lines do
+	for _, line in ipairs(training_example_lines) do
 		if stringx.startswith(line, '*') then
             print "WARNING: data contains annotated predicates"
 		else
 			parts = utils.split(line, ';')
-			tokens = utils.split(parts[0], ' ')
-			entity_answers = utils.split(parts[1], ',')
-			difficulty = tonumber(parts[2])
+			tokens = utils.split(parts[1], ' ')
+			entity_answers = utils.split(parts[2], ',')
+			difficulty = tonumber(parts[3])
 
 			logical_form = nil
 			cfg_parse = nil
@@ -230,3 +255,6 @@ function parse_training_examples(training_example_lines, entity_name_index)
 
 	return examples
 end
+
+domains = read_domains_from_directory(DEFAULT_PATH, DEFAULT_TRAINING_FILENAME)
+pr.dump(domains)
