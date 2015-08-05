@@ -1,0 +1,67 @@
+
+
+Unifying logical semantics with neural networks by representing intension and extension
+
+Modeling Intension and Extension in Neural Networks for Grounded Language Understanding
+
+Neural networks and other vector space approaches to semantics are
+often contrasted with model-theoretic approaches based on logical
+queries against knowledge bases. This paper argues that this is a
+false choiceg: a properly structured neural network can closely
+replicate a model-theoretic semantics.
+
+The key insight of this work is to explicitly represent both
+intensional and extensional meaning within the neural network. The
+\emph{intension} of a text is a context-independent value that (TODO);
+in contrast, the \emph{extension} is the set of real-world entities
+(or events, etc.) denoted by the text. (TODO: example). Prior work on
+compositional vector space models can be viewed as representing the
+intension of a text, as the vectors produced by these models do not
+depend on the environment within which the text was produced. However,
+it is unclear how to produce a model-theoretic semantics from these
+composed intensional meaning. In this work, we demonstrate that -- by
+explicitly representing extensional meaning -- it is simple to
+construct a neural network that is both theoretically and empirically
+capable of producing a model-theoretic semantics (TODO: with what
+phenomena).
+
+The structure of our neural network is theoretically motivated by
+approximate query evaluation algorithms for probabilistic databases;
+this connection immediately explains why the proposed network
+structure is capable of producing a model-theoretic
+semantics. Operationally, we implement our neural networks using the
+\emph{vector space semantic parsing} framework (TODO). This framework
+uses Combinatory Categorial Grammar to define the structure of the
+neural network, enabling a powerful and non-uniform parameterization.
+
+We evaluate our approach on two grounded language understanding tasks
+(TODO: citations), where the object is to map natural language
+descriptions (or questions) to their referents (or answers) in an
+environment. On these tasks, our neural network approach achieves
+similar performance as more complex state-of-the-art approaches that
+have intractable inference. We further demonstrate that previously
+proposed approaches that only represent intensional meaning perform
+poorly on these tasks.
+
+Approach
+- Problem definition
+- Vector space semantic parsing
+- Network Structure
+- Connection 
+
+Prior work
+- show that matuszek, malinowski, and my own work largely fits in this paradigm
+- explain relationship to Sam's logical semantics thing
+- explain relationship to mooney's inference stuff.
+- matt gormley and jason eisner - backpropagating through inference algorithm
+
+Discussion
+
+Modeling beliefs -- requires an explicit representation of intension
+
+
+Interesting experiments
+- low dimensional embeddings of sets of entities
+- other data sets (geoQA and the malinowski one)
+- synthetic quantifier data
+
