@@ -1,0 +1,5 @@
+(ROOT (S (NP (JJ #what) (NN state)) (VP (VBZ is) (NP (NP (NN west)) (PP (IN of) (NP (NNP Pennsylvania)))))))
+(ROOT (S (NP (NN #which)) (VP (VBZ is) (NP (DT a) (NN lake)))))
+(ROOT (SBARQ (NP (NN #what) (NNS stadiums)) (SQ (VBP are) (ADVP (EX there)))))
+(ROOT (S (NP (JJ #which) (NN stadium)) (VP (VBZ is) (PP (IN in) (NP (NNP Cleveland))))))
+(ROOT (S (NP (NN #what) (NNS cities)) (VP (VBP are) (PP (IN in) (NP (NNP Ohio))))))
