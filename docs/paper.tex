@@ -1,0 +1,249 @@
+\documentclass[11pt,letterpaper]{article}
+\usepackage{naaclhlt2015}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{times}
+\usepackage{latexsym}
+% \setlength\titlebox{6.5cm}    % Expanding the titlebox
+
+\newcommand{\ccgsyn}[1]{\ensuremath{#1}}
+\newcommand{\afunc}[2]{\ensuremath{ \langle #1 , #2 \rangle }}
+
+% Alternative titles:
+% Modeling Intension and Extension in Neural Networks for Grounded Language Understanding
+% Unifying Logical Semantics and Neural Networks by \\ Representing Intension and Extension
+\title{Approximating Logical Semantics with Neural Networks by \\ Representing Intension and Extension}
+
+\author{Author 1\\
+	    XYZ Company\\
+	    111 Anywhere Street\\
+	    Mytown, NY 10000, USA\\
+	    {\tt author1@xyz.org}
+	  \And
+	Author 2\\
+  	ABC University\\
+  	900 Main Street\\
+  	Ourcity, PQ, Canada A1A 1T2\\
+  {\tt author2@abc.ca}}
+
+\date{}
+
+\begin{document}
+\maketitle
+\begin{abstract}
+TODO
+\end{abstract}
+
+\section{Introduction}
+
+The field of natural language semantics is divided between two kinds
+of approaches that represent the meaning of text in very different
+ways. Logical approaches, such as semantic parsing, represent the
+meaning of a text as a statement in a formal language, such as lambda
+calculus. On the other hand, vector space approaches, such as neural
+networks and word embedding models, represent the meaning of text as a
+high-dimensional vector. Both approaches have complementary strengths:
+logical approaches can represent complex semantic phenomena, such as
+quantification, while vector space approaches more naturally
+generalize across a wide variety of language. Thus, a natural question
+is \emph{how can we combine logical semantics and vector space models
+  while retaining the advantages of both}?
+
+% There remains significant confusion about the benefits and drawbacks
+% of each approach, with logical practitioners wondering how neural
+% networks can represent complex phenomena that can be easily
+% represented in logic, such as quantification. While some work has
+% attempted to combine both approaches in a single framework (TODO:
+% citations), this work has largely avoided the essential question:
+
+% Neural networks and other vector space approaches to semantics are
+% often contrasted with model-theoretic approaches based on logical
+% queries against knowledge bases. This paper demonstrates that a
+% properly structured neural network can learn to predict a
+% model-theoretic semantics for language, identical to the semantics
+% produced by a logical representation.
+
+This paper presents a novel neural network architecture that unifies
+logical semantics and vector space models. Unlike prior work in this
+area (TODO: citations), our neural network exactly replicates the
+input/output specification of logical semantics: the input is text and
+the output is a denotation, i.e., a set of entities from an
+environment. This specification allows our network to provide the same
+modelling power as logical semantics while simultaneously enjoying the
+various benefits of neural networks, including lexical generalization
+and efficient inference.
+
+The key insight of this work is to explicitly represent both the
+intensional and extensional meaning of language within the neural
+network. The \emph{intension} of a text is a context-independent value
+that (TODO); in contrast, the \emph{extension} is the set of
+real-world entities (or events, etc.) denoted by the text. (TODO:
+example). Our architecture includes an intensional meaning of each
+word that is mapped to an extension for the purpose of
+composition. The proposed architecture that combines these two forms
+of meaning has strong theoretical motivation from logical semantics
+and approximate query evaluation algorithms for probabilistic
+databases. We empirically demonstrate that our architecture can learn
+to represent many linguistic phenomena, including object references,
+relationships, and generalized quantifiers (TODO).
+
+% The network is capable of representing many linguistic phenomena,
+% including  Our architecture has strong theoretical motivation from
+% . These connections explain why the proposed
+% network structure is capable of learning a model-theoretic
+% semantics. We also present empirical evidence on several grounded
+% language understanding tasks.
+
+% We implement our neural network using the
+% \emph{vector space semantic parsing} framework (TODO), which  This framework
+% uses Combinatory Categorial Grammar to define the structure of the
+% neural network, enabling a powerful and non-uniform parameterization.
+
+We evaluate our approach on two grounded language understanding tasks
+(TODO: citations), where the goal is to map natural language
+descriptions (or questions) to their referents (or answers) in an
+environment. Previously-proposed compositional neural network
+architectures perform poorly on these tasks due to their inability to
+represent both intensional and extensional meaning. In contrast, our
+architecture achieves equivalent performance to state-of-the-art
+approaches that are considerably more computationally
+intensive. (TODO: this sentence needs to be punchier)
+
+
+\section{Approach}
+
+\subsection{Grounded Language Understanding}
+
+This paper considers the problem of grounded language
+understanding. The input to this problem is an environment $d$
+containing a set of entities $e \in E_d$, and a natural language text
+$z$.  The goal of the task is to predict a \emph{denotation} $\gamma
+\subseteq E_d$ for the text.\footnote{For clarity of presentation, we
+  assume throughout this paper that the denotation is a set of
+  entities and not a truth value. However, it is simple to modify our
+  approach to additionally predict truth values.} If $z$ is a noun
+phrase, $\gamma$ is its entity referents; if $z$ is a question,
+$\gamma$ is its answer. We further assume that two feature functions,
+$\phi_{cat}: E \rightarrow \mathbb{R}^d$ and $\phi_{rel}: E \times E
+\rightarrow \mathbb{R}^d$, are given to the system, representing
+features of individual entities and entity pairs, respectively.
+
+TODO: figure showing one example from each of
+our data sets.
+
+\subsection{Network Architecture}
+
+The key idea of our network architecture is to represent both the
+intension and the extension of the text within the network. Individual
+word meanings are represented intensionally as binary classifiers over
+entities and entity pairs. The lowest layer of the network transforms
+these intensions into extensions by applying these classifiers to the
+entities and entity pairs in the current environment. This operation
+produces a vector (matrix) representation of each word that captures
+its denoted set of entities (entity pairs). Composition is then
+performed with these extension vectors and matrices according to a
+network structure that closely replicates the operations that would be
+performed when a logical form -- as produced by semantic parsing -- is
+evaluated.
+
+Given a text $z$, our approach constructs a neural network that
+replicates the query evaluation process in a logical semantics. First,
+the text $z$ is parsed with a syntactic CCG parser and a collection of
+deterministic rules is applied to produce a logical form $\ell$. This
+logical form contains predicates derived from the words in the text,
+along with logical operations such as conjunction and existential
+quantification. Next, a query evaluation tree is constructed for
+$\ell$ that represents a partial ordering over set operations that
+must be performed to evaluate $\ell$ against a database. Finally, the
+neural network is constructed by replacing each predicate and
+operation in this graph with a neural network approximation.
+
+The conversion from the query evaluation tree to a neural network is
+accomplished by approximating sets of entities and entity pairs with
+vectors and matrices. In logical semantics, a set of entities is
+represented by a function from entities to truth values, i.e., of type
+$\afunc{e}{t}$. In our network, these functions are replaced by
+vectors in $\mathbb{R}^{|E|}$ where each index is a set membership
+score for a single entity. These scores can be roughly viewed as SVM
+scores, i.e., an entity is an element of the denotation if its score
+is greater than 0. Similarly, sets of entity pairs are replaced by
+matrices in $\mathbb{R}^{|E| \times |E|}$.
+
+Predicates are mapped to these sets
+
+Note that an equivalent neural network can be constructed directly
+from a syntactic CCG parse (without the conversion to logical form)
+using the vector space semantic parsing framework (TODO:
+citation). The lexicon entry templates for this framework are shown in
+Table (TODO). We found it convenient to explicitly produce a logical
+form as it allowed us to experiment with different representations for
+each logical operation without editing a large number of CCG lexicon
+entry templates. However, the vector space semantic parsing framework
+offers a more flexible way to parameterize the individual operations
+in the network, which may be useful in the future.
+
+% Our network architecture is designed to closely simulate the
+% operations performed when evaluating a logical form against a
+% knowledge base. Given a text $z$, the network assigns an intension
+% vector to each word in the text. This intension can be viewed as
+% equivalent to a predicate in a logical semantics, in that it is a
+% function from environments to sets of entities. Next, the network maps
+% each word's intension to an extension, which is a vector or matrix
+% representing the entity referents of the word. Finally, the network
+% takes these extensions and composes them to simulate the set
+% operations performed on extensions within logical semantics. Many of
+% these operations can be exactly replicated using arithmetic operations
+% (e.g., conjunction is elementwise multiplication), while others can be
+% approximately replicated (e.g., existential quantification is addition
+% with a sigmoid).
+% 
+% Our neural network architecture can be viewed from two different
+% perspectives. The first perspective is that the network represents the
+% evaluation of a lambda calculus database query. The second perspective
+% is that the 
+% 
+% Note that the structure of the network must vary considerably from
+% sentence to sentence. We implement our neural network using the vector
+% space semantic parsing framework (TODO: citation). This framework uses
+% Combinatory Categorial Grammar (CCG) to define a correspondence
+% between syntactic categories and semantic representations, which are
+% vectors and functions on vectors.
+
+\begin{table*}
+\begin{tabular}{llll}
+Words & Syntactic Categories & VSSP logical form & Logical semantics \\
+* & \ccgsyn{N} & $v_{word}$ & $\lambda x.word(x)$ \\
+* & \ccgsyn{N/N} & $\lambda f. v_{word} + f$ & $\lambda f.\lambda x. f(x) \wedge word(x)$ \\
+* & \ccgsyn{(S\backslash N)/N}, \ccgsyn{(N\backslash N)/N} & $\lambda f. \lambda g. g + A_{word} f$ & $\lambda f. \lambda g. \lambda x. g(x) \wedge \exists y. word(x, y) \wedge f(y)$ \\
+is,are,was & \ccgsyn{(S\backslash N)/N} & $\lambda f. \lambda g. g + f$ & $\lambda f. \lambda g. \lambda x. g(x) \wedge f(x)$ \\
+\end{tabular}
+
+\caption{$v_word = \Phi_{cat}(E_d) category intension word$, $A_word = \Phi_{rel}(E_d) relation intension word$}
+\end{table*}
+
+The structure of our network has a close connection to
+
+\section{Experiments}
+- low dimensional embeddings of sets of entities
+- other data sets (geoQA and the malinowski one)
+- synthetic quantifier data
+
+\section{Prior work}
+- show that matuszek, malinowski, and my own work largely fits in this paradigm
+- explain relationship to Sam's (stanford) logical semantics thing
+- explain relationship to mooney's inference stuff.
+- matt gormley and jason eisner - backpropagating through inference algorithm
+
+\section{Discussion}
+
+There are some aspects of logical semantics that cannot be represented
+using our neural network as is. Specifically, our network cannot
+currently represent phenomena that require composing intensional
+meanings for phrases. Such composition is required to model the
+beliefs of other agents, for example in the sentence ``Lois believes
+Clark Kent is Superman.'' (TODO: citation.) One approach to this
+problem could be to retain the logical form for ``Clark Kent is
+Superman'' as its intensional meaning, though it is then unclear how
+to represent the ``believes'' operation.
+
+\end{document}

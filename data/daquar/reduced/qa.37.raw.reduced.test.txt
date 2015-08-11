@@ -1,0 +1,594 @@
+what color is the ornamental plant in fornt of the fan coil but not close to sofa in the image14 ?
+red
+what the largest light green object in this picture in the image14 ?
+sofa
+what is in fornt of the white wall below the colorful picture but not close to window in the image14 ?
+sofa
+how many ornamental plants are in this picture in the image14 ?
+3
+what color is the garbage bin in front of the white board on the floor in the image28 ?
+blue
+how many ceiling lamps are off in this picture in the image28 ?
+2
+what is the black object on the right side of the flipped table in the image28 ?
+chair
+what is the largest white object in this picture in the image28 ?
+whiteboard
+how many chairs are in fornt of the whiteboard in the image33 ?
+1
+how many tables are in front of the bookshelf close to the ladder in the image84 ?
+1
+what color are the bookshelves in this picture in the image84 ?
+brown
+what is on the door of the wardrobe in the image441 ?
+mirror
+what color are the blinds in the image441 ?
+white
+how many pictures are on the wall on the right side of the window in the image441 ?
+2
+how many lamp shades are in front of the window in the image516 ?
+2
+what color are the bed sheets in the image516 ?
+red
+how many cushions are on the sofa in the image580 ?
+2
+what is the largest glassy object in this picture in the image580 ?
+window
+what color is the cloth on the top of the clothing drying rack on the left side of the bed in the image516 ?
+black
+what color is the lamp shades close to the sofa in the image1229 ?
+white
+how many pink cubes are on the top of the night stand on the left side of the bed in the image1163 ?
+1
+what is on the door of the wardrobe on the left side of the blinds in the image441 ?
+mirror
+what is the black object on the right side of the flipped table in the image28 ?
+chair
+how many garbage bins are there in the image28 ?
+2
+what is the object close to the towel rod in the image693 ?
+towel
+what is the object on the floor in front of the plant in the image14 ?
+sofa
+what is the object on the floor below the picture in the image43 ?
+sofa
+what is the object on the floor in the corner in the image1167 ?
+lamp
+what is the object left of the room divider in the image681 ?
+door
+what is the object on the bed in the image1163 ?
+pillow
+what is the object close to the wall right of the screen in the image1075 ?
+picture
+how many pillows are there on the bed in the image1022 ?
+2
+what are the objects on the floor in front of the window in the image1119 ?
+table, chair
+what is the object below the bed on the floor in the image1153 ?
+cabinet
+how many chairs are there in the image39 ?
+6
+what are the objects kept on the shelves in the image84 ?
+books
+what is the object close to the wall behind the chair in the image33 ?
+whiteboard
+what is the object on the floor right of the wall in the image973 ?
+cabinet
+what is the largest object in the image14 ?
+sofa
+what is the object close to the wall in the image14 ?
+picture
+what is the object close to the wall in the image28 ?
+whiteboard
+how many blue dustbins are there in the image28 ?
+2
+what is the object close to the wall in the image33 ?
+whiteboard
+what is the object in front of the whiteboard in the image33 ?
+chair
+how many red chairs are there in the image39 ?
+6
+what is the largest object in the image39 ?
+table
+how many windows are covered with red screen in the image39 ?
+3
+what is the object close to the wall above the sofa in the image43 ?
+picture
+what is the largest object in the image43 ?
+sofa
+what are objects on the top most shelves close to the wall in the image43 ?
+books
+how many tables are there in the image84 ?
+4
+what are objects on the shelves in the image84 ?
+books
+what is the object in front window in the image516 ?
+lamp
+what is the object close to the wall in the image516 ?
+picture
+what is the object close to the towel rod in the image681 ?
+towel
+what is the object behind the flower pot in the image681 ?
+door
+what is the object on the floor right of the screen in the image693 ?
+floor_mat
+what is the object close to the floor left of the wall in the image693 ?
+toilet
+what is the object close to the towel rod in the image693 ?
+towel
+how many doors are there in the image973 ?
+1
+what is the object close to the wall in the image973 ?
+picture
+what is the object on the floor below the picture in the image973 ?
+cabinet
+what is the largest object in the image1022 ?
+bed
+what is the object close to the wall in the image1022 ?
+picture
+what is the object on the stool in the image1022 ?
+lamp
+what is the largest object in the image1075 ?
+bed
+what is the object close to the wall right of the screen in the image1075 ?
+window
+what is the object on the chair in the image1119 ?
+pillow
+how many chairs are there in the image1119 ?
+2
+what is the object on the cabinet in the image1153 ?
+bed
+what are the objects on the bed in the image1153 ?
+clothes
+what is the object on the floor in the image1153 ?
+cabinet
+what is the largest object in the image1163 ?
+bed
+what is the object on the bed in the image1163 ?
+pillow
+what is the object on the floor in the corner in the image1167 ?
+lamp
+what is the object on the floor right of the wall in the image1167 ?
+cabinet
+how many windows are there in the image14 ?
+2
+what is the celery object next to the window and the plant and infront of the white wall in the image14 ?
+sofa
+what object is on the white wall above the celery couch in the image14 ?
+picture
+how many navy bins are there in the image28 ?
+2
+what in the brown object next to the black armchair in the image28 ?
+table
+what is the object on the wall behind the left navy bin in the image28 ?
+whiteboard
+what is the object on the white wall behind the red chair in the image33 ?
+whiteboard
+what color is the swivel chair in the image33 ?
+red
+how many whiteboard erasers are there in the image33 ?
+1
+what is the object in front of the whiteboard in the image33 ?
+chair
+how many re swivel chairs are there around the table in the image39 ?
+4
+how many black objests are there on the table in the image39 ?
+1
+how many doors are there in the image43 ?
+1
+what is the brown object on the right side of the image43 ?
+door
+what is the large black object next to the brown door in the image43 ?
+sofa
+what color is the sofa in the image43 ?
+black
+how many black objects are there in the image43 ?
+1
+what color is the armchair behind the table in the image1204 ?
+white
+how many pillows are there on the bed in the image1075 ?
+2
+how many lamps are there in the image1167 ?
+1
+how many doors are there in the image681 ?
+2
+what color is the sofa in the image1329 ?
+brown
+how many objects are there on the wall and above the pillows in the image516 ?
+1
+how many plants are there in the image14 ?
+1
+what is hung on the wall in the image14 ?
+picture
+what is in front of the plant in the image14 ?
+sofa
+how many papers are stuck on the wall in the image14 ?
+1
+how many legs of the chairs are visible in the image28 ?
+2
+how many garbage bins are there in the image28 ?
+2
+what is in front of the whiteboard in the image33 ?
+chair
+what is the colour that is dominating in the image39 ?
+red
+the chairs are surrounding which object in the image39 ?
+table
+how many plug sockets are visible in the image39 ?
+4
+how many people are there in the framed picture in the image43 ?
+3
+what is left side of the sofa in the image43 ?
+table
+what is biggest black object in the image43 ?
+sofa
+what are filled on the tables in the image84 ?
+books
+how many legs of the tables are visible in the image84 ?
+6
+what is the colour of the wall decoration above the books rack in the image84 ?
+purple
+what is on the left side of the wall ornaments in the image84 ?
+picture
+what is the colour of the chairs surrounding the table in the image441 ?
+green
+what is on the right side of the table in the image441 ?
+blinds
+what is on the right side of the blinds in the image441 ?
+table
+what is on the table in the image441 ?
+books
+what is on the wall in the image441 ?
+picture
+what is on the cupboard in the image441 ?
+mirror
+how many lamps are there in the image516 ?
+2
+what is on the stand in the image516 ?
+towel
+how many curtains are there in the image516 ?
+2
+what is on the wall in the image516 ?
+picture
+what is on the sofa in the image579 ?
+pillow
+what is on the right side of the picture in the image579 ?
+lamp
+what is in front of the lamp in the image579 ?
+paper
+what is behind the sofa in the image579 ?
+television
+what is behind the television in the image579 ?
+bookshelf
+what is on the left side of the table in the image579 ?
+door
+what is on the left side of the television in the image579 ?
+lamp
+what is in front of the sofa in the image580 ?
+table
+what is on the side table in the image580 ?
+lamp
+what is behind the sofa in the image580 ?
+window
+what is on the window in the image580 ?
+curtain
+what is on the right side of the curtains in the image580 ?
+picture
+what is on the sofa in the image580 ?
+pillow
+what is on the left side of the bathing area in the image681 ?
+door
+what is on the left side of the door in the image681 ?
+towel
+how many towels are there in the image693 ?
+4
+what is above the towel in the image693 ?
+blinds
+what is on the right side of the bottle of liquid in the image693 ?
+towel
+what is on the left side of the lamp in the image973 ?
+door
+how many knobs are visible in the image973 ?
+10
+what is in front of the drawer in the image973 ?
+table
+what is the colour of the lamp in the image1022 ?
+blue
+what is on the right side of the wall in the image1022 ?
+table, chair
+what is behind the table in the image1022 ?
+blinds
+what is on the bench in the image1075 ?
+clothes
+what is on the right side of the table in the image1075 ?
+night_stand
+what is on the right side of the night stand in the image1075 ?
+curtain
+what is beneath the curtains in the image1075 ?
+window
+what is above the bowl in the image1119 ?
+window
+what is on the right side of the table in the image1119 ?
+chair
+what is on the chair in the image1119 ?
+pillow
+what is in front of the table in the image1119 ?
+bed
+how many drawers are there in the image1153 ?
+4
+what is on the bed in the image1153 ?
+clothes
+how many drawers are visible in the image1153 ?
+11
+what is the colour of the sheets in the image1163 ?
+pink
+what is above the bed in the image1163 ?
+blinds
+what is in between the pictures on the drawer in the image1167 ?
+mirror
+what is on the left side of the night stand in the image1167 ?
+lamp
+what is on the wall in the image1167 ?
+picture
+what is on the left side of the drawer in the image1167 ?
+bag
+what is on the left side of the bag in the image1167 ?
+door
+what is the colour of the chair in the image1183 ?
+red
+what is on the table in the image1183 ?
+lamp
+what is in front of the lamp in the image1183 ?
+picture
+what is behind the bed in the image1183 ?
+curtain
+what is in front of the blinds in the image1194 ?
+table
+what is on the chair in the image1194 ?
+clothes
+what is behind the chair in the image1194 ?
+table
+how many drawers are there in the image1194 ?
+5
+how many sofas are there in the image1204 ?
+2
+what is in front of the sofa in the image1204 ?
+table
+what is on the sofa in the image1204 ?
+pillow
+what is on the left side of the sofa in the image1204 ?
+lamp
+how many chairs are there in the image1229 ?
+8
+what is on the table in the image1229 ?
+paper
+what is on the left side of the chair in the image1229 ?
+lamp
+what is the largest object in the image1329 ?
+sofa
+what is on the sofa in the image1329 ?
+pillow
+what is behind the sofa in the image1329 ?
+lamp
+how many lamps are there in the image1329 ?
+2
+what is in front of the sofa in the image1329 ?
+table
+what is beneath the framed picture in the image1444 ?
+sofa
+what is on the sofa in the image1444 ?
+pillow
+what is on the left side of the sofa in the image1444 ?
+table
+what is on the table in the image1444 ?
+picture, lamp
+how many pictures are visible in the image1444 ?
+4
+how many windows are seen outside in the image14 ?
+5
+how many light are on in the image28 ?
+6
+what is in front of garbage bin in the image28 ?
+table
+what is behind the table in the image28 ?
+sofa
+what is colour of the sofa in the image28 ?
+black
+what is the colour of the chair in the image33 ?
+red
+what is behind the chair in the image33 ?
+whiteboard
+what is the colour of pen written on board in the image33 ?
+red
+what is the colour of the screen in the image39 ?
+red
+how many screens are in the image39 ?
+3
+how many chairs on the table in the image39 ?
+4
+how many chairs are away from table in the image39 ?
+2
+what is under the painting in the image43 ?
+sofa
+what is the colour of the sofa in the image43 ?
+black
+what is above the painting in the image43 ?
+bookshelf
+what is on the shelf in the image84 ?
+books
+what is on the table in the image84 ?
+books
+what is in front of the window in the image441 ?
+table, chair
+what is in front of the table in the image441 ?
+books
+what is in the middle of the cupboard in the image441 ?
+mirror
+what is behind the hanger in the image516 ?
+lamp
+what is above the bed in the image516 ?
+picture
+what is the colour of pillow in the image516 ?
+red
+what is in front of television in the image579 ?
+sofa
+what is right of television in the image579 ?
+door
+what is behind the television in the image579 ?
+shelves
+what is on the shelf in the image579 ?
+books
+what is behind the sofa in the image580 ?
+window
+what is to the right of sofa in the image580 ?
+lamp
+what is on the sofa in the image580 ?
+pillow
+what is to the right of lamp in the image580 ?
+door
+how many door knobs are there in the image681 ?
+2
+how many vases are there in the image681 ?
+3
+what is the colour of the vase in the image681 ?
+brown
+what is the colour of the flower in the vase of the image681 ?
+yellow
+what is the frame colour of the door in the image681 ?
+white
+what is found to the right side of the shower room in the image681 ?
+sink
+how many towels are hanged in the image693 ?
+3
+what is the object at the top of the towel rod in the image693 ?
+window
+what is the object at the left side of the towel rod in the image693 ?
+curtain
+what is the object at the bottom of the curtain in the image693 ?
+floor_mat
+what is the object at the left side of the sink in the image693 ?
+towel
+what is found to the left side of the bed in the image973 ?
+cabinet
+what object is found on the cabinet in the image973 ?
+lamp
+what is found to the left side of the lamp in the image973 ?
+door
+how many handles are there in left side cabinet of the image973 ?
+9
+what is the colour of the cabinets in the image973 ?
+black
+what is present near the right edge of the image1022 ?
+window
+what is present near the window in the image1022 ?
+table
+what is next to the table in the image1022 ?
+chair
+what is present next to lamp in the image1022 ?
+bed
+what is at the left side in the image1075 ?
+bed
+what is at the right side of the bed in the image1075 ?
+cabinet
+what is to the right of the cabinet in the image1075 ?
+window
+what is the object found left side of the image1119 ?
+bed
+what object is found on the chair in the image1119 ?
+pillow
+what is the colour of the pillow in the image1119 ?
+red
+how many chairs are found in the image1119 ?
+2
+what is at the right side in the image1153 ?
+cabinet
+how many knobs are there in the cabinet of the image1153 ?
+10
+what is at the left side of the cabinet in the image1153 ?
+bed
+what are the things found on the bed in the image1153 ?
+clothes, pillow
+what is to the right side of the cabinet in the image1163 ?
+bed
+what is the bed sheet colour of the image1163 ?
+pink
+what is behind the bed in the image1163 ?
+window
+how many pillows are there in the image1163 ?
+3
+what is on the corner of the room in the image1167 ?
+lamp
+what is at the right side of the lamp in the image1167 ?
+cabinet
+what is at the right side of the cabinet in the image1167 ?
+bed
+what is at the opposite side of the lamp in the image1167 ?
+cabinet
+how many drawer handles are seen in the image1167 ?
+9
+what is at the left side in the image1183 ?
+bed
+what is to the right side of the bed in the image1183 ?
+sofa
+what is to the right side of the sofa in the image1183 ?
+cabinet
+what is the colour of the sofa in the image1183 ?
+brown
+what is behind the sofa in the image1183 ?
+window
+what is the colour of the object near the bed in the image1183 ?
+pink
+what is in front of the window in the image1194 ?
+table
+what is to the right side of the window in the image1194 ?
+bookshelf
+what is at the opposite side of the bookshelf in the image1194 ?
+cabinet
+what is in front of the cabinet in the image1194 ?
+chair
+what is hanged on the chair in the image1194 ?
+clothes
+what is at the right side in the image1194 ?
+door
+what is found at the bottom left corner in the image1204 ?
+sofa
+how many sofas are there in the image1204 ?
+2
+what is to the opposite of the sofa in the image1204 ?
+table
+what are found behind the chair in the image1204 ?
+chair, table
+how many steel chairs are there in the image1204 ?
+4
+what is on the floor in the image1229 ?
+floor_mat
+what are around the table in the image1229 ?
+chair
+how many chairs are there in the image1229 ?
+8
+what is at the left of the table in the image1229 ?
+chair
+what is in front of the chair in the image1229 ?
+sofa
+what is at the left of the sofa in the image1229 ?
+lamp
+how many window casings are there in the image1229 ?
+3
+what is in front of the coffee table in the image1329 ?
+sofa
+what is the colour of the sofa in the image1329 ?
+brown
+what are the things on the sofa in the image1329 ?
+pillow, clothes
+how many lamps are there in the image1329 ?
+2
+what are the things on the coffee table in the image1444 ?
+books
+what is to the left of the mantel in the image1444 ?
+sofa
+what is behind the sofa in the image1444 ?
+window
+what is hanged in front of the window in the image1444 ?
+curtain
+what is to the left of the sofa in the image1444 ?
+table

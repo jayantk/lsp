@@ -1,0 +1,5 @@
+DAQUAR data set from:
+https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/vision-and-language/visual-turing-challenge/
+
+Image files have been excluded for size reasons. Get the image files here and put them in images/:
+http://datasets.d2.mpi-inf.mpg.de/mateusz14visual-turing/nyu_depth_images.tar
