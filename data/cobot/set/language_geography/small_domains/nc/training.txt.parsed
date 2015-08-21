@@ -4,7 +4,7 @@
 (ROOT (SBARQ (WHNP (WDT which) (NN state)) (SQ (VBZ is) (ADJP (JJR larger))) (. ?))) 
 (ROOT (SBARQ (WHNP (WDT which)) (SQ (VBP are) (NP (NNS cities))) (. ?))) 
 (ROOT (SBARQ (WHNP (WDT which) (NN forest)) (SQ (VBZ is) (PP (IN in) (NP (NNP North) (NNP Carolina)))) (. ?))) 
-(ROOT (SBARQ (WHNP (WP what)) (SQ (VBZ is) (NP (NP (DT the) (JJ northernmost) (NN city)) (PP (IN in) (NP (NNP North) (NNP Carolina))))) (. ?))) 
+(ROOT (SBARQ (WHNP (WP what)) (SQ (VBZ is) (NP (NP (DT the) (JJS northernmost) (NN city)) (PP (IN in) (NP (NNP North) (NNP Carolina))))) (. ?))) 
 (ROOT (SBARQ (WHNP (WDT what) (NNS cities)) (SQ (VBP are) (PP (IN in) (NP (NNP North) (NNP Carolina)))) (. ?))) 
 (ROOT (SBARQ (WHNP (WDT what) (NN city)) (SQ (VBZ is) (NP (ADVP (JJ east)) (PP (IN of) (NP (NAC (NNP Greensboro) (PP (IN in))) (NNP North) (NNP Carolina))))) (. ?))) 
 (ROOT (SBARQ (WHNP (WDT what) (NN city)) (SQ (VBZ is) (NP (ADVP (RB north) (JJ east)) (PP (IN of) (NP (NP (NNP Charlotte)) (PP (IN in) (NP (NNP North) (NNP Carolina))))))) (. ?))) 

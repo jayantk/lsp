@@ -1,0 +1,9 @@
+what state is west of Pennsylvania;Ohio;2
+
+which is a lake;Lake Erie;0
+
+what stadiums are there;Cleveland Browns Stadium;2
+
+which stadium is in Cleveland;Cleveland Browns Stadium;2
+
+what cities are in Ohio;Cleveland;2

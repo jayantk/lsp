@@ -16,5 +16,5 @@
 (ROOT (SBARQ (WHNP (WDT which) (NNS states)) (SQ (VBP are) (PP (IN between) (NP (NNP Texas) (CC and) (NNP Mississippi)))) (. ?))) 
 (ROOT (SBARQ (WHNP (WDT which) (NNS states)) (SQ (VP (VB border) (NP (CC both) (NNP Texas) (CC and) (NNP Arkansas)))) (. ?))) 
 (ROOT (SBARQ (WHNP (WDT which) (NNS states)) (SQ (VP (VB border) (NP (CC both) (NNP Louisiana) (CC and) (NNP Arkansas)))) (. ?))) 
-(ROOT (S (NP (JJ #how) (JJ many) (NNS states)) (VP (VBP are) (ADJP (JJ east) (PP (IN of) (NP (NNP Texas))))) (. ?))) 
-(ROOT (S (NP (JJ #how) (JJ many) (NNS states)) (VP (VBP are) (NP (NP (NN west)) (PP (IN of) (NP (NNP Mississippi))))) (. ?))) 
+(ROOT (SBARQ (WHNP (WHADJP (WRB how) (JJ many)) (NNS states)) (SQ (VBP are) (NP (ADVP (JJ east)) (PP (IN of) (NP (NNP Texas))))) (. ?))) 
+(ROOT (SBARQ (WHNP (WHADJP (WRB how) (JJ many)) (NNS states)) (SQ (VBP are) (NP (NP (NN west)) (PP (IN of) (NP (NNP Mississippi))))) (. ?))) 
