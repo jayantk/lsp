@@ -1,6 +1,6 @@
 #!/bin/bash -e
 
-DIRS="data/cobot/set/language_geography/small_domains/"
+DIRS="data/cobot/set/language_geography/small_domains/*"
 
 PARSER="/home/jayantk/data/ccg_models/parser.ser"
 SUPERTAGGER="/home/jayantk/data/ccg_models/supertagger.ser"
@@ -11,17 +11,19 @@ LF_TEMPLATES="data/cobot/set/kinect/logic_templates2.txt"
 
 for f in $DIRS
 do
-    IN="$f/training.annotated.txt.parsed"
-    OUT="$f/training.annotated.txt.pos"
+    IN="$f/training.txt.parsed"
+    OUT="$f/training.txt.pos"
     # This is where the logical forms go.
-    # CCG_OUT="$f/training.annotated.txt.ccg"
+    CCG_OUT="$f/training.txt.ccg"
     # This file contains direct conversions to vector space models.
-    CCG_OUT="$f/training.annotated.txt.vsm"
-    
-    echo "POS $IN -> $OUT" 
+    # CCG_OUT="$f/training.annotated.txt.vsm"
 
-    ./src/scripts/kinect_vectors/extract_pos_tags.py $IN $OUT
+    if [ -e $IN ]
+    then
+	echo "POS $IN -> $OUT" 
+	./src/scripts/kinect_vectors/extract_pos_tags.py $IN $OUT
 
-    echo "CCG $OUT -> $CCG_OUT" 
-    ./src/scripts/invoke.pl com.jayantkrish.jklol.cvsm.ccg.ParseToLogicalForm --parser $PARSER --supertagger $SUPERTAGGER --multitagThreshold 0.01,0.001 --inputFile $OUT --lfTemplates $LF_TEMPLATES --noPrintOptions > $CCG_OUT
+	echo "CCG $OUT -> $CCG_OUT" 
+	./src/scripts/invoke.pl com.jayantkrish.jklol.cvsm.ccg.ParseToLogicalForm --parser $PARSER --supertagger $SUPERTAGGER --multitagThreshold 0.01,0.0001 --inputFile $OUT --lfTemplates $LF_TEMPLATES --noPrintOptions > $CCG_OUT --useHackConstraints
+    fi
 done

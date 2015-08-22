@@ -1,0 +1,5 @@
+#what state is west of Pennsylvania;Ohio;2;;(ROOT (SBARQ (WHNP (WDT what) (NN state)) (SQ (VBZ is) (NP (NP (NN west)) (PP (IN of) (NP (NNP Pennsylvania))))))) ;(lambda var857771 (exists var610978 (and (state var857771) (west var857771) (pennsylvania var610978) (of-rel var857771 var610978))))
+#which is a lake;Lake Erie;0;;(ROOT (SBAR (WHNP (WDT which)) (S (VP (VBZ is) (NP (DT a) (NN lake)))))) ;NO LF CONVERSION
+#what stadiums are there;Cleveland Browns Stadium;2;;(ROOT (SBARQ (WHNP (WDT what) (NN stadiums)) (SQ (VBP are) (NP (EX there))))) ;(lambda var535074 (and (stadiums var535074) (there var535074)))
+#which stadium is in Cleveland;Cleveland Browns Stadium;2;;(ROOT (SBARQ (WHNP (WDT which) (NN stadium)) (SQ (VBZ is) (PP (IN in) (NP (NNP Cleveland)))))) ;(lambda var975436 (exists var607205 (and (stadium var975436) (cleveland var607205) (is_in-rel var975436 var607205))))
+#what cities are in Ohio;Cleveland;2;;(ROOT (SBARQ (WHNP (WDT what) (NNS cities)) (SQ (VBP are) (PP (IN in) (NP (NNP Ohio)))))) ;(lambda var291510 (exists var555133 (and (cities var291510) (ohio var555133) (are_in-rel var291510 var555133))))
