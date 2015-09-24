@@ -493,7 +493,7 @@ public class GroundingModelUtilities implements Serializable {
 	  return new PrecisionRecall(currentTp, currentTn, currentFp, currentFn);
       }
   }
-
+  
   private static class TreeValidityPredicate implements Predicate<ParseTree>, Serializable {
     private static final long serialVersionUID = 1L;
 

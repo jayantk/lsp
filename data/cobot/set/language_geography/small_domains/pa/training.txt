@@ -38,7 +38,7 @@ what is the capital of New Jersey;Trenton;1;(lambda $x (exists $y (and (capital-
 
 what city is in Pennsylvania and west of Harrisburg;Pittsburgh;3;(lambda $x (exists $y $z (and (city $x) (in-rel $x $y) (kb-Pennsylvania $y) (west-rel $x $z) (kb-Harrisburg $z))))
 
-what city is in Pennsylvania but east of Pittsburgh;Harrisburg;3;(lambda $x (exists $y $z (and (city $x) (in-rel $x $y) (kb-Pennsylvania $y) (east-rel $x $z) (kb-Pittsburgh $z)))) 
+what city is in Pennsylvania but east of Pittsburgh;Harrisburg;3;(lambda $x (exists $y $z (and (city $x) (in-rel $x $y) (kb-Pennsylvania $y) (east-rel $x $z) (kb-Pittsburgh $z))))
 
 is Pittsburgh a city ?;Pittsburgh;1;(lambda $x (and (kb-Pittsburgh $x) (city $x)))
 

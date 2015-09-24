@@ -28,7 +28,7 @@ which state is south east of Oklahoma ?;Louisiana;1;(lambda $x (exists $y (and (
 
 which state is south west of Arkansas ?;Texas;1;(lambda $x (exists $y (and (state $x) (southwest-rel $x $y) (kb-Arkansas $y))))
 
-which states are between Texas and Mississippi ?;Louisiana,Arkansas;4;
+which states are between Texas and Mississippi ?;Louisiana,Arkansas;4
 
 which states border both Texas and Arkansas ?;Oklahoma,Louisiana;4
 

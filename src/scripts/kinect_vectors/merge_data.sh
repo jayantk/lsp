@@ -17,7 +17,7 @@ do
     then
 	echo $IN
 
-	grep -v '^\*' $IN | grep -v '^$' | sed 's/\([^)]\)$/\1;/g' > $TEMP
+	grep -v '^\*' $IN | grep -v '^$' | sed 's/ +$//' | sed 's/;$//' | sed 's/\([^)]\)$/\1;/g' > $TEMP
 	cut -f2 $CCG > $TEMP2
 
 	paste -d ';' $TEMP $PARSED $TEMP2 > $MERGED

@@ -46,7 +46,7 @@ what cities are in Florida ?;Miami,Tallahassee,Daytona Beach;1;(lambda $x (exist
 
 what is the capital of Florida ?;Tallahassee;1;(lambda $x (exists $y (and (capital-rel $x $y) (kb-Florida $y))))
 
-what are some Florida cities on the peninsula ?;Miami,Daytona Beach;3;
+what are some Florida cities on the peninsula ?;Miami,Daytona Beach;3
 
 what are some Florida cities not on the peninsula ?;Tallahassee;3
 

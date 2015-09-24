@@ -74,7 +74,9 @@ public class Domain implements Serializable {
 
   private static final double FIXED_PREDICATE_WEIGHT = 1000.0;
 
+  public static final String KB_PREFIX = "kb-";
   public static final String KB_IGNORE_PREFIX = "kb-ignore";
+  public static final String KB_EQUAL_PREFIX = "kb-equal";
   public static final String KB_IGNORE_EQUAL_PREFIX = "kb-ignore-equal";
   public static final String KB_IGNORE_ALL_PREFIX = "kb-ignore-all";
 

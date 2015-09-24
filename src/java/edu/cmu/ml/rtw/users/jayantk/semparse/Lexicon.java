@@ -71,8 +71,8 @@ public class Lexicon<T> {
       String[] syntaxParts = syntaxString.split("[/\\\\]");
       String[] slashes = syntaxString.split("[^/\\\\]+");
 
-      System.out.println(Arrays.toString(syntaxParts));
-      System.out.println(Arrays.toString(slashes));
+      // System.out.println(Arrays.toString(syntaxParts));
+      // System.out.println(Arrays.toString(slashes));
             
       Type syntaxType = null;
       for (int i = 0; i < syntaxParts.length; i++) {
@@ -106,7 +106,7 @@ public class Lexicon<T> {
       
       if (!predicateMap.containsKey(predicate)) {
         predicateMap.put(predicate, RelationType.createWithNewAtomicType(predicate, argumentTypes));
-        System.out.println("Predicate: " + predicate + " : " + argumentTypes);
+        // System.out.println("Predicate: " + predicate + " : " + argumentTypes);
       }
       
       SemanticPredicate semanticPredicate = new SemanticPredicate(predicateMap.get(predicate), argumentOrder,
