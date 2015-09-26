@@ -155,20 +155,23 @@ public class LogicalFormVectorSpaceModel implements VectorSpaceModelInterface {
     if (parent != null) {
       Pair<String, String> argsInOrder = Pair.of(parent, root);
       ApplicationExpression a = variableRelationMap.get(argsInOrder);
+      String funcVector = null;
       if (a != null) {
         String funcName = a.getFunction().toString();
-        String funcVector = "t:relFeatures" + ":" + funcName;
-        String relationTensorName = VectorModelTrainer.getRelationTensorName(domainName);
-        expressionString = "(op:matvecmul (op:matvecmul " + relationTensorName + " " + funcVector + ") " + baseExpressionString + ")";
+        funcVector = "t:relFeatures" + ":" + funcName;
+        
       }
 
       Pair<String, String> argsOutOfOrder = Pair.of(root, parent);
       a = variableRelationMap.get(argsOutOfOrder);
       if (a != null) {
         String funcName = a.getFunction().toString();
-        String funcVector = "t:relFeatures" + ":" + funcName + "-inv";
+        funcVector = "t:relFeatures" + ":" + funcName + "-inv";
+      }
+      
+      if (funcVector != null) {
         String relationTensorName = VectorModelTrainer.getRelationTensorName(domainName);
-        expressionString = "(op:matvecmul (op:matvecmul " + relationTensorName + " " + funcVector + ") " + baseExpressionString + ")";
+        expressionString = "(op:log (op:matvecmul (op:exp (op:matvecmul " + relationTensorName + " " + funcVector + ")) " + "(op:exp " + baseExpressionString + ")))";
       }
     } else {
       expressionString = baseExpressionString;

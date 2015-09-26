@@ -457,9 +457,12 @@ public class VectorModelTrainer extends AbstractCli {
         Tensor tensor = relGrounding.conditional(truthVar.outcomeArrayToAssignment("T")).getWeights()
             .elementwiseAddition(relGrounding.conditional(truthVar.outcomeArrayToAssignment("F")).product(-1.0).getWeights());
         
+        // Make each entry of the tensor 1000 * this number. It's 1000 by default, for whatever reason.
+        tensor = tensor.elementwiseProduct(0.001);
+        
         tensorNames.add(getPredicateTensorName(domain.getName(), relName));
         tensorParameters.add(new ConstantLrtFamily(relGrounding.getVars().removeAll(truthVar), 
-            new TensorLowRankTensor(tensor)));
+            new TensorLowRankTensor(DenseTensor.copyOf(tensor))));
       }
     }
 
